@@ -11,12 +11,20 @@
    - [2016 CVPR](#2015-cvpr)
    - [2015 Others](#2015-others)
    - [2014 CVPR](#2014-cvpr)
-   - [2014 Others & Before](#2014-others-&-before)
+   - [2014 Others & Before](#2014-others--before)
  - [Journal Papers](#journal-papers)
- - [Thesis](#thesis)
+ - [theses](#theses)
  - [Other Related Papers](#other-related-papers)
 
 ## arxiv Papers
+##### [\[arXiv:1704.02224\]](https://arxiv.org/abs/1704.02224) Hand3D: Hand Pose Estimation using 3D Neural Network
+. [\[PDF\]](https://arxiv.org/pdf/1704.02224.pdf)
+_Xiaoming Deng\∗, Shuo Yang\∗, Yinda Zhang\∗, Ping Tan, Liang Chang, Hongan Wang_
+
+##### [\[arXiv:1704.02201\]](https://arxiv.org/abs/1704.02201) Real-time Hand Tracking under Occlusion from an Egocentric RGB-D Sensor
+. [\[PDF\]](https://arxiv.org/PDF/1704.02201.PDF)
+*Franziska Mueller, Dushyant Mehta, Oleksandr Sotnychenko, Srinath Sridhar, Dan Casas, Christian Theobalt*
+
 ##### [\[arXiv:1702.02447\]](https://arxiv.org/abs/1702.02447) Region Ensemble Network: Improving Convolutional Network for Hand Pose Estimation. [\[PDF\]](https://arxiv.org/PDF/1702.02447.PDF)
 *Hengkai Guo, Guijin Wang, Xinghao Chen, Cairong Zhang, Fei Qiao, Huazhong Yang*
 
@@ -59,8 +67,8 @@ _Qi Ye\*, Shanxin Yuan\*, Tae-Kyun Kim_
 ##### Robust 3D Hand Pose Estimation in Single Depth Images: From Single-View CNN to Multi-View CNNs. [\[PDF\]](http://eeeweba.ntu.edu.sg/computervision/Research%20Papers/2016/Robust%203D%20Hand%20Pose%20Estimation%20in%20Single%20Depth%20Images,%20from%20Single-View%20CNN%20to%20Multi-View%20CNNs.PDF) [\[Project Page\]](https://sites.google.com/site/geliuhaontu/home/cvpr2016) [\[Code\]](https://github.com/geliuhao/CVPR2016_HandPoseEstimation)
 *Liuhao Ge, Hui Liang, Junsong Yuan, Daniel Thalmann*
 
-##### DeepHand: Robust Hand Pose Estimation by Completing a Matrix Imputed With Deep Features.  [\[PDF\]](http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Sinha_DeepHand_Robust_Hand_CVPR_2016_paper.PDF)[\[Project Page\]](https://engineering.purdue.edu/cdesign/wp/category/people/ayan-sinha/)
-*Ayan Sinha, Chiho Choi, Karthik Ramani*
+##### DeepHand: Robust Hand Pose Estimation by Completing a Matrix Imputed With Deep Features.  [\[PDF\]](http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Sinha_DeepHand_Robust_Hand_CVPR_2016_paper.PDF)[\[Project Page\]](https://engineering.purdue.edu/cdesign/wp/deephand-robust-hand-pose-estimation/)
+_Ayan Sinha\*, Chiho Choi\*, Karthik Ramani_
 
 ##### Efficiently Creating 3D Training Data for Fine Hand Pose Estimation. [\[PDF\]](https://cvarlab.icg.tugraz.at/pubs/oberweger_cvpr16.PDF) [\[Project Page\]](https://cvarlab.icg.tugraz.at/projects/hand_detection/) [\[Code\]](https://github.com/moberweger/semi-auto-anno)
 *Markus Oberweger, Gernot Riegler, Paul Wohlhart, Vincent Lepetit*
@@ -162,7 +170,7 @@ _Qi Ye\*, Shanxin Yuan\*, Tae-Kyun Kim_
 ##### \[2014 TMM\] Parsing the Hand in Depth Images. [\[PDF\]](https://fae1051c-a-62cb3a1a-s-sites.googlegroups.com/site/seraphlh/attachments/2014TMM_HandParsing.pdf?attachauth=ANoY7crJCn_-tr0um1h8DhY3QtG8ngGn8jsllw1_S2ykaSsRGXvoeHWz7MW4DJ4KvQbXVd3nIsyWxEcs4rEn04TjtUaOTEMm7llUEP2e4renxgUj7G2DrVKDZzYg3Dbat1xhrvbz0BdjBoGrvxIniQLQ3Jyzs58UCDGSlzo-sGiOdmgMC072ZOCIR9STMP1FDpQzq3WV9fIGMUycXQRyWLja08ADLZOeV3d0eGKO1NoNH8pxN5pDD6M%3D&attredirects=0)
 *Hui Liang, Junsong Yuan, Daniel Thalmann*
 
-## Thesis
+## Theses
 ##### \[2016 Thesis\] 3D hand pose regression with variants of decision forests. [\[PDF\]](https://spiral.imperial.ac.uk/bitstream/10044/1/31531/1/Tang-D-2016-PhD-Thesis.pdf) [\[Project Page\]](https://spiral.imperial.ac.uk/handle/10044/1/31531)
 *Danhang Tang, Imperial College London*
 
@@ -176,6 +184,9 @@ _Qi Ye\*, Shanxin Yuan\*, Tae-Kyun Kim_
 *Jonathan Tompson, New York University*
 
 ## Other Related Papers
+##### \[2017 CVPR\] SurfNet: Generating 3D shape surfaces using deep residual networks. [\[PDF\]](https://engineering.purdue.edu/cdesign/wp/wp-content/uploads/2017/03/Sinha_CVPR17.pdf)
+*Ayan Sinha, Asim Unmesh, Qixing Huang, Karthik Ramani*
+
 ##### \[2016 3DV\] Learning to Navigate the Energy Landscape. [\[PDF\]](http://www.robots.ox.ac.uk/~tvg/publications/2016/LNEL.pdf) [\[Project Page\]](http://graphics.stanford.edu/projects/reloc/)
 *Julien Valentin, Angela Dai, Matthias Niessner, Pushmeet Kohli, Philip H.S. Torr, Shahram Izadi*
 
@@ -186,4 +197,4 @@ _Qi Ye\*, Shanxin Yuan\*, Tae-Kyun Kim_
 *Diane Bouchacourt, M. Pawan Kumar, Sebastian Nowozin*
 
 ---
-\* indicate equal contributions
+\* indicates equal contribution
