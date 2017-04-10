@@ -17,12 +17,10 @@
  - [Other Related Papers](#other-related-papers)
 
 ## arxiv Papers
-##### [\[arXiv:1704.02224\]](https://arxiv.org/abs/1704.02224) Hand3D: Hand Pose Estimation using 3D Neural Network
-. [\[PDF\]](https://arxiv.org/pdf/1704.02224.pdf)
-_Xiaoming Deng\∗, Shuo Yang\∗, Yinda Zhang\∗, Ping Tan, Liang Chang, Hongan Wang_
+##### [\[arXiv:1704.02224\]](https://arxiv.org/abs/1704.02224) Hand3D: Hand Pose Estimation using 3D Neural Network. [\[PDF\]](https://arxiv.org/pdf/1704.02224.pdf)
+_Xiaoming Deng\*, Shuo Yang\*, Yinda Zhang\*, Ping Tan, Liang Chang, Hongan Wang_
 
-##### [\[arXiv:1704.02201\]](https://arxiv.org/abs/1704.02201) Real-time Hand Tracking under Occlusion from an Egocentric RGB-D Sensor
-. [\[PDF\]](https://arxiv.org/PDF/1704.02201.PDF)
+##### [\[arXiv:1704.02201\]](https://arxiv.org/abs/1704.02201) Real-time Hand Tracking under Occlusion from an Egocentric RGB-D Sensor. [\[PDF\]](https://arxiv.org/PDF/1704.02201.PDF)
 *Franziska Mueller, Dushyant Mehta, Oleksandr Sotnychenko, Srinath Sridhar, Dan Casas, Christian Theobalt*
 
 ##### [\[arXiv:1702.02447\]](https://arxiv.org/abs/1702.02447) Region Ensemble Network: Improving Convolutional Network for Hand Pose Estimation. [\[PDF\]](https://arxiv.org/PDF/1702.02447.PDF)
