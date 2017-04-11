@@ -38,8 +38,8 @@ _Xiaoming Deng\*, Shuo Yang\*, Yinda Zhang\*, Ping Tan, Liang Chang, Hongan Wang
 ##### Crossing Nets: Dual Generative Models with a Shared Latent Space for Hand Pose. Estimation. [\[PDF\]](https://arxiv.org/PDF/1702.03431.PDF)
 *Chengde Wan, Thomas Probst, Luc Van Gool, Angela Yao*
 
-##### Big Hand 2.2M Benchmark: Hand Pose Data Set and State of the Art Analysis.
-_Shanxin Yuan\*, Qi Ye\*, B. Stenger, S. Jain, Tae-Kyun. Kim_
+##### Big Hand 2.2M Benchmark: Hand Pose Data Set and State of the Art Analysis. [\[PDF\]](https://arxiv.org/pdf/1704.02612.pdf)
+_Shanxin Yuan, Qi Ye, Bjorn Stenger, Siddhand Jain, Tae-Kyun Kim_
 
 ##### 3D Convolutional Neural Networks for Efficient and Robust Hand Pose Estimation from Single Depth Images.[\[PDF\]]
 *Liuhao Ge, Hui Liang, Junsong Yuan and Daniel Thalmann*
@@ -182,6 +182,9 @@ _Ayan Sinha\*, Chiho Choi\*, Karthik Ramani_
 *Jonathan Tompson, New York University*
 
 ## Other Related Papers
+##### [\[arXiv:1704.02463\]](https://arxiv.org/abs/1704.02463) First-Person Hand Action Benchmark with RGB-D Videos and 3D Hand Pose Annotations. [\[PDF\]](https://arxiv.org/PDF/1704.02463.PDF)
+*Guillermo Garcia-Hernando, Shanxin Yuan, Seungryul Baek, Tae-Kyun Kim*
+
 ##### \[2017 CVPR\] SurfNet: Generating 3D shape surfaces using deep residual networks. [\[PDF\]](https://engineering.purdue.edu/cdesign/wp/wp-content/uploads/2017/03/Sinha_CVPR17.pdf)
 *Ayan Sinha, Asim Unmesh, Qixing Huang, Karthik Ramani*
 
