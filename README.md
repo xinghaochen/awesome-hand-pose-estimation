@@ -169,17 +169,23 @@ _Ayan Sinha\*, Chiho Choi\*, Karthik Ramani_
 *Hui Liang, Junsong Yuan, Daniel Thalmann*
 
 ## Theses
+##### \[2016 Thesis\] 3D hand pose regression with variants of decision forests. [\[PDF\]](http://people.mpi-inf.mpg.de/~ssridhar/pubs/Dissertation_SrinathSridhar.pdf)
+*[Srinath Sridhar](http://people.mpi-inf.mpg.de/~ssridhar/),  Max Planck Institute for Informatics*
+
 ##### \[2016 Thesis\] 3D hand pose regression with variants of decision forests. [\[PDF\]](https://spiral.imperial.ac.uk/bitstream/10044/1/31531/1/Tang-D-2016-PhD-Thesis.pdf) [\[Project Page\]](https://spiral.imperial.ac.uk/handle/10044/1/31531)
-*Danhang Tang, Imperial College London*
+*[Danhang Tang](http://www.iis.ee.ic.ac.uk/dtang/), Imperial College London*
 
 ##### \[2016 Thesis\] Deep Learning for Human Motion Analysis. [\[PDF\]](https://tel.archives-ouvertes.fr/tel-01470466v1/document) [\[Project Page\]](https://tel.archives-ouvertes.fr/tel-01470466v1)
-*Natalia Neverova, National Institut of Applied Science (INSA de Lyon), France*
+*[Natalia Neverova](http://liris.cnrs.fr/natalia.neverova/), National Institut of Applied Science (INSA de Lyon), France*
 
 ##### \[2016 Thesis\] Real time hand pose estimation for human computer interaction. [\[PDF\]](http://epubs.surrey.ac.uk/809973/1/thesis.pdf) [\[Project Page\]](http://epubs.surrey.ac.uk/809973/)
-*Philip Krejov, University of Surrey*
+*[Philip Krejov](http://www.krejov.com/), University of Surrey*
+
+##### \[2015 Thesis\] Vision-based hand pose estimation and gesture recognition. [\[PDF\]](https://repository.ntu.edu.sg/bitstream/handle/10356/65842/ThesisMain.pdf?sequence=1&isAllowed=y)
+*[Hui Liang](https://sites.google.com/site/seraphlh/home), Nanyang Technological University*
 
 ##### \[2015 Thesis\] Localization of Humans in Images Using Convolutional Networks. [\[PDF\]](http://www.cims.nyu.edu/~tompson/others/thesis.pdf)
-*Jonathan Tompson, New York University*
+*[Jonathan Tompson](http://cims.nyu.edu/~tompson/), New York University*
 
 ## Other Related Papers
 ##### [\[arXiv:1704.02463\]](https://arxiv.org/abs/1704.02463) First-Person Hand Action Benchmark with RGB-D Videos and 3D Hand Pose Annotations. [\[PDF\]](https://arxiv.org/PDF/1704.02463.PDF)
