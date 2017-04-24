@@ -8,7 +8,7 @@
    - [2016 CVPR](#2016-cvpr)
    - [2016 Others](#2016-others)
    - [2015 ICCV](#2015-iccv)
-   - [2016 CVPR](#2015-cvpr)
+   - [2015 CVPR](#2015-cvpr)
    - [2015 Others](#2015-others)
    - [2014 CVPR](#2014-cvpr)
    - [2014 Others & Before](#2014-others--before)
