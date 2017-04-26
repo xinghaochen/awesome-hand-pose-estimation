@@ -35,6 +35,9 @@ _Xiaoming Deng\*, Shuo Yang\*, Yinda Zhang\*, Ping Tan, Liang Chang, Hongan Wang
 ## Conference Papers
 
 ### 2017 CVPR
+##### Hand Keypoint Detection in Single Images using Multiview Bootstrapping. [\[PDF\]](https://arxiv.org/pdf/1704.07809)
+*Tomas Simon, Hanbyul Joo, Iain Matthews, Yaser Sheikh*
+
 ##### Crossing Nets: Dual Generative Models with a Shared Latent Space for Hand Pose. Estimation. [\[PDF\]](https://arxiv.org/PDF/1702.03431.PDF)
 *Chengde Wan, Thomas Probst, Luc Van Gool, Angela Yao*
 
