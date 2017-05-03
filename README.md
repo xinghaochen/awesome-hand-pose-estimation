@@ -35,7 +35,7 @@ _Xiaoming Deng\*, Shuo Yang\*, Yinda Zhang\*, Ping Tan, Liang Chang, Hongan Wang
 ## Conference Papers
 
 ### 2017 CVPR
-##### Hand Keypoint Detection in Single Images using Multiview Bootstrapping. [\[PDF\]](https://arxiv.org/pdf/1704.07809)
+##### Hand Keypoint Detection in Single Images using Multiview Bootstrapping. [\[PDF\]](https://arxiv.org/pdf/1704.07809) [\[Project Page\]](http://www.cs.cmu.edu/~tsimon/projects/mvbs.html)
 *Tomas Simon, Hanbyul Joo, Iain Matthews, Yaser Sheikh*
 
 ##### Crossing Nets: Dual Generative Models with a Shared Latent Space for Hand Pose. Estimation. [\[PDF\]](https://arxiv.org/PDF/1702.03431.PDF)
@@ -58,6 +58,9 @@ _Qi Ye\*, Shanxin Yuan\*, Tae-Kyun Kim_
 *Srinath Sridhar, Franziska Mueller, Michael Zollhöfer, Dan Casas, Antti Oulasvirta, Christian Theobalt*
 
 ### 2016 Others
+##### \[2016 ICPR\] Depth-based 3D hand pose tracking. [\[PDF\]](http://ieeexplore.ieee.org/abstract/document/7900051)
+*Kha Gia Quach, Chi Nhan Duong, Khoa Luu, and Tien D. Bui.*
+
 ##### \[2016 IJCAI\] Model-based Deep Hand Pose Estimation. [\[PDF\]](http://xingyizhou.xyz/zhou2016model.pdf) [\[Project Page\]](http://xingyizhou.xyz/) [\[Code\]](https://github.com/tenstep/DeepModel)
 *Xingyi Zhou, Qingfu Wan, Wei Zhang, Xiangyang Xue, Yichen Wei*
 
