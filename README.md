@@ -24,13 +24,13 @@ _Christian Zimmermann, Thomas Brox_
 ##### [\[arXiv:1704.02224\]](https://arxiv.org/abs/1704.02224) Hand3D: Hand Pose Estimation using 3D Neural Network. [\[PDF\]](https://arxiv.org/pdf/1704.02224.pdf)  [\[Project Page\]](http://www.idengxm.com/hand3d/index.html)
 _Xiaoming Deng\*, Shuo Yang\*, Yinda Zhang\*, Ping Tan, Liang Chang, Hongan Wang_
 
-##### [\[arXiv:1704.02201\]](https://arxiv.org/abs/1704.02201) Real-time Hand Tracking under Occlusion from an Egocentric RGB-D Sensor. [\[PDF\]](https://arxiv.org/PDF/1704.02201.PDF)
+##### [\[arXiv:1704.02201\]](https://arxiv.org/abs/1704.02201) Real-time Hand Tracking under Occlusion from an Egocentric RGB-D Sensor. [\[PDF\]](https://arxiv.org/pdf/1704.02201.pdf)
 *Franziska Mueller, Dushyant Mehta, Oleksandr Sotnychenko, Srinath Sridhar, Dan Casas, Christian Theobalt*
 
-##### [\[arXiv:1612.00596\]](https://arxiv.org/abs/1612.00596) Learning to Search on Manifolds for 3D Pose Estimation of Articulated Objects. [\[PDF\]](https://arxiv.org/PDF/1612.00596)
+##### [\[arXiv:1612.00596\]](https://arxiv.org/abs/1612.00596) Learning to Search on Manifolds for 3D Pose Estimation of Articulated Objects. [\[PDF\]](https://arxiv.org/pdf/1612.00596.pdf)
 *Yu Zhang, Chi Xu, Li Cheng*
 
-##### [\[arXiv:1511.06728\]](https://arxiv.org/abs/1511.06728) Hand Pose Estimation through Semi-Supervised and Weakly-Supervised Learning. [\[PDF\]](https://arxiv.org/pdf/1511.06728)
+##### [\[arXiv:1511.06728\]](https://arxiv.org/abs/1511.06728) Hand Pose Estimation through Semi-Supervised and Weakly-Supervised Learning. [\[PDF\]](https://arxiv.org/pdf/1511.06728.pdf)
 *Natalia Neverova, Christian Wolf, Florian Nebout, Graham Taylor*
 
 ## Conference Papers
@@ -39,7 +39,7 @@ _Xiaoming Deng\*, Shuo Yang\*, Yinda Zhang\*, Ping Tan, Liang Chang, Hongan Wang
 ##### Hand Keypoint Detection in Single Images using Multiview Bootstrapping. [\[PDF\]](https://arxiv.org/pdf/1704.07809) [\[Project Page\]](http://www.cs.cmu.edu/~tsimon/projects/mvbs.html) [\[Code\]](https://github.com/CMU-Perceptual-Computing-Lab/openpose)
 *Tomas Simon, Hanbyul Joo, Iain Matthews, Yaser Sheikh*
 
-##### Crossing Nets: Dual Generative Models with a Shared Latent Space for Hand Pose. Estimation. [\[PDF\]](https://arxiv.org/PDF/1702.03431.PDF)
+##### Crossing Nets: Dual Generative Models with a Shared Latent Space for Hand Pose. Estimation. [\[PDF\]](https://arxiv.org/pdf/1702.03431.pdf)
 *Chengde Wan, Thomas Probst, Luc Van Gool, Angela Yao*
 
 ##### Big Hand 2.2M Benchmark: Hand Pose Data Set and State of the Art Analysis. [\[PDF\]](https://arxiv.org/pdf/1704.02612.pdf)
@@ -49,7 +49,7 @@ _Shanxin Yuan, Qi Ye, Bjorn Stenger, Siddhand Jain, Tae-Kyun Kim_
 *Liuhao Ge, Hui Liang, Junsong Yuan and Daniel Thalmann*
 
 ### 2017 Others
-##### [2017 ICIP] Region Ensemble Network: Improving Convolutional Network for Hand Pose Estimation. [\[PDF\]](https://arxiv.org/PDF/1702.02447.PDF)  [\[Code\]](https://github.com/guohengkai/region-ensemble-network)
+##### [2017 ICIP] Region Ensemble Network: Improving Convolutional Network for Hand Pose Estimation. [\[PDF\]](https://arxiv.org/pdf/1702.02447.pdf)  [\[Code\]](https://github.com/guohengkai/region-ensemble-network)
 *Hengkai Guo, Guijin Wang, Xinghao Chen, Cairong Zhang, Fei Qiao, Huazhong Yang*
 
 ### 2016 ECCV
@@ -205,7 +205,7 @@ _Ayan Sinha\*, Chiho Choi\*, Karthik Ramani_
 *[Jonathan Tompson](http://cims.nyu.edu/~tompson/), New York University*
 
 ## Other Related Papers
-##### [\[arXiv:1704.02463\]](https://arxiv.org/abs/1704.02463) First-Person Hand Action Benchmark with RGB-D Videos and 3D Hand Pose Annotations. [\[PDF\]](https://arxiv.org/PDF/1704.02463.PDF)
+##### [\[arXiv:1704.02463\]](https://arxiv.org/abs/1704.02463) First-Person Hand Action Benchmark with RGB-D Videos and 3D Hand Pose Annotations. [\[PDF\]](https://arxiv.org/pdf/1704.02463.pdf)
 *Guillermo Garcia-Hernando, Shanxin Yuan, Seungryul Baek, Tae-Kyun Kim*
 
 ##### \[2017 CVPR\] SurfNet: Generating 3D shape surfaces using deep residual networks. [\[PDF\]](https://engineering.purdue.edu/cdesign/wp/wp-content/uploads/2017/03/Sinha_CVPR17.pdf)
