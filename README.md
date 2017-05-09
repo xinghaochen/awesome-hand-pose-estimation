@@ -4,6 +4,7 @@
  - [arXiv Papers](#arxiv-papers)
  - [Conference Papers](#conference-papers)
    - [2017 CVPR](#2017-cvpr)
+   - [2017 Others](#2017-others)
    - [2016 ECCV](#2016-eccv)
    - [2016 CVPR](#2016-cvpr)
    - [2016 Others](#2016-others)
@@ -26,9 +27,6 @@ _Xiaoming Deng\*, Shuo Yang\*, Yinda Zhang\*, Ping Tan, Liang Chang, Hongan Wang
 ##### [\[arXiv:1704.02201\]](https://arxiv.org/abs/1704.02201) Real-time Hand Tracking under Occlusion from an Egocentric RGB-D Sensor. [\[PDF\]](https://arxiv.org/PDF/1704.02201.PDF)
 *Franziska Mueller, Dushyant Mehta, Oleksandr Sotnychenko, Srinath Sridhar, Dan Casas, Christian Theobalt*
 
-##### [\[arXiv:1702.02447\]](https://arxiv.org/abs/1702.02447) Region Ensemble Network: Improving Convolutional Network for Hand Pose Estimation. [\[PDF\]](https://arxiv.org/PDF/1702.02447.PDF)  [\[Project Page\]](https://github.com/guohengkai/region-ensemble-network)
-*Hengkai Guo, Guijin Wang, Xinghao Chen, Cairong Zhang, Fei Qiao, Huazhong Yang*
-
 ##### [\[arXiv:1612.00596\]](https://arxiv.org/abs/1612.00596) Learning to Search on Manifolds for 3D Pose Estimation of Articulated Objects. [\[PDF\]](https://arxiv.org/PDF/1612.00596)
 *Yu Zhang, Chi Xu, Li Cheng*
 
@@ -38,7 +36,7 @@ _Xiaoming Deng\*, Shuo Yang\*, Yinda Zhang\*, Ping Tan, Liang Chang, Hongan Wang
 ## Conference Papers
 
 ### 2017 CVPR
-##### Hand Keypoint Detection in Single Images using Multiview Bootstrapping. [\[PDF\]](https://arxiv.org/pdf/1704.07809) [\[Project Page\]](http://www.cs.cmu.edu/~tsimon/projects/mvbs.html)
+##### Hand Keypoint Detection in Single Images using Multiview Bootstrapping. [\[PDF\]](https://arxiv.org/pdf/1704.07809) [\[Project Page\]](http://www.cs.cmu.edu/~tsimon/projects/mvbs.html) [\[Code\]](https://github.com/CMU-Perceptual-Computing-Lab/openpose)
 *Tomas Simon, Hanbyul Joo, Iain Matthews, Yaser Sheikh*
 
 ##### Crossing Nets: Dual Generative Models with a Shared Latent Space for Hand Pose. Estimation. [\[PDF\]](https://arxiv.org/PDF/1702.03431.PDF)
@@ -49,6 +47,10 @@ _Shanxin Yuan, Qi Ye, Bjorn Stenger, Siddhand Jain, Tae-Kyun Kim_
 
 ##### 3D Convolutional Neural Networks for Efficient and Robust Hand Pose Estimation from Single Depth Images.[\[PDF\]]
 *Liuhao Ge, Hui Liang, Junsong Yuan and Daniel Thalmann*
+
+### 2017 Others
+##### [2017 ICIP] Region Ensemble Network: Improving Convolutional Network for Hand Pose Estimation. [\[PDF\]](https://arxiv.org/PDF/1702.02447.PDF)  [\[Code\]](https://github.com/guohengkai/region-ensemble-network)
+*Hengkai Guo, Guijin Wang, Xinghao Chen, Cairong Zhang, Fei Qiao, Huazhong Yang*
 
 ### 2016 ECCV
 ##### Spatial Attention Deep Net with Partial PSO for Hierarchical Hybrid Hand Pose Estimation. [\[PDF\]](http://www.iis.ee.ic.ac.uk/ComputerVision/docs/pubs/Qi_Shanxin_ECCV_2016.pdf) [\[Project Page\]](https://sites.google.com/site/qiyeincv/home/eccv2016)
