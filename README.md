@@ -143,6 +143,9 @@ _Ayan Sinha\*, Chiho Choi\*, Karthik Ramani_
 ##### User-specific hand modeling from monocular depth sequences. [\[PDF\]](http://www.cs.toronto.edu/~jtaylor/papers/CVPR2014-UserSpecificHandModeling.pdf) [\[Project Page\]](https://www.microsoft.com/en-us/research/publication/user-specific-hand-modeling-from-monocular-depth-sequences/)
 *Jonathan Taylor, Richard Stebbing, Varun Ramakrishna, Cem Keskin, Jamie Shotton, Shahram Izadi, Aaron Hertzmann, Andrew Fitzgibbon*
 
+##### Evolutionary Quasi-random Search for Hand Articulations Tracking. [\[PDF\]](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwj5wfPQsuzTAhUMxbwKHcnBBRUQFggnMAA&url=http%3A%2F%2Fwww.cv-foundation.org%2Fopenaccess%2Fcontent_cvpr_2014%2Fpapers%2FOikonomidis_Evolutionary_Quasi-random_Search_2014_CVPR_paper.pdf&usg=AFQjCNFPvY-vHE1GyUwxg8I0_R5OUj4QAA&sig2=ZsQ-rh6U2m0eijvJXQ817A) [\[Project Page\]](http://users.ics.forth.gr/~oikonom/pb/publications)
+*Iason Oikonomidis, Manolis IA Lourakis, Antonis A Argyros*
+
 ### 2014 Others & Before
 ##### \[2014 SIGGRAPH\] Real-Time Continuous Pose Recovery of Human Hands Using Convolutional Networks. [\[PDF\]](http://cims.nyu.edu/~tompson/others/TOG_2014_paper_PREPRINT.pdf) [\[Project Page\]](http://cims.nyu.edu/~tompson/NYU_Hand_Pose_Dataset.htm)
 *Jonathan Tompson, Murphy Stein, Yann Lecun and Ken Perlin*
@@ -197,6 +200,9 @@ _Ayan Sinha\*, Chiho Choi\*, Karthik Ramani_
 
 ##### \[2016 Thesis\] Real time hand pose estimation for human computer interaction. [\[PDF\]](http://epubs.surrey.ac.uk/809973/1/thesis.pdf) [\[Project Page\]](http://epubs.surrey.ac.uk/809973/)
 *[Philip Krejov](http://www.krejov.com/), University of Surrey*
+
+##### \[2015 Thesis\] Efficient Tracking of the 3D Articulated Motion of Human Hands. [\[PDF\]](http://users.ics.forth.gr/~oikonom/pb/oikonomidisPhDthesis.pdf)
+*[Iason Oikonomidis](http://users.ics.forth.gr/~oikonom/pb/), University of Crete*
 
 ##### \[2015 Thesis\] Vision-based hand pose estimation and gesture recognition. [\[PDF\]](https://repository.ntu.edu.sg/bitstream/handle/10356/65842/ThesisMain.pdf?sequence=1&isAllowed=y)
 *[Hui Liang](https://sites.google.com/site/seraphlh/home), Nanyang Technological University*
