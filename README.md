@@ -18,6 +18,9 @@
  - [Other Related Papers](#other-related-papers)
 
 ## arxiv Papers
+##### [\[arXiv:1705.05301\]](https://arxiv.org/abs/1705.05301) Back to RGB: 3D tracking of hands and hand-object interactions based on short-baseline stereo. [\[PDF\]](https://arxiv.org/pdf/1705.05301.pdf)
+_Paschalis Panteleris, Antonis Argyros_
+
 ##### [\[arXiv:1705.01389\]](https://arxiv.org/abs/1705.01389) Learning to Estimate 3D Hand Pose from Single RGB Images. [\[PDF\]](https://arxiv.org/pdf/1705.01389.pdf)  [\[Project Page\]](https://lmb.informatik.uni-freiburg.de/projects/hand3d/)   [\[Code\]](https://github.com/lmb-freiburg/hand3d)
 _Christian Zimmermann, Thomas Brox_
 
