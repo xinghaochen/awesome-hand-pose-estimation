@@ -19,7 +19,7 @@
 
 ## arxiv Papers
 ##### [\[arXiv:1705.09606\]](https://arxiv.org/abs/1705.09606) End-to-end Global to Local CNN Learning for Hand Pose Recovery in Depth data. [\[PDF\]](https://arxiv.org/pdf/1705.09606.pdf)
-_Paschalis Panteleris, Antonis Argyros_
+_Meysam Madadi, Sergio Escalera, Xavier Baro, Jordi Gonzalez_
 
 ##### [\[arXiv:1705.05301\]](https://arxiv.org/abs/1705.05301) Back to RGB: 3D tracking of hands and hand-object interactions based on short-baseline stereo. [\[PDF\]](https://arxiv.org/pdf/1705.05301.pdf)
 _Paschalis Panteleris, Antonis Argyros_
