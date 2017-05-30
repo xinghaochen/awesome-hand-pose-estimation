@@ -1,0 +1,1 @@
+python src/convert_results_xyz2uvd.py nyu results/nyu/IJCV16_lie_hand_jnts_estm_result.txt results/nyu/IJCV16_lie_hand_jnts_estm_result_uvd.txt

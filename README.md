@@ -143,7 +143,7 @@ _Ayan Sinha\*, Chiho Choi\*, Karthik Ramani_
 ##### Realtime and robust hand tracking from depth. [\[PDF\]](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/yichenw-cvpr14_handtracking.pdf) [\[Project Page\]](https://www.microsoft.com/en-us/research/people/yichenw/)
 *Chen Qian, Xiao Sun, Yichen Wei, Xiaoou Tang and Jian Sun*
 
-##### Latent Regression Forest: Structured Estimation of 3D Hand Posture. [\[PDF\]](http://www.iis.ee.ic.ac.uk/dtang/cvpr_14.pdf) [\[Project Page\]](http://www.iis.ee.ic.ac.uk/dtang/hand.html)
+##### Latent regression forest: Structured estimation of 3d articulated hand posture. [\[PDF\]](http://www.iis.ee.ic.ac.uk/dtang/cvpr_14.pdf) [\[Project Page\]](http://www.iis.ee.ic.ac.uk/dtang/hand.html)
 *Danhang Tang, Hyung Jin Chang, Alykhan Tejani, T-K. Kim*
 
 ##### User-specific hand modeling from monocular depth sequences. [\[PDF\]](http://www.cs.toronto.edu/~jtaylor/papers/CVPR2014-UserSpecificHandModeling.pdf) [\[Project Page\]](https://www.microsoft.com/en-us/research/publication/user-specific-hand-modeling-from-monocular-depth-sequences/)
@@ -217,6 +217,9 @@ _Ayan Sinha\*, Chiho Choi\*, Karthik Ramani_
 *[Jonathan Tompson](http://cims.nyu.edu/~tompson/), New York University*
 
 ## Other Related Papers
+##### \[2017 Neurocomputing\] Multi-task, Multi-domain Learning: application to semantic segmentation and pose regression.
+*Multi-task, Multi-domain Learning: application to semantic segmentation and pose regression*
+
 ##### [\[arXiv:1704.02463\]](https://arxiv.org/abs/1704.02463) First-Person Hand Action Benchmark with RGB-D Videos and 3D Hand Pose Annotations. [\[PDF\]](https://arxiv.org/pdf/1704.02463.pdf)
 *Guillermo Garcia-Hernando, Shanxin Yuan, Seungryul Baek, Tae-Kyun Kim*
 
