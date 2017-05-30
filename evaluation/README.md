@@ -5,8 +5,10 @@ This project provides codes to evaluate performances of hand pose estimation on 
 
 ## Evaluation metric
 There are two types of evaluation metrics that are widely used for hand pose estimation:
-- Mean error for each joint
-- Success rate:
+
+(1) Mean error for each joint
+
+(2) Success rate:
  - The proportion of test frames whose average error falls below a threshold
  - The proportion of test frames whose maximum error falls below a threshold
  - The proportion of all joints whose error falls below a threshold

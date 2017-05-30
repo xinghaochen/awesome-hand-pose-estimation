@@ -17,6 +17,9 @@
  - [theses](#theses)
  - [Other Related Papers](#other-related-papers)
 
+## Evaluation codes
+See folder ``evaluation`` to get more details about performance evaluation for hand pose estimation.
+
 ## arxiv Papers
 ##### [\[arXiv:1705.09606\]](https://arxiv.org/abs/1705.09606) End-to-end Global to Local CNN Learning for Hand Pose Recovery in Depth data. [\[PDF\]](https://arxiv.org/pdf/1705.09606.pdf)
 _Meysam Madadi, Sergio Escalera, Xavier Baro, Jordi Gonzalez_
