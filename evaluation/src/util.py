@@ -1,3 +1,7 @@
+'''
+This file is modified on https://github.com/guohengkai/region-ensemble-network/blob/master/evaluation/util.py
+'''
+
 import numpy as np
 
 

@@ -1,3 +1,7 @@
+'''
+This file is modified on https://github.com/guohengkai/region-ensemble-network/blob/master/evaluation/compute_error.py
+'''
+
 import os
 import sys
 import numpy as np
