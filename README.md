@@ -218,7 +218,7 @@ _Ayan Sinha\*, Chiho Choi\*, Karthik Ramani_
 
 ## Other Related Papers
 ##### \[2017 Neurocomputing\] Multi-task, Multi-domain Learning: application to semantic segmentation and pose regression.
-*Multi-task, Multi-domain Learning: application to semantic segmentation and pose regression*
+*Fourure, Damien, et al.*
 
 ##### [\[arXiv:1704.02463\]](https://arxiv.org/abs/1704.02463) First-Person Hand Action Benchmark with RGB-D Videos and 3D Hand Pose Annotations. [\[PDF\]](https://arxiv.org/pdf/1704.02463.pdf)
 *Guillermo Garcia-Hernando, Shanxin Yuan, Seungryul Baek, Tae-Kyun Kim*
