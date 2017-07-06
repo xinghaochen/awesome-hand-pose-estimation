@@ -61,8 +61,11 @@ _Shanxin Yuan, Qi Ye, Bjorn Stenger, Siddhand Jain, Tae-Kyun Kim_
 ##### [2017 ICIP] Region Ensemble Network: Improving Convolutional Network for Hand Pose Estimation. [\[PDF\]](https://arxiv.org/pdf/1702.02447.pdf)  [\[Code\]](https://github.com/guohengkai/region-ensemble-network)
 *Hengkai Guo, Guijin Wang, Xinghao Chen, Cairong Zhang, Fei Qiao, Huazhong Yang*
 
-##### [2017 FG] Occlusion aware hand pose recovery from sequences of depth images. \[PDF\] [\[Slide\]](http://sergioescalera.com/wp-content/uploads/2017/06/FG2017Hand.pdf)
+##### [2017 FG] Occlusion aware hand pose recovery from sequences of depth images. [\[PDF\]](http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7961746) [\[Slide\]](http://sergioescalera.com/wp-content/uploads/2017/06/FG2017Hand.pdf)
 *Meysam Madadi, Sergio Escalera, Alex Carruesco Llorens, Carlos Andujar, Xavier Baro, Jordi Gonzalez*
+
+##### [2017 FG] 3D Hand-Object Pose Estimation from Depth with Convolutional Neural Networks. []\[PDF\]](http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7961770) [\[Project Page\]](http://www.cs.man.ac.uk/~goudied/research.html)
+*Duncan Goudie, Aphrodite Galata*
 
 ### 2016 ECCV
 ##### Spatial Attention Deep Net with Partial PSO for Hierarchical Hybrid Hand Pose Estimation. [\[PDF\]](http://www.iis.ee.ic.ac.uk/ComputerVision/docs/pubs/Qi_Shanxin_ECCV_2016.pdf) [\[Project Page\]](https://sites.google.com/site/qiyeincv/home/eccv2016)
