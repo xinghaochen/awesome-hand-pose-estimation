@@ -64,7 +64,7 @@ _Shanxin Yuan, Qi Ye, Bjorn Stenger, Siddhand Jain, Tae-Kyun Kim_
 ##### [2017 FG] Occlusion aware hand pose recovery from sequences of depth images. [\[PDF\]](http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7961746) [\[Slide\]](http://sergioescalera.com/wp-content/uploads/2017/06/FG2017Hand.pdf)
 *Meysam Madadi, Sergio Escalera, Alex Carruesco Llorens, Carlos Andujar, Xavier Baro, Jordi Gonzalez*
 
-##### [2017 FG] 3D Hand-Object Pose Estimation from Depth with Convolutional Neural Networks. []\[PDF\]](http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7961770) [\[Project Page\]](http://www.cs.man.ac.uk/~goudied/research.html)
+##### [2017 FG] 3D Hand-Object Pose Estimation from Depth with Convolutional Neural Networks. [\[PDF\]](http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7961770) [\[Project Page\]](http://www.cs.man.ac.uk/~goudied/research.html)
 *Duncan Goudie, Aphrodite Galata*
 
 ### 2016 ECCV
