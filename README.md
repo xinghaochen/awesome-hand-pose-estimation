@@ -14,13 +14,19 @@
    - [2014 CVPR](#2014-cvpr)
    - [2014 Others & Before](#2014-others--before)
  - [Journal Papers](#journal-papers)
- - [theses](#theses)
+ - [Theses](#theses)
  - [Other Related Papers](#other-related-papers)
 
 ## Evaluation codes
 See folder ``evaluation`` to get more details about performance evaluation for hand pose estimation.
 
-## arxiv Papers
+## arXiv Papers
+##### [\[arXiv:1707.03742\]](https://arxiv.org/abs/1707.03742) Large-scale Multiview 3D Hand Pose Dataset. [\[PDF\]](https://arxiv.org/pdf/1707.03742.pdf)
+_Francisco Gomez-Donoso, Sergio Orts-Escolano and Miguel Cazorla_
+
+##### [\[arXiv:1707.02237\]](https://arxiv.org/abs/1707.02237) The 2017 Hands in the Million Challenge on 3D Hand Pose Estimation. [\[PDF\]](https://arxiv.org/pdf/1707.02237.pdf)
+_Shanxin Yuan, Qi Ye, Guillermo Garcia-Hernando, Tae-Kyun Kim_
+
 ##### [\[arXiv:1705.09606\]](https://arxiv.org/abs/1705.09606) End-to-end Global to Local CNN Learning for Hand Pose Recovery in Depth data. [\[PDF\]](https://arxiv.org/pdf/1705.09606.pdf)
 _Meysam Madadi, Sergio Escalera, Xavier Baro, Jordi Gonzalez_
 
