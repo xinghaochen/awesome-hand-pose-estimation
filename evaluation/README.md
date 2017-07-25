@@ -1,7 +1,7 @@
 # Show evaluations on hand pose estimation
 
 ## Description
-This project provides codes to evaluate performances of hand pose estimation on several public datasets, including [NYU](cims.nyu.edu/~tompson/NYU_Hand_Pose_Dataset.htm), [ICVL](http://www.iis.ee.ic.ac.uk/~dtang/hand.html), [MSRA](https://www.microsoft.com/en-us/research/people/yichenw/?from=http%3A%2F%2Fresearch.microsoft.com%2Fen-us%2Fpeople%2Fyichenw%2F) hand pose dataset. We collect predicted labels of some prior works which are available online and visualize the performances.
+This project provides codes to evaluate performances of hand pose estimation on several public datasets, including [NYU](http://cims.nyu.edu/~tompson/NYU_Hand_Pose_Dataset.htm), [ICVL](http://www.iis.ee.ic.ac.uk/~dtang/hand.html), [MSRA](https://www.microsoft.com/en-us/research/people/yichenw/?from=http%3A%2F%2Fresearch.microsoft.com%2Fen-us%2Fpeople%2Fyichenw%2F) hand pose dataset. We collect predicted labels of some prior works which are available online and visualize the performances.
 
 ## Evaluation metric
 There are two types of evaluation metrics that are widely used for hand pose estimation:
