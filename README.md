@@ -67,6 +67,9 @@ _Shanxin Yuan, Qi Ye, Bjorn Stenger, Siddhand Jain, Tae-Kyun Kim_
 *Liuhao Ge, Hui Liang, Junsong Yuan and Daniel Thalmann*
 
 ### 2017 Others
+##### [2017 ICRA] Learning a deep network with spherical part model for 3D hand pose estimation. [\[PDF\]](http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7989303)
+*Tzu-Yang Chen, Pai-Wen Ting, Min-Yu Wu, Li-Chen Fu*
+
 ##### [2017 ICIP] Region Ensemble Network: Improving Convolutional Network for Hand Pose Estimation. [\[PDF\]](https://arxiv.org/pdf/1702.02447.pdf)  [\[Code\]](https://github.com/guohengkai/region-ensemble-network)
 *Hengkai Guo, Guijin Wang, Xinghao Chen, Cairong Zhang, Fei Qiao, Huazhong Yang*
 
