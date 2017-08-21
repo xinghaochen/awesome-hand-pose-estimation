@@ -18,9 +18,12 @@
  - [Other Related Papers](#other-related-papers)
 
 ## Evaluation codes
-See folder ``evaluation`` to get more details about performance evaluation for hand pose estimation.
+See folder [``evaluation``](https://github.com/xinghaochen/awesome-hand-pose-estimation/tree/master/evaluation) to get more details about performance evaluation for hand pose estimation.
 
 ## arXiv Papers
+##### [\[arXiv:1708.03416\]](https://arxiv.org/abs/1708.03416) Pose Guided Structured Region Ensemble Network for Cascaded Hand Pose Estimation. [\[PDF\]](https://arxiv.org/pdf/1708.03416.pdf)
+_Xinghao Chen, Guijin Wang, Hengkai Guo, Cairong Zhang_
+
 ##### [\[arXiv:1707.07248\]](https://arxiv.org/abs/1707.07248) Towards Good Practices for Deep 3D Hand Pose Estimation. [\[PDF\]](https://arxiv.org/pdf/1707.07248.pdf) [\[Code\]](https://github.com/guohengkai/region-ensemble-network)
 _Hengkai Guo, Guijin Wang, Xinghao Chen, Cairong Zhang_
 
@@ -109,14 +112,14 @@ _Qi Ye\*, Shanxin Yuan\*, Tae-Kyun Kim_
 ##### DeepHand: Robust Hand Pose Estimation by Completing a Matrix Imputed With Deep Features.  [\[PDF\]](http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Sinha_DeepHand_Robust_Hand_CVPR_2016_paper.PDF)[\[Project Page\]](https://engineering.purdue.edu/cdesign/wp/deephand-robust-hand-pose-estimation/)
 _Ayan Sinha\*, Chiho Choi\*, Karthik Ramani_
 
-##### Efficiently Creating 3D Training Data for Fine Hand Pose Estimation. [\[PDF\]](https://cvarlab.icg.tugraz.at/pubs/oberweger_cvpr16.PDF) [\[Project Page\]](https://cvarlab.icg.tugraz.at/projects/hand_detection/) [\[Code\]](https://github.com/moberweger/semi-auto-anno)
+##### Efficiently Creating 3D Training Data for Fine Hand Pose Estimation. [\[PDF\]](https://arxiv.org/pdf/1605.03389) [\[Project Page\]](https://cvarlab.icg.tugraz.at/projects/hand_detection/) [\[Code\]](https://github.com/moberweger/semi-auto-anno)
 *Markus Oberweger, Gernot Riegler, Paul Wohlhart, Vincent Lepetit*
 
 ##### Fits Like a Glove: Rapid and Reliable Hand Shape Personalization.  [\[PDF\]](http://www.samehkhamis.com/tan-cvpr2016.PDF) [\[Project Page\]](http://campar.in.tum.de/Main/DavidTan)
 *David Joseph Tan, Thomas Cashman, Jonathan Taylor, Andrew Fitzgibbon, Daniel Tarlow, Sameh Khamis, Shahram Izadi, Jamie Shotton*
 
 ### 2015 ICCV
-##### Training a Feedback Loop for Hand Pose Estimation. [\[PDF\]](https://cvarlab.icg.tugraz.at/pubs/oberweger_iccv15.pdf) [\[Project Page\]](https://cvarlab.icg.tugraz.at/projects/hand_detection/)
+##### Training a Feedback Loop for Hand Pose Estimation. [\[PDF\]](https://arxiv.org/pdf/1609.09698) [\[Project Page\]](https://cvarlab.icg.tugraz.at/projects/hand_detection/)
 *Markus Oberweger, Paul Wohlhart, Vincent Lepetit*
 
 ##### Opening the Black Box: Hierarchical Sampling Optimization for Estimating Human Hand Pose.  [\[PDF\]](http://www.iis.ee.ic.ac.uk/dtang/iccv_2015_camready.pdf)

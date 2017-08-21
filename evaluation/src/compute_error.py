@@ -1,5 +1,9 @@
 '''
 This file is modified on https://github.com/guohengkai/region-ensemble-network/blob/master/evaluation/compute_error.py
+
+Xinghao Chen
+Aug 18, 2017
+
 '''
 
 import os
@@ -7,49 +11,91 @@ import sys
 import numpy as np
 import matplotlib.pyplot as plt
 from matplotlib import cm
+import matplotlib.colors as colors
 from util import get_errors
 
+FONT_SIZE_XLABEL= 15
+FONT_SIZE_YLABEL= 15
+FONT_SIZE_LEGEND = 11.8
+FONT_SIZE_TICK = 11.8
+fig = plt.figure(figsize=(16, 6))
 
 def print_usage():
     print('usage: {} icvl/nyu/msra max-frame/mean-frame/joint method_name in_file'.format(sys.argv[0]))
     exit(-1)
 
 
-def draw_error(dataset, errs, eval_names):
+def draw_error_bar(dataset, errs, eval_names):
     if dataset == 'icvl':
         joint_idx = range(17)
         names = ['Palm', 'Thumb.R', 'Thumb.M', 'Thumb.T', 'Index.R', 'Index.M', 'Index.T', 'Mid.R', 'Mid.M', 'Mid.T', 'Ring.R', 'Ring.M', 'Ring.T', 'Pinky.R', 'Pinky.M', 'Pinky.T', 'Mean']
+        max_range = 25
     elif dataset == 'nyu':
         joint_idx = range(13, -1, -1)+[14]
         names = ['Palm', 'Wrist1', 'Wrist2', 'Thumb.R1', 'Thumb.R2', 'Thumb.T', 'Index.R', 'Index.T', 'Mid.R', 'Mid.T', 'Ring.R', 'Ring.T', 'Pinky.R', 'Pinky.T', 'Mean']
+        max_range = 30
     elif dataset == 'msra':
         joint_idx = range(22)
         names = ['Wrist', 'Index.M', 'Index.P', 'Index.D', 'Index.T', 'Mid.M', 'Mid.P', 'Mid.D', 'Mid.T', 'Ring.M', 'Ring.P', 'Ring.D', 'Ring.T', 'Pinky.M', 'Pinky.P', 'Pinky.D', 'Pinky.T', 'Thumb.M', 'Thumb.P', 'Thumb.D', 'Thumb.T', 'Mean']
+        max_range = 24
     
-    colors = ['b', 'r', ]
     eval_num = len(errs)
-    plt.figure()
     bar_range = eval_num + 1
+    # new figure
+    #fig = plt.figure(figsize=(8, 6))
+    ax = fig.add_subplot(1,2,1)
+    # color map
+    values = range(bar_range-1)
+    jet = plt.get_cmap('jet') 
+    cNorm  = colors.Normalize(vmin=0, vmax=values[-1])
+    scalarMap = cm.ScalarMappable(norm=cNorm, cmap=jet)
+    
     for eval_idx in xrange(eval_num):
         x = np.arange(eval_idx, bar_range*len(joint_idx), bar_range)
         mean_errs = np.mean(errs[eval_idx], axis=0)
         mean_errs = np.append(mean_errs, np.mean(mean_errs))
         print('mean error: {:.3f}mm --- {}'.format(mean_errs[-1], eval_names[eval_idx]))
-        plt.bar(x, mean_errs[joint_idx], label=eval_names[eval_idx], color=cm.jet(1.*eval_idx/eval_num))
+        colorVal = scalarMap.to_rgba(eval_idx)
+        plt.bar(x, mean_errs[joint_idx], label=eval_names[eval_idx], color=colorVal)
     x = np.arange(0, bar_range*len(joint_idx), bar_range)
     plt.xticks(x + 0.5*bar_range, names, rotation='vertical')
-    plt.ylabel('Mean Error (mm)')
-    plt.legend(loc='best')
+    plt.ylabel('Mean Error (mm)', fontsize=FONT_SIZE_YLABEL)
+    plt.legend(loc='best', fontsize=FONT_SIZE_LEGEND)
     plt.grid(True)
+    major_ticks = np.arange(0, max_range+1, 2)                                              
+    minor_ticks = np.arange(0, max_range+1, 1)                                          
+    ax.set_yticks(major_ticks)                                                       
+    ax.set_yticks(minor_ticks, minor=True)
+    ax.grid(which='minor', alpha=0.2, linestyle=':', linewidth=0.3)                                                
+    ax.grid(which='major', alpha=0.5, linestyle='--', linewidth=0.3)
+    ax.set_ylim(0, max_range)                       
+    plt.tick_params(
+    axis='both',          # changes apply to the x-axis
+    which='both',      # both major and minor ticks are affected
+    bottom='off',      # ticks along the bottom edge are off
+    left='off',         # ticks along the top edge are off
+    labelsize=FONT_SIZE_TICK)
+    plt.subplots_adjust(bottom=0.14)
+    fig.tight_layout()
 
 
-def draw_map(errs, eval_names, metric_type):
+def draw_error_curve(errs, eval_names, metric_type):
     eval_num = len(errs)
     thresholds = np.arange(0, 85, 1)
     results = np.zeros(thresholds.shape+(eval_num,))
-    plt.figure()
+    #fig = plt.figure(figsize=(8, 6))
+    ax = fig.add_subplot(1,2,2)
     xlabel = 'Mean distance threshold (mm)'
-    ylabel = 'Fraction of frames within distance'
+    ylabel = 'Fraction of frames within distance (%)'
+    # color map
+    jet = plt.get_cmap('jet') 
+    values = range(eval_num)
+    if eval_num < 3:
+          jet = plt.get_cmap('prism') 
+    cNorm  = colors.Normalize(vmin=0, vmax=values[-1])
+    scalarMap = cm.ScalarMappable(norm=cNorm, cmap=jet)
+    
+    l_styles = ['-','--']
     for eval_idx in xrange(eval_num):
         if metric_type == 'mean-frame':
             err = np.mean(errs[eval_idx], axis=1)
@@ -59,16 +105,39 @@ def draw_map(errs, eval_names, metric_type):
         elif  metric_type == 'joint':
             err = errs[eval_idx]
             xlabel = 'Distance Threshold (mm)'
-            ylabel = 'Fraction of joints within distance'
+            ylabel = 'Fraction of joints within distance (%)'
         err_flat = err.ravel()
         for idx, th in enumerate(thresholds):
             results[idx, eval_idx] = np.where(err_flat <= th)[0].shape[0] * 1.0 / err_flat.shape[0]
-        plt.plot(thresholds, results[:, eval_idx], label=eval_names[eval_idx])
-    plt.xlabel(xlabel)
-    plt.ylabel(ylabel)
-    plt.legend(loc='best')
+        colorVal = scalarMap.to_rgba(eval_idx)
+        ls = l_styles[eval_idx%len(l_styles)]
+        if eval_idx == eval_num - 1:
+            ls = '-'
+        ax.plot(thresholds, results[:, eval_idx]*100, label=eval_names[eval_idx], 
+                color=colorVal, linestyle=ls)
+    plt.xlabel(xlabel, fontsize=FONT_SIZE_XLABEL)
+    plt.ylabel(ylabel, fontsize=FONT_SIZE_YLABEL)
+    ax.legend(loc='best', fontsize=FONT_SIZE_LEGEND)
     plt.grid(True)
-    
+    major_ticks = np.arange(0, 81, 10)                                              
+    minor_ticks = np.arange(0, 81, 5)                                               
+    ax.set_xticks(major_ticks)                                                       
+    ax.set_xticks(minor_ticks, minor=True)   
+    major_ticks = np.arange(0, 101, 10)                                              
+    minor_ticks = np.arange(0, 101, 5)                                          
+    ax.set_yticks(major_ticks)                                                       
+    ax.set_yticks(minor_ticks, minor=True)
+    ax.grid(which='minor', alpha=0.2, linestyle=':', linewidth=0.3)                                                
+    ax.grid(which='major', alpha=0.5, linestyle='--', linewidth=0.3)
+    ax.set_xlim(0, 80)
+    ax.set_ylim(0, 100)
+    plt.tick_params(
+    axis='both',          # changes apply to the x-axis
+    which='both',      # both major and minor ticks are affected
+    bottom='off',      # ticks along the bottom edge are off
+    left='off',         # ticks along the top edge are off
+    labelsize=FONT_SIZE_TICK)
+    fig.tight_layout()    
 
 def main():
     if len(sys.argv) < 3:
@@ -88,8 +157,10 @@ def main():
         err = get_errors(dataset, in_file)
         eval_errs.append(err)
 
-    draw_error(dataset, eval_errs, eval_names)
-    draw_map(eval_errs, eval_names, metric_type)
+    draw_error_bar(dataset, eval_errs, eval_names)
+    #plt.savefig('figures/{}_error_bar.png'.format(dataset))
+    draw_error_curve(eval_errs, eval_names, metric_type)
+    plt.savefig('figures/{}_error.png'.format(dataset))
     plt.show()
 
 
