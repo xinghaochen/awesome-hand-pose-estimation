@@ -19,8 +19,8 @@ There are two types of evaluation metrics that are widely used for hand pose est
 - DeepModel \[2\]: IJCAI'16, [Predicted labels](http://xingyizhou.xyz/IJCAI16_ICVL.txt)
 - Guo-Baseline \[3\]: ICIP'17, [Predicted labels](https://github.com/guohengkai/region-ensemble-network/blob/master/results/icvl_basic.txt)
 - REN-4x6x6 \[3\]: ICIP'17, [Predicted labels](https://github.com/guohengkai/region-ensemble-network/blob/master/results/icvl_ren_4x6x6.txt)
-- REN-9x6x6 \[3\]: ICIP'17, [Predicted labels](https://github.com/guohengkai/region-ensemble-network/blob/master/results/icvl_ren_9x6x6.txt)
-- Pose-REN \[7\]: arXiv'17, [Predicted labels](https://github.com/xinghaochen/awesome-hand-pose-estimation/tree/master/evaluation/results/icvl/arXiv17_ICVL_Pose_REN.txt)
+- REN-9x6x6 \[7\]: arXiv'17, [Predicted labels](https://github.com/guohengkai/region-ensemble-network/blob/master/results/icvl_ren_9x6x6.txt)
+- Pose-REN \[8\]: arXiv'17, [Predicted labels](https://github.com/xinghaochen/awesome-hand-pose-estimation/tree/master/evaluation/results/icvl/arXiv17_ICVL_Pose_REN.txt)
 
 ### NYU
 - DeepPrior \[4\]: CVWW'15, [Predicted labels](https://www.tugraz.at/fileadmin/user_upload/Institute/ICG/Downloads/team_lepetit/3d_hand_pose/CVWW15_ICVL_Prior.txt)
@@ -30,12 +30,12 @@ There are two types of evaluation metrics that are widely used for hand pose est
 - Lie-X \[6\]: IJCV'16, [Predicted labels](https://web.bii.a-star.edu.sg/~xuchi/Lie-X/lie_hand_jnts_estm_result.txt)
 - Guo-Baseline \[3\]: ICIP'17, [Predicted labels](https://github.com/guohengkai/region-ensemble-network/blob/master/results/nyu_basic.txt)
 - REN-4x6x6 \[3\]: ICIP'17, [Predicted labels](https://github.com/guohengkai/region-ensemble-network/blob/master/results/nyu_ren_4x6x6.txt)
-- REN-9x6x6 \[3\]: ICIP'17, [Predicted labels](https://github.com/guohengkai/region-ensemble-network/blob/master/results/nyu_ren_9x6x6.txt)
-- Pose-REN \[7\]: arXiv'17, [Predicted labels](https://github.com/xinghaochen/awesome-hand-pose-estimation/tree/master/evaluation/results/nyu/arXiv17_NYU_Pose_REN.txt)
+- REN-9x6x6 \[7\]: arXiv'17, [Predicted labels](https://github.com/guohengkai/region-ensemble-network/blob/master/results/nyu_ren_9x6x6.txt)
+- Pose-REN \[8\]: arXiv'17, [Predicted labels](https://github.com/xinghaochen/awesome-hand-pose-estimation/tree/master/evaluation/results/nyu/arXiv17_NYU_Pose_REN.txt)
 
 ### MSRA
-- REN-9x6x6 \[3\]: ICIP'17, [Predicted labels](https://github.com/guohengkai/region-ensemble-network/blob/master/results/msra_ren_9x6x6.txt)
-- Pose-REN \[7\]: arXiv'17, [Predicted labels](https://github.com/xinghaochen/awesome-hand-pose-estimation/tree/master/evaluation/results/msra/arXiv17_MSRA_Pose_REN.txt)
+- REN-9x6x6 \[7\]: arXiv'17, [Predicted labels](https://github.com/guohengkai/region-ensemble-network/blob/master/results/msra_ren_9x6x6.txt)
+- Pose-REN \[8\]: arXiv'17, [Predicted labels](https://github.com/xinghaochen/awesome-hand-pose-estimation/tree/master/evaluation/results/msra/arXiv17_MSRA_Pose_REN.txt)
 
 ### Notes
 Note that only 14 out of 36 joints are used for evaluation and we use the joints with id [0, 3, 6, 9, 12, 15, 18, 21, 24, 25, 27, 30, 31, 32]. All labels are in the format of (u, v, d) where u and v are pixel coordinates.
@@ -72,4 +72,5 @@ sh evaluate_{dataset}.sh
 - \[4\] Oberweger, Markus, Paul Wohlhart, and Vincent Lepetit. "[Hands deep in deep learning for hand pose estimation.](https://arxiv.org/pdf/1502.06807)" Computer Vision Winter Workshop, 2015.
 - \[5\] Oberweger, Markus, Paul Wohlhart, and Vincent Lepetit. "[Training a feedback loop for hand pose estimation.](https://arxiv.org/pdf/1609.09698)" Proceedings of the IEEE International Conference on Computer Vision. 2015.
 - \[6\] Xu, Chi, et al. "[Lie-X: Depth Image Based Articulated Object Pose Estimation, Tracking, and Action Recognition on Lie Groups.](https://arxiv.org/pdf/1609.03773)" International Journal of Computer Vision (2017): 1-25.
-- \[7\] Chen, Xinghao, et al. "[Pose Guided Structured Region Ensemble Network for Cascaded Hand Pose Estimation.](https://arxiv.org/pdf/1708.03416)" arXiv preprint arXiv:1708.03416 (2017).
+- \[7\] Guo, Hengkai, et al. "[Towards Good Practices for Deep 3D Hand Pose Estimation.](https://arxiv.org/pdf/1707.07248.pdf)" arXiv preprint arXiv:1707.07248 (2017).
+- \[8\] Chen, Xinghao, et al. "[Pose Guided Structured Region Ensemble Network for Cascaded Hand Pose Estimation.](https://arxiv.org/pdf/1708.03416)" arXiv preprint arXiv:1708.03416 (2017).
