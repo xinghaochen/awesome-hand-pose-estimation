@@ -40,9 +40,6 @@ _Meysam Madadi, Sergio Escalera, Xavier Baro, Jordi Gonzalez_
 ##### [\[arXiv:1705.05301\]](https://arxiv.org/abs/1705.05301) Back to RGB: 3D tracking of hands and hand-object interactions based on short-baseline stereo. [\[PDF\]](https://arxiv.org/pdf/1705.05301.pdf)
 _Paschalis Panteleris, Antonis Argyros_
 
-##### [\[arXiv:1705.01389\]](https://arxiv.org/abs/1705.01389) Learning to Estimate 3D Hand Pose from Single RGB Images. [\[PDF\]](https://arxiv.org/pdf/1705.01389.pdf)  [\[Project Page\]](https://lmb.informatik.uni-freiburg.de/projects/hand3d/)   [\[Code\]](https://github.com/lmb-freiburg/hand3d)
-_Christian Zimmermann, Thomas Brox_
-
 ##### [\[arXiv:1704.02224\]](https://arxiv.org/abs/1704.02224) Hand3D: Hand Pose Estimation using 3D Neural Network. [\[PDF\]](https://arxiv.org/pdf/1704.02224.pdf)  [\[Project Page\]](http://www.idengxm.com/hand3d/index.html)
 _Xiaoming Deng\*, Shuo Yang\*, Yinda Zhang\*, Ping Tan, Liang Chang, Hongan Wang_
 
@@ -55,6 +52,9 @@ _Xiaoming Deng\*, Shuo Yang\*, Yinda Zhang\*, Ping Tan, Liang Chang, Hongan Wang
 ## Conference Papers
 
 ### 2017 ICCV
+##### Learning to Estimate 3D Hand Pose from Single RGB Images. [\[PDF\]](https://arxiv.org/pdf/1705.01389.pdf)  [\[Project Page\]](https://lmb.informatik.uni-freiburg.de/projects/hand3d/)   [\[Code\]](https://github.com/lmb-freiburg/hand3d)
+_Christian Zimmermann, Thomas Brox_
+
 ##### Real-time Hand Tracking under Occlusion from an Egocentric RGB-D Sensor. [\[PDF\]](http://handtracker.mpi-inf.mpg.de/projects/OccludedHands/content/OccludedHands_ICCV2017.pdf) [\[Project Page\]](http://handtracker.mpi-inf.mpg.de/projects/OccludedHands/)
 *Franziska Mueller, Dushyant Mehta, Oleksandr Sotnychenko, Srinath Sridhar, Dan Casas, Christian Theobalt*
 
@@ -261,6 +261,9 @@ _Ayan Sinha\*, Chiho Choi\*, Karthik Ramani_
 *[Jonathan Tompson](http://cims.nyu.edu/~tompson/), New York University*
 
 ## Other Related Papers
+##### \[2017 ICCV\] Low-Dimensionality Calibration through Local Anisotropic Scaling for Robust Hand Model Personalization. [\[PDF\]](http://lgg.epfl.ch/publications/2017/LocalAnisotropicScaling/paper.pdf)  [\[Project Page\]](http://lgg.epfl.ch/publications/2017/LocalAnisotropicScaling/index.php)
+_Edoardo Remelli*, Anastasia Tkach*, Andrea Tagliasacchi, Mark Pauly_
+
 ##### \[2017 Neurocomputing\] Multi-task, Multi-domain Learning: application to semantic segmentation and pose regression.
 *Fourure, Damien, et al.*
 
