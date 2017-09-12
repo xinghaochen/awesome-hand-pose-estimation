@@ -46,9 +46,6 @@ _Christian Zimmermann, Thomas Brox_
 ##### [\[arXiv:1704.02224\]](https://arxiv.org/abs/1704.02224) Hand3D: Hand Pose Estimation using 3D Neural Network. [\[PDF\]](https://arxiv.org/pdf/1704.02224.pdf)  [\[Project Page\]](http://www.idengxm.com/hand3d/index.html)
 _Xiaoming Deng\*, Shuo Yang\*, Yinda Zhang\*, Ping Tan, Liang Chang, Hongan Wang_
 
-##### [\[arXiv:1704.02201\]](https://arxiv.org/abs/1704.02201) Real-time Hand Tracking under Occlusion from an Egocentric RGB-D Sensor. [\[PDF\]](https://arxiv.org/pdf/1704.02201.pdf)
-*Franziska Mueller, Dushyant Mehta, Oleksandr Sotnychenko, Srinath Sridhar, Dan Casas, Christian Theobalt*
-
 ##### [\[arXiv:1612.00596\]](https://arxiv.org/abs/1612.00596) Learning to Search on Manifolds for 3D Pose Estimation of Articulated Objects. [\[PDF\]](https://arxiv.org/pdf/1612.00596.pdf)
 *Yu Zhang, Chi Xu, Li Cheng*
 
@@ -58,6 +55,9 @@ _Xiaoming Deng\*, Shuo Yang\*, Yinda Zhang\*, Ping Tan, Liang Chang, Hongan Wang
 ## Conference Papers
 
 ### 2017 ICCV
+##### Real-time Hand Tracking under Occlusion from an Egocentric RGB-D Sensor. [\[PDF\]](http://handtracker.mpi-inf.mpg.de/projects/OccludedHands/content/OccludedHands_ICCV2017.pdf) [\[Project Page\]](http://handtracker.mpi-inf.mpg.de/projects/OccludedHands/)
+*Franziska Mueller, Dushyant Mehta, Oleksandr Sotnychenko, Srinath Sridhar, Dan Casas, Christian Theobalt*
+
 ##### Robust Hand Pose Estimation during the Interaction with an Unknown Object. \[PDF\] [\[Project Page\]](https://engineering.purdue.edu/cdesign/wp/robust-hand-pose-estimation-during-the-interaction-with-an-unknown-object/)
 *Chiho Choi, Sang Ho Yoon, Chin-Ning Chen, Karthik Ramani*
 
