@@ -78,13 +78,16 @@ _Christian Zimmermann, Thomas Brox_
 *Chengde Wan, Thomas Probst, Luc Van Gool, Angela Yao*
 
 ##### Big Hand 2.2M Benchmark: Hand Pose Data Set and State of the Art Analysis. [\[PDF\]](https://arxiv.org/pdf/1704.02612.pdf)
-_Shanxin Yuan, Qi Ye, Bjorn Stenger, Siddhand Jain, Tae-Kyun Kim_
+_Shanxin Yuan\*, Qi Ye\*, Bjorn Stenger, Siddhand Jain, Tae-Kyun Kim_
 
 ##### 3D Convolutional Neural Networks for Efficient and Robust Hand Pose Estimation from Single Depth Images.[\[PDF\]](http://eeeweba.ntu.edu.sg/computervision/Research%20Papers/2017/3D%20Convolutional%20Neural%20Networks%20for%20Efficient%20and%20Robust%20Hand%20Pose%20Estimation%20from%20Single%20Depth%20Images.pdf) [\[Project Page\]](https://sites.google.com/site/geliuhaontu/home/cvpr2017)
 *Liuhao Ge, Hui Liang, Junsong Yuan and Daniel Thalmann*
 
 ### 2017 Others
-##### [2017 BMVC] Hand Pose Learning: Combining Deep Learning and Hierarchical Refinement for 3D Hand Pose Estimation. [\[PDF\]]
+##### [2017 SIGGRAPH Asia] Embodied Hands: Modeling and Capturing Hands and Bodies Together. [\[PDF\]](http://ps.is.tue.mpg.de/uploads_file/attachment/attachment/392/Embodied_Hands_SiggraphAsia2017.pdf)  [\[Project Page\]](http://ps.is.tue.mpg.de/publications/embodiedhands)
+_Javier Romero\*, Dimitrios Tzionas\* and Michael J. Black_
+
+##### [2017 BMVC] Hand Pose Learning: Combining Deep Learning and Hierarchical Refinement for 3D Hand Pose Estimation. [\[PDF\]](https://www.dropbox.com/s/3y96pnutxum3p4v/0569.pdf?dl=1)
 *Min-Yu Wu, Ya Hui Tang, Pai-Wei Ting and Li-Chen Fu*
 
 ##### [2017 BMVC] Generative 3D Hand Tracking with Spatially Constrained Pose Sampling. [\[PDF\]](http://users.ics.forth.gr/~argyros/mypapers/2017_09_BMVC_RDSRoditak.pdf) [\[Project Page\]](http://users.ics.forth.gr/~argyros/res_handRDS.html)
@@ -209,7 +212,10 @@ _Ayan Sinha\*, Chiho Choi\*, Karthik Ramani_
 ##### \[2013 ICCV\] Efficient Hand Pose Estimation from a Single Depth Image. [\[PDF\]](http://web.bii.a-star.edu.sg/~xuchi/pdf/iccv2013.pdf) [\[Project Page\]](http://web.bii.a-star.edu.sg/~xuchi/dhand.htm)
 *Chi Xu, Li Cheng*
 
-##### \[2012 ECCV\] Hand pose estimation and hand shape classification using multi-layered randomized decision forests
+##### \[2012 ECCV\] Motion Capture of Hands in Action using Discriminative Salient Points. [\[PDF\]](http://ps.is.tue.mpg.de/uploads_file/attachment/attachment/76/jgall_handcapture_eccv12.pdf) [\[Project Page\]](http://ps.is.tue.mpg.de/publications/btgg12)
+*Ballan, L. and Taneja, A. and Gall, J. and van Gool, L. and Pollefeys, M.*
+
+##### \[2012 ECCV\] Hand pose estimation and hand shape classification using multi-layered randomized decision forests.
 *Cem KeskinFurkan, KıraçYunus Emre, KaraLale Akarun*
 
 ##### \[2011 CVPRW\] Real Time Hand Pose Estimation using Depth Sensors. [\[PDF\]](http://www.cp.jku.at/teaching/praktika/imageproc/bodyparts_Algorithmus1.pdf)
@@ -219,6 +225,9 @@ _Ayan Sinha\*, Chiho Choi\*, Karthik Ramani_
 *Iason Oikonomidis, Nikolaos Kyriazis, Antonis A. Argyros*
 
 ## Journal Papers
+
+##### \[2016 IJCV\] Capturing Hands in Action using Discriminative Salient Points and Physics Simulation. [\[PDF\]](http://files.is.tue.mpg.de/dtzionas/Hand-Object-Capture/IJCV_Hand_Object_Capture.pdf) [\[Project Page\]](http://files.is.tue.mpg.de/dtzionas/Hand-Object-Capture/)
+*Tzionas, D., Ballan, L., Srikantha, A., Aponte, P., Pollefeys, M., Gall, J.*
 
 ##### \[2016 IJCV\] Lie-X: Depth Image Based Articulated Object Pose Estimation, Tracking, and Action Recognition on Lie Groups. [\[PDF\]](http://web.bii.a-star.edu.sg/~xuchi/pdf/XuEtAl_IJCV16.pdf) [\[Project Page\]](http://web.bii.a-star.edu.sg/~xuchi/dhand.htm)
 *Chi Xu, Lakshmi Narasimhan Govindarajan, Yu Zhang, Li Cheng*
@@ -239,6 +248,9 @@ _Ayan Sinha\*, Chiho Choi\*, Karthik Ramani_
 *Hui Liang, Junsong Yuan, Daniel Thalmann*
 
 ## Theses
+##### \[2017 Thesis\] Capturing Hand-Object Interaction and Reconstruction of Manipulated Objects. [\[PDF\]](http://ps.is.tue.mpg.de/uploads_file/attachment/attachment/340/Thesis_FINAL_online.pdf) [\[Project Page\]](http://ps.is.tue.mpg.de/publications/tzionas-thesis-phd)
+*[Dimitrios Tzionas](http://ps.is.tue.mpg.de/person/dtzionas), University of Bonn*
+
 ##### \[2016 Thesis\] 3D hand pose regression with variants of decision forests. [\[PDF\]](http://people.mpi-inf.mpg.de/~ssridhar/pubs/Dissertation_SrinathSridhar.pdf)
 *[Srinath Sridhar](http://people.mpi-inf.mpg.de/~ssridhar/),  Max Planck Institute for Informatics*
 
@@ -281,6 +293,9 @@ _Edoardo Remelli*, Anastasia Tkach*, Andrea Tagliasacchi, Mark Pauly_
 
 ##### [2016 NIPS] DISCO Nets : Dissimilarity Coefficient Networks. [\[PDF\]](http://www.robots.ox.ac.uk/~diane/DISCONET_camera_ready.pdf) [\[Project Page\]](http://www.robots.ox.ac.uk/~diane/DiscoNets.html) [\[Code\]](http://www.robots.ox.ac.uk/~diane/DISCONETS.zip)
 *Diane Bouchacourt, M. Pawan Kumar, Sebastian Nowozin*
+
+##### [2015 ICCV] 3D Object Reconstruction from Hand-Object Interactions. [\[PDF\]](http://files.is.tue.mpg.de/dtzionas/In-Hand-Scanning/ICCV15_Reconstruction_from_HandObject_Interactions.pdf) [\[Project Page\]](http://ps.is.tue.mpg.de/publications/-886ddd69-ebde-4f83-8b77-9c41f8af1065)
+*Dimitrios Tzionas and Juergen Gall*
 
 ---
 \* indicates equal contribution
