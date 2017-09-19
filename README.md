@@ -46,6 +46,9 @@ _Xiaoming Deng\*, Shuo Yang\*, Yinda Zhang\*, Ping Tan, Liang Chang, Hongan Wang
 ##### [\[arXiv:1612.00596\]](https://arxiv.org/abs/1612.00596) Learning to Search on Manifolds for 3D Pose Estimation of Articulated Objects. [\[PDF\]](https://arxiv.org/pdf/1612.00596.pdf)
 *Yu Zhang, Chi Xu, Li Cheng*
 
+##### [\[arXiv:1610.07214\]](https://arxiv.org/abs/1610.07214) 3D Hand Pose Tracking and Estimation Using Stereo Matching. [\[PDF\]](https://arxiv.org/pdf/1610.07214.pdf)
+*Jiawei Zhang, Jianbo Jiao, Mingliang Chen, Liangqiong Qu, Xiaobin Xu, Qingxiong Yang*
+
 ##### [\[arXiv:1511.06728\]](https://arxiv.org/abs/1511.06728) Hand Pose Estimation through Semi-Supervised and Weakly-Supervised Learning. [\[PDF\]](https://arxiv.org/pdf/1511.06728.pdf)
 *Natalia Neverova, Christian Wolf, Florian Nebout, Graham Taylor*
 
@@ -84,6 +87,12 @@ _Shanxin Yuan\*, Qi Ye\*, Bjorn Stenger, Siddhand Jain, Tae-Kyun Kim_
 *Liuhao Ge, Hui Liang, Junsong Yuan and Daniel Thalmann*
 
 ### 2017 Others
+##### [2017 ICIP] Region Ensemble Network: Improving Convolutional Network for Hand Pose Estimation. [\[PDF\]](https://arxiv.org/pdf/1702.02447.pdf)  [\[Code\]](https://github.com/guohengkai/region-ensemble-network)
+*Hengkai Guo, Guijin Wang, Xinghao Chen, Cairong Zhang, Fei Qiao, Huazhong Yang*
+
+##### [2017 ICIP] A Hand Pose Tracking Benchmark from Stereo Matching. [\[PDF\]](http://www.cs.cityu.edu.hk/~jianbjiao2/pdfs/icip.pdf)  [\[Project Page\]](https://sites.google.com/site/zhjw1988/)
+*Jiawei Zhang, Jianbo Jiao, Mingliang Chen, Liangqiong Qu, Xiaobin Xu, and Qingxiong Yang*
+
 ##### [2017 SIGGRAPH Asia] Embodied Hands: Modeling and Capturing Hands and Bodies Together. [\[PDF\]](http://ps.is.tue.mpg.de/uploads_file/attachment/attachment/392/Embodied_Hands_SiggraphAsia2017.pdf)  [\[Project Page\]](http://ps.is.tue.mpg.de/publications/embodiedhands)
 _Javier Romero\*, Dimitrios Tzionas\* and Michael J. Black_
 
@@ -95,9 +104,6 @@ _Javier Romero\*, Dimitrios Tzionas\* and Michael J. Black_
 
 ##### [2017 ICRA] Learning a deep network with spherical part model for 3D hand pose estimation. [\[PDF\]](http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7989303)
 *Tzu-Yang Chen, Pai-Wen Ting, Min-Yu Wu, Li-Chen Fu*
-
-##### [2017 ICIP] Region Ensemble Network: Improving Convolutional Network for Hand Pose Estimation. [\[PDF\]](https://arxiv.org/pdf/1702.02447.pdf)  [\[Code\]](https://github.com/guohengkai/region-ensemble-network)
-*Hengkai Guo, Guijin Wang, Xinghao Chen, Cairong Zhang, Fei Qiao, Huazhong Yang*
 
 ##### [2017 FG] Occlusion aware hand pose recovery from sequences of depth images. [\[PDF\]](http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7961746) [\[Slide\]](http://sergioescalera.com/wp-content/uploads/2017/06/FG2017Hand.pdf)
 *Meysam Madadi, Sergio Escalera, Alex Carruesco Llorens, Carlos Andujar, Xavier Baro, Jordi Gonzalez*
