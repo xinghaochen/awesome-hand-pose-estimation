@@ -42,8 +42,6 @@ Note that only 14 out of 36 joints are used for evaluation and we use the joints
 
 For Lie-X, the original predicted labels are in format of (x, y, z) and the order of joints is different. We convert the labels from xyz to uvd and permute the order of joints to keep consistent with other methods (see src/convert_results_xyz2uvd.py).
 
-For Guo-Baseline, REN-4x6x6 and REN-9x6x6, we also permute the order of joints. Therefore, the corresponding labels provided in folder results/nyu are not essential the same with the [original ones](https://github.com/guohengkai/region-ensemble-network/blob/master/results/) (see src/permute_id_results.py).
-
 ## Usage
 Use the python code to show the evaluation results:
 ```
