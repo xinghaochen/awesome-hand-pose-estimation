@@ -125,7 +125,7 @@ _Qi Ye\*, Shanxin Yuan\*, Tae-Kyun Kim_
 ##### \[2016 ICPR\] Depth-based 3D hand pose tracking. [\[PDF\]](http://ieeexplore.ieee.org/abstract/document/7900051)
 *Kha Gia Quach, Chi Nhan Duong, Khoa Luu, and Tien D. Bui.*
 
-##### \[2016 IJCAI\] Model-based Deep Hand Pose Estimation. [\[PDF\]](http://xingyizhou.xyz/zhou2016model.pdf) [\[Project Page\]](http://xingyizhou.xyz/) [\[Code\]](https://github.com/tenstep/DeepModel)
+##### \[2016 IJCAI\] Model-based Deep Hand Pose Estimation. [\[PDF\]](http://xingyizhou.xyz/zhou2016model.pdf) [\[Project Page\]](http://xingyizhou.xyz/) [\[Code\]](https://github.com/tenstep/DeepModel)
 *Xingyi Zhou, Qingfu Wan, Wei Zhang, Xiangyang Xue, Yichen Wei*
 
 ##### \[2016 SIGGRAPH\] Efficient and precise interactive hand tracking through joint, continuous optimization of pose and correspondences. [\[PDF\]](http://www.cs.toronto.edu/~jtaylor/papers/SIGGRAPH2016-SmoothHandTracking.pdf)
