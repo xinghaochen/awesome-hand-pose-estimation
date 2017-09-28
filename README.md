@@ -77,10 +77,10 @@ _Paschalis Panteleris, Antonis Argyros_
 ##### Hand Keypoint Detection in Single Images using Multiview Bootstrapping. [\[PDF\]](https://arxiv.org/pdf/1704.07809) [\[Project Page\]](http://www.cs.cmu.edu/~tsimon/projects/mvbs.html) [\[Code\]](https://github.com/CMU-Perceptual-Computing-Lab/openpose)
 *Tomas Simon, Hanbyul Joo, Iain Matthews, Yaser Sheikh*
 
-##### Crossing Nets: Dual Generative Models with a Shared Latent Space for Hand Pose. Estimation. [\[PDF\]](https://arxiv.org/pdf/1702.03431.pdf)
+##### Crossing Nets: Combining GANs and VAEs with a Shared Latent Space for Hand Pose Estimation. [\[PDF\]](http://openaccess.thecvf.com/content_cvpr_2017/papers/Wan_Crossing_Nets_Combining_CVPR_2017_paper.pdf)
 *Chengde Wan, Thomas Probst, Luc Van Gool, Angela Yao*
 
-##### Big Hand 2.2M Benchmark: Hand Pose Data Set and State of the Art Analysis. [\[PDF\]](https://arxiv.org/pdf/1704.02612.pdf)
+##### Big Hand 2.2M Benchmark: Hand Pose Data Set and State of the Art Analysis. [\[PDF\]](http://www.iis.ee.ic.ac.uk/ComputerVision/docs/pubs/Shanxin_CVPR_2017.pdf)
 _Shanxin Yuan\*, Qi Ye\*, Bjorn Stenger, Siddhand Jain, Tae-Kyun Kim_
 
 ##### 3D Convolutional Neural Networks for Efficient and Robust Hand Pose Estimation from Single Depth Images.[\[PDF\]](http://eeeweba.ntu.edu.sg/computervision/Research%20Papers/2017/3D%20Convolutional%20Neural%20Networks%20for%20Efficient%20and%20Robust%20Hand%20Pose%20Estimation%20from%20Single%20Depth%20Images.pdf) [\[Project Page\]](https://sites.google.com/site/geliuhaontu/home/cvpr2017)
