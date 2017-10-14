@@ -260,8 +260,8 @@ _Ayan Sinha\*, Chiho Choi\*, Karthik Ramani_
 ##### \[2017 Thesis\] Capturing Hand-Object Interaction and Reconstruction of Manipulated Objects. [\[PDF\]](http://ps.is.tue.mpg.de/uploads_file/attachment/attachment/340/Thesis_FINAL_online.pdf) [\[Project Page\]](http://ps.is.tue.mpg.de/publications/tzionas-thesis-phd)
 *[Dimitrios Tzionas](http://ps.is.tue.mpg.de/person/dtzionas), University of Bonn*
 
-##### \[2016 Thesis\] 3D hand pose regression with variants of decision forests. [\[PDF\]](http://people.mpi-inf.mpg.de/~ssridhar/pubs/Dissertation_SrinathSridhar.pdf)
-*[Srinath Sridhar](http://people.mpi-inf.mpg.de/~ssridhar/),  Max Planck Institute for Informatics*
+##### \[2016 Thesis\] Tracking Hands in Action for Gesture-based Computer Input. [\[PDF\]](http://cs.stanford.edu/people/ssrinath/pubs/Dissertation_SrinathSridhar.pdf)
+*[Srinath Sridhar](http://cs.stanford.edu/people/ssrinath/),  Max Planck Institute for Informatics*
 
 ##### \[2016 Thesis\] 3D hand pose regression with variants of decision forests. [\[PDF\]](https://spiral.imperial.ac.uk/bitstream/10044/1/31531/1/Tang-D-2016-PhD-Thesis.pdf) [\[Project Page\]](https://spiral.imperial.ac.uk/handle/10044/1/31531)
 *[Danhang Tang](http://www.iis.ee.ic.ac.uk/dtang/), Imperial College London*
