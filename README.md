@@ -46,9 +46,6 @@ _Xiaoming Deng\*, Shuo Yang\*, Yinda Zhang\*, Ping Tan, Liang Chang, Hongan Wang
 ##### [\[arXiv:1610.07214\]](https://arxiv.org/abs/1610.07214) 3D Hand Pose Tracking and Estimation Using Stereo Matching. [\[PDF\]](https://arxiv.org/pdf/1610.07214.pdf)
 *Jiawei Zhang, Jianbo Jiao, Mingliang Chen, Liangqiong Qu, Xiaobin Xu, Qingxiong Yang*
 
-##### [\[arXiv:1511.06728\]](https://arxiv.org/abs/1511.06728) Hand Pose Estimation through Semi-Supervised and Weakly-Supervised Learning. [\[PDF\]](https://arxiv.org/pdf/1511.06728.pdf)
-*Natalia Neverova, Christian Wolf, Florian Nebout, Graham Taylor*
-
 ## Conference Papers
 
 ### 2017 ICCV
@@ -234,6 +231,9 @@ _Ayan Sinha\*, Chiho Choi\*, Karthik Ramani_
 *Iason Oikonomidis, Nikolaos Kyriazis, Antonis A. Argyros*
 
 ## Journal Papers
+
+##### [2017 CVIU] Hand Pose Estimation through Semi-Supervised and Weakly-Supervised Learning. [\[PDF\]](https://arxiv.org/pdf/1511.06728.pdf)
+*Natalia Neverova, Christian Wolf, Florian Nebout, Graham Taylor*
 
 ##### \[2016 IJCV\] Capturing Hands in Action using Discriminative Salient Points and Physics Simulation. [\[PDF\]](http://files.is.tue.mpg.de/dtzionas/Hand-Object-Capture/IJCV_Hand_Object_Capture.pdf) [\[Project Page\]](http://files.is.tue.mpg.de/dtzionas/Hand-Object-Capture/)
 *Tzionas, D., Ballan, L., Srikantha, A., Aponte, P., Pollefeys, M., Gall, J.*
