@@ -16,6 +16,8 @@
    - [2014 Others & Before](#2014-others--before)
  - [Journal Papers](#journal-papers)
  - [Theses](#theses)
+ - [Datasets](#datasets)
+ - [Challenges](#challenges)
  - [Other Related Papers](#other-related-papers)
 
 ## Evaluation codes
@@ -30,9 +32,6 @@ _Hengkai Guo, Guijin Wang, Xinghao Chen, Cairong Zhang_
 
 ##### [\[arXiv:1707.03742\]](https://arxiv.org/abs/1707.03742) Large-scale Multiview 3D Hand Pose Dataset. [\[PDF\]](https://arxiv.org/pdf/1707.03742.pdf)
 _Francisco Gomez-Donoso, Sergio Orts-Escolano and Miguel Cazorla_
-
-##### [\[arXiv:1707.02237\]](https://arxiv.org/abs/1707.02237) The 2017 Hands in the Million Challenge on 3D Hand Pose Estimation. [\[PDF\]](https://arxiv.org/pdf/1707.02237.pdf)
-_Shanxin Yuan, Qi Ye, Guillermo Garcia-Hernando, Tae-Kyun Kim_
 
 ##### [\[arXiv:1705.09606\]](https://arxiv.org/abs/1705.09606) End-to-end Global to Local CNN Learning for Hand Pose Recovery in Depth data. [\[PDF\]](https://arxiv.org/pdf/1705.09606.pdf)
 _Meysam Madadi, Sergio Escalera, Xavier Baro, Jordi Gonzalez_
@@ -280,6 +279,62 @@ _Ayan Sinha\*, Chiho Choi\*, Karthik Ramani_
 
 ##### \[2015 Thesis\] Localization of Humans in Images Using Convolutional Networks. [\[PDF\]](http://www.cims.nyu.edu/~tompson/others/thesis.pdf)
 *[Jonathan Tompson](http://cims.nyu.edu/~tompson/), New York University*
+
+## Datasets
+##### NYU Hand Pose Dataset
+- [Website](http://cims.nyu.edu/~tompson/NYU_Hand_Pose_Dataset.htm)
+- [Related Paper:](http://cims.nyu.edu/~tompson/others/TOG_2014_paper_PREPRINT.pdf) Real-Time Continuous Pose Recovery of Human Hands Using Convolutional Networks, SIGGRAPH 2014 [\[PDF\]](http://cims.nyu.edu/~tompson/others/TOG_2014_paper_PREPRINT.pdf)
+
+##### ICVL Dataset
+- [Website](http://www.iis.ee.ic.ac.uk/dtang/hand.html)
+- [Related Paper:](http://www.iis.ee.ic.ac.uk/dtang/cvpr_14.pdf) Latent regression forest: Structured estimation of 3d articulated hand posture, CVPR 2014 [\[PDF\]](http://www.iis.ee.ic.ac.uk/dtang/cvpr_14.pdf)
+
+##### MARA15 Dataset
+- [Website](https://jimmysuen.github.io/)
+- [Related Paper:](http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Sun_Cascaded_Hand_Pose_2015_CVPR_paper.pdf) Cascaded Hand Pose Regression, CVPR 2015 [\[PDF\]](http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Sun_Cascaded_Hand_Pose_2015_CVPR_paper.pdf)
+
+##### BigHand2.2M Benchmark
+- Website
+- [Related Paper:](http://www.iis.ee.ic.ac.uk/ComputerVision/docs/pubs/Shanxin_CVPR_2017.pdf) Big Hand 2.2M Benchmark: Hand Pose Data Set and State of the Art Analysis, CVPR 2017 [\[PDF\]](http://www.iis.ee.ic.ac.uk/ComputerVision/docs/pubs/Shanxin_CVPR_2017.pdf)
+
+##### MARC (FingerPaint) Dataset
+- [Website](https://www.microsoft.com/en-us/download/details.aspx?id=52288)
+- [Related Paper:](http://www.cs.toronto.edu/~jtaylor/papers/CHI2015-HandTracking.pdf) Accurate, Robust, and Flexible Real-time Hand Tracking, CHI 2015 [\[PDF\]](http://www.cs.toronto.edu/~jtaylor/papers/CHI2015-HandTracking.pdf)
+
+##### UCI-EGO Dataset
+- [Website](http://pascal.inrialpes.fr/data2/grogez/UCI-EGO/UCI-EGO.tar.gz)
+- [Related Paper:](https://www.cs.cmu.edu/~deva/papers/egocentric_depth_workshop.pdf) 3D Hand Pose Detection in Egocentric RGB-D Images, ECCVW 2014 [\[PDF\]](https://www.cs.cmu.edu/~deva/papers/egocentric_depth_workshop.pdf)
+
+##### Hands in Action Dataset
+- [Website](http://files.is.tue.mpg.de/dtzionas/Hand-Object-Capture/)
+- [Related Paper:](http://files.is.tue.mpg.de/dtzionas/Hand-Object-Capture/IJCV_Hand_Object_Capture.pdf) Capturing Hands in Action using Discriminative Salient Points and Physics Simulation, IJCV 2016 [\[PDF\]](http://files.is.tue.mpg.de/dtzionas/Hand-Object-Capture/IJCV_Hand_Object_Capture.pdf)
+
+##### MARA14 Dataset
+- [Website](https://jimmysuen.github.io/)
+- [Related Paper:](http://www.cv-foundation.org/openaccess/content_cvpr_2014/papers/Qian_Realtime_and_Robust_2014_CVPR_paper.pdf) Realtime and Robust Hand Tracking from Depth, CVPR 2014 [\[PDF\]](http://www.cv-foundation.org/openaccess/content_cvpr_2014/papers/Qian_Realtime_and_Robust_2014_CVPR_paper.pdf)
+
+##### Dexter 1 Dataset
+- [Website](http://handtracker.mpi-inf.mpg.de/projects/handtracker_iccv2013/dexter1.htm)
+- [Related Paper:](http://handtracker.mpi-inf.mpg.de/projects/handtracker_iccv2013/content/handtracker_iccv2013.pdf) Interactive Markerless Articulated Hand Motion Tracking Using RGB and Depth Data, ICCV 2013 [\[PDF\]](http://handtracker.mpi-inf.mpg.de/projects/handtracker_iccv2013/content/handtracker_iccv2013.pdf)
+
+##### ASTAR Dataset
+- [Website](http://hpes.bii.a-star.edu.sg/)
+- [Related Paper:](http://www.cv-foundation.org/openaccess/content_iccv_2013/papers/Xu_Efficient_Hand_Pose_2013_ICCV_paper.pdf) Efficient hand pose estimation from a single depth image, ICCV 2013 [\[PDF\]](http://www.cv-foundation.org/openaccess/content_iccv_2013/papers/Xu_Efficient_Hand_Pose_2013_ICCV_paper.pdf)
+
+**Credits:**
+- [1] Big Hand 2.2M Benchmark: Hand Pose Data Set and State of the Art Analysis, CVPR 2017 [\[PDF\]](http://www.iis.ee.ic.ac.uk/ComputerVision/docs/pubs/Shanxin_CVPR_2017.pdf)
+- [2] http://arrummzen.net/#HandData
+- [3] Capturing Hand-Object Interaction and Reconstruction of Manipulated Objects. [\[PDF\]](http://ps.is.tue.mpg.de/uploads_file/attachment/attachment/340/Thesis_FINAL_online.pdf)
+
+
+## Challenges
+
+##### The 2017 Hands in the Million Challenge on 3D Hand Pose Estimation.
+*[3rd International Workshop on Observing and Understanding Hands in Action ( HANDS 2017)](http://icvl.ee.ic.ac.uk/hands17/), [ICCV 2017](http://iccv2017.thecvf.com/)*
+- [Challenge Website](http://icvl.ee.ic.ac.uk/hands17/challenge/)
+- Submission Website: [Frame and Tracking Task](https://competitions.codalab.org/competitions/17356#results), [Hand-Object Task](https://competitions.codalab.org/competitions/17452#results)
+- [Document:](https://arxiv.org/abs/1707.02237)
+The 2017 Hands in the Million Challenge on 3D Hand Pose Estimation, [arXiv:1704.02463](https://arxiv.org/pdf/1707.02237.pdf), _Shanxin Yuan, Qi Ye, Guillermo Garcia-Hernando, Tae-Kyun Kim_
 
 ## Other Related Papers
 ##### \[2017 ICCV\] Low-Dimensionality Calibration through Local Anisotropic Scaling for Robust Hand Model Personalization. [\[PDF\]](http://lgg.epfl.ch/publications/2017/LocalAnisotropicScaling/paper.pdf)  [\[Project Page\]](http://lgg.epfl.ch/publications/2017/LocalAnisotropicScaling/index.php) [\[Code\]](https://github.com/edoRemelli/hadjust)
