@@ -12,13 +12,14 @@ import numpy as np
 import matplotlib.pyplot as plt
 from matplotlib import cm
 import matplotlib.colors as colors
-from util import get_errors
+from util import get_errors, get_msra_viewpoint
 
 FONT_SIZE_XLABEL= 15
 FONT_SIZE_YLABEL= 15
 FONT_SIZE_LEGEND = 11.8
 FONT_SIZE_TICK = 11.8
 fig = plt.figure(figsize=(16, 6))
+fig2 = plt.figure(figsize=(16, 6))
 
 def print_usage():
     print('usage: {} icvl/nyu/msra max-frame/mean-frame/joint method_name in_file'.format(sys.argv[0]))
@@ -139,6 +140,73 @@ def draw_error_curve(errs, eval_names, metric_type):
     labelsize=FONT_SIZE_TICK)
     fig.tight_layout()    
 
+def draw_viewpoint_error_curve(dataset, errs, eval_names, viewpoint, yp_idx):
+    jet = plt.get_cmap('jet') 
+    eval_num = len(errs)
+    values = range(eval_num)
+    if eval_num < 3:
+          jet = plt.get_cmap('prism') 
+    cNorm  = colors.Normalize(vmin=0, vmax=values[-1])
+    scalarMap = cm.ScalarMappable(norm=cNorm, cmap=jet)
+    
+    yaw_pitch = ['yaw', 'pitch']
+    #fig = plt.figure(figsize=(8, 6))
+    #ax = fig.add_subplot(1,1,1)
+    ax = fig2.add_subplot(1,2,1+yp_idx)
+    xlabel = '{} angle (deg)'.format(yaw_pitch[yp_idx])
+    ylabel = 'Mean error distance (mm)'
+
+    l_styles = ['-','--']
+    for eval_idx in xrange(eval_num):
+        # calculate error for each frame
+        err = np.mean(errs[eval_idx], axis=1)
+        if yp_idx == 0:
+            x = np.arange(-40, 41, 2)   # yaw
+        else:
+            x = np.arange(-10, 91, 2)   # pitch
+        x_error = np.zeros_like(x, dtype=np.float32)
+        for idx in xrange(len(x)):
+            x_idx = np.round(viewpoint[:,yp_idx]*0.5)*2 == x[idx]
+            x_error[idx] = np.mean(err[x_idx])
+            # print idx, np.mean(err[x_idx])
+        colorVal = scalarMap.to_rgba(eval_idx)
+        ls = l_styles[eval_idx%len(l_styles)]
+        if eval_idx == eval_num - 1:
+            ls = '-'
+        ax.plot(x, x_error, label=eval_names[eval_idx], 
+                color=colorVal, linestyle=ls)
+    plt.xlabel(xlabel, fontsize=FONT_SIZE_XLABEL)
+    plt.ylabel(ylabel, fontsize=FONT_SIZE_YLABEL)
+    plt.legend(loc='upper right', fontsize=FONT_SIZE_LEGEND)
+    # ax.grid(True)
+    # major ticks every 20, minor ticks every 5    
+    if yp_idx == 0:                                  
+        major_ticks = np.arange(-40, 41, 10)                                              
+        minor_ticks = np.arange(-40, 41, 5)      
+        ax.set_xlim(-40, 40)
+        ax.set_ylim(5, 24)    
+    else:
+        major_ticks = np.arange(-10, 91, 10)                                              
+        minor_ticks = np.arange(-10, 91, 5)      
+        ax.set_xlim(-10, 90)
+        ax.set_ylim(5, 24)                                     
+    ax.set_xticks(major_ticks)                                                       
+    ax.set_xticks(minor_ticks, minor=True)   
+    major_ticks = np.arange(5, 25, 1)                                              
+    minor_ticks = np.arange(5, 24.5, 0.5)                                          
+    ax.set_yticks(major_ticks)                                                       
+    ax.set_yticks(minor_ticks, minor=True)
+    ax.grid(which='minor', alpha=0.2, linestyle=':', linewidth=0.3)                                                
+    ax.grid(which='major', alpha=0.5, linestyle='--', linewidth=0.3)
+
+    plt.tick_params(
+    axis='both',          # changes apply to the x-axis
+    which='both',      # both major and minor ticks are affected
+    bottom='off',      # ticks along the bottom edge are off
+    left='off',         # ticks along the top edge are off
+    labelsize=FONT_SIZE_TICK)
+    fig.tight_layout()
+    
 def main():
     if len(sys.argv) < 3:
         print_usage()
@@ -157,10 +225,25 @@ def main():
         err = get_errors(dataset, in_file)
         eval_errs.append(err)
 
+    plt.figure(fig.number)
     draw_error_bar(dataset, eval_errs, eval_names)
     #plt.savefig('figures/{}_error_bar.png'.format(dataset))
     draw_error_curve(eval_errs, eval_names, metric_type)
     plt.savefig('figures/{}_error.png'.format(dataset))
+    
+    plt.figure(fig2.number)
+    # msra viewpoint
+    if dataset == 'msra':
+        # see https://github.com/xinghaochen/region-ensemble-network/blob/master/evaluation/get_angle.py
+        # for how to calculate yaw and pitch angles for MSRA dataset
+        msra_viewpoint = get_msra_viewpoint('groundtruth/{}/{}_angle.txt'.format(dataset, dataset))
+        # yaw
+        draw_viewpoint_error_curve(dataset, eval_errs, eval_names, msra_viewpoint, 0)
+        #plt.savefig('figures/{}_yaw.pdf'.format(dataset))
+        # pitch
+        draw_viewpoint_error_curve(dataset, eval_errs, eval_names, msra_viewpoint, 1)
+        plt.savefig('figures/{}_yaw_pitch.png'.format(dataset))
+        
     plt.show()
 
 

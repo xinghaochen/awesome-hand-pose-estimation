@@ -51,3 +51,8 @@ def get_errors(dataset, in_file):
     outputs = pixel2world(outputs, *params)
     errors = np.sqrt(np.sum((labels - outputs) ** 2, axis=2))
     return errors
+
+def get_msra_viewpoint(in_file):
+    with open(in_file) as f:
+        viewpoint = [list(map(float, line.strip().split())) for line in f]
+    return np.reshape(np.array(viewpoint), (-1, 2))
