@@ -185,6 +185,9 @@ _Ayan Sinha\*, Chiho Choi\*, Karthik Ramani_
 *Sameh Khamis, Jonathan Taylor, Jamie Shotton, Cem Keskin, Shahram Izadi, Andrew Fitzgibbon*
 
 ### 2015 Others
+##### \[2015 BMVC\] Rule of Thumb: Deep Derotation for Improved Fingertip Detection. [\[PDF\]](http://www.cs.technion.ac.il/~twerd/WetzlerSlossbergKimmel-BMVC15.pdf) [\[Project Page\]](http://www.cs.technion.ac.il/~twerd/HandNet/)
+*Aaron Wetzler, Ron Slossberg and Ron Kimmel*
+
 ##### \[2015 CHI\] Accurate, Robust, and Flexible Real-time Hand Tracking. [\[PDF\]](http://www.cs.toronto.edu/~jtaylor/papers/CHI2015-HandTracking.pdf) [\[Project Page\]](https://www.microsoft.com/en-us/research/publication/accurate-robust-and-flexible-real-time-hand-tracking/)
 *Toby Sharp, Cem Keskin, Duncan Robertson, Jonathan Taylor, Jamie Shotton, David Kim, Christoph Rhemann, Ido Leichter, Alon Vinnikov, Yichen Wei, Daniel Freedman, Pushmeet Kohli, Eyal Krupka, Andrew Fitzgibbon, Shahram Izadi*
 
@@ -314,6 +317,10 @@ _Ayan Sinha\*, Chiho Choi\*, Karthik Ramani_
 ##### Hands in Action Dataset
 - [Website](http://files.is.tue.mpg.de/dtzionas/Hand-Object-Capture/)
 - [Related Paper:](http://files.is.tue.mpg.de/dtzionas/Hand-Object-Capture/IJCV_Hand_Object_Capture.pdf) Capturing Hands in Action using Discriminative Salient Points and Physics Simulation, IJCV 2016 [\[PDF\]](http://files.is.tue.mpg.de/dtzionas/Hand-Object-Capture/IJCV_Hand_Object_Capture.pdf)
+
+##### HandNet Dataset (Fingertip)
+- [Website](http://www.cs.technion.ac.il/~twerd/HandNet/)
+- [Related Paper:](http://www.cs.technion.ac.il/~twerd/WetzlerSlossbergKimmel-BMVC15.pdf) Rule of Thumb: Deep Derotation for Improved Fingertip Detection, BMVC 2015 [\[PDF\]](http://www.cs.technion.ac.il/~twerd/WetzlerSlossbergKimmel-BMVC15.pdf)
 
 ##### MARA14 Dataset
 - [Website](https://jimmysuen.github.io/)
