@@ -24,6 +24,9 @@
 See folder [``evaluation``](https://github.com/xinghaochen/awesome-hand-pose-estimation/tree/master/evaluation) to get more details about performance evaluation for hand pose estimation.
 
 ## arXiv Papers
+##### [\[arXiv:1711.08996\]](https://arxiv.org/abs/1711.08996) Dense 3D Regression for Hand Pose Estimation. [\[PDF\]](https://arxiv.org/pdf/1711.08996.pdf)  [\[Code\]](https://github.com/melonwan/denseReg)
+_Chengde Wan, Thomas Probst, Luc Van Gool, Angela Yao_
+
 ##### [\[arXiv:1711.07399\]](https://arxiv.org/abs/1711.07399) V2V-PoseNet: Voxel-to-Voxel Prediction Network for Accurate 3D Hand and Human Pose Estimation from a Single Depth Map. [\[PDF\]](https://arxiv.org/pdf/1711.07399.pdf)
 _Gyeongsik Moon, Ju Yong Chang, Kyoung Mu Lee_
 
