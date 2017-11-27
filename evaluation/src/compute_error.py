@@ -18,15 +18,14 @@ FONT_SIZE_XLABEL= 15
 FONT_SIZE_YLABEL= 15
 FONT_SIZE_LEGEND = 11.8
 FONT_SIZE_TICK = 11.8
-fig = plt.figure(figsize=(16, 6))
-fig2 = plt.figure(figsize=(16, 6))
+
 
 def print_usage():
     print('usage: {} icvl/nyu/msra max-frame/mean-frame/joint method_name in_file'.format(sys.argv[0]))
     exit(-1)
 
 
-def draw_error_bar(dataset, errs, eval_names):
+def draw_error_bar(dataset, errs, eval_names, fig):
     if dataset == 'icvl':
         joint_idx = range(17)
         names = ['Palm', 'Thumb.R', 'Thumb.M', 'Thumb.T', 'Index.R', 'Index.M', 'Index.T', 'Mid.R', 'Mid.M', 'Mid.T', 'Ring.R', 'Ring.M', 'Ring.T', 'Pinky.R', 'Pinky.M', 'Pinky.T', 'Mean']
@@ -80,7 +79,7 @@ def draw_error_bar(dataset, errs, eval_names):
     fig.tight_layout()
 
 
-def draw_error_curve(errs, eval_names, metric_type):
+def draw_error_curve(errs, eval_names, metric_type, fig):
     eval_num = len(errs)
     thresholds = np.arange(0, 85, 1)
     results = np.zeros(thresholds.shape+(eval_num,))
@@ -140,7 +139,8 @@ def draw_error_curve(errs, eval_names, metric_type):
     labelsize=FONT_SIZE_TICK)
     fig.tight_layout()    
 
-def draw_viewpoint_error_curve(dataset, errs, eval_names, viewpoint, yp_idx):
+
+def draw_viewpoint_error_curve(dataset, errs, eval_names, viewpoint, yp_idx, fig2):
     jet = plt.get_cmap('jet') 
     eval_num = len(errs)
     values = range(eval_num)
@@ -205,8 +205,9 @@ def draw_viewpoint_error_curve(dataset, errs, eval_names, viewpoint, yp_idx):
     bottom='off',      # ticks along the bottom edge are off
     left='off',         # ticks along the top edge are off
     labelsize=FONT_SIZE_TICK)
-    fig.tight_layout()
-    
+    fig2.tight_layout()
+
+
 def main():
     if len(sys.argv) < 3:
         print_usage()
@@ -225,23 +226,25 @@ def main():
         err = get_errors(dataset, in_file)
         eval_errs.append(err)
 
+    fig = plt.figure(figsize=(16, 6))
     plt.figure(fig.number)
-    draw_error_bar(dataset, eval_errs, eval_names)
+    draw_error_bar(dataset, eval_errs, eval_names, fig)
     #plt.savefig('figures/{}_error_bar.png'.format(dataset))
-    draw_error_curve(eval_errs, eval_names, metric_type)
+    draw_error_curve(eval_errs, eval_names, metric_type, fig)
     plt.savefig('figures/{}_error.png'.format(dataset))
     
-    plt.figure(fig2.number)
     # msra viewpoint
     if dataset == 'msra':
+        fig2 = plt.figure(figsize=(16, 6))
+        plt.figure(fig2.number)
         # see https://github.com/xinghaochen/region-ensemble-network/blob/master/evaluation/get_angle.py
         # for how to calculate yaw and pitch angles for MSRA dataset
         msra_viewpoint = get_msra_viewpoint('groundtruth/{}/{}_angle.txt'.format(dataset, dataset))
         # yaw
-        draw_viewpoint_error_curve(dataset, eval_errs, eval_names, msra_viewpoint, 0)
+        draw_viewpoint_error_curve(dataset, eval_errs, eval_names, msra_viewpoint, 0, fig2)
         #plt.savefig('figures/{}_yaw.pdf'.format(dataset))
         # pitch
-        draw_viewpoint_error_curve(dataset, eval_errs, eval_names, msra_viewpoint, 1)
+        draw_viewpoint_error_curve(dataset, eval_errs, eval_names, msra_viewpoint, 1, fig2)
         plt.savefig('figures/{}_yaw_pitch.png'.format(dataset))
         
     plt.show()
