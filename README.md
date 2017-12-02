@@ -39,7 +39,7 @@ _Xinghao Chen, Guijin Wang, Hengkai Guo, Cairong Zhang_
 ##### [\[arXiv:1707.07248\]](https://arxiv.org/abs/1707.07248) Towards Good Practices for Deep 3D Hand Pose Estimation. [\[PDF\]](https://arxiv.org/pdf/1707.07248.pdf) [\[Code\]](https://github.com/guohengkai/region-ensemble-network)
 _Hengkai Guo, Guijin Wang, Xinghao Chen, Cairong Zhang_
 
-##### [\[arXiv:1707.03742\]](https://arxiv.org/abs/1707.03742) Large-scale Multiview 3D Hand Pose Dataset. [\[PDF\]](https://arxiv.org/pdf/1707.03742.pdf)
+##### [\[arXiv:1707.03742\]](https://arxiv.org/abs/1707.03742) Large-scale Multiview 3D Hand Pose Dataset. [\[PDF\]](https://arxiv.org/pdf/1707.03742.pdf)  [\[Project Page\]](http://www.rovit.ua.es/dataset/mhpdataset/)
 _Francisco Gomez-Donoso, Sergio Orts-Escolano and Miguel Cazorla_
 
 ##### [\[arXiv:1705.09606\]](https://arxiv.org/abs/1705.09606) End-to-end Global to Local CNN Learning for Hand Pose Recovery in Depth data. [\[PDF\]](https://arxiv.org/pdf/1705.09606.pdf)
@@ -102,7 +102,7 @@ _Endri Dibra\*, Thomas Wolf\*, Cengiz Öztireli, Markus Gross_
 *Jiawei Zhang, Jianbo Jiao, Mingliang Chen, Liangqiong Qu, Xiaobin Xu, and Qingxiong Yang*
 
 ##### [2017 SIGGRAPH Asia] Articulated distance fields for ultra-fast tracking of hands interacting. [\[PDF\]](https://dl.acm.org/citation.cfm?id=3130853)
-_Jonathan Taylor\∗, Vladimir Tankovich\∗, Danhang Tang\∗, Cem Keskin\∗, David Kim, Philip Davidson, Adarsh Kowdle, Shahram Izadi_
+_Jonathan Taylor\*, Vladimir Tankovich\*, Danhang Tang\*, Cem Keskin\*, David Kim, Philip Davidson, Adarsh Kowdle, Shahram Izadi_
 
 ##### [2017 SIGGRAPH Asia] Online Generative Model Personalization for Hand Tracking. [\[PDF\]](http://lgg.epfl.ch/publications/2017/HOnline/paper.pdf)  [\[Project Page\]](http://lgg.epfl.ch/publications/2017/HOnline/index.php)
 _Anastasia Tkach\*, Andrea Tagliasacchi\*, Edoardo Remelli, Mark Pauly, Andrew Fitzgibbon_
