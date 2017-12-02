@@ -82,7 +82,7 @@ _Paschalis Panteleris, Antonis Argyros_
 ##### Hand Keypoint Detection in Single Images using Multiview Bootstrapping. [\[PDF\]](https://arxiv.org/pdf/1704.07809) [\[Project Page\]](http://www.cs.cmu.edu/~tsimon/projects/mvbs.html) [\[Code\]](https://github.com/CMU-Perceptual-Computing-Lab/openpose)
 *Tomas Simon, Hanbyul Joo, Iain Matthews, Yaser Sheikh*
 
-##### Crossing Nets: Combining GANs and VAEs with a Shared Latent Space for Hand Pose Estimation. [\[PDF\]](http://openaccess.thecvf.com/content_cvpr_2017/papers/Wan_Crossing_Nets_Combining_CVPR_2017_paper.pdf)
+##### Crossing Nets: Combining GANs and VAEs with a Shared Latent Space for Hand Pose Estimation. [\[PDF\]](http://openaccess.thecvf.com/content_cvpr_2017/papers/Wan_Crossing_Nets_Combining_CVPR_2017_paper.pdf) [\[Code\]](https://github.com/melonwan/crossingNet)
 *Chengde Wan, Thomas Probst, Luc Van Gool, Angela Yao*
 
 ##### Big Hand 2.2M Benchmark: Hand Pose Data Set and State of the Art Analysis. [\[PDF\]](http://www.iis.ee.ic.ac.uk/ComputerVision/docs/pubs/Shanxin_CVPR_2017.pdf)
@@ -100,6 +100,9 @@ _Endri Dibra\*, Thomas Wolf\*, Cengiz Öztireli, Markus Gross_
 
 ##### [2017 ICIP] A Hand Pose Tracking Benchmark from Stereo Matching. [\[PDF\]](http://www.cs.cityu.edu.hk/~jianbjiao2/pdfs/icip.pdf)  [\[Project Page\]](https://sites.google.com/site/zhjw1988/)
 *Jiawei Zhang, Jianbo Jiao, Mingliang Chen, Liangqiong Qu, Xiaobin Xu, and Qingxiong Yang*
+
+##### [2017 SIGGRAPH Asia] Articulated distance fields for ultra-fast tracking of hands interacting. [\[PDF\]](https://dl.acm.org/citation.cfm?id=3130853)
+_Jonathan Taylor\∗, Vladimir Tankovich\∗, Danhang Tang\∗, Cem Keskin\∗, David Kim, Philip Davidson, Adarsh Kowdle, Shahram Izadi_
 
 ##### [2017 SIGGRAPH Asia] Online Generative Model Personalization for Hand Tracking. [\[PDF\]](http://lgg.epfl.ch/publications/2017/HOnline/paper.pdf)  [\[Project Page\]](http://lgg.epfl.ch/publications/2017/HOnline/index.php)
 _Anastasia Tkach\*, Andrea Tagliasacchi\*, Edoardo Remelli, Mark Pauly, Andrew Fitzgibbon_
@@ -255,7 +258,7 @@ _Ayan Sinha\*, Chiho Choi\*, Karthik Ramani_
 ##### \[2016 IJCV\] Lie-X: Depth Image Based Articulated Object Pose Estimation, Tracking, and Action Recognition on Lie Groups. [\[PDF\]](http://web.bii.a-star.edu.sg/~xuchi/pdf/XuEtAl_IJCV16.pdf) [\[Project Page\]](http://web.bii.a-star.edu.sg/~xuchi/dhand.htm)
 *Chi Xu, Lakshmi Narasimhan Govindarajan, Yu Zhang, Li Cheng*
 
-##### \[2016 TPAMI\] Latent Regression Forest: Structured Estimation of 3D Hand Poses.
+##### \[2016 TPAMI\] Latent Regression Forest: Structured Estimation of 3D Hand Poses. [\[PDF\]](http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7539555)
 *Danhang Tang, Hyung Chang, Alykhan Tejani, Tae-Kyun Kim*
 
 ##### \[2016 CVIU\] Guided Optimisation through Classification and Regression for Hand Pose Estimation. [\[PDF\]](http://www.krejov.com/uploads/2/4/0/5/24053627/1-s2.0-s107731421630193x-main.pdf) [\[Project Page\]](http://www.krejov.com/hand-pose-estimation.html)
