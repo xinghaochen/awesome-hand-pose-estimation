@@ -24,6 +24,9 @@
 See folder [``evaluation``](https://github.com/xinghaochen/awesome-hand-pose-estimation/tree/master/evaluation) to get more details about performance evaluation for hand pose estimation.
 
 ## arXiv Papers
+##### [\[arXiv:1712.01057\]](https://arxiv.org/abs/1712.01057) GANerated Hands for Real-Time 3D Hand Tracking from Monocular RGB. [\[PDF\]](https://arxiv.org/pdf/1712.01057.pdf)
+_Franziska Mueller, Florian Bernard, Oleksandr Sotnychenko, Dushyant Mehta, Srinath Sridhar, Dan Casas, Christian Theobalt_
+
 ##### [\[arXiv:1711.10872\]](https://arxiv.org/abs/1711.10872) Occlusion-aware Hand Pose Estimation Using Hierarchical Mixture Density Network. [\[PDF\]](https://arxiv.org/pdf/1711.10872.pdf)
 _Qi Ye, Tae-Kyun Kim_
 
