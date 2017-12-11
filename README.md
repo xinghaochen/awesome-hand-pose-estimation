@@ -95,6 +95,10 @@ _Shanxin Yuan\*, Qi Ye\*, Bjorn Stenger, Siddhand Jain, Tae-Kyun Kim_
 *Liuhao Ge, Hui Liang, Junsong Yuan and Daniel Thalmann*
 
 ### 2017 Others
+
+##### [2017 3DV] Simultaneous Hand Pose and Skeleton Bone-Lengths Estimation from a Single Depth Image. [\[PDF\]](https://arxiv.org/pdf/1712.03121.pdf)
+_Jameel Malik, Ahmed Elhayek, Didier Stricker_
+
 ##### [2017 3DV] How to Refine 3D Hand Pose Estimation from Unlabelled Depth Data? [\[PDF\]](https://graphics.ethz.ch/~edibra/Publications/How%20to%20Refine%203D%20Hand%20Pose%20Estimation%20from%20Unlabelled%20Depth%20Data.pdf)
 _Endri Dibra\*, Thomas Wolf\*, Cengiz Öztireli, Markus Gross_
 
