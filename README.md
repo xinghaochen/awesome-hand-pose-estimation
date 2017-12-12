@@ -24,6 +24,12 @@
 See folder [``evaluation``](https://github.com/xinghaochen/awesome-hand-pose-estimation/tree/master/evaluation) to get more details about performance evaluation for hand pose estimation.
 
 ## arXiv Papers
+##### [\[arXiv:1712.03917\]](https://arxiv.org/abs/1712.03917) 3D Hand Pose Estimation: From Current Achievements to Future Goals. [\[PDF\]](https://arxiv.org/pdf/1712.03917.pdf)
+_Shanxin Yuan, Guillermo Garcia-Hernando, Bjorn Stenger, Gyeongsik Moon, Ju Yong Chang, Kyoung Mu Lee, Pavlo Molchanov, Jan Kautz, Sina Honari, Liuhao Ge, Junsong Yuan, Xinghao Chen, Guijin Wang, Fan Yang, Kai Akiyama, Yang Wu, Qingfu Wan, Meysam Madadi, Sergio Escalera, Shile Li, Dongheui Lee, Iason Oikonomidis, Antonis Argyros, Tae-Kyun Kim_
+
+##### [\[arXiv:1712.03866\]](https://arxiv.org/abs/1712.03866) Using a single RGB frame for real time 3D hand pose estimation in the wild. [\[PDF\]](https://arxiv.org/pdf/1712.03866.pdf)
+_Paschalis Panteleris, Iason Oikonomidis, Antonis Argyros_
+
 ##### [\[arXiv:1712.01057\]](https://arxiv.org/abs/1712.01057) GANerated Hands for Real-Time 3D Hand Tracking from Monocular RGB. [\[PDF\]](https://arxiv.org/pdf/1712.01057.pdf)
 _Franziska Mueller, Florian Bernard, Oleksandr Sotnychenko, Dushyant Mehta, Srinath Sridhar, Dan Casas, Christian Theobalt_
 
