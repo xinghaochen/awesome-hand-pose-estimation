@@ -268,16 +268,22 @@ _Ayan Sinha\*, Chiho Choi\*, Karthik Ramani_
 
 ## Journal Papers
 
+##### \[2017 TCYB\] Hough Forest with Optimized Leaves for Global Hand Pose Estimation with Arbitrary Postures. [\[PDF\]](http://ieeexplore.ieee.org/abstract/document/7955084/)
+*Hui Liang, Junsong Yuan, J. Lee, Liuhao Ge and Daniel Thalmann*
+
+##### \[2017 TCSVT\] Robust RGB-D Hand Tracking Using Deep Learning Priors. [\[PDF\]](http://ieeexplore.ieee.org/abstract/document/7955084/)
+*Jordi Sanchez-Riera, Kathiravan Srinivasan, Kai-Lung Hua, Wen-Huang Cheng, M. Anwar Hossain, and Mohammed F. Alhamid*
+
 ##### [2017 CVIU] Hand Pose Estimation through Semi-Supervised and Weakly-Supervised Learning. [\[PDF\]](https://arxiv.org/pdf/1511.06728.pdf)
 *Natalia Neverova, Christian Wolf, Florian Nebout, Graham Taylor*
 
-##### \[2017 Neurocomputing\] Multi-task, Multi-domain Learning: application to semantic segmentation and pose regression.
+##### \[2017 Neurocomputing\] Multi-task, Multi-domain Learning: application to semantic segmentation and pose regression. [\[PDF\]](http://liris.cnrs.fr/christian.wolf/papers/neurocomputing2017.pdf)
 *Damien Foururea, Rémi Emonet, Elisa Fromont, Damien Muselet, Natalia Neverova, Alain Trémeaua, Christian Wolf*
 
 ##### \[2016 IJCV\] Capturing Hands in Action using Discriminative Salient Points and Physics Simulation. [\[PDF\]](http://files.is.tue.mpg.de/dtzionas/Hand-Object-Capture/IJCV_Hand_Object_Capture.pdf) [\[Project Page\]](http://files.is.tue.mpg.de/dtzionas/Hand-Object-Capture/)
-*Tzionas, D., Ballan, L., Srikantha, A., Aponte, P., Pollefeys, M., Gall, J.*
+*Dimitrios Tzionas, Luca Ballan, Abhilash Srikantha, Pablo Aponte, Marc Pollefeys, Juergen Gall*
 
-##### \[2016 IJCV\] Lie-X: Depth Image Based Articulated Object Pose Estimation, Tracking, and Action Recognition on Lie Groups. [\[PDF\]](http://web.bii.a-star.edu.sg/~xuchi/pdf/XuEtAl_IJCV16.pdf) [\[Project Page\]](http://web.bii.a-star.edu.sg/~xuchi/dhand.htm)
+##### \[2016 IJCV\] Lie-X: Depth Image Based Articulated Object Pose Estimation, Tracking, and Action Recognition on Lie Groups. [\[PDF\]](https://arxiv.org/pdf/1609.03773.pdf) [\[Project Page\]](https://web.bii.a-star.edu.sg/archive/machine_learning/Projects/behaviorAnalysis/Lie-X/Lie-X.html)
 *Chi Xu, Lakshmi Narasimhan Govindarajan, Yu Zhang, Li Cheng*
 
 ##### \[2016 TPAMI\] Latent Regression Forest: Structured Estimation of 3D Hand Poses. [\[PDF\]](http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7539555)
