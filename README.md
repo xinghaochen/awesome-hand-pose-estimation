@@ -268,7 +268,7 @@ _Ayan Sinha\*, Chiho Choi\*, Karthik Ramani_
 
 ## Journal Papers
 
-##### \[2017 TCYB\] Hough Forest with Optimized Leaves for Global Hand Pose Estimation with Arbitrary Postures. [\[PDF\]](http://ieeexplore.ieee.org/abstract/document/7955084/)
+##### \[2017 TCYB\] Hough Forest with Optimized Leaves for Global Hand Pose Estimation with Arbitrary Postures. [PDF]
 *Hui Liang, Junsong Yuan, J. Lee, Liuhao Ge and Daniel Thalmann*
 
 ##### \[2017 TCSVT\] Robust RGB-D Hand Tracking Using Deep Learning Priors. [\[PDF\]](http://ieeexplore.ieee.org/abstract/document/7955084/)
