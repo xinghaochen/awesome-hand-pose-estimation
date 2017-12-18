@@ -30,7 +30,7 @@ def get_positions_from_mat(in_file, dataset):
         pred_xyz = np.asarray(data['P0_xyz_estimation'])
         for test_id in xrange(1, 9):
             pred_xyz_test_id = np.asarray(data['P{}_xyz_estimation'.format(test_id)])
-            print pred_xyz_test_id.shape
+            #print pred_xyz_test_id.shape
             pred_xyz = np.concatenate((pred_xyz, pred_xyz_test_id), axis=0)
     return np.asarray(pred_xyz)
 
@@ -51,8 +51,10 @@ def main():
     in_file = sys.argv[2]
     out_file = sys.argv[3]
     joints_xyz = get_positions_from_mat(in_file, dataset)
-    # to deal with annoying camera intrinsic parameters
-    joints_xyz[:, :, 1:] = -joints_xyz[:, :, 1:]
+	
+    if dataset == 'msra':
+        # to deal with annoying camera intrinsic parameters
+        joints_xyz[:, :, 1:] = -joints_xyz[:, :, 1:]
     
     params = get_param(dataset)
     joints_uvd = world2pixel(joints_xyz, *params)
