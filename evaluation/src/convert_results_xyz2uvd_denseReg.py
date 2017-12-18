@@ -1,3 +1,15 @@
+'''
+This script convert the predicted labels of denseReg to uvd format.
+
+Predicted labels:
+    https://github.com/melonwan/denseReg/blob/master/exp/result/
+
+Ref:
+    Chengde Wan, Thomas Probst, Luc Van Gool, and Angela Yao, 
+    "Dense 3D Regression for Hand Pose Estimation." 
+    arXiv preprint arXiv:1707.1711.08996 (arXiv) 2017.
+'''
+
 import os
 import sys
 import numpy as np

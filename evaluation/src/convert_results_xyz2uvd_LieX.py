@@ -1,3 +1,15 @@
+'''
+This script convert the predicted labels of LieX to uvd format.
+
+Predicted labels:
+    https://web.bii.a-star.edu.sg/archive/machine_learning/Projects/behaviorAnalysis/Lie-X/Lie-X/lie_hand_jnts_estm_result.txt
+
+Ref:
+    Chi Xu, Lakshmi Narasimhan Govindarajan, Yu Zhang, and Li Cheng, 
+    "Lie-X: Depth Image Based Articulated Object Pose Estimation, Tracking, and Action Recognition on Lie Groups."
+    International Journal of Computer Vision (IJCV) 2017.
+'''
+
 import os
 import sys
 import numpy as np

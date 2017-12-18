@@ -9,4 +9,5 @@ python src/compute_error.py nyu max-frame\
     REN-9x6x6   results/nyu/arXiv17_NYU_Guo_REN_9x6x6.txt\
 	DeepPrior++   results/nyu/ICCVW17_NYU_DeepPrior++.txt\
     Pose-REN   results/nyu/arXiv17_NYU_Pose_REN.txt\
-	DenseReg   results/nyu/arXiv17_NYU_denseReg.txt
+	DenseReg   results/nyu/arXiv17_NYU_denseReg.txt\
+	3DCNN   results/nyu/CVPR17_NYU_3DCNN.txt

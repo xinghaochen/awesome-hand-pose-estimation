@@ -1,0 +1,2 @@
+python src/convert_results_xyz2uvd_3DCNN.py nyu results/nyu/CVPR17_NYU_3DCNN_ori.mat results/nyu/CVPR17_NYU_3DCNN.txt
+python src/convert_results_xyz2uvd_3DCNN.py msra results/msra/CVPR17_MSRA_3DCNN_ori.mat results/msra/CVPR17_MSRA_3DCNN.txt
