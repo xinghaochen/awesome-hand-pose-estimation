@@ -100,7 +100,7 @@ _Paschalis Panteleris, Antonis Argyros_
 ##### Crossing Nets: Combining GANs and VAEs with a Shared Latent Space for Hand Pose Estimation. [\[PDF\]](http://openaccess.thecvf.com/content_cvpr_2017/papers/Wan_Crossing_Nets_Combining_CVPR_2017_paper.pdf) [\[Code\]](https://github.com/melonwan/crossingNet)
 *Chengde Wan, Thomas Probst, Luc Van Gool, Angela Yao*
 
-##### Big Hand 2.2M Benchmark: Hand Pose Data Set and State of the Art Analysis. [\[PDF\]](http://www.iis.ee.ic.ac.uk/ComputerVision/docs/pubs/Shanxin_CVPR_2017.pdf)
+##### Big Hand 2.2M Benchmark: Hand Pose Data Set and State of the Art Analysis. [\[PDF\]](https://labicvl.github.io/docs/pubs/Shanxin_CVPR_2017.pdf)
 _Shanxin Yuan\*, Qi Ye\*, Bjorn Stenger, Siddhand Jain, Tae-Kyun Kim_
 
 ##### 3D Convolutional Neural Networks for Efficient and Robust Hand Pose Estimation from Single Depth Images.[\[PDF\]](http://eeeweba.ntu.edu.sg/computervision/Research%20Papers/2017/3D%20Convolutional%20Neural%20Networks%20for%20Efficient%20and%20Robust%20Hand%20Pose%20Estimation%20from%20Single%20Depth%20Images.pdf) [\[Project Page\]](https://sites.google.com/site/geliuhaontu/home/cvpr2017)
@@ -145,7 +145,7 @@ _Javier Romero\*, Dimitrios Tzionas\* and Michael J. Black_
 *Duncan Goudie, Aphrodite Galata*
 
 ### 2016 ECCV
-##### Spatial Attention Deep Net with Partial PSO for Hierarchical Hybrid Hand Pose Estimation. [\[PDF\]](http://www.iis.ee.ic.ac.uk/ComputerVision/docs/pubs/Qi_Shanxin_ECCV_2016.pdf) [\[Project Page\]](https://sites.google.com/site/qiyeincv/home/eccv2016)
+##### Spatial Attention Deep Net with Partial PSO for Hierarchical Hybrid Hand Pose Estimation. [\[PDF\]](https://labicvl.github.io/docs/pubs/Qi_Shanxin_ECCV_2016.pdf) [\[Project Page\]](https://sites.google.com/site/qiyeincv/home/eccv2016)
 _Qi Ye\*, Shanxin Yuan\*, Tae-Kyun Kim_
 
 ##### Hand Pose Estimation from Local Surface Normals. [\[PDF\]](http://www.vision.ee.ethz.ch/~yaoa/pdfs/wan_eccv16.pdf)
@@ -332,16 +332,17 @@ _Ayan Sinha\*, Chiho Choi\*, Karthik Ramani_
 - [Related Paper:](http://cims.nyu.edu/~tompson/others/TOG_2014_paper_PREPRINT.pdf) Real-Time Continuous Pose Recovery of Human Hands Using Convolutional Networks, SIGGRAPH 2014 [\[PDF\]](http://cims.nyu.edu/~tompson/others/TOG_2014_paper_PREPRINT.pdf)
 
 ##### ICVL Dataset
-- [Website](http://www.iis.ee.ic.ac.uk/dtang/hand.html)
-- [Related Paper:](http://www.iis.ee.ic.ac.uk/dtang/cvpr_14.pdf) Latent regression forest: Structured estimation of 3d articulated hand posture, CVPR 2014 [\[PDF\]](http://www.iis.ee.ic.ac.uk/dtang/cvpr_14.pdf)
+- [Website](https://labicvl.github.io/hand.html)
+- [Related Paper:](https://labicvl.github.io/docs/pubs/Danny_CVPR_2014.pdf) Latent regression forest: Structured estimation of 3d articulated hand posture, CVPR 2014 [\[PDF\]](https://labicvl.github.io/docs/pubs/Danny_CVPR_2014.pdf)
 
 ##### MARA15 Dataset
 - [Website](https://jimmysuen.github.io/)
+- [Link](https://github.com/geliuhao/CVPR2016_HandPoseEstimation/issues/4)
 - [Related Paper:](http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Sun_Cascaded_Hand_Pose_2015_CVPR_paper.pdf) Cascaded Hand Pose Regression, CVPR 2015 [\[PDF\]](http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Sun_Cascaded_Hand_Pose_2015_CVPR_paper.pdf)
 
 ##### BigHand2.2M Benchmark
 - Website
-- [Related Paper:](http://www.iis.ee.ic.ac.uk/ComputerVision/docs/pubs/Shanxin_CVPR_2017.pdf) Big Hand 2.2M Benchmark: Hand Pose Data Set and State of the Art Analysis, CVPR 2017 [\[PDF\]](http://www.iis.ee.ic.ac.uk/ComputerVision/docs/pubs/Shanxin_CVPR_2017.pdf)
+- [Related Paper:](https://labicvl.github.io/docs/pubs/Shanxin_CVPR_2017.pdf) Big Hand 2.2M Benchmark: Hand Pose Data Set and State of the Art Analysis, CVPR 2017 [\[PDF\]](https://labicvl.github.io/docs/pubs/Shanxin_CVPR_2017.pdf)
 
 ##### MARC (FingerPaint) Dataset
 - [Website](https://www.microsoft.com/en-us/download/details.aspx?id=52288)
@@ -372,7 +373,7 @@ _Ayan Sinha\*, Chiho Choi\*, Karthik Ramani_
 - [Related Paper:](http://www.cv-foundation.org/openaccess/content_iccv_2013/papers/Xu_Efficient_Hand_Pose_2013_ICCV_paper.pdf) Efficient hand pose estimation from a single depth image, ICCV 2013 [\[PDF\]](http://www.cv-foundation.org/openaccess/content_iccv_2013/papers/Xu_Efficient_Hand_Pose_2013_ICCV_paper.pdf)
 
 **Credits:**
-- [1] Big Hand 2.2M Benchmark: Hand Pose Data Set and State of the Art Analysis, CVPR 2017 [\[PDF\]](http://www.iis.ee.ic.ac.uk/ComputerVision/docs/pubs/Shanxin_CVPR_2017.pdf)
+- [1] Big Hand 2.2M Benchmark: Hand Pose Data Set and State of the Art Analysis, CVPR 2017 [\[PDF\]](https://labicvl.github.io/docs/pubs/Shanxin_CVPR_2017.pdf)
 - [2] http://arrummzen.net/#HandData
 - [3] Capturing Hand-Object Interaction and Reconstruction of Manipulated Objects. [\[PDF\]](http://ps.is.tue.mpg.de/uploads_file/attachment/attachment/340/Thesis_FINAL_online.pdf)
 
