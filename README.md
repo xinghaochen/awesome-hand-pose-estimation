@@ -1,4 +1,4 @@
-# Awesome Works on Hand Pose Estimation
+# Awesome Work on Hand Pose Estimation
 
 ## Table of Contents
  - [arXiv Papers](#arxiv-papers)
