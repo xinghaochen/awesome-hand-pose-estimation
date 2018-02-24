@@ -3,6 +3,7 @@
 ## Table of Contents
  - [arXiv Papers](#arxiv-papers)
  - [Conference Papers](#conference-papers)
+   - [2018 CVPR](#2018-cvpr)
    - [2017 ICCV](#2017-iccv)
    - [2017 CVPR](#2017-cvpr)
    - [2017 Others](#2017-others)
@@ -26,9 +27,6 @@ See folder [``evaluation``](https://github.com/xinghaochen/awesome-hand-pose-est
 ## arXiv Papers
 ##### [\[arXiv:1712.03904\]](https://arxiv.org/abs/1712.03904) Feature Mapping for Learning Fast and Accurate 3D Pose Inference from Synthetic Images. [\[PDF\]](https://arxiv.org/pdf/1712.03904.pdf)
 _Mahdi Rad, Markus Oberweger, Vincent Lepetit_
-
-##### [\[arXiv:1712.03917\]](https://arxiv.org/abs/1712.03917) 3D Hand Pose Estimation: From Current Achievements to Future Goals. [\[PDF\]](https://arxiv.org/pdf/1712.03917.pdf)
-_Shanxin Yuan, Guillermo Garcia-Hernando, Bjorn Stenger, Gyeongsik Moon, Ju Yong Chang, Kyoung Mu Lee, Pavlo Molchanov, Jan Kautz, Sina Honari, Liuhao Ge, Junsong Yuan, Xinghao Chen, Guijin Wang, Fan Yang, Kai Akiyama, Yang Wu, Qingfu Wan, Meysam Madadi, Sergio Escalera, Shile Li, Dongheui Lee, Iason Oikonomidis, Antonis Argyros, Tae-Kyun Kim_
 
 ##### [\[arXiv:1712.03866\]](https://arxiv.org/abs/1712.03866) Using a single RGB frame for real time 3D hand pose estimation in the wild. [\[PDF\]](https://arxiv.org/pdf/1712.03866.pdf)
 _Paschalis Panteleris, Iason Oikonomidis, Antonis Argyros_
@@ -67,6 +65,10 @@ _Xiaoming Deng\*, Shuo Yang\*, Yinda Zhang\*, Ping Tan, Liang Chang, Hongan Wang
 *Jiawei Zhang, Jianbo Jiao, Mingliang Chen, Liangqiong Qu, Xiaobin Xu, Qingxiong Yang*
 
 ## Conference Papers
+
+### 2018 CVPR
+##### 3D Hand Pose Estimation: From Current Achievements to Future Goals. [\[PDF\]](https://arxiv.org/pdf/1712.03917.pdf)
+_Shanxin Yuan, Guillermo Garcia-Hernando, Bjorn Stenger, Gyeongsik Moon, Ju Yong Chang, Kyoung Mu Lee, Pavlo Molchanov, Jan Kautz, Sina Honari, Liuhao Ge, Junsong Yuan, Xinghao Chen, Guijin Wang, Fan Yang, Kai Akiyama, Yang Wu, Qingfu Wan, Meysam Madadi, Sergio Escalera, Shile Li, Dongheui Lee, Iason Oikonomidis, Antonis Argyros, Tae-Kyun Kim_
 
 ### 2017 ICCV
 ##### Learning to Estimate 3D Hand Pose from Single RGB Images. [\[PDF\]](https://arxiv.org/pdf/1705.01389.pdf)  [\[Project Page\]](https://lmb.informatik.uni-freiburg.de/projects/hand3d/)   [\[Code\]](https://github.com/lmb-freiburg/hand3d)
@@ -392,7 +394,7 @@ The 2017 Hands in the Million Challenge on 3D Hand Pose Estimation, [arXiv:1704.
 ##### [\[arXiv:1801.01615\]](https://arxiv.org/abs/1801.01615) Total Capture: A 3D Deformation Model for Tracking Faces, Hands, and Bodies. [\[PDF\]](https://arxiv.org/pdf/1801.01615.pdf)
 *Hanbyul Joo, Tomas Simon, Yaser Sheikh*
 
-##### [\[arXiv:1704.02463\]](https://arxiv.org/abs/1704.02463) First-Person Hand Action Benchmark with RGB-D Videos and 3D Hand Pose Annotations. [\[PDF\]](https://arxiv.org/pdf/1704.02463.pdf)
+##### \[2018 CVPR\] First-Person Hand Action Benchmark with RGB-D Videos and 3D Hand Pose Annotations. [\[PDF\]](https://arxiv.org/pdf/1704.02463.pdf)
 *Guillermo Garcia-Hernando, Shanxin Yuan, Seungryul Baek, Tae-Kyun Kim*
 
 ##### \[2017 CVPR\] SurfNet: Generating 3D shape surfaces using deep residual networks. [\[PDF\]](https://engineering.purdue.edu/cdesign/wp/wp-content/uploads/2017/03/Sinha_CVPR17.pdf)
