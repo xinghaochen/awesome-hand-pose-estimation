@@ -4,6 +4,7 @@
  - [arXiv Papers](#arxiv-papers)
  - [Conference Papers](#conference-papers)
    - [2018 CVPR](#2018-cvpr)
+   - [2018 Others](#2018-others)
    - [2017 ICCV](#2017-iccv)
    - [2017 CVPR](#2017-cvpr)
    - [2017 Others](#2017-others)
@@ -27,9 +28,6 @@ See folder [``evaluation``](https://github.com/xinghaochen/awesome-hand-pose-est
 ## arXiv Papers
 ##### [\[arXiv:1712.03904\]](https://arxiv.org/abs/1712.03904) Feature Mapping for Learning Fast and Accurate 3D Pose Inference from Synthetic Images. [\[PDF\]](https://arxiv.org/pdf/1712.03904.pdf)
 _Mahdi Rad, Markus Oberweger, Vincent Lepetit_
-
-##### [\[arXiv:1712.03866\]](https://arxiv.org/abs/1712.03866) Using a single RGB frame for real time 3D hand pose estimation in the wild. [\[PDF\]](https://arxiv.org/pdf/1712.03866.pdf)
-_Paschalis Panteleris, Iason Oikonomidis, Antonis Argyros_
 
 ##### [\[arXiv:1712.01057\]](https://arxiv.org/abs/1712.01057) GANerated Hands for Real-Time 3D Hand Tracking from Monocular RGB. [\[PDF\]](https://arxiv.org/pdf/1712.01057.pdf)
 _Franziska Mueller, Florian Bernard, Oleksandr Sotnychenko, Dushyant Mehta, Srinath Sridhar, Dan Casas, Christian Theobalt_
@@ -69,6 +67,10 @@ _Xiaoming Deng\*, Shuo Yang\*, Yinda Zhang\*, Ping Tan, Liang Chang, Hongan Wang
 ### 2018 CVPR
 ##### 3D Hand Pose Estimation: From Current Achievements to Future Goals. [\[PDF\]](https://arxiv.org/pdf/1712.03917.pdf)
 _Shanxin Yuan, Guillermo Garcia-Hernando, Bjorn Stenger, Gyeongsik Moon, Ju Yong Chang, Kyoung Mu Lee, Pavlo Molchanov, Jan Kautz, Sina Honari, Liuhao Ge, Junsong Yuan, Xinghao Chen, Guijin Wang, Fan Yang, Kai Akiyama, Yang Wu, Qingfu Wan, Meysam Madadi, Sergio Escalera, Shile Li, Dongheui Lee, Iason Oikonomidis, Antonis Argyros, Tae-Kyun Kim_
+
+### 2018 Others
+##### [2018 WACV] Using a single RGB frame for real time 3D hand pose estimation in the wild. [\[PDF\]](https://arxiv.org/pdf/1712.03866.pdf)  [\[Project Page\]](http://users.ics.forth.gr/~argyros/res_rgbmonohand.html)
+_Paschalis Panteleris, Iason Oikonomidis, Antonis Argyros_
 
 ### 2017 ICCV
 ##### Learning to Estimate 3D Hand Pose from Single RGB Images. [\[PDF\]](https://arxiv.org/pdf/1705.01389.pdf)  [\[Project Page\]](https://lmb.informatik.uni-freiburg.de/projects/hand3d/)   [\[Code\]](https://github.com/lmb-freiburg/hand3d)
