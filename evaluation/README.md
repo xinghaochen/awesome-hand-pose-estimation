@@ -15,7 +15,7 @@ There are two types of evaluation metrics that are widely used for hand pose est
 
 ## Methods and corresponding predicted labels
 ### ICVL
-- LRF \[1\]: CVPR'14, [Predicted labels](http://www.iis.ee.ic.ac.uk/~dtang/dataset/Results.tar.gz)
+- LRF \[1\]: CVPR'14, [Predicted labels](https://imperialcollegelondon.app.box.com/s/xivvoc1njhop2wjpt05z5z5ol0gwi0vw)
 - DeepModel \[2\]: IJCAI'16, [Predicted labels](http://xingyizhou.xyz/IJCAI16_ICVL.txt)
 - Guo-Baseline \[3\]: ICIP'17, [Predicted labels](https://github.com/guohengkai/region-ensemble-network/blob/master/results/icvl_basic.txt)
 - REN-4x6x6 \[3\]: ICIP'17, [Predicted labels](https://github.com/guohengkai/region-ensemble-network/blob/master/results/icvl_ren_4x6x6.txt)
@@ -80,14 +80,14 @@ sh evaluate_{dataset}.sh
 ![figures/msra_error_bar.png](figures/msra_error.png)
 
 ## Reference
-- \[1\] Danhang Tang, Hyung Jin Chang, Alykhan Tejani, and Tae-Kyun Kim, "[Latent regression forest: Structured estimation of 3d articulated hand posture.](http://www.iis.ee.ic.ac.uk/dtang/cvpr_14.pdf)", Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**) 2014.
-- \[2\] Xingyi Zhou, Qingfu Wan, Wei Zhang, Xiangyang Xue, and Yichen Wei, "[Model-based deep hand pose estimation.](http://xingyizhou.xyz/zhou2016model.pdf)", Proceedings of the Twenty-Fifth International Joint Conference on Artificial Intelligence (**IJCAI**), 2016.
-- \[3\] Hengkai Guo, Guijin Wang, Xinghao Chen, Cairong Zhang, Fei Qiao, and Huazhong Yang, "[Region Ensemble Network: Improving Convolutional Network for Hand Pose Estimation.](https://arxiv.org/pdf/1702.02447.pdf)", Proceedings of the IEEE International Conference on Image Processing (**ICIP**) 2017.
-- \[4\] Markus Oberweger, Paul Wohlhart, and Vincent Lepetit, "[Hands deep in deep learning for hand pose estimation.](https://arxiv.org/pdf/1502.06807)", Computer Vision Winter Workshop (**CVWW**) 2015.
-- \[5\] Markus Oberweger, Paul Wohlhart, and Vincent Lepetit, "[Training a feedback loop for hand pose estimation.](https://arxiv.org/pdf/1609.09698)", Proceedings of the IEEE International Conference on Computer Vision (**ICCV**) 2015.
-- \[6\] Chi Xu, Lakshmi Narasimhan Govindarajan, Yu Zhang, and Li Cheng, "[Lie-X: Depth Image Based Articulated Object Pose Estimation, Tracking, and Action Recognition on Lie Groups.](https://arxiv.org/pdf/1609.03773)" International Journal of Computer Vision (**IJCV**) 2017.
-- \[7\] Hengkai Guo, Guijin Wang, Xinghao Chen, and Cairong Zhang, "[Towards Good Practices for Deep 3D Hand Pose Estimation.](https://arxiv.org/pdf/1707.07248.pdf)" arXiv preprint arXiv:1707.07248 (**arXiv**) 2017.
-- \[8\] Xinghao Chen, Guijin Wang, Hengkai Guo, and Cairong Zhang, "[Pose Guided Structured Region Ensemble Network for Cascaded Hand Pose Estimation.](https://arxiv.org/pdf/1708.03416)" arXiv preprint arXiv:1708.03416 (**arXiv**) 2017.
-- \[9\] Markus Oberweger, and Vincent Lepetit, "[DeepPrior++: Improving Fast and Accurate 3D Hand Pose Estimation.](https://www.tugraz.at/fileadmin/user_upload/Institute/ICG/Images/team_lepetit/publications/oberweger_iccvw17.pdf)", Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (**ICCVW**) 2017.
-- \[10\] Chengde Wan, Thomas Probst, Luc Van Gool, and Angela Yao, "[Dense 3D Regression for Hand Pose Estimation.](https://arxiv.org/pdf/1711.08996.pdf)" arXiv preprint arXiv:1707.1711.08996 (**arXiv**) 2017.
-- \[11\] Liuhao Ge, Hui Liang, Junsong Yuan and Daniel Thalmann, "[3D Convolutional Neural Networks for Efficient and Robust Hand Pose Estimation from Single Depth Images](https://drive.google.com/open?id=0B5nUFeZt3D19bzR3NXNURHc0Rkk)", Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**) 2017.
+- \[1\] "[Latent regression forest: Structured estimation of 3d articulated hand posture.](http://www.iis.ee.ic.ac.uk/dtang/cvpr_14.pdf)", Danhang Tang, Hyung Jin Chang, Alykhan Tejani, and Tae-Kyun Kim, Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**) 2014.
+- \[2\] "[Model-based Deep Hand Pose Estimation.](http://xingyizhou.xyz/zhou2016model.pdf)", Xingyi Zhou, Qingfu Wan, Wei Zhang, Xiangyang Xue, and Yichen Wei, Proceedings of the Twenty-Fifth International Joint Conference on Artificial Intelligence (**IJCAI**), 2016.
+- \[3\] "[Region Ensemble Network: Improving Convolutional Network for Hand Pose Estimation.](https://arxiv.org/pdf/1702.02447.pdf)", Hengkai Guo, Guijin Wang, Xinghao Chen, Cairong Zhang, Fei Qiao, and Huazhong Yang, Proceedings of the IEEE International Conference on Image Processing (**ICIP**) 2017.
+- \[4\] "[Hands Deep in Deep Learning for Hand Pose Estimation.](https://arxiv.org/pdf/1502.06807)", Markus Oberweger, Paul Wohlhart, and Vincent Lepetit, Computer Vision Winter Workshop (**CVWW**) 2015.
+- \[5\] "[Training a Feedback Loop for Hand Pose Estimation.](https://arxiv.org/pdf/1609.09698)", Markus Oberweger, Paul Wohlhart, and Vincent Lepetit, Proceedings of the IEEE International Conference on Computer Vision (**ICCV**) 2015.
+- \[6\] "[Lie-X: Depth Image Based Articulated Object Pose Estimation, Tracking, and Action Recognition on Lie Groups.](https://arxiv.org/pdf/1609.03773)", Chi Xu, Lakshmi Narasimhan Govindarajan, Yu Zhang, and Li Cheng, International Journal of Computer Vision (**IJCV**) 2017.
+- \[7\] "[Towards Good Practices for Deep 3D Hand Pose Estimation.](https://arxiv.org/pdf/1707.07248.pdf)", Hengkai Guo, Guijin Wang, Xinghao Chen, and Cairong Zhang, arXiv preprint arXiv:1707.07248 (**arXiv**) 2017.
+- \[8\] "[Pose Guided Structured Region Ensemble Network for Cascaded Hand Pose Estimation.](https://arxiv.org/pdf/1708.03416)", Xinghao Chen, Guijin Wang, Hengkai Guo, and Cairong Zhang, arXiv preprint arXiv:1708.03416 (**arXiv**) 2017.
+- \[9\] "[DeepPrior++: Improving Fast and Accurate 3D Hand Pose Estimation.](https://www.tugraz.at/fileadmin/user_upload/Institute/ICG/Images/team_lepetit/publications/oberweger_iccvw17.pdf)", Markus Oberweger, and Vincent Lepetit, Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (**ICCVW**) 2017.
+- \[10\] "[Dense 3D Regression for Hand Pose Estimation.](https://arxiv.org/pdf/1711.08996.pdf)", Chengde Wan, Thomas Probst, Luc Van Gool, and Angela Yao, arXiv preprint arXiv:1707.1711.08996 (**arXiv**) 2017.
+- \[11\] "[3D Convolutional Neural Networks for Efficient and Robust Hand Pose Estimation from Single Depth Images](https://drive.google.com/open?id=0B5nUFeZt3D19bzR3NXNURHc0Rkk)", Liuhao Ge, Hui Liang, Junsong Yuan and Daniel Thalmann, Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**) 2017.
