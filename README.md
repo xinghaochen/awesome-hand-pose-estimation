@@ -343,7 +343,7 @@ _Ayan Sinha\*, Chiho Choi\*, Karthik Ramani_
 - [Website](https://labicvl.github.io/hand.html)
 - [Related Paper:](https://labicvl.github.io/docs/pubs/Danny_CVPR_2014.pdf) Latent regression forest: Structured estimation of 3d articulated hand posture, CVPR 2014 [\[PDF\]](https://labicvl.github.io/docs/pubs/Danny_CVPR_2014.pdf)
 
-##### MARA15 Dataset
+##### MSRA15 Dataset
 - [Website](https://jimmysuen.github.io/)
 - [Link](https://github.com/geliuhao/CVPR2016_HandPoseEstimation/issues/4)
 - [Related Paper:](http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Sun_Cascaded_Hand_Pose_2015_CVPR_paper.pdf) Cascaded Hand Pose Regression, CVPR 2015 [\[PDF\]](http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Sun_Cascaded_Hand_Pose_2015_CVPR_paper.pdf)
@@ -352,7 +352,7 @@ _Ayan Sinha\*, Chiho Choi\*, Karthik Ramani_
 - Website
 - [Related Paper:](https://labicvl.github.io/docs/pubs/Shanxin_CVPR_2017.pdf) Big Hand 2.2M Benchmark: Hand Pose Data Set and State of the Art Analysis, CVPR 2017 [\[PDF\]](https://labicvl.github.io/docs/pubs/Shanxin_CVPR_2017.pdf)
 
-##### MARC (FingerPaint) Dataset
+##### MSRC (FingerPaint) Dataset
 - [Website](https://www.microsoft.com/en-us/download/details.aspx?id=52288)
 - [Related Paper:](http://www.cs.toronto.edu/~jtaylor/papers/CHI2015-HandTracking.pdf) Accurate, Robust, and Flexible Real-time Hand Tracking, CHI 2015 [\[PDF\]](http://www.cs.toronto.edu/~jtaylor/papers/CHI2015-HandTracking.pdf)
 
@@ -368,7 +368,7 @@ _Ayan Sinha\*, Chiho Choi\*, Karthik Ramani_
 - [Website](http://www.cs.technion.ac.il/~twerd/HandNet/)
 - [Related Paper:](http://www.cs.technion.ac.il/~twerd/WetzlerSlossbergKimmel-BMVC15.pdf) Rule of Thumb: Deep Derotation for Improved Fingertip Detection, BMVC 2015 [\[PDF\]](http://www.cs.technion.ac.il/~twerd/WetzlerSlossbergKimmel-BMVC15.pdf)
 
-##### MARA14 Dataset
+##### MSRA14 Dataset
 - [Website](https://jimmysuen.github.io/)
 - [Related Paper:](http://www.cv-foundation.org/openaccess/content_cvpr_2014/papers/Qian_Realtime_and_Robust_2014_CVPR_paper.pdf) Realtime and Robust Hand Tracking from Depth, CVPR 2014 [\[PDF\]](http://www.cv-foundation.org/openaccess/content_cvpr_2014/papers/Qian_Realtime_and_Robust_2014_CVPR_paper.pdf)
 
