@@ -397,6 +397,9 @@ The 2017 Hands in the Million Challenge on 3D Hand Pose Estimation, [arXiv:1704.
 
 ## Other Related Papers
 
+##### \[2018 CVPR\] Analysis of Hand Segmentation in the Wild. [\[PDF\]](https://arxiv.org/pdf/1803.03317.pdf)
+*Aisha Urooj Khan, Ali Borji*
+
 ##### \[2018 CVPR\] Total Capture: A 3D Deformation Model for Tracking Faces, Hands, and Bodies. [\[PDF\]](https://arxiv.org/pdf/1801.01615.pdf) [\[Project Page\]](http://www.cs.cmu.edu/~hanbyulj/totalcapture/)
 *Hanbyul Joo, Tomas Simon, Yaser Sheikh*
 
