@@ -29,9 +29,6 @@ See folder [``evaluation``](https://github.com/xinghaochen/awesome-hand-pose-est
 ##### [\[arXiv:1712.03904\]](https://arxiv.org/abs/1712.03904) Feature Mapping for Learning Fast and Accurate 3D Pose Inference from Synthetic Images. [\[PDF\]](https://arxiv.org/pdf/1712.03904.pdf)
 _Mahdi Rad, Markus Oberweger, Vincent Lepetit_
 
-##### [\[arXiv:1712.01057\]](https://arxiv.org/abs/1712.01057) GANerated Hands for Real-Time 3D Hand Tracking from Monocular RGB. [\[PDF\]](https://arxiv.org/pdf/1712.01057.pdf)
-_Franziska Mueller, Florian Bernard, Oleksandr Sotnychenko, Dushyant Mehta, Srinath Sridhar, Dan Casas, Christian Theobalt_
-
 ##### [\[arXiv:1711.10872\]](https://arxiv.org/abs/1711.10872) Occlusion-aware Hand Pose Estimation Using Hierarchical Mixture Density Network. [\[PDF\]](https://arxiv.org/pdf/1711.10872.pdf)
 _Qi Ye, Tae-Kyun Kim_
 
@@ -63,13 +60,17 @@ _Xiaoming Deng\*, Shuo Yang\*, Yinda Zhang\*, Ping Tan, Liang Chang, Hongan Wang
 
 ### 2018 CVPR
 
+##### GANerated Hands for Real-Time 3D Hand Tracking from Monocular RGB. [\[PDF\]](http://handtracker.mpi-inf.mpg.de/projects/GANeratedHands/content/GANeratedHands_CVPR2018.pdf) [\[Supp\]](http://handtracker.mpi-inf.mpg.de/projects/GANeratedHands/content/GANeratedHands_CVPR2018_Supp.pdf) [\[Project Page\]](http://handtracker.mpi-inf.mpg.de/projects/GANeratedHands/) *(Spotlight)*
+_Franziska Mueller, Florian Bernard, Oleksandr Sotnychenko, Dushyant Mehta, Srinath Sridhar, Dan Casas, Christian Theobalt_
+
+
 ##### V2V-PoseNet: Voxel-to-Voxel Prediction Network for Accurate 3D Hand and Human Pose Estimation from a Single Depth Map. [\[PDF\]](https://arxiv.org/pdf/1711.07399.pdf) [\[Code\]](https://github.com/mks0601/V2V-PoseNet_RELEASE)
 _Gyeongsik Moon, Ju Yong Chang, Kyoung Mu Lee_
 
-##### 3D Hand Pose Estimation: From Current Achievements to Future Goals. [\[PDF\]](https://arxiv.org/pdf/1712.03917.pdf)
+##### 3D Hand Pose Estimation: From Current Achievements to Future Goals. [\[PDF\]](https://arxiv.org/pdf/1712.03917.pdf) *(Spotlight)*
 _Shanxin Yuan, Guillermo Garcia-Hernando, Bjorn Stenger, Gyeongsik Moon, Ju Yong Chang, Kyoung Mu Lee, Pavlo Molchanov, Jan Kautz, Sina Honari, Liuhao Ge, Junsong Yuan, Xinghao Chen, Guijin Wang, Fan Yang, Kai Akiyama, Yang Wu, Qingfu Wan, Meysam Madadi, Sergio Escalera, Shile Li, Dongheui Lee, Iason Oikonomidis, Antonis Argyros, Tae-Kyun Kim_
 
-##### Augmented skeleton space transfer for depth-based hand pose estimation. \[PDF\]
+##### Augmented skeleton space transfer for depth-based hand pose estimation. \[PDF\] *(Oral)*
 _Seungryul Baek, Kwang In Kim, Tae-Kyun Kim_
 
 ### 2018 Others
