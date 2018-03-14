@@ -311,6 +311,9 @@ _Ayan Sinha\*, Chiho Choi\*, Karthik Ramani_
 *Hui Liang, Junsong Yuan, Daniel Thalmann*
 
 ## Theses
+##### \[2017 Thesis\] Human Segmentation, Pose Estimation and Applications. [\[PDF\]](http://sergioescalera.com/wp-content/uploads/2017/10/MeysamPhDv2.pdf) [\[Slides\]](http://sergioescalera.com/wp-content/uploads/2017/10/Thesis-presentation.pdf)
+*Meysam Madadi, Universitat Autònoma de Barcelonato*
+
 ##### \[2017 Thesis\] Capturing Hand-Object Interaction and Reconstruction of Manipulated Objects. [\[PDF\]](http://ps.is.tue.mpg.de/uploads_file/attachment/attachment/340/Thesis_FINAL_online.pdf) [\[Project Page\]](http://ps.is.tue.mpg.de/publications/tzionas-thesis-phd)
 *[Dimitrios Tzionas](http://ps.is.tue.mpg.de/person/dtzionas), University of Bonn*
 
