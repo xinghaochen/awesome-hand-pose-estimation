@@ -26,8 +26,6 @@
 See folder [``evaluation``](https://github.com/xinghaochen/awesome-hand-pose-estimation/tree/master/evaluation) to get more details about performance evaluation for hand pose estimation.
 
 ## arXiv Papers
-##### [\[arXiv:1712.03904\]](https://arxiv.org/abs/1712.03904) Feature Mapping for Learning Fast and Accurate 3D Pose Inference from Synthetic Images. [\[PDF\]](https://arxiv.org/pdf/1712.03904.pdf)
-_Mahdi Rad, Markus Oberweger, Vincent Lepetit_
 
 ##### [\[arXiv:1711.10872\]](https://arxiv.org/abs/1711.10872) Occlusion-aware Hand Pose Estimation Using Hierarchical Mixture Density Network. [\[PDF\]](https://arxiv.org/pdf/1711.10872.pdf)
 _Qi Ye, Tae-Kyun Kim_
@@ -59,6 +57,9 @@ _Xiaoming Deng\*, Shuo Yang\*, Yinda Zhang\*, Ping Tan, Liang Chang, Hongan Wang
 ## Conference Papers
 
 ### 2018 CVPR
+
+##### Feature Mapping for Learning Fast and Accurate 3D Pose Inference from Synthetic Images. [\[PDF\]](https://arxiv.org/pdf/1712.03904.pdf)
+_Mahdi Rad, Markus Oberweger, Vincent Lepetit_
 
 ##### GANerated Hands for Real-Time 3D Hand Tracking from Monocular RGB. [\[PDF\]](http://handtracker.mpi-inf.mpg.de/projects/GANeratedHands/content/GANeratedHands_CVPR2018.pdf) [\[Supp\]](http://handtracker.mpi-inf.mpg.de/projects/GANeratedHands/content/GANeratedHands_CVPR2018_Supp.pdf) [\[Project Page\]](http://handtracker.mpi-inf.mpg.de/projects/GANeratedHands/) *(Spotlight)*
 _Franziska Mueller, Florian Bernard, Oleksandr Sotnychenko, Dushyant Mehta, Srinath Sridhar, Dan Casas, Christian Theobalt_
@@ -324,7 +325,7 @@ _Ayan Sinha\*, Chiho Choi\*, Karthik Ramani_
 *[Danhang Tang](http://www.iis.ee.ic.ac.uk/dtang/), Imperial College London*
 
 ##### \[2016 Thesis\] Deep Learning for Human Motion Analysis. [\[PDF\]](https://tel.archives-ouvertes.fr/tel-01470466v1/document) [\[Project Page\]](https://tel.archives-ouvertes.fr/tel-01470466v1)
-*[Natalia Neverova](http://liris.cnrs.fr/natalia.neverova/), National Institut of Applied Science (INSA de Lyon), France*
+*[Natalia Neverova](https://nneverova.github.io/), National Institut of Applied Science (INSA de Lyon), France*
 
 ##### \[2016 Thesis\] Real time hand pose estimation for human computer interaction. [\[PDF\]](http://epubs.surrey.ac.uk/809973/1/thesis.pdf) [\[Project Page\]](http://epubs.surrey.ac.uk/809973/)
 *[Philip Krejov](http://www.krejov.com/), University of Surrey*
@@ -400,6 +401,8 @@ _Ayan Sinha\*, Chiho Choi\*, Karthik Ramani_
 The 2017 Hands in the Million Challenge on 3D Hand Pose Estimation, [arXiv:1704.02463](https://arxiv.org/pdf/1707.02237.pdf), _Shanxin Yuan, Qi Ye, Guillermo Garcia-Hernando, Tae-Kyun Kim_
 
 ## Other Related Papers
+##### \[2018 CVPR\] DensePose: Dense Human Pose Estimation In The Wild. [\[PDF\]](https://arxiv.org/pdf/1802.00434.pdf)  [\[Project Page\]](http://densepose.org/)
+*Rıza Alp Güler, Natalia Neverova, Iasonas Kokkinos*
 
 ##### \[2018 CVPR\] Analysis of Hand Segmentation in the Wild. [\[PDF\]](https://arxiv.org/pdf/1803.03317.pdf)
 *Aisha Urooj Khan, Ali Borji*
@@ -419,7 +422,7 @@ The 2017 Hands in the Million Challenge on 3D Hand Pose Estimation, [arXiv:1704.
 ##### \[2016 3DV\] Learning to Navigate the Energy Landscape. [\[PDF\]](http://www.robots.ox.ac.uk/~tvg/publications/2016/LNEL.pdf) [\[Project Page\]](http://graphics.stanford.edu/projects/reloc/)
 *Julien Valentin, Angela Dai, Matthias Niessner, Pushmeet Kohli, Philip H.S. Torr, Shahram Izadi*
 
-##### [2016 NIPS] DISCO Nets : Dissimilarity Coefficient Networks. [\[PDF\]](http://www.robots.ox.ac.uk/~diane/DISCONET_camera_ready.pdf) [\[Project Page\]](http://www.robots.ox.ac.uk/~diane/DiscoNets.html) [\[Code\]](http://www.robots.ox.ac.uk/~diane/DISCONETS.zip)
+##### [2016 NIPS] DISCO Nets : Dissimilarity Coefficient Networks. [\[PDF\]](http://www.robots.ox.ac.uk/~diane/DISCONET_camera_ready.pdf) [\[Project Page\]](http://www.robots.ox.ac.uk/~diane/DiscoNets.html) [\[Code\]](https://github.com/oval-group/DISCONets)
 *Diane Bouchacourt, M. Pawan Kumar, Sebastian Nowozin*
 
 ##### [2015 ICCV] 3D Object Reconstruction from Hand-Object Interactions. [\[PDF\]](http://files.is.tue.mpg.de/dtzionas/In-Hand-Scanning/ICCV15_Reconstruction_from_HandObject_Interactions.pdf) [\[Project Page\]](http://ps.is.tue.mpg.de/publications/-886ddd69-ebde-4f83-8b77-9c41f8af1065)
