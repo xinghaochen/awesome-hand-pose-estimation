@@ -75,6 +75,10 @@ _Shanxin Yuan, Guillermo Garcia-Hernando, Bjorn Stenger, Gyeongsik Moon, Ju Yong
 _Seungryul Baek, Kwang In Kim, Tae-Kyun Kim_
 
 ### 2018 Others
+
+##### [2018 FG] Kinematic Constrained Cascaded Autoencoder for Real-time Hand Pose Estimation. \[PDF\]
+_Yushun Lin, Xiujuan Chai, Xilin Chen_
+
 ##### [2018 WACV] Using a single RGB frame for real time 3D hand pose estimation in the wild. [\[PDF\]](https://arxiv.org/pdf/1712.03866.pdf)  [\[Project Page\]](http://users.ics.forth.gr/~argyros/res_rgbmonohand.html)
 _Paschalis Panteleris, Iason Oikonomidis, Antonis Argyros_
 
