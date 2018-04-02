@@ -58,6 +58,9 @@ _Xiaoming Deng\*, Shuo Yang\*, Yinda Zhang\*, Ping Tan, Liang Chang, Hongan Wang
 
 ### 2018 CVPR
 
+##### Cross-modal Deep Variational Hand Pose Estimation. [\[PDF\]](https://arxiv.org/pdf/1803.11404) [\[Project Page\]](https://ait.ethz.ch/projects/2018/vae_hands/) *(Spotlight)*
+_Adrian Spurr, Jie Song, Seonwook Park, Otmar Hilliges_
+
 ##### Feature Mapping for Learning Fast and Accurate 3D Pose Inference from Synthetic Images. [\[PDF\]](https://arxiv.org/pdf/1712.03904.pdf)
 _Mahdi Rad, Markus Oberweger, Vincent Lepetit_
 
