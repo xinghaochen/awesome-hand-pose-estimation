@@ -11,4 +11,5 @@ python src/compute_error.py nyu max-frame\
 	DeepPrior++   results/nyu/ICCVW17_NYU_DeepPrior++.txt\
     Pose-REN   results/nyu/arXiv17_NYU_Pose_REN.txt\
 	DenseReg   results/nyu/arXiv17_NYU_denseReg.txt\
-	V2V-PoseNet   results/nyu/CVPR18_NYU_V2V_PoseNet.txt
+	V2V-PoseNet   results/nyu/CVPR18_NYU_V2V_PoseNet.txt\
+	FeatureMapping	results/nyu/CVPR18_NYU_DeepPrior++_FM.txt

@@ -38,6 +38,7 @@ There are two types of evaluation metrics that are widely used for hand pose est
 - DenseReg \[10\]: arXiv'17, [Predicted labels](https://github.com/melonwan/denseReg/blob/master/exp/result/nyu.txt)
 - [3DCNN](https://sites.google.com/site/geliuhaontu/home/cvpr2017) \[11\]: CVPR'17, [Predicted labels](https://drive.google.com/file/d/1M1iZyPZ3jU1_KIH0kJKvg1TwolpwLQxy/view?usp=sharing)
 - V2V-PoseNet \[12\]: CVPR'18, [Predicted labels](http://cv.snu.ac.kr/research/V2V-PoseNet/NYU/estimation/result.txt)
+- FeatureMapping \[13\]: CVPR'18, [Predicted labels](https://www.tugraz.at/fileadmin/user_upload/Institute/ICG/Downloads/team_lepetit/FeatureMapping/CVPR18_NYU_DeepPrior___FM.txt.zip)
 
 ### MSRA
 - REN-9x6x6 \[7\]: arXiv'17, [Predicted labels](https://github.com/guohengkai/region-ensemble-network/blob/master/results/msra_ren_9x6x6.txt)
@@ -94,3 +95,4 @@ sh evaluate_{dataset}.sh
 - \[10\] "[Dense 3D Regression for Hand Pose Estimation.](https://arxiv.org/pdf/1711.08996.pdf)", Chengde Wan, Thomas Probst, Luc Van Gool, and Angela Yao, arXiv preprint arXiv:1707.1711.08996 (**arXiv**) 2017.
 - \[11\] "[3D Convolutional Neural Networks for Efficient and Robust Hand Pose Estimation from Single Depth Images](https://drive.google.com/open?id=0B5nUFeZt3D19bzR3NXNURHc0Rkk)", Liuhao Ge, Hui Liang, Junsong Yuan and Daniel Thalmann, Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**) 2017.
 - \[12\] "[V2V-PoseNet: Voxel-to-Voxel Prediction Network for Accurate 3D Hand and Human Pose Estimation from a Single Depth Map](https://arxiv.org/pdf/1711.07399.pdf)", Gyeongsik Moon, Ju Yong Chang, Kyoung Mu Lee, Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**) 2018.
+- \[13\] "[Feature Mapping for Learning Fast and Accurate 3D Pose Inference from Synthetic Images](https://arxiv.org/pdf/1712.03904.pdf)", Mahdi Rad, Markus Oberweger, Vincent Lepetit, Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**) 2018.

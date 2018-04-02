@@ -61,7 +61,7 @@ _Xiaoming Deng\*, Shuo Yang\*, Yinda Zhang\*, Ping Tan, Liang Chang, Hongan Wang
 ##### Cross-modal Deep Variational Hand Pose Estimation. [\[PDF\]](https://arxiv.org/pdf/1803.11404) [\[Project Page\]](https://ait.ethz.ch/projects/2018/vae_hands/) *(Spotlight)*
 _Adrian Spurr, Jie Song, Seonwook Park, Otmar Hilliges_
 
-##### Feature Mapping for Learning Fast and Accurate 3D Pose Inference from Synthetic Images. [\[PDF\]](https://arxiv.org/pdf/1712.03904.pdf)
+##### Feature Mapping for Learning Fast and Accurate 3D Pose Inference from Synthetic Images. [\[PDF\]](https://arxiv.org/pdf/1712.03904.pdf)  [\[Project Page\]](https://www.tugraz.at/institute/icg/research/team-lepetit/research-projects/feature-mapping/)
 _Mahdi Rad, Markus Oberweger, Vincent Lepetit_
 
 ##### GANerated Hands for Real-Time 3D Hand Tracking from Monocular RGB. [\[PDF\]](http://handtracker.mpi-inf.mpg.de/projects/GANeratedHands/content/GANeratedHands_CVPR2018.pdf) [\[Supp\]](http://handtracker.mpi-inf.mpg.de/projects/GANeratedHands/content/GANeratedHands_CVPR2018_Supp.pdf) [\[Project Page\]](http://handtracker.mpi-inf.mpg.de/projects/GANeratedHands/) *(Spotlight)*
@@ -201,7 +201,7 @@ _Ayan Sinha\*, Chiho Choi\*, Karthik Ramani_
 ##### Training a Feedback Loop for Hand Pose Estimation. [\[PDF\]](https://cvarlab.icg.tugraz.at/pubs/oberweger_iccv15.pdf) [\[Project Page\]](https://cvarlab.icg.tugraz.at/projects/hand_detection/)
 *Markus Oberweger, Paul Wohlhart, Vincent Lepetit*
 
-##### Opening the Black Box: Hierarchical Sampling Optimization for Estimating Human Hand Pose.  [\[PDF\]](http://www.iis.ee.ic.ac.uk/dtang/iccv_2015_camready.pdf)
+##### Opening the Black Box: Hierarchical Sampling Optimization for Estimating Human Hand Pose.  [\[PDF\]](https://labicvl.github.io/docs/pubs/Danny_ICCV_2015.pdf)
 *Danhang Tang, Jonathan Taylor, Pushmeet Kohli, Cem Keskin, Tae-Kyun Kim, Jamie Shotton*
 
 ##### Depth-based hand pose estimation: data, methods, and challenges. [\[PDF\]](https://arxiv.org/pdf/1504.06378) [\[Project Page\]](http://www.ics.uci.edu/~jsupanci/#HandData) [\[Code\]](https://github.com/jsupancic/deep_hand_pose)
@@ -249,7 +249,7 @@ _Ayan Sinha\*, Chiho Choi\*, Karthik Ramani_
 ##### Realtime and robust hand tracking from depth. [\[PDF\]](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/yichenw-cvpr14_handtracking.pdf) [\[Project Page\]](https://www.microsoft.com/en-us/research/people/yichenw/)
 *Chen Qian, Xiao Sun, Yichen Wei, Xiaoou Tang and Jian Sun*
 
-##### Latent regression forest: Structured estimation of 3d articulated hand posture. [\[PDF\]](http://www.iis.ee.ic.ac.uk/dtang/cvpr_14.pdf) [\[Project Page\]](http://www.iis.ee.ic.ac.uk/dtang/hand.html)
+##### Latent regression forest: Structured estimation of 3d articulated hand posture. [\[PDF\]](https://labicvl.github.io/docs/pubs/Danny_CVPR_2014.pdf) [\[Project Page\]](https://labicvl.github.io/hand.html)
 *Danhang Tang, Hyung Jin Chang, Alykhan Tejani, T-K. Kim*
 
 ##### User-specific hand modeling from monocular depth sequences. [\[PDF\]](http://www.cs.toronto.edu/~jtaylor/papers/CVPR2014-UserSpecificHandModeling.pdf) [\[Project Page\]](https://www.microsoft.com/en-us/research/publication/user-specific-hand-modeling-from-monocular-depth-sequences/)
@@ -262,7 +262,7 @@ _Ayan Sinha\*, Chiho Choi\*, Karthik Ramani_
 ##### \[2014 SIGGRAPH\] Real-Time Continuous Pose Recovery of Human Hands Using Convolutional Networks. [\[PDF\]](http://cims.nyu.edu/~tompson/others/TOG_2014_paper_PREPRINT.pdf) [\[Project Page\]](http://cims.nyu.edu/~tompson/NYU_Hand_Pose_Dataset.htm)
 *Jonathan Tompson, Murphy Stein, Yann Lecun and Ken Perlin*
 
-##### \[2013 ICCV\] Real-time Articulated Hand Pose Estimation using Semi-supervised Transductive Regression Forests. [\[PDF\]](http://www.iis.ee.ic.ac.uk/dtang/iccv_13.pdf) [\[Project Page\]](http://www.iis.ee.ic.ac.uk/dtang/hand.html)
+##### \[2013 ICCV\] Real-time Articulated Hand Pose Estimation using Semi-supervised Transductive Regression Forests. [\[PDF\]](https://labicvl.github.io/docs/pubs/Danny_ICCV_2013.pdf) [\[Project Page\]](https://labicvl.github.io/hand.html)
 *Danhang Tang, Tsz Ho Yu and T-K. Kim*
 
 ##### \[2013 ICCV\] Interactive Markerless Articulated Hand Motion Tracking Using RGB and Depth Data. [\[PDF\]](http://handtracker.mpi-inf.mpg.de/projects/handtracker_iccv2013/content/handtracker_iccv2013.pdf) [\[Project Page\]](http://handtracker.mpi-inf.mpg.de/projects/handtracker_iccv2013/)
