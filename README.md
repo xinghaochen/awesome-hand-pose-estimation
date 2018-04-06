@@ -30,9 +30,6 @@ See folder [``evaluation``](https://github.com/xinghaochen/awesome-hand-pose-est
 ##### [\[arXiv:1711.10872\]](https://arxiv.org/abs/1711.10872) Occlusion-aware Hand Pose Estimation Using Hierarchical Mixture Density Network. [\[PDF\]](https://arxiv.org/pdf/1711.10872.pdf)
 _Qi Ye, Tae-Kyun Kim_
 
-##### [\[arXiv:1711.08996\]](https://arxiv.org/abs/1711.08996) Dense 3D Regression for Hand Pose Estimation. [\[PDF\]](https://arxiv.org/pdf/1711.08996.pdf)  [\[Code\]](https://github.com/melonwan/denseReg)
-_Chengde Wan, Thomas Probst, Luc Van Gool, Angela Yao_
-
 ##### [\[arXiv:1708.03416\]](https://arxiv.org/abs/1708.03416) Pose Guided Structured Region Ensemble Network for Cascaded Hand Pose Estimation. [\[PDF\]](https://arxiv.org/pdf/1708.03416.pdf)
 _Xinghao Chen, Guijin Wang, Hengkai Guo, Cairong Zhang_
 
@@ -57,6 +54,12 @@ _Xiaoming Deng\*, Shuo Yang\*, Yinda Zhang\*, Ping Tan, Liang Chang, Hongan Wang
 ## Conference Papers
 
 ### 2018 CVPR
+
+##### Hand PointNet: 3D Hand Pose Estimation using Point Sets. \[PDF\] *(Spotlight)*
+_Liuhao Ge, Junwu Weng, Yujun Cai, Junsong Yuan_
+
+##### Dense 3D Regression for Hand Pose Estimation. [\[PDF\]](https://arxiv.org/pdf/1711.08996.pdf)  [\[Code\]](https://github.com/melonwan/denseReg)
+_Chengde Wan, Thomas Probst, Luc Van Gool, Angela Yao_
 
 ##### Cross-modal Deep Variational Hand Pose Estimation. [\[PDF\]](https://arxiv.org/pdf/1803.11404) [\[Project Page\]](https://ait.ethz.ch/projects/2018/vae_hands/) *(Spotlight)*
 _Adrian Spurr, Jie Song, Seonwook Park, Otmar Hilliges_
