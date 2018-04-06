@@ -351,8 +351,8 @@ _Ayan Sinha\*, Chiho Choi\*, Karthik Ramani_
 
 ## Datasets
 
-|Dataset | Year | Synth/Real |  Depth/RGB | With Objects | \#Joints | Views | \#Subjects | \#Train/Test | Related Paper|
-|------|------|------|------|------|------|------|------|------|
+|Dataset | Year | Synth/Real |  Depth/RGB | With Objects | #Joints | Views | #Subjects | #Train/Test | Related Paper|
+|------|------|------|------|------|------|------|------|------|------|
 |[NYU Hand Pose Dataset](http://cims.nyu.edu/~tompson/NYU_Hand_Pose_Dataset.htm) | 2014 | Real | Depth | No | 36 | 3rd (1 frontal + 2 sides)  | 2 | 72,757/8,252 | Real-Time Continuous Pose Recovery of Human Hands Using Convolutional Networks, SIGGRAPH 2014 [\[PDF\]](http://cims.nyu.edu/~tompson/others/TOG_2014_paper_PREPRINT.pdf)|
 |[ICVL Dataset](https://labicvl.github.io/hand.html) | 2014 | Real | Depth | No |  16 | 3rd  |  10 | 331,005/1,596 | Latent regression forest: Structured estimation of 3d articulated hand posture, CVPR 2014 [\[PDF\]](https://labicvl.github.io/docs/pubs/Danny_CVPR_2014.pdf)|
 |[MSRA15 Dataset](https://github.com/geliuhao/CVPR2016_HandPoseEstimation/issues/4) | 2015 | Real | Depth | No |  21 | 3rd  |  9 | 76,375 | Cascaded Hand Pose Regression, CVPR 2015 [\[PDF\]](http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Sun_Cascaded_Hand_Pose_2015_CVPR_paper.pdf)|
