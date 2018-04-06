@@ -350,56 +350,31 @@ _Ayan Sinha\*, Chiho Choi\*, Karthik Ramani_
 *[Jonathan Tompson](http://cims.nyu.edu/~tompson/), New York University*
 
 ## Datasets
-##### NYU Hand Pose Dataset
-- [Website](http://cims.nyu.edu/~tompson/NYU_Hand_Pose_Dataset.htm)
-- [Related Paper:](http://cims.nyu.edu/~tompson/others/TOG_2014_paper_PREPRINT.pdf) Real-Time Continuous Pose Recovery of Human Hands Using Convolutional Networks, SIGGRAPH 2014 [\[PDF\]](http://cims.nyu.edu/~tompson/others/TOG_2014_paper_PREPRINT.pdf)
-
-##### ICVL Dataset
-- [Website](https://labicvl.github.io/hand.html)
-- [Related Paper:](https://labicvl.github.io/docs/pubs/Danny_CVPR_2014.pdf) Latent regression forest: Structured estimation of 3d articulated hand posture, CVPR 2014 [\[PDF\]](https://labicvl.github.io/docs/pubs/Danny_CVPR_2014.pdf)
-
-##### MSRA15 Dataset
-- [Website](https://jimmysuen.github.io/)
-- [Link](https://github.com/geliuhao/CVPR2016_HandPoseEstimation/issues/4)
-- [Related Paper:](http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Sun_Cascaded_Hand_Pose_2015_CVPR_paper.pdf) Cascaded Hand Pose Regression, CVPR 2015 [\[PDF\]](http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Sun_Cascaded_Hand_Pose_2015_CVPR_paper.pdf)
-
-##### BigHand2.2M Benchmark
-- Website
-- [Related Paper:](https://labicvl.github.io/docs/pubs/Shanxin_CVPR_2017.pdf) Big Hand 2.2M Benchmark: Hand Pose Data Set and State of the Art Analysis, CVPR 2017 [\[PDF\]](https://labicvl.github.io/docs/pubs/Shanxin_CVPR_2017.pdf)
-
-##### MSRC (FingerPaint) Dataset
-- [Website](https://www.microsoft.com/en-us/download/details.aspx?id=52288)
-- [Related Paper:](http://www.cs.toronto.edu/~jtaylor/papers/CHI2015-HandTracking.pdf) Accurate, Robust, and Flexible Real-time Hand Tracking, CHI 2015 [\[PDF\]](http://www.cs.toronto.edu/~jtaylor/papers/CHI2015-HandTracking.pdf)
-
-##### UCI-EGO Dataset
-- [Website](http://pascal.inrialpes.fr/data2/grogez/UCI-EGO/UCI-EGO.tar.gz)
-- [Related Paper:](https://www.cs.cmu.edu/~deva/papers/egocentric_depth_workshop.pdf) 3D Hand Pose Detection in Egocentric RGB-D Images, ECCVW 2014 [\[PDF\]](https://www.cs.cmu.edu/~deva/papers/egocentric_depth_workshop.pdf)
-
-##### Hands in Action Dataset
-- [Website](http://files.is.tue.mpg.de/dtzionas/Hand-Object-Capture/)
-- [Related Paper:](http://files.is.tue.mpg.de/dtzionas/Hand-Object-Capture/IJCV_Hand_Object_Capture.pdf) Capturing Hands in Action using Discriminative Salient Points and Physics Simulation, IJCV 2016 [\[PDF\]](http://files.is.tue.mpg.de/dtzionas/Hand-Object-Capture/IJCV_Hand_Object_Capture.pdf)
-
-##### HandNet Dataset (Fingertip)
-- [Website](http://www.cs.technion.ac.il/~twerd/HandNet/)
-- [Related Paper:](http://www.cs.technion.ac.il/~twerd/WetzlerSlossbergKimmel-BMVC15.pdf) Rule of Thumb: Deep Derotation for Improved Fingertip Detection, BMVC 2015 [\[PDF\]](http://www.cs.technion.ac.il/~twerd/WetzlerSlossbergKimmel-BMVC15.pdf)
-
-##### MSRA14 Dataset
-- [Website](https://jimmysuen.github.io/)
-- [Related Paper:](http://www.cv-foundation.org/openaccess/content_cvpr_2014/papers/Qian_Realtime_and_Robust_2014_CVPR_paper.pdf) Realtime and Robust Hand Tracking from Depth, CVPR 2014 [\[PDF\]](http://www.cv-foundation.org/openaccess/content_cvpr_2014/papers/Qian_Realtime_and_Robust_2014_CVPR_paper.pdf)
-
-##### Dexter 1 Dataset
-- [Website](http://handtracker.mpi-inf.mpg.de/projects/handtracker_iccv2013/dexter1.htm)
-- [Related Paper:](http://handtracker.mpi-inf.mpg.de/projects/handtracker_iccv2013/content/handtracker_iccv2013.pdf) Interactive Markerless Articulated Hand Motion Tracking Using RGB and Depth Data, ICCV 2013 [\[PDF\]](http://handtracker.mpi-inf.mpg.de/projects/handtracker_iccv2013/content/handtracker_iccv2013.pdf)
-
-##### ASTAR Dataset
-- [Website](http://hpes.bii.a-star.edu.sg/)
-- [Related Paper:](http://www.cv-foundation.org/openaccess/content_iccv_2013/papers/Xu_Efficient_Hand_Pose_2013_ICCV_paper.pdf) Efficient hand pose estimation from a single depth image, ICCV 2013 [\[PDF\]](http://www.cv-foundation.org/openaccess/content_iccv_2013/papers/Xu_Efficient_Hand_Pose_2013_ICCV_paper.pdf)
+Dataset | Year | Synth/Real |  Depth/RGB | With Objects | #Joints | Views | #Subjects | #Train/Test | Related Paper
+------|------|------|------|------|------|------|------|------
+[NYU Hand Pose Dataset](http://cims.nyu.edu/~tompson/NYU_Hand_Pose_Dataset.htm) | 2014 | Real | Depth | No | 36 | 3rd (1 frontal + 2 sides)  | 2 | 72,757/8,252 | Real-Time Continuous Pose Recovery of Human Hands Using Convolutional Networks, SIGGRAPH 2014 [\[PDF\]](http://cims.nyu.edu/~tompson/others/TOG_2014_paper_PREPRINT.pdf)
+[ICVL Dataset](https://labicvl.github.io/hand.html) | 2014 | Real | Depth | No |  16 | 3rd  |  10 | 331,005/1,596 | Latent regression forest: Structured estimation of 3d articulated hand posture, CVPR 2014 [\[PDF\]](https://labicvl.github.io/docs/pubs/Danny_CVPR_2014.pdf)
+[MSRA15 Dataset](https://github.com/geliuhao/CVPR2016_HandPoseEstimation/issues/4) | 2015 | Real | Depth | No |  21 | 3rd  |  9 | 76,375 | Cascaded Hand Pose Regression, CVPR 2015 [\[PDF\]](http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Sun_Cascaded_Hand_Pose_2015_CVPR_paper.pdf)
+[BigHand2.2M Benchmark](http://icvl.ee.ic.ac.uk/hands17/challenge/) | 2017 | Real | Depth | No |  21 | 3rd  |  10 | 2.2M | Big Hand 2.2M Benchmark: Hand Pose Data Set and State of the Art Analysis, CVPR 2017 [\[PDF\]](https://labicvl.github.io/docs/pubs/Shanxin_CVPR_2017.pdf)
+[EgoDexter Dataset](http://handtracker.mpi-inf.mpg.de/projects/OccludedHands/EgoDexter.htm) | 2017 | Real | RGB+Depth | Yes |  5 | ego  |  4 | 1485 | Real-time Hand Tracking under Occlusion from an Egocentric RGB-D Sensor, ICCV 2017 [\[PDF\]](http://handtracker.mpi-inf.mpg.de/projects/OccludedHands/content/OccludedHands_ICCV2017.pdf)
+[SynthHands Dataset](http://handtracker.mpi-inf.mpg.de/projects/OccludedHands/SynthHands.htm) | 2017 | Synth | RGB+Depth | Both |  21 | ego  |  2 | 63,530  | Real-time Hand Tracking under Occlusion from an Egocentric RGB-D Sensor, ICCV 2017 [\[PDF\]](http://handtracker.mpi-inf.mpg.de/projects/OccludedHands/content/OccludedHands_ICCV2017.pdf)
+[Rendered Handpose Dataset (RHD)](https://lmb.informatik.uni-freiburg.de/resources/datasets/RenderedHandposeDataset.en.html) | 2017 | Synth | RGB+Depth | No |  21 | 3rd  |  20 | 41,258/2,728  | Learning to Estimate 3D Hand Pose from Single RGB Images, ICCV 2017 [\[PDF\]](https://arxiv.org/pdf/1705.01389.pdf)
+[Stereo Hand Tracking Benchmark (STB)](https://sites.google.com/site/zhjw1988/) | 2017 | Real | Stereo RGB+Depth | No |  21 | 3rd (stereo) |  - | 18,000 | A Hand Pose Tracking Benchmark from Stereo Matching, ICIP 2017 [\[PDF\]](http://www.cs.cityu.edu.hk/~jianbjiao2/pdfs/icip.pdf)
+[CMU Panoptic HandDB](http://domedb.perception.cs.cmu.edu/handdb.html) | 2017 | Both | RGB | No |  20 | 3rd (- views)  |  - | 14,817 | Hand Keypoint Detection in Single Images using Multiview Bootstrapping, CVPR 2017 [\[PDF\]](https://arxiv.org/pdf/1704.07809)
+[Dexter+Object Dataset](http://handtracker.mpi-inf.mpg.de/projects/RealtimeHO/dexter+object.htm) | 2016 | Real | RGB+Depth | Yes |  5 | 3rd  |  2 | 3,014 | Real-time Joint Tracking of a Hand Manipulating an Object from RGB-D Input, ECCV 2016 [\[PDF\]](http://handtracker.mpi-inf.mpg.de/projects/RealtimeHO/content/RealtimeHO_ECCV2016.pdf)
+[MSRC (FingerPaint) Dataset](https://www.microsoft.com/en-us/download/details.aspx?id=52288) | Synth | 2015 | Depth | No |  - | -  |  - | - | Accurate, Robust, and Flexible Real-time Hand Tracking, CHI 2015 [\[PDF\]](http://www.cs.toronto.edu/~jtaylor/papers/CHI2015-HandTracking.pdf)
+[HandNet Dataset](http://www.cs.technion.ac.il/~twerd/HandNet/) | 2015 | Real | Depth | No |  6 | 3rd  |  10 | 202,198/10,000  | Rule of Thumb: Deep Derotation for Improved Fingertip Detection, BMVC 2015 [\[PDF\]](http://www.cs.technion.ac.il/~twerd/WetzlerSlossbergKimmel-BMVC15.pdf)
+[UCI-EGO Dataset](http://pascal.inrialpes.fr/data2/grogez/UCI-EGO/UCI-EGO.tar.gz) | 2014 | Real | Depth+RGB | No |  26 | ego  |  2 | 400 | 3D Hand Pose Detection in Egocentric RGB-D Images, ECCVW 2014 [\[PDF\]](https://www.cs.cmu.edu/~deva/papers/egocentric_depth_workshop.pdf)
+[Hands in Action Dataset](http://files.is.tue.mpg.de/dtzionas/Hand-Object-Capture/) | 2014 | Real | Depth | Yes |  - | 3rd  |  - | - | Capturing Hands in Action using Discriminative Salient Points and Physics Simulation, IJCV 2016 [\[PDF\]](http://files.is.tue.mpg.de/dtzionas/Hand-Object-Capture/IJCV_Hand_Object_Capture.pdf)
+[MSRA14 Dataset](https://jimmysuen.github.io/) | 2014|  Real | Depth | No |  21 | 3rd  |  6 | 2,400 | Realtime and Robust Hand Tracking from Depth, CVPR 2014 [\[PDF\]](http://www.cv-foundation.org/openaccess/content_cvpr_2014/papers/Qian_Realtime_and_Robust_2014_CVPR_paper.pdf)
+[Dexter1 Dataset](http://handtracker.mpi-inf.mpg.de/projects/handtracker_iccv2013/dexter1.htm) | 2013 | Real | Depth+RGB | No |  6 | 3rd (5 RGB + 2 Depth)  |  1 | 2,137 | Interactive Markerless Articulated Hand Motion Tracking Using RGB and Depth Data, ICCV 2013 [\[PDF\]](http://handtracker.mpi-inf.mpg.de/projects/handtracker_iccv2013/content/handtracker_iccv2013.pdf)
+[ASTAR Dataset](http://hpes.bii.a-star.edu.sg/) | 2013 | Real | Depth | No |  20 | 3rd  |  30 | - | Efficient hand pose estimation from a single depth image, ICCV 2013 [\[PDF\]](http://www.cv-foundation.org/openaccess/content_iccv_2013/papers/Xu_Efficient_Hand_Pose_2013_ICCV_paper.pdf)
 
 **Credits:**
 - [1] Big Hand 2.2M Benchmark: Hand Pose Data Set and State of the Art Analysis, CVPR 2017 [\[PDF\]](https://labicvl.github.io/docs/pubs/Shanxin_CVPR_2017.pdf)
-- [2] http://arrummzen.net/#HandData
-- [3] Capturing Hand-Object Interaction and Reconstruction of Manipulated Objects. [\[PDF\]](http://ps.is.tue.mpg.de/uploads_file/attachment/attachment/340/Thesis_FINAL_online.pdf)
-
+- [2] Depth-based hand pose estimation: methods, data, and challenges, ICCV 2015  [Link](http://arrummzen.net/#HandData)
+- [3] Capturing Hand-Object Interaction and Reconstruction of Manipulated Objects, IJCV 2016 [\[PDF\]](http://ps.is.tue.mpg.de/uploads_file/attachment/attachment/340/Thesis_FINAL_online.pdf)
+- [4] [MPI Hand Tracking Central](http://handtracker.mpi-inf.mpg.de/)
 
 ## Challenges
 
