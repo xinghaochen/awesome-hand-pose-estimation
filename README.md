@@ -33,9 +33,6 @@ _Qi Ye, Tae-Kyun Kim_
 ##### [\[arXiv:1708.03416\]](https://arxiv.org/abs/1708.03416) Pose Guided Structured Region Ensemble Network for Cascaded Hand Pose Estimation. [\[PDF\]](https://arxiv.org/pdf/1708.03416.pdf)
 _Xinghao Chen, Guijin Wang, Hengkai Guo, Cairong Zhang_
 
-##### [\[arXiv:1707.07248\]](https://arxiv.org/abs/1707.07248) Towards Good Practices for Deep 3D Hand Pose Estimation. [\[PDF\]](https://arxiv.org/pdf/1707.07248.pdf) [\[Code\]](https://github.com/guohengkai/region-ensemble-network)
-_Hengkai Guo, Guijin Wang, Xinghao Chen, Cairong Zhang_
-
 ##### [\[arXiv:1707.03742\]](https://arxiv.org/abs/1707.03742) Large-scale Multiview 3D Hand Pose Dataset. [\[PDF\]](https://arxiv.org/pdf/1707.03742.pdf)  [\[Project Page\]](http://www.rovit.ua.es/dataset/mhpdataset/)
 _Francisco Gomez-Donoso, Sergio Orts-Escolano and Miguel Cazorla_
 
@@ -55,7 +52,7 @@ _Xiaoming Deng\*, Shuo Yang\*, Yinda Zhang\*, Ping Tan, Liang Chang, Hongan Wang
 
 ### 2018 CVPR
 
-##### Learning Pose Specific Representations by Predicting Different Views. \[PDF\](https://arxiv.org/pdf/1804.03390.pdf)  [\[Project Page\]](https://poier.github.io/PreView/)  [\[Code\]](https://github.com/poier/PreView)
+##### Learning Pose Specific Representations by Predicting Different Views. [\[PDF\]](https://arxiv.org/pdf/1804.03390.pdf)  [\[Project Page\]](https://poier.github.io/PreView/)  [\[Code\]](https://github.com/poier/PreView)
 _Georg Poier, David Schinagl, Horst Bischof_
 
 ##### Hand PointNet: 3D Hand Pose Estimation using Point Sets. \[PDF\] *(Spotlight)*
@@ -290,6 +287,9 @@ _Ayan Sinha\*, Chiho Choi\*, Karthik Ramani_
 *Iason Oikonomidis, Nikolaos Kyriazis, Antonis A. Argyros*
 
 ## Journal Papers
+
+##### \[2018 JVCIR\] Region Ensemble Network: Towards Good Practices for Deep 3D Hand Pose Estimation. [\[PDF\]](https://www.sciencedirect.com/science/article/pii/S1047320318300816) [\[Code\]](https://github.com/guohengkai/region-ensemble-network)
+_Guijin Wang, Xinghao Chen\*, Hengkai Guo\*, Cairong Zhang_
 
 ##### \[2018 IJCV\] Depth-Based Hand Pose Estimation: Methods, Data, and Challenges. [\[PDF\]](https://link.springer.com/content/pdf/10.1007%2Fs11263-018-1081-7.pdf)
 *James Steven Supančič III, Grégory Rogez, Yi Yang, Jamie Shotton, Deva Ramanan*
