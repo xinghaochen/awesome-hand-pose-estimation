@@ -6,10 +6,10 @@ python src/compute_error.py nyu max-frame\
     Lie-X       results/nyu/IJCV16_NYU_LieX.txt\
 	3DCNN   results/nyu/CVPR17_NYU_3DCNN.txt\
 	Guo_Baseline    results/nyu/ICIP17_NYU_Guo_Basic.txt\
-    REN-4x6x6   results/nyu/ICIP17_NYU_Guo_REN_4x6x6.txt\
-    REN-9x6x6   results/nyu/arXiv17_NYU_Guo_REN_9x6x6.txt\
+    REN-4x6x6   results/nyu/ICIP17_NYU_REN_4x6x6.txt\
+    REN-9x6x6   results/nyu/JVCIR18_NYU_REN_9x6x6.txt\
 	DeepPrior++   results/nyu/ICCVW17_NYU_DeepPrior++.txt\
     Pose-REN   results/nyu/arXiv17_NYU_Pose_REN.txt\
-	DenseReg   results/nyu/arXiv17_NYU_denseReg.txt\
+	DenseReg   results/nyu/CVPR18_NYU_denseReg.txt\
 	V2V-PoseNet   results/nyu/CVPR18_NYU_V2V_PoseNet.txt\
 	FeatureMapping	results/nyu/CVPR18_NYU_DeepPrior++_FM.txt

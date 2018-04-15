@@ -19,9 +19,9 @@ There are two types of evaluation metrics that are widely used for hand pose est
 - DeepModel \[2\]: IJCAI'16, [Predicted labels](http://xingyizhou.xyz/IJCAI16_ICVL.txt)
 - Guo-Baseline \[3\]: ICIP'17, [Predicted labels](https://github.com/guohengkai/region-ensemble-network/blob/master/results/icvl_basic.txt)
 - REN-4x6x6 \[3\]: ICIP'17, [Predicted labels](https://github.com/guohengkai/region-ensemble-network/blob/master/results/icvl_ren_4x6x6.txt)
-- REN-9x6x6 \[7\]: arXiv'17, [Predicted labels](https://github.com/guohengkai/region-ensemble-network/blob/master/results/icvl_ren_9x6x6.txt)
+- REN-9x6x6 \[7\]: JVCIR'18, [Predicted labels](https://github.com/guohengkai/region-ensemble-network/blob/master/results/icvl_ren_9x6x6.txt)
 - Pose-REN \[8\]: arXiv'17, [Predicted labels](https://github.com/xinghaochen/awesome-hand-pose-estimation/tree/master/evaluation/results/icvl/arXiv17_ICVL_Pose_REN.txt)
-- DenseReg \[10\]: arXiv'17, [Predicted labels](https://github.com/melonwan/denseReg/blob/master/exp/result/icvl.txt)
+- DenseReg \[10\]: CVPR'18, [Predicted labels](https://github.com/melonwan/denseReg/blob/master/exp/result/icvl.txt)
 - V2V-PoseNet \[12\]: CVPR'18, [Predicted labels](http://cv.snu.ac.kr/research/V2V-PoseNet/ICVL/estimation/result.txt)
 
 ### NYU
@@ -33,17 +33,17 @@ There are two types of evaluation metrics that are widely used for hand pose est
 - Guo-Baseline \[3\]: ICIP'17, [Predicted labels](https://github.com/guohengkai/region-ensemble-network/blob/master/results/nyu_basic.txt)
 - REN-4x6x6 \[3\]: ICIP'17, [Predicted labels](https://github.com/guohengkai/region-ensemble-network/blob/master/results/nyu_ren_4x6x6.txt)
 - REN-9x6x6 \[7\]: arXiv'17, [Predicted labels](https://github.com/guohengkai/region-ensemble-network/blob/master/results/nyu_ren_9x6x6.txt)
-- Pose-REN \[8\]: arXiv'17, [Predicted labels](https://github.com/xinghaochen/awesome-hand-pose-estimation/tree/master/evaluation/results/nyu/arXiv17_NYU_Pose_REN.txt)
+- Pose-REN \[8\]: JVCIR'18, [Predicted labels](https://github.com/xinghaochen/awesome-hand-pose-estimation/tree/master/evaluation/results/nyu/arXiv17_NYU_Pose_REN.txt)
 - DeepPrior++ \[9\]: ICCVW'17, [Predicted labels](https://www.tugraz.at/fileadmin/user_upload/Institute/ICG/Downloads/team_lepetit/3d_hand_pose/ICCVW17_NYU_DeepPrior__.txt)
-- DenseReg \[10\]: arXiv'17, [Predicted labels](https://github.com/melonwan/denseReg/blob/master/exp/result/nyu.txt)
+- DenseReg \[10\]: CVPR'18, [Predicted labels](https://github.com/melonwan/denseReg/blob/master/exp/result/nyu.txt)
 - [3DCNN](https://sites.google.com/site/geliuhaontu/home/cvpr2017) \[11\]: CVPR'17, [Predicted labels](https://drive.google.com/file/d/1M1iZyPZ3jU1_KIH0kJKvg1TwolpwLQxy/view?usp=sharing)
 - V2V-PoseNet \[12\]: CVPR'18, [Predicted labels](http://cv.snu.ac.kr/research/V2V-PoseNet/NYU/estimation/result.txt)
 - FeatureMapping \[13\]: CVPR'18, [Predicted labels](https://www.tugraz.at/fileadmin/user_upload/Institute/ICG/Downloads/team_lepetit/FeatureMapping/CVPR18_NYU_DeepPrior___FM.txt.zip)
 
 ### MSRA
-- REN-9x6x6 \[7\]: arXiv'17, [Predicted labels](https://github.com/guohengkai/region-ensemble-network/blob/master/results/msra_ren_9x6x6.txt)
+- REN-9x6x6 \[7\]: JVCIR'18, [Predicted labels](https://github.com/guohengkai/region-ensemble-network/blob/master/results/msra_ren_9x6x6.txt)
 - Pose-REN \[8\]: arXiv'17, [Predicted labels](https://github.com/xinghaochen/awesome-hand-pose-estimation/tree/master/evaluation/results/msra/arXiv17_MSRA_Pose_REN.txt)
-- DenseReg \[10\]: arXiv'17, [Predicted labels](https://github.com/melonwan/denseReg/blob/master/exp/result/msra.txt)
+- DenseReg \[10\]: CVPR'18, [Predicted labels](https://github.com/melonwan/denseReg/blob/master/exp/result/msra.txt)
 - [3DCNN](https://sites.google.com/site/geliuhaontu/home/cvpr2017) \[11\]: CVPR'17, [Predicted labels](https://drive.google.com/file/d/1M1iZyPZ3jU1_KIH0kJKvg1TwolpwLQxy/view?usp=sharing)
 
 ### Notes

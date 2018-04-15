@@ -1,0 +1,3 @@
+python src/convert_results_xyz2uvd_denseReg.py nyu results/nyu/CVPR18_NYU_denseReg_ori.txt results/nyu/CVPR18_NYU_denseReg.txt
+python src/convert_results_xyz2uvd_denseReg.py icvl results/icvl/CVPR18_ICVL_denseReg_ori.txt results/icvl/CVPR18_ICVL_denseReg.txt
+python src/convert_results_xyz2uvd_denseReg.py msra results/msra/CVPR18_MSRA_denseReg_ori.txt results/msra/CVPR18_MSRA_denseReg.txt
