@@ -55,6 +55,9 @@ _Xiaoming Deng\*, Shuo Yang\*, Yinda Zhang\*, Ping Tan, Liang Chang, Hongan Wang
 
 ### 2018 CVPR
 
+##### Learning Pose Specific Representations by Predicting Different Views. \[PDF\](https://arxiv.org/pdf/1804.03390.pdf)  [\[Project Page\]](https://poier.github.io/PreView/)  [\[Code\]](https://github.com/poier/PreView)
+_Georg Poier, David Schinagl, Horst Bischof_
+
 ##### Hand PointNet: 3D Hand Pose Estimation using Point Sets. \[PDF\] *(Spotlight)*
 _Liuhao Ge, Junwu Weng, Yujun Cai, Junsong Yuan_
 
