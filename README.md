@@ -2,6 +2,7 @@
 
 ## Table of Contents
  - [arXiv Papers](#arxiv-papers)
+ - [Journal Papers](#journal-papers)
  - [Conference Papers](#conference-papers)
    - [2018 CVPR](#2018-cvpr)
    - [2018 Others](#2018-others)
@@ -16,7 +17,6 @@
    - [2015 Others](#2015-others)
    - [2014 CVPR](#2014-cvpr)
    - [2014 Others & Before](#2014-others--before)
- - [Journal Papers](#journal-papers)
  - [Theses](#theses)
  - [Datasets](#datasets)
  - [Challenges](#challenges)
@@ -47,6 +47,50 @@ _Xiaoming Deng\*, Shuo Yang\*, Yinda Zhang\*, Ping Tan, Liang Chang, Hongan Wang
 
 ##### [\[arXiv:1610.07214\]](https://arxiv.org/abs/1610.07214) 3D Hand Pose Tracking and Estimation Using Stereo Matching. [\[PDF\]](https://arxiv.org/pdf/1610.07214.pdf)
 *Jiawei Zhang, Jianbo Jiao, Mingliang Chen, Liangqiong Qu, Xiaobin Xu, Qingxiong Yang*
+
+## Journal Papers
+
+##### \[2018 TPAMI\] Real-time 3D Hand Pose Estimation with 3D Convolutional Neural Networks. \[PDF\]
+_Liuhao Ge, Hui Liang, Junsong Yuan and Daniel Thalmann_
+
+##### \[2018 JVCI\] Region Ensemble Network: Towards Good Practices for Deep 3D Hand Pose Estimation. [\[PDF\]](https://www.sciencedirect.com/science/article/pii/S1047320318300816) [\[Code\]](https://github.com/guohengkai/region-ensemble-network)
+_Guijin Wang, Xinghao Chen\*, Hengkai Guo\*, Cairong Zhang_
+
+##### \[2018 IJCV\] Depth-Based Hand Pose Estimation: Methods, Data, and Challenges. [\[PDF\]](https://link.springer.com/content/pdf/10.1007%2Fs11263-018-1081-7.pdf)
+*James Steven Supančič III, Grégory Rogez, Yi Yang, Jamie Shotton, Deva Ramanan*
+
+##### \[2017 TCYB\] Hough Forest with Optimized Leaves for Global Hand Pose Estimation with Arbitrary Postures. [\[PDF\]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8237190)
+*Hui Liang, Junsong Yuan, J. Lee, Liuhao Ge and Daniel Thalmann*
+
+##### \[2017 TCSVT\] Robust RGB-D Hand Tracking Using Deep Learning Priors. [\[PDF\]](http://ieeexplore.ieee.org/abstract/document/7955084/)
+*Jordi Sanchez-Riera, Kathiravan Srinivasan, Kai-Lung Hua, Wen-Huang Cheng, M. Anwar Hossain, and Mohammed F. Alhamid*
+
+##### [2017 CVIU] Hand Pose Estimation through Semi-Supervised and Weakly-Supervised Learning. [\[PDF\]](https://arxiv.org/pdf/1511.06728.pdf)
+*Natalia Neverova, Christian Wolf, Florian Nebout, Graham Taylor*
+
+##### \[2017 Neurocomputing\] Multi-task, Multi-domain Learning: application to semantic segmentation and pose regression. [\[PDF\]](http://liris.cnrs.fr/christian.wolf/papers/neurocomputing2017.pdf)
+*Damien Foururea, Rémi Emonet, Elisa Fromont, Damien Muselet, Natalia Neverova, Alain Trémeaua, Christian Wolf*
+
+##### \[2016 IJCV\] Capturing Hands in Action using Discriminative Salient Points and Physics Simulation. [\[PDF\]](http://files.is.tue.mpg.de/dtzionas/Hand-Object-Capture/IJCV_Hand_Object_Capture.pdf) [\[Project Page\]](http://files.is.tue.mpg.de/dtzionas/Hand-Object-Capture/)
+*Dimitrios Tzionas, Luca Ballan, Abhilash Srikantha, Pablo Aponte, Marc Pollefeys, Juergen Gall*
+
+##### \[2016 IJCV\] Lie-X: Depth Image Based Articulated Object Pose Estimation, Tracking, and Action Recognition on Lie Groups. [\[PDF\]](https://arxiv.org/pdf/1609.03773.pdf) [\[Project Page\]](https://web.bii.a-star.edu.sg/archive/machine_learning/Projects/behaviorAnalysis/Lie-X/Lie-X.html)
+*Chi Xu, Lakshmi Narasimhan Govindarajan, Yu Zhang, Li Cheng*
+
+##### \[2016 TPAMI\] Latent Regression Forest: Structured Estimation of 3D Hand Poses. [\[PDF\]](http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7539555)
+*Danhang Tang, Hyung Chang, Alykhan Tejani, Tae-Kyun Kim*
+
+##### \[2016 CVIU\] Guided Optimisation through Classification and Regression for Hand Pose Estimation. [\[PDF\]](http://www.krejov.com/uploads/2/4/0/5/24053627/1-s2.0-s107731421630193x-main.pdf) [\[Project Page\]](http://www.krejov.com/hand-pose-estimation.html)
+*Philip Krejov, Andrew Gilbert, Richard Bowden*
+
+##### \[2015 TCSVT\] Resolving Ambiguous Hand Pose Predictions by Exploiting Part Correlations. [\[PDF\]](https://fae1051c-a-62cb3a1a-s-sites.googlegroups.com/site/seraphlh/2014TCSVT_HandPoseEstimation.pdf?attachauth=ANoY7cqF4PK7sqq9tp3b6n9qdhnx-6DqQwpjMKZIqnM8G-dMWwJFDDj35udChAet0y5jNOepL2MTujtVVwKui3rx8hogCKmYCZba_xEtjyMZII5MepMLrSNMYUOL7TGgkPGFHT7wvYR_dUIw_82Ok2MCo2rFwyTErNVmvlqkXuGNAaI8orzQzsKLfv1PiwVY32NWPlIz_oWuHL1M3slA97O-jXt511socyqDDj-azzhEodhzFjtz1BI%3D&attredirects=0)
+*Hui Liang, Junsong Yuan, Daniel Thalmann*
+
+##### \[2015 IJCV\] Estimate Hand Poses Efficiently from Single Depth Images. [\[PDF\]](https://web.bii.a-star.edu.sg/~xuchi/pdf/XuEtAl_IJCV15.pdf) [\[Project Page\]](http://web.bii.a-star.edu.sg/~xuchi/dhand.htm)  [\[Code\]](https://github.com/lzddzh/HandPoseEstimation)
+*Chi Xu, Ashwin Nanjappa, Xiaowei Zhang, Li Cheng*
+
+##### \[2014 TMM\] Parsing the Hand in Depth Images. [\[PDF\]](https://fae1051c-a-62cb3a1a-s-sites.googlegroups.com/site/seraphlh/attachments/2014TMM_HandParsing.pdf?attachauth=ANoY7crJCn_-tr0um1h8DhY3QtG8ngGn8jsllw1_S2ykaSsRGXvoeHWz7MW4DJ4KvQbXVd3nIsyWxEcs4rEn04TjtUaOTEMm7llUEP2e4renxgUj7G2DrVKDZzYg3Dbat1xhrvbz0BdjBoGrvxIniQLQ3Jyzs58UCDGSlzo-sGiOdmgMC072ZOCIR9STMP1FDpQzq3WV9fIGMUycXQRyWLja08ADLZOeV3d0eGKO1NoNH8pxN5pDD6M%3D&attredirects=0) [\[Project Page\]](https://sites.google.com/site/seraphlh/projects)  [\[Code\]](https://github.com/shrekei/RandomDecisionForest)
+*Hui Liang, Junsong Yuan, Daniel Thalmann*
 
 ## Conference Papers
 
@@ -290,46 +334,6 @@ _Ayan Sinha\*, Chiho Choi\*, Karthik Ramani_
 ##### \[2011 BMVC\] Efficient Model-based 3D Tracking of Hand Articulations using Kinect. [\[PDF\]](http://www.cp.jku.at/teaching/praktika/imageproc/bodyparts_Algorithmus1.pdf) [\[Project Page\]](http://users.ics.forth.gr/~argyros/research/kinecthandtracking.htm) [\[Code\]](https://github.com/FORTH-ModelBasedTracker/HandTracker)
 *Iason Oikonomidis, Nikolaos Kyriazis, Antonis A. Argyros*
 
-## Journal Papers
-
-##### \[2018 JVCIR\] Region Ensemble Network: Towards Good Practices for Deep 3D Hand Pose Estimation. [\[PDF\]](https://www.sciencedirect.com/science/article/pii/S1047320318300816) [\[Code\]](https://github.com/guohengkai/region-ensemble-network)
-_Guijin Wang, Xinghao Chen\*, Hengkai Guo\*, Cairong Zhang_
-
-##### \[2018 IJCV\] Depth-Based Hand Pose Estimation: Methods, Data, and Challenges. [\[PDF\]](https://link.springer.com/content/pdf/10.1007%2Fs11263-018-1081-7.pdf)
-*James Steven Supančič III, Grégory Rogez, Yi Yang, Jamie Shotton, Deva Ramanan*
-
-##### \[2017 TCYB\] Hough Forest with Optimized Leaves for Global Hand Pose Estimation with Arbitrary Postures. [\[PDF\]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8237190)
-*Hui Liang, Junsong Yuan, J. Lee, Liuhao Ge and Daniel Thalmann*
-
-##### \[2017 TCSVT\] Robust RGB-D Hand Tracking Using Deep Learning Priors. [\[PDF\]](http://ieeexplore.ieee.org/abstract/document/7955084/)
-*Jordi Sanchez-Riera, Kathiravan Srinivasan, Kai-Lung Hua, Wen-Huang Cheng, M. Anwar Hossain, and Mohammed F. Alhamid*
-
-##### [2017 CVIU] Hand Pose Estimation through Semi-Supervised and Weakly-Supervised Learning. [\[PDF\]](https://arxiv.org/pdf/1511.06728.pdf)
-*Natalia Neverova, Christian Wolf, Florian Nebout, Graham Taylor*
-
-##### \[2017 Neurocomputing\] Multi-task, Multi-domain Learning: application to semantic segmentation and pose regression. [\[PDF\]](http://liris.cnrs.fr/christian.wolf/papers/neurocomputing2017.pdf)
-*Damien Foururea, Rémi Emonet, Elisa Fromont, Damien Muselet, Natalia Neverova, Alain Trémeaua, Christian Wolf*
-
-##### \[2016 IJCV\] Capturing Hands in Action using Discriminative Salient Points and Physics Simulation. [\[PDF\]](http://files.is.tue.mpg.de/dtzionas/Hand-Object-Capture/IJCV_Hand_Object_Capture.pdf) [\[Project Page\]](http://files.is.tue.mpg.de/dtzionas/Hand-Object-Capture/)
-*Dimitrios Tzionas, Luca Ballan, Abhilash Srikantha, Pablo Aponte, Marc Pollefeys, Juergen Gall*
-
-##### \[2016 IJCV\] Lie-X: Depth Image Based Articulated Object Pose Estimation, Tracking, and Action Recognition on Lie Groups. [\[PDF\]](https://arxiv.org/pdf/1609.03773.pdf) [\[Project Page\]](https://web.bii.a-star.edu.sg/archive/machine_learning/Projects/behaviorAnalysis/Lie-X/Lie-X.html)
-*Chi Xu, Lakshmi Narasimhan Govindarajan, Yu Zhang, Li Cheng*
-
-##### \[2016 TPAMI\] Latent Regression Forest: Structured Estimation of 3D Hand Poses. [\[PDF\]](http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7539555)
-*Danhang Tang, Hyung Chang, Alykhan Tejani, Tae-Kyun Kim*
-
-##### \[2016 CVIU\] Guided Optimisation through Classification and Regression for Hand Pose Estimation. [\[PDF\]](http://www.krejov.com/uploads/2/4/0/5/24053627/1-s2.0-s107731421630193x-main.pdf) [\[Project Page\]](http://www.krejov.com/hand-pose-estimation.html)
-*Philip Krejov, Andrew Gilbert, Richard Bowden*
-
-##### \[2015 TCSVT\] Resolving Ambiguous Hand Pose Predictions by Exploiting Part Correlations. [\[PDF\]](https://fae1051c-a-62cb3a1a-s-sites.googlegroups.com/site/seraphlh/2014TCSVT_HandPoseEstimation.pdf?attachauth=ANoY7cqF4PK7sqq9tp3b6n9qdhnx-6DqQwpjMKZIqnM8G-dMWwJFDDj35udChAet0y5jNOepL2MTujtVVwKui3rx8hogCKmYCZba_xEtjyMZII5MepMLrSNMYUOL7TGgkPGFHT7wvYR_dUIw_82Ok2MCo2rFwyTErNVmvlqkXuGNAaI8orzQzsKLfv1PiwVY32NWPlIz_oWuHL1M3slA97O-jXt511socyqDDj-azzhEodhzFjtz1BI%3D&attredirects=0)
-*Hui Liang, Junsong Yuan, Daniel Thalmann*
-
-##### \[2015 IJCV\] Estimate Hand Poses Efficiently from Single Depth Images. [\[PDF\]](https://web.bii.a-star.edu.sg/~xuchi/pdf/XuEtAl_IJCV15.pdf) [\[Project Page\]](http://web.bii.a-star.edu.sg/~xuchi/dhand.htm)  [\[Code\]](https://github.com/lzddzh/HandPoseEstimation)
-*Chi Xu, Ashwin Nanjappa, Xiaowei Zhang, Li Cheng*
-
-##### \[2014 TMM\] Parsing the Hand in Depth Images. [\[PDF\]](https://fae1051c-a-62cb3a1a-s-sites.googlegroups.com/site/seraphlh/attachments/2014TMM_HandParsing.pdf?attachauth=ANoY7crJCn_-tr0um1h8DhY3QtG8ngGn8jsllw1_S2ykaSsRGXvoeHWz7MW4DJ4KvQbXVd3nIsyWxEcs4rEn04TjtUaOTEMm7llUEP2e4renxgUj7G2DrVKDZzYg3Dbat1xhrvbz0BdjBoGrvxIniQLQ3Jyzs58UCDGSlzo-sGiOdmgMC072ZOCIR9STMP1FDpQzq3WV9fIGMUycXQRyWLja08ADLZOeV3d0eGKO1NoNH8pxN5pDD6M%3D&attredirects=0) [\[Project Page\]](https://sites.google.com/site/seraphlh/projects)  [\[Code\]](https://github.com/shrekei/RandomDecisionForest)
-*Hui Liang, Junsong Yuan, Daniel Thalmann*
 
 ## Theses
 ##### \[2017 Thesis\] Human Segmentation, Pose Estimation and Applications. [\[PDF\]](http://sergioescalera.com/wp-content/uploads/2017/10/MeysamPhDv2.pdf) [\[Slides\]](http://sergioescalera.com/wp-content/uploads/2017/10/Thesis-presentation.pdf)
@@ -405,6 +409,9 @@ _Guijin Wang, Xinghao Chen\*, Hengkai Guo\*, Cairong Zhang_
 The 2017 Hands in the Million Challenge on 3D Hand Pose Estimation, [arXiv:1704.02463](https://arxiv.org/pdf/1707.02237.pdf), _Shanxin Yuan, Qi Ye, Guillermo Garcia-Hernando, Tae-Kyun Kim_
 
 ## Other Related Papers
+##### \[2018 CVPRW\] HandyNet: A One-stop Solution to Detect, Segment, Localize & Analyze Driver Hands. [\[PDF\]](https://arxiv.org/pdf/1804.07834.pdf)
+*Akshay Rangesh, Mohan M. Trivedi*
+
 ##### \[2018 CVPR\] DensePose: Dense Human Pose Estimation In The Wild. [\[PDF\]](https://arxiv.org/pdf/1802.00434.pdf)  [\[Project Page\]](http://densepose.org/)
 *Rıza Alp Güler, Natalia Neverova, Iasonas Kokkinos*
 
