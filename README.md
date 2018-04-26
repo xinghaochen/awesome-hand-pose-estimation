@@ -27,6 +27,9 @@ See folder [``evaluation``](https://github.com/xinghaochen/awesome-hand-pose-est
 
 ## arXiv Papers
 
+##### [\[arXiv:1804.09534\]](https://arxiv.org/abs/1804.09534) Hand Pose Estimation via Latent 2.5D Heatmap Regression. [\[PDF\]](https://arxiv.org/pdf/1804.09534.pdf)
+_Umar Iqbal, Pavlo Molchanov, Thomas Breuel, Juergen Gall, Jan Kautz_
+
 ##### [\[arXiv:1711.10872\]](https://arxiv.org/abs/1711.10872) Occlusion-aware Hand Pose Estimation Using Hierarchical Mixture Density Network. [\[PDF\]](https://arxiv.org/pdf/1711.10872.pdf)
 _Qi Ye, Tae-Kyun Kim_
 
@@ -251,7 +254,7 @@ _Ayan Sinha\*, Chiho Choi\*, Karthik Ramani_
 ##### Opening the Black Box: Hierarchical Sampling Optimization for Estimating Human Hand Pose.  [\[PDF\]](https://labicvl.github.io/docs/pubs/Danny_ICCV_2015.pdf)
 *Danhang Tang, Jonathan Taylor, Pushmeet Kohli, Cem Keskin, Tae-Kyun Kim, Jamie Shotton*
 
-##### Depth-based hand pose estimation: data, methods, and challenges. [\[PDF\]](https://arxiv.org/pdf/1504.06378) [\[Project Page\]](http://www.ics.uci.edu/~jsupanci/#HandData) [\[Code\]](https://github.com/jsupancic/deep_hand_pose)
+##### Depth-based hand pose estimation: data, methods, and challenges. [\[PDF\]](https://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Supancic_Depth-Based_Hand_Pose_ICCV_2015_paper.pdf) [\[Project Page\]](http://www.ics.uci.edu/~jsupanci/#HandData) [\[Code\]](https://github.com/jsupancic/deep_hand_pose)
 *James Supancic III, Deva Ramanan, Gregory Rogez, Yi Yang, Jamie Shotton*
 
 ##### 3D Hand Pose Estimation Using Randomized Decision Forest with Segmentation Index Points. [\[PDF\]](https://www.google.com.sg/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwipy5fi9OvSAhUWwGMKHdSqDzoQFggeMAA&url=http%3A%2F%2Fwww.cv-foundation.org%2Fopenaccess%2Fcontent_iccv_2015%2Fpapers%2FLi_3D_Hand_Pose_ICCV_2015_paper.pdf&usg=AFQjCNGT2imZQPCrX5ggOGGDZoKmokLsAw&sig2=3U22HjWavqmtFM7eO550Fw)
