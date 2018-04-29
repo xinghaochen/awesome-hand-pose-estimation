@@ -48,9 +48,6 @@ _Xiaoming Deng\*, Shuo Yang\*, Yinda Zhang\*, Ping Tan, Liang Chang, Hongan Wang
 ##### [\[arXiv:1612.00596\]](https://arxiv.org/abs/1612.00596) Learning to Search on Manifolds for 3D Pose Estimation of Articulated Objects. [\[PDF\]](https://arxiv.org/pdf/1612.00596.pdf)
 *Yu Zhang, Chi Xu, Li Cheng*
 
-##### [\[arXiv:1610.07214\]](https://arxiv.org/abs/1610.07214) 3D Hand Pose Tracking and Estimation Using Stereo Matching. [\[PDF\]](https://arxiv.org/pdf/1610.07214.pdf)
-*Jiawei Zhang, Jianbo Jiao, Mingliang Chen, Liangqiong Qu, Xiaobin Xu, Qingxiong Yang*
-
 ## Journal Papers
 
 ##### \[2018 TPAMI\] Real-time 3D Hand Pose Estimation with 3D Convolutional Neural Networks. \[PDF\]
@@ -148,7 +145,7 @@ _Christian Zimmermann, Thomas Brox_
 ##### Learning Hand Articulations by Hallucinating Heat Distribution. [\[PDF\]](http://openaccess.thecvf.com/content_ICCV_2017/papers/Choi_Learning_Hand_Articulations_ICCV_2017_paper.pdf) [\[Supp\]](http://openaccess.thecvf.com/content_ICCV_2017/supplemental/Choi_Learning_Hand_Articulations_ICCV_2017_supplemental.pdf)  [\[Project Page\]](https://engineering.purdue.edu/cdesign/wp/learning-hand-articulations-by-hallucinating-heat-distribution/)
 *Chiho Choi, Sangpil Kim, Karthik Ramani*
 
-##### \[2017 ICCV\] Low-Dimensionality Calibration through Local Anisotropic Scaling for Robust Hand Model Personalization. [\[PDF\]](http://lgg.epfl.ch/publications/2017/LocalAnisotropicScaling/paper.pdf)  [\[Project Page\]](http://lgg.epfl.ch/publications/2017/LocalAnisotropicScaling/index.php) [\[Code\]](https://github.com/edoRemelli/hadjust)
+##### Low-Dimensionality Calibration through Local Anisotropic Scaling for Robust Hand Model Personalization. [\[PDF\]](http://lgg.epfl.ch/publications/2017/LocalAnisotropicScaling/paper.pdf)  [\[Project Page\]](http://lgg.epfl.ch/publications/2017/LocalAnisotropicScaling/index.php) [\[Code\]](https://github.com/edoRemelli/hadjust)
 _Edoardo Remelli*, Anastasia Tkach*, Andrea Tagliasacchi, Mark Pauly_
 
 ##### [Hands17 Workshop] Back to RGB: 3D tracking of hands and hand-object interactions based on short-baseline stereo. [\[PDF\]](https://arxiv.org/pdf/1705.05301.pdf)
@@ -222,6 +219,9 @@ _Qi Ye\*, Shanxin Yuan\*, Tae-Kyun Kim_
 *Srinath Sridhar, Franziska Mueller, Michael Zollhöfer, Dan Casas, Antti Oulasvirta, Christian Theobalt*
 
 ### 2016 Others
+##### \[2016 ACCV\] Hand Pose Regression via A Classification-guided Approach. [\[PDF\]](http://staff.ustc.edu.cn/~juyong/Papers/HandTracking-2016.pdf)
+*Hongwei Yang, Juyong Zhang*
+
 ##### \[2016 ICPR\] Depth-based 3D hand pose tracking. [\[PDF\]](http://ieeexplore.ieee.org/abstract/document/7900051)
 *Kha Gia Quach, Chi Nhan Duong, Khoa Luu, and Tien D. Bui.*
 

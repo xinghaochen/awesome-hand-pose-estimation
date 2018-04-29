@@ -7,7 +7,7 @@ python src/compute_error.py nyu max-frame\
 	3DCNN   results/nyu/CVPR17_NYU_3DCNN.txt\
 	Guo_Baseline    results/nyu/ICIP17_NYU_Guo_Basic.txt\
     REN-4x6x6   results/nyu/ICIP17_NYU_REN_4x6x6.txt\
-    REN-9x6x6   results/nyu/JVCIR18_NYU_REN_9x6x6.txt\
+    REN-9x6x6   results/nyu/JVCI18_NYU_REN_9x6x6.txt\
 	DeepPrior++   results/nyu/ICCVW17_NYU_DeepPrior++.txt\
     Pose-REN   results/nyu/arXiv17_NYU_Pose_REN.txt\
 	DenseReg   results/nyu/CVPR18_NYU_denseReg.txt\
