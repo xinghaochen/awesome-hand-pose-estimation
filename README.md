@@ -419,7 +419,7 @@ _Ayan Sinha\*, Chiho Choi\*, Karthik Ramani_
 - Submission Website: TBA
 - Document: TBA
 
-##### [The 2017 Hands in the Million Challenge on 3D Hand Pose Estimation]((http://icvl.ee.ic.ac.uk/hands17/challenge/)
+##### [The 2017 Hands in the Million Challenge on 3D Hand Pose Estimation](http://icvl.ee.ic.ac.uk/hands17/challenge/)
 *[HANDS 2017](http://icvl.ee.ic.ac.uk/hands17/), [ICCV 2017](http://iccv2017.thecvf.com/)*
 - Submission Website: [Frame and Tracking Task](https://competitions.codalab.org/competitions/17356#results), [Hand-Object Task](https://competitions.codalab.org/competitions/17452#results)
 - Document:
