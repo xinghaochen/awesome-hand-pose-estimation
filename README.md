@@ -51,7 +51,7 @@ _Xiaoming Deng\*, Shuo Yang\*, Yinda Zhang\*, Ping Tan, Liang Chang, Hongan Wang
 
 ## Journal Papers
 
-##### \[2018 TPAMI\] Real-time 3D Hand Pose Estimation with 3D Convolutional Neural Networks. \[PDF\]
+##### \[2018 TPAMI\] Real-time 3D Hand Pose Estimation with 3D Convolutional Neural Networks. [\[PDF\]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8338122)
 _Liuhao Ge, Hui Liang, Junsong Yuan and Daniel Thalmann_
 
 ##### \[2018 JVCI\] Region Ensemble Network: Towards Good Practices for Deep 3D Hand Pose Estimation. [\[PDF\]](https://www.sciencedirect.com/science/article/pii/S1047320318300816) [\[Code\]](https://github.com/guohengkai/region-ensemble-network)
