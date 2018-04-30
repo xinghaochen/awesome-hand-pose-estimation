@@ -19,6 +19,7 @@
    - [2014 Others & Before](#2014-others--before)
  - [Theses](#theses)
  - [Datasets](#datasets)
+ - [Workshops](#workshops)
  - [Challenges](#challenges)
  - [Other Related Papers](#other-related-papers)
 
@@ -402,14 +403,27 @@ _Ayan Sinha\*, Chiho Choi\*, Karthik Ramani_
 - [3] Capturing Hand-Object Interaction and Reconstruction of Manipulated Objects, IJCV 2016 [\[PDF\]](http://ps.is.tue.mpg.de/uploads_file/attachment/attachment/340/Thesis_FINAL_online.pdf)
 - [4] [MPI Hand Tracking Central](http://handtracker.mpi-inf.mpg.de/)
 
+## Workshops
+
+*Workshops on Observing and Understanding Hands in Action:*
+
+##### [HANDS 2018](https://sites.google.com/view/hands2018/), In conjunction with ECCV 2018
+##### [HANDS 2017](http://icvl.ee.ic.ac.uk/hands17/), In conjunction with ICCV 2017
+##### [HANDS 2016](http://www.iis.ee.ic.ac.uk/ComputerVision/hand/Hands2016), In conjunction with CVPR 2016
+##### [HANDS 2015](http://www.ics.uci.edu/~jsupanci/HANDS-2015/), In conjunction with CVPR 2015
+
 ## Challenges
 
-##### The 2017 Hands in the Million Challenge on 3D Hand Pose Estimation.
-*[3rd International Workshop on Observing and Understanding Hands in Action ( HANDS 2017)](http://icvl.ee.ic.ac.uk/hands17/), [ICCV 2017](http://iccv2017.thecvf.com/)*
-- [Challenge Website](http://icvl.ee.ic.ac.uk/hands17/challenge/)
+##### [TBA](https://sites.google.com/view/hands2018/challenge)
+*[HANDS 2018](https://sites.google.com/view/hands2018/), [ECCV 2018](https://eccv2018.org/program/workshops_tutorials/)*
+- Submission Website: TBA
+- Document: TBA
+
+##### [The 2017 Hands in the Million Challenge on 3D Hand Pose Estimation]((http://icvl.ee.ic.ac.uk/hands17/challenge/)
+*[HANDS 2017](http://icvl.ee.ic.ac.uk/hands17/), [ICCV 2017](http://iccv2017.thecvf.com/)*
 - Submission Website: [Frame and Tracking Task](https://competitions.codalab.org/competitions/17356#results), [Hand-Object Task](https://competitions.codalab.org/competitions/17452#results)
-- [Document:](https://arxiv.org/abs/1707.02237)
-The 2017 Hands in the Million Challenge on 3D Hand Pose Estimation, [arXiv:1704.02463](https://arxiv.org/pdf/1707.02237.pdf), _Shanxin Yuan, Qi Ye, Guillermo Garcia-Hernando, Tae-Kyun Kim_
+- Document:
+[The 2017 Hands in the Million Challenge on 3D Hand Pose Estimation](https://arxiv.org/pdf/1707.02237.pdf), _Shanxin Yuan, Qi Ye, Guillermo Garcia-Hernando, Tae-Kyun Kim_
 
 ## Other Related Papers
 ##### \[2018 CVPRW\] HandyNet: A One-stop Solution to Detect, Segment, Localize & Analyze Driver Hands. [\[PDF\]](https://arxiv.org/pdf/1804.07834.pdf)
