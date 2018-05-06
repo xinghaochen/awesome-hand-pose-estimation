@@ -51,6 +51,12 @@ _Xiaoming Deng\*, Shuo Yang\*, Yinda Zhang\*, Ping Tan, Liang Chang, Hongan Wang
 
 ## Journal Papers
 
+##### \[2018 TIP\] Robust 3D Hand Pose Estimation from Single Depth Images using Multi-View CNNs. \[PDF\]
+_Liuhao Ge, Hui Liang, Junsong Yuan and Daniel Thalmann_
+
+##### \[2018 TPAMI\] Opening the Black Box: Hierarchical Sampling Optimization for Hand Pose Estimation. \[PDF\]
+_Danhang Tang\*, Qi Ye\*, Shanxin Yuan, Jonathan Taylor, Pushmeet Kohli, Cem Keskin, Tae-Kyun Kim, Jamie Shotton_
+
 ##### \[2018 TPAMI\] Real-time 3D Hand Pose Estimation with 3D Convolutional Neural Networks. [\[PDF\]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8338122)
 _Liuhao Ge, Hui Liang, Junsong Yuan and Daniel Thalmann_
 
