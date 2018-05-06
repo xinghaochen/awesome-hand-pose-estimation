@@ -125,7 +125,7 @@ _Franziska Mueller, Florian Bernard, Oleksandr Sotnychenko, Dushyant Mehta, Srin
 ##### V2V-PoseNet: Voxel-to-Voxel Prediction Network for Accurate 3D Hand and Human Pose Estimation from a Single Depth Map. [\[PDF\]](https://arxiv.org/pdf/1711.07399.pdf) [\[Code\]](https://github.com/mks0601/V2V-PoseNet_RELEASE)
 _Gyeongsik Moon, Ju Yong Chang, Kyoung Mu Lee_
 
-##### 3D Hand Pose Estimation: From Current Achievements to Future Goals. [\[PDF\]](https://arxiv.org/pdf/1712.03917.pdf) *(Spotlight)*
+##### Depth-Based 3D Hand Pose Estimation: From Current Achievements to Future Goals. [\[PDF\]](https://arxiv.org/pdf/1712.03917.pdf) *(Spotlight)*
 _Shanxin Yuan, Guillermo Garcia-Hernando, Bjorn Stenger, Gyeongsik Moon, Ju Yong Chang, Kyoung Mu Lee, Pavlo Molchanov, Jan Kautz, Sina Honari, Liuhao Ge, Junsong Yuan, Xinghao Chen, Guijin Wang, Fan Yang, Kai Akiyama, Yang Wu, Qingfu Wan, Meysam Madadi, Sergio Escalera, Shile Li, Dongheui Lee, Iason Oikonomidis, Antonis Argyros, Tae-Kyun Kim_
 
 ##### Augmented skeleton space transfer for depth-based hand pose estimation. \[PDF\] *(Oral)*
