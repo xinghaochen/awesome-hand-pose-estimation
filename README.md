@@ -4,19 +4,11 @@
  - [arXiv Papers](#arxiv-papers)
  - [Journal Papers](#journal-papers)
  - [Conference Papers](#conference-papers)
-   - [2018 CVPR](#2018-cvpr)
-   - [2018 Others](#2018-others)
-   - [2017 ICCV](#2017-iccv)
-   - [2017 CVPR](#2017-cvpr)
-   - [2017 Others](#2017-others)
-   - [2016 ECCV](#2016-eccv)
-   - [2016 CVPR](#2016-cvpr)
-   - [2016 Others](#2016-others)
-   - [2015 ICCV](#2015-iccv)
-   - [2015 CVPR](#2015-cvpr)
-   - [2015 Others](#2015-others)
-   - [2014 CVPR](#2014-cvpr)
-   - [2014 Others & Before](#2014-others--before)
+   - 2018: [CVPR](#2018-cvpr), [Others](#2018-others)
+   - 2017: [CVPR](#2017-cvpr), [ICCV](#2017-iccv), [Others](#2017-others)
+   - 2016: [CVPR](#2016-cvpr), [ECCV](#2016-eccv), [Others](#2016-others)
+   - 2015: [CVPR](#2015-cvpr), [ICCV](#2015-iccv), [Others](#2015-others)
+   - 2014: [CVPR](#2014-cvpr), [Others & Before](#2014-others--before)
  - [Theses](#theses)
  - [Datasets](#datasets)
  - [Workshops](#workshops)
@@ -106,7 +98,7 @@ _Guijin Wang, Xinghao Chen\*, Hengkai Guo\*, Cairong Zhang_
 ##### Learning Pose Specific Representations by Predicting Different Views. [\[PDF\]](https://arxiv.org/pdf/1804.03390.pdf)  [\[Project Page\]](https://poier.github.io/PreView/)  [\[Code\]](https://github.com/poier/PreView)
 _Georg Poier, David Schinagl, Horst Bischof_
 
-##### Hand PointNet: 3D Hand Pose Estimation using Point Sets. \[PDF\] *(Spotlight)*
+##### Hand PointNet: 3D Hand Pose Estimation using Point Sets. [\[PDF\]](https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnxnZWxpdWhhb250dXxneDoxMGU4YzMyMzNhMzM2NDUz) *(Spotlight)*
 _Liuhao Ge, Junwu Weng, Yujun Cai, Junsong Yuan_
 
 ##### Dense 3D Regression for Hand Pose Estimation. [\[PDF\]](https://arxiv.org/pdf/1711.08996.pdf)  [\[Code\]](https://github.com/melonwan/denseReg)
@@ -128,7 +120,7 @@ _Gyeongsik Moon, Ju Yong Chang, Kyoung Mu Lee_
 ##### Depth-Based 3D Hand Pose Estimation: From Current Achievements to Future Goals. [\[PDF\]](https://arxiv.org/pdf/1712.03917.pdf) *(Spotlight)*
 _Shanxin Yuan, Guillermo Garcia-Hernando, Bjorn Stenger, Gyeongsik Moon, Ju Yong Chang, Kyoung Mu Lee, Pavlo Molchanov, Jan Kautz, Sina Honari, Liuhao Ge, Junsong Yuan, Xinghao Chen, Guijin Wang, Fan Yang, Kai Akiyama, Yang Wu, Qingfu Wan, Meysam Madadi, Sergio Escalera, Shile Li, Dongheui Lee, Iason Oikonomidis, Antonis Argyros, Tae-Kyun Kim_
 
-##### Augmented skeleton space transfer for depth-based hand pose estimation. \[PDF\] *(Oral)*
+##### Augmented skeleton space transfer for depth-based hand pose estimation. [\[PDF\]](https://arxiv.org/pdf/1805.04497.pdf) *(Oral)*
 _Seungryul Baek, Kwang In Kim, Tae-Kyun Kim_
 
 ### 2018 Others
