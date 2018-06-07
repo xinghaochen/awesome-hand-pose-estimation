@@ -123,6 +123,9 @@ _Shanxin Yuan, Guillermo Garcia-Hernando, Bjorn Stenger, Gyeongsik Moon, Ju Yong
 ##### Augmented skeleton space transfer for depth-based hand pose estimation. [\[PDF\]](https://arxiv.org/pdf/1805.04497.pdf) *(Oral)*
 _Seungryul Baek, Kwang In Kim, Tae-Kyun Kim_
 
+##### [3D HUMANS Workshop](https://project.inria.fr/humans2018/) Monocular RGB Hand Pose Inference From Unsupervised Refinable Nets. [\[PDF\]](http://openaccess.thecvf.com/CVPR2018_workshops/content_CVPR_2018/papers/w17/Dibra_Monocular_RGB_Hand_CVPR_2018_paper.pdf)
+_Endri Dibra, Silvan Melchior, Ali Balkis, Thomas Wolf, Cengiz Oztireli, Markus Gross_
+
 ### 2018 Others
 
 ##### [2018 FG] Kinematic Constrained Cascaded Autoencoder for Real-time Hand Pose Estimation. \[PDF\]
