@@ -128,7 +128,7 @@ _Endri Dibra, Silvan Melchior, Ali Balkis, Thomas Wolf, Cengiz Oztireli, Markus 
 
 ### 2018 Others
 
-##### [2018 FG] Kinematic Constrained Cascaded Autoencoder for Real-time Hand Pose Estimation. \[PDF\]
+##### [2018 FG] Kinematic Constrained Cascaded Autoencoder for Real-time Hand Pose Estimation. [\[PDF\]](https://ieeexplore.ieee.org/abstract/document/8373810/)
 _Yushun Lin, Xiujuan Chai, Xilin Chen_
 
 ##### [2018 WACV] Using a single RGB frame for real time 3D hand pose estimation in the wild. [\[PDF\]](https://arxiv.org/pdf/1712.03866.pdf)  [\[Project Page\]](http://users.ics.forth.gr/~argyros/res_rgbmonohand.html)
@@ -410,8 +410,12 @@ _Ayan Sinha\*, Chiho Choi\*, Karthik Ramani_
 
 ##### [HANDS 2018](https://sites.google.com/view/hands2018/), In conjunction with ECCV 2018
 ##### [HANDS 2017](http://icvl.ee.ic.ac.uk/hands17/), In conjunction with ICCV 2017
-##### [HANDS 2016](http://www.iis.ee.ic.ac.uk/ComputerVision/hand/Hands2016), In conjunction with CVPR 2016
+##### [HANDS 2016](https://labicvl.github.io/hand/Hands2016/), In conjunction with CVPR 2016
 ##### [HANDS 2015](http://www.ics.uci.edu/~jsupanci/HANDS-2015/), In conjunction with CVPR 2015
+</br>
+*Workshops on Capturing and modeling human bodies, faces and hands:*
+##### [PeopleCap 2018](https://peoplecap2018.weebly.com/), In conjunction with ECCV 2018
+##### [PeopleCap 2017](http://peoplecap.weebly.com/), In conjunction with ICCV 2017
 
 ## Challenges
 
