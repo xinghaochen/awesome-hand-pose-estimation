@@ -414,6 +414,7 @@ _Ayan Sinha\*, Chiho Choi\*, Karthik Ramani_
 ##### [HANDS 2015](http://www.ics.uci.edu/~jsupanci/HANDS-2015/), In conjunction with CVPR 2015
 </br>
 *Workshops on Capturing and modeling human bodies, faces and hands:*
+
 ##### [PeopleCap 2018](https://peoplecap2018.weebly.com/), In conjunction with ECCV 2018
 ##### [PeopleCap 2017](http://peoplecap.weebly.com/), In conjunction with ICCV 2017
 
