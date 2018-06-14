@@ -412,7 +412,7 @@ _Ayan Sinha\*, Chiho Choi\*, Karthik Ramani_
 ##### [HANDS 2017](http://icvl.ee.ic.ac.uk/hands17/), In conjunction with ICCV 2017
 ##### [HANDS 2016](https://labicvl.github.io/hand/Hands2016/), In conjunction with CVPR 2016
 ##### [HANDS 2015](http://www.ics.uci.edu/~jsupanci/HANDS-2015/), In conjunction with CVPR 2015
-</br>
+
 *Workshops on Capturing and modeling human bodies, faces and hands:*
 
 ##### [PeopleCap 2018](https://peoplecap2018.weebly.com/), In conjunction with ECCV 2018
