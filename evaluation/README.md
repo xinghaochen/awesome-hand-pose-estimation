@@ -61,7 +61,7 @@ There are two types of evaluation metrics that are widely used for hand pose est
 
 - For [3DCNN](https://sites.google.com/site/geliuhaontu/home/cvpr2017), we convert the original predicted labels from xyz to uvd (see src/convert_results_xyz2uvd_3DCNN.py).
 
-- The annotations for MSRA dataset for [V2V-PoseNet](http://cv.snu.ac.kr/research/V2V-PoseNet/MSRA/coordinate/result.txt) is slightly different from prior work so we haven't included it yet.
+- The annotations for MSRA dataset for [V2V-PoseNet](http://cv.snu.ac.kr/research/V2V-PoseNet/MSRA/coordinate/result.txt) are slightly different from prior work so we haven't included its results yet.
 
 ## Usage
 Use the python code to show the evaluation results:
@@ -94,7 +94,6 @@ sh evaluate_{dataset}.sh
 |  DenseReg [10] | 10.214 |
 |  V2V-PoseNet [12] |8.419  |
 |  FeatureMapping [13] | 7.441  |
-
 
 ### Results on ICVL dataset
 ![figures/icvl_error_bar.png](figures/icvl_error.png)

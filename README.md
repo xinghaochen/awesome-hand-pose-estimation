@@ -15,7 +15,7 @@
  - [Challenges](#challenges)
  - [Other Related Papers](#other-related-papers)
 
-## Evaluation codes
+## Evaluation
 See folder [``evaluation``](https://github.com/xinghaochen/awesome-hand-pose-estimation/tree/master/evaluation) to get more details about performance evaluation for hand pose estimation.
 
 ## arXiv Papers
