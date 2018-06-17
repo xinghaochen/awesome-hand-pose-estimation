@@ -22,7 +22,7 @@ There are two types of evaluation metrics that are widely used for hand pose est
 - REN-9x6x6 \[7\]: JVCI'18, [Predicted labels](https://github.com/guohengkai/region-ensemble-network/blob/master/results/icvl_ren_9x6x6.txt)
 - Pose-REN \[8\]: arXiv'17, [Predicted labels](https://github.com/xinghaochen/awesome-hand-pose-estimation/tree/master/evaluation/results/icvl/arXiv17_ICVL_Pose_REN.txt)
 - DenseReg \[10\]: CVPR'18, [Predicted labels](https://github.com/melonwan/denseReg/blob/master/exp/result/icvl.txt)
-- V2V-PoseNet \[12\]: CVPR'18, [Predicted labels](http://cv.snu.ac.kr/research/V2V-PoseNet/ICVL/estimation/result.txt)
+- V2V-PoseNet \[12\]: CVPR'18, [Predicted labels](http://cv.snu.ac.kr/research/V2V-PoseNet/ICVL/coordinate/result.txt)
 
 ### NYU
 - DeepPrior \[4\]: CVWW'15, [Predicted labels](https://www.tugraz.at/fileadmin/user_upload/Institute/ICG/Downloads/team_lepetit/3d_hand_pose/CVWW15_ICVL_Prior.txt)
@@ -37,7 +37,7 @@ There are two types of evaluation metrics that are widely used for hand pose est
 - DeepPrior++ \[9\]: ICCVW'17, [Predicted labels](https://www.tugraz.at/fileadmin/user_upload/Institute/ICG/Downloads/team_lepetit/3d_hand_pose/ICCVW17_NYU_DeepPrior__.txt)
 - DenseReg \[10\]: CVPR'18, [Predicted labels](https://github.com/melonwan/denseReg/blob/master/exp/result/nyu.txt)
 - [3DCNN](https://sites.google.com/site/geliuhaontu/home/cvpr2017) \[11\]: CVPR'17, [Predicted labels](https://drive.google.com/file/d/1M1iZyPZ3jU1_KIH0kJKvg1TwolpwLQxy/view?usp=sharing)
-- V2V-PoseNet \[12\]: CVPR'18, [Predicted labels](http://cv.snu.ac.kr/research/V2V-PoseNet/NYU/estimation/result.txt)
+- V2V-PoseNet \[12\]: CVPR'18, [Predicted labels](http://cv.snu.ac.kr/research/V2V-PoseNet/NYU/coordinate/result.txt)
 - FeatureMapping \[13\]: CVPR'18, [Predicted labels](https://www.tugraz.at/fileadmin/user_upload/Institute/ICG/Downloads/team_lepetit/FeatureMapping/CVPR18_NYU_DeepPrior___FM.txt.zip)
 
 ### MSRA
@@ -55,11 +55,13 @@ There are two types of evaluation metrics that are widely used for hand pose est
 
 - For [DenseReg](https://github.com/melonwan/denseReg), we convert the original predicted labels from xyz to uvd (see src/convert_results_xyz2uvd_denseReg.py).
 
-- Since [DeepPrior[4]](https://www.tugraz.at/institute/icg/teams/teamlepetit/research/hand-detection-and-3d-pose-estimation/) and [DeepPrior++[9]](https://www.tugraz.at/institute/icg/teams/teamlepetit/research/hand-detection-and-3d-pose-estimation/) only provide predicted labels of Sequence A (702 frames) for ICVL dataset (totally 1596 frames for two test sequences), we havn't included these method in comparisions for ICVL dataset yet.
+- Since [DeepPrior[4]](https://www.tugraz.at/institute/icg/teams/teamlepetit/research/hand-detection-and-3d-pose-estimation/) and [DeepPrior++[9]](https://www.tugraz.at/institute/icg/teams/teamlepetit/research/hand-detection-and-3d-pose-estimation/) only provide predicted labels of Sequence A (702 frames) for ICVL dataset (totally 1596 frames for two test sequences), we haven't included these method in comparisons for ICVL dataset yet.
 
-- [DeepPrior++[9]](https://www.tugraz.at/institute/icg/teams/teamlepetit/research/hand-detection-and-3d-pose-estimation/) also provides predicted labels of for MSRA dataset online. However, the results seem to be shuffled so we havn't included these results yet, stay tuned.
+- [DeepPrior++[9]](https://www.tugraz.at/institute/icg/teams/teamlepetit/research/hand-detection-and-3d-pose-estimation/) also provides predicted labels of for MSRA dataset online. However, the results seem to be shuffled so we haven't included these results yet, stay tuned.
 
 - For [3DCNN](https://sites.google.com/site/geliuhaontu/home/cvpr2017), we convert the original predicted labels from xyz to uvd (see src/convert_results_xyz2uvd_3DCNN.py).
+
+- The annotations for MSRA dataset for [V2V-PoseNet](http://cv.snu.ac.kr/research/V2V-PoseNet/MSRA/coordinate/result.txt) is slightly different from prior work so we haven't included it yet.
 
 ## Usage
 Use the python code to show the evaluation results:
@@ -76,11 +78,47 @@ sh evaluate_{dataset}.sh
 ### Results on NYU dataset
 ![figures/nyu_error_bar.png](figures/nyu_error.png)
 
+|Methods|3D Error (mm)|
+|------|------|
+| DeepPrior [4] | 20.750 |
+| DeepPrior-Refine [4] | 19.726 |
+| DeepModel [2] |17.036  |
+| Feedback [5] |15.973  |
+|  Guo_Baseline [3] |14.588 |
+|  Lie-X [6] | 14.507 |
+|  3DCNN [11] |14.113 |
+|  REN-4x6x6 [3] | 13.393  |
+|  REN-9x6x6 [7] | 12.694  |
+|  DeepPrior++ [9] |12.238 |
+|  Pose-REN [8] | 11.811  |
+|  DenseReg [10] | 10.214 |
+|  V2V-PoseNet [12] |8.419  |
+|  FeatureMapping [13] | 7.441  |
+
+
 ### Results on ICVL dataset
 ![figures/icvl_error_bar.png](figures/icvl_error.png)
 
+|Methods|3D Error (mm)|
+|------|------|
+|  LRF [1] | 12.578 |
+| DeepModel [2] | 11.561 |
+|  Guo_Baseline [3] | 8.358 |
+|  REN-4x6x6 [3] | 7.628  |
+|  REN-9x6x6 [7] | 7.305  |
+|  DenseReg [10] | 7.239 |
+|  Pose-REN [8] | 6.791  |
+|  V2V-PoseNet [12] | 6.284  |
+
 ### Results on MSRA dataset
 ![figures/msra_error_bar.png](figures/msra_error.png)
+
+|Methods|3D Error (mm)|
+|------|------|
+|  REN-9x6x6 [7] | 9.792  |
+|  3DCNN [11] | 9.584  |
+|  Pose-REN [8] | 8.649  |
+|  DenseReg [10] | 7.234 |
 
 ## Reference
 - \[1\] "[Latent regression forest: Structured estimation of 3d articulated hand posture.](http://www.iis.ee.ic.ac.uk/dtang/cvpr_14.pdf)", Danhang Tang, Hyung Jin Chang, Alykhan Tejani, and Tae-Kyun Kim, Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**) 2014.
