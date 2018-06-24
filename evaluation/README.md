@@ -20,7 +20,7 @@ There are two types of evaluation metrics that are widely used for hand pose est
 - Guo-Baseline \[3\]: ICIP'17, [Predicted labels](https://github.com/guohengkai/region-ensemble-network/blob/master/results/icvl_basic.txt)
 - REN-4x6x6 \[3\]: ICIP'17, [Predicted labels](https://github.com/guohengkai/region-ensemble-network/blob/master/results/icvl_ren_4x6x6.txt)
 - REN-9x6x6 \[7\]: JVCI'18, [Predicted labels](https://github.com/guohengkai/region-ensemble-network/blob/master/results/icvl_ren_9x6x6.txt)
-- Pose-REN \[8\]: arXiv'17, [Predicted labels](https://github.com/xinghaochen/awesome-hand-pose-estimation/tree/master/evaluation/results/icvl/arXiv17_ICVL_Pose_REN.txt)
+- Pose-REN \[8\]: NEUCOM'18, [Predicted labels](https://github.com/xinghaochen/awesome-hand-pose-estimation/tree/master/evaluation/results/icvl/arXiv17_ICVL_Pose_REN.txt)
 - DenseReg \[10\]: CVPR'18, [Predicted labels](https://github.com/melonwan/denseReg/blob/master/exp/result/icvl.txt)
 - V2V-PoseNet \[12\]: CVPR'18, [Predicted labels](http://cv.snu.ac.kr/research/V2V-PoseNet/ICVL/coordinate/result.txt)
 
@@ -33,7 +33,7 @@ There are two types of evaluation metrics that are widely used for hand pose est
 - Guo-Baseline \[3\]: ICIP'17, [Predicted labels](https://github.com/guohengkai/region-ensemble-network/blob/master/results/nyu_basic.txt)
 - REN-4x6x6 \[3\]: ICIP'17, [Predicted labels](https://github.com/guohengkai/region-ensemble-network/blob/master/results/nyu_ren_4x6x6.txt)
 - REN-9x6x6 \[7\]: JVCI'18, [Predicted labels](https://github.com/guohengkai/region-ensemble-network/blob/master/results/nyu_ren_9x6x6.txt)
-- Pose-REN \[8\]: arXiv'17, [Predicted labels](https://github.com/xinghaochen/awesome-hand-pose-estimation/tree/master/evaluation/results/nyu/arXiv17_NYU_Pose_REN.txt)
+- Pose-REN \[8\]: NEUCOM'18, [Predicted labels](https://github.com/xinghaochen/awesome-hand-pose-estimation/tree/master/evaluation/results/nyu/arXiv17_NYU_Pose_REN.txt)
 - DeepPrior++ \[9\]: ICCVW'17, [Predicted labels](https://www.tugraz.at/fileadmin/user_upload/Institute/ICG/Downloads/team_lepetit/3d_hand_pose/ICCVW17_NYU_DeepPrior__.txt)
 - DenseReg \[10\]: CVPR'18, [Predicted labels](https://github.com/melonwan/denseReg/blob/master/exp/result/nyu.txt)
 - [3DCNN](https://sites.google.com/site/geliuhaontu/home/cvpr2017) \[11\]: CVPR'17, [Predicted labels](https://drive.google.com/file/d/1M1iZyPZ3jU1_KIH0kJKvg1TwolpwLQxy/view?usp=sharing)
@@ -42,7 +42,7 @@ There are two types of evaluation metrics that are widely used for hand pose est
 
 ### MSRA
 - REN-9x6x6 \[7\]: JVCI'18, [Predicted labels](https://github.com/guohengkai/region-ensemble-network/blob/master/results/msra_ren_9x6x6.txt)
-- Pose-REN \[8\]: arXiv'17, [Predicted labels](https://github.com/xinghaochen/awesome-hand-pose-estimation/tree/master/evaluation/results/msra/arXiv17_MSRA_Pose_REN.txt)
+- Pose-REN \[8\]: NEUCOM'18, [Predicted labels](https://github.com/xinghaochen/awesome-hand-pose-estimation/tree/master/evaluation/results/msra/arXiv17_MSRA_Pose_REN.txt)
 - DenseReg \[10\]: CVPR'18, [Predicted labels](https://github.com/melonwan/denseReg/blob/master/exp/result/msra.txt)
 - [3DCNN](https://sites.google.com/site/geliuhaontu/home/cvpr2017) \[11\]: CVPR'17, [Predicted labels](https://drive.google.com/file/d/1M1iZyPZ3jU1_KIH0kJKvg1TwolpwLQxy/view?usp=sharing)
 
@@ -127,7 +127,7 @@ sh evaluate_{dataset}.sh
 - \[5\] "[Training a Feedback Loop for Hand Pose Estimation.](https://arxiv.org/pdf/1609.09698)", Markus Oberweger, Paul Wohlhart, and Vincent Lepetit, Proceedings of the IEEE International Conference on Computer Vision (**ICCV**) 2015.
 - \[6\] "[Lie-X: Depth Image Based Articulated Object Pose Estimation, Tracking, and Action Recognition on Lie Groups.](https://arxiv.org/pdf/1609.03773)", Chi Xu, Lakshmi Narasimhan Govindarajan, Yu Zhang, and Li Cheng, International Journal of Computer Vision (**IJCV**) 2017.
 - \[7\] "[Region Ensemble Network: Towards Good Practices for Deep 3D Hand Pose Estimation.](https://www.sciencedirect.com/science/article/pii/S1047320318300816)", Guijin Wang, Xinghao Chen\*, Hengkai Guo\*, Cairong Zhang, Journal of Visual Communication and Image Representation (**JVCI**) 2018.
-- \[8\] "[Pose Guided Structured Region Ensemble Network for Cascaded Hand Pose Estimation.](https://arxiv.org/pdf/1708.03416)", Xinghao Chen, Guijin Wang, Hengkai Guo, and Cairong Zhang, arXiv preprint arXiv:1708.03416 (**arXiv**) 2017.
+- \[8\] "[Pose Guided Structured Region Ensemble Network for Cascaded Hand Pose Estimation.](https://arxiv.org/pdf/1708.03416)", Xinghao Chen, Guijin Wang, Hengkai Guo, and Cairong Zhang, arXiv preprint arXiv:1708.03416 (**Neurocomputing**) 2018.
 - \[9\] "[DeepPrior++: Improving Fast and Accurate 3D Hand Pose Estimation.](https://www.tugraz.at/fileadmin/user_upload/Institute/ICG/Images/team_lepetit/publications/oberweger_iccvw17.pdf)", Markus Oberweger, and Vincent Lepetit, Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (**ICCVW**) 2017.
 - \[10\] "[Dense 3D Regression for Hand Pose Estimation.](https://arxiv.org/pdf/1711.08996.pdf)", Chengde Wan, Thomas Probst, Luc Van Gool, and Angela Yao, Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**) 2018.
 - \[11\] "[3D Convolutional Neural Networks for Efficient and Robust Hand Pose Estimation from Single Depth Images](https://drive.google.com/open?id=0B5nUFeZt3D19bzR3NXNURHc0Rkk)", Liuhao Ge, Hui Liang, Junsong Yuan and Daniel Thalmann, Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**) 2017.

@@ -26,9 +26,6 @@ _Umar Iqbal, Pavlo Molchanov, Thomas Breuel, Juergen Gall, Jan Kautz_
 ##### [\[arXiv:1711.10872\]](https://arxiv.org/abs/1711.10872) Occlusion-aware Hand Pose Estimation Using Hierarchical Mixture Density Network. [\[PDF\]](https://arxiv.org/pdf/1711.10872.pdf)
 _Qi Ye, Tae-Kyun Kim_
 
-##### [\[arXiv:1708.03416\]](https://arxiv.org/abs/1708.03416) Pose Guided Structured Region Ensemble Network for Cascaded Hand Pose Estimation. [\[PDF\]](https://arxiv.org/pdf/1708.03416.pdf)
-_Xinghao Chen, Guijin Wang, Hengkai Guo, Cairong Zhang_
-
 ##### [\[arXiv:1707.03742\]](https://arxiv.org/abs/1707.03742) Large-scale Multiview 3D Hand Pose Dataset. [\[PDF\]](https://arxiv.org/pdf/1707.03742.pdf)  [\[Project Page\]](http://www.rovit.ua.es/dataset/mhpdataset/)
 _Francisco Gomez-Donoso, Sergio Orts-Escolano and Miguel Cazorla_
 
@@ -42,6 +39,9 @@ _Xiaoming Deng\*, Shuo Yang\*, Yinda Zhang\*, Ping Tan, Liang Chang, Hongan Wang
 *Yu Zhang, Chi Xu, Li Cheng*
 
 ## Journal Papers
+
+##### \[2018 Neurocomputing\]  Pose Guided Structured Region Ensemble Network for Cascaded Hand Pose Estimation. [\[PDF\]](https://arxiv.org/pdf/1708.03416.pdf)
+_Xinghao Chen, Guijin Wang, Hengkai Guo, Cairong Zhang_
 
 ##### \[2018 TPAMI\] Opening the Black Box: Hierarchical Sampling Optimization for Hand Pose Estimation. [\[PDF\]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8386667)
 _Danhang Tang\*, Qi Ye\*, Shanxin Yuan, Jonathan Taylor, Pushmeet Kohli, Cem Keskin, Tae-Kyun Kim, Jamie Shotton_
