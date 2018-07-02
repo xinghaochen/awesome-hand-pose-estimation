@@ -341,6 +341,10 @@ _Ayan Sinha\*, Chiho Choi\*, Karthik Ramani_
 
 
 ## Theses
+
+##### \[2018 Thesis\] Recovery of the 3D Virtual Human: Monocular Estimation of 3D Shape and Pose with Data Driven Priors. [\[PDF\]](https://www.research-collection.ethz.ch/bitstream/handle/20.500.11850/266852/Endri_Dibra_Thesis_Final.pdf?sequence=3&isAllowed=y)  [\[Project Page\]](https://www.research-collection.ethz.ch/handle/20.500.11850/266852)
+*[Endri Dibra](https://graphics.ethz.ch/~edibra/), ETH Zürich*
+
 ##### \[2017 Thesis\] Human Segmentation, Pose Estimation and Applications. [\[PDF\]](http://sergioescalera.com/wp-content/uploads/2017/10/MeysamPhDv2.pdf) [\[Slides\]](http://sergioescalera.com/wp-content/uploads/2017/10/Thesis-presentation.pdf)
 *Meysam Madadi, Universitat Autònoma de Barcelonato*
 
