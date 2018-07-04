@@ -20,6 +20,9 @@ See folder [``evaluation``](https://github.com/xinghaochen/awesome-hand-pose-est
 
 ## arXiv Papers
 
+##### [\[arXiv:1807.00898\]](https://arxiv.org/abs/1807.00898) Model-based Hand Pose Estimation for Generalized Hand Shape with Appearance Normalization. [\[PDF\]](https://arxiv.org/pdf/1807.00898.pdf)
+_Jan Wöhlke, Shile Li, Dongheui Lee_
+
 ##### [\[arXiv:1707.03742\]](https://arxiv.org/abs/1707.03742) Large-scale Multiview 3D Hand Pose Dataset. [\[PDF\]](https://arxiv.org/pdf/1707.03742.pdf)  [\[Project Page\]](http://www.rovit.ua.es/dataset/mhpdataset/)
 _Francisco Gomez-Donoso, Sergio Orts-Escolano and Miguel Cazorla_
 
