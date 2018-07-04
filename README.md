@@ -4,7 +4,7 @@
  - [arXiv Papers](#arxiv-papers)
  - [Journal Papers](#journal-papers)
  - [Conference Papers](#conference-papers)
-   - 2018: [CVPR](#2018-cvpr), [Others](#2018-others)
+   - 2018: [CVPR](#2018-cvpr), [ECCV](#2018-eccv), [Others](#2018-others)
    - 2017: [CVPR](#2017-cvpr), [ICCV](#2017-iccv), [Others](#2017-others)
    - 2016: [CVPR](#2016-cvpr), [ECCV](#2016-eccv), [Others](#2016-others)
    - 2015: [CVPR](#2015-cvpr), [ICCV](#2015-iccv), [Others](#2015-others)
@@ -19,12 +19,6 @@
 See folder [``evaluation``](https://github.com/xinghaochen/awesome-hand-pose-estimation/tree/master/evaluation) to get more details about performance evaluation for hand pose estimation.
 
 ## arXiv Papers
-
-##### [\[arXiv:1804.09534\]](https://arxiv.org/abs/1804.09534) Hand Pose Estimation via Latent 2.5D Heatmap Regression. [\[PDF\]](https://arxiv.org/pdf/1804.09534.pdf)
-_Umar Iqbal, Pavlo Molchanov, Thomas Breuel, Juergen Gall, Jan Kautz_
-
-##### [\[arXiv:1711.10872\]](https://arxiv.org/abs/1711.10872) Occlusion-aware Hand Pose Estimation Using Hierarchical Mixture Density Network. [\[PDF\]](https://arxiv.org/pdf/1711.10872.pdf)
-_Qi Ye, Tae-Kyun Kim_
 
 ##### [\[arXiv:1707.03742\]](https://arxiv.org/abs/1707.03742) Large-scale Multiview 3D Hand Pose Dataset. [\[PDF\]](https://arxiv.org/pdf/1707.03742.pdf)  [\[Project Page\]](http://www.rovit.ua.es/dataset/mhpdataset/)
 _Francisco Gomez-Donoso, Sergio Orts-Escolano and Miguel Cazorla_
@@ -92,6 +86,13 @@ _Guijin Wang, Xinghao Chen\*, Hengkai Guo\*, Cairong Zhang_
 *Hui Liang, Junsong Yuan, Daniel Thalmann*
 
 ## Conference Papers
+
+### 2018 ECCV
+##### Occlusion-aware Hand Pose Estimation Using Hierarchical Mixture Density Network. [\[PDF\]](https://arxiv.org/pdf/1711.10872.pdf)
+_Qi Ye, Tae-Kyun Kim_
+
+##### Hand Pose Estimation via Latent 2.5D Heatmap Regression. [\[PDF\]](https://arxiv.org/pdf/1804.09534.pdf)
+_Umar Iqbal, Pavlo Molchanov, Thomas Breuel, Juergen Gall, Jan Kautz_
 
 ### 2018 CVPR
 
