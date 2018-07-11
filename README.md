@@ -91,7 +91,7 @@ _Guijin Wang, Xinghao Chen\*, Hengkai Guo\*, Cairong Zhang_
 ## Conference Papers
 
 ### 2018 ECCV
-##### Occlusion-aware Hand Pose Estimation Using Hierarchical Mixture Density Network. [\[PDF\]](https://arxiv.org/pdf/1711.10872.pdf)
+##### Occlusion-aware Hand Pose Estimation Using Hierarchical Mixture Density Network. [\[PDF\]](https://arxiv.org/pdf/1711.10872.pdf)  *(Oral)*
 _Qi Ye, Tae-Kyun Kim_
 
 ##### Hand Pose Estimation via Latent 2.5D Heatmap Regression. [\[PDF\]](https://arxiv.org/pdf/1804.09534.pdf)
@@ -102,13 +102,13 @@ _Umar Iqbal, Pavlo Molchanov, Thomas Breuel, Juergen Gall, Jan Kautz_
 ##### Learning Pose Specific Representations by Predicting Different Views. [\[PDF\]](https://arxiv.org/pdf/1804.03390.pdf)  [\[Project Page\]](https://poier.github.io/PreView/)  [\[Code\]](https://github.com/poier/PreView)
 _Georg Poier, David Schinagl, Horst Bischof_
 
-##### Hand PointNet: 3D Hand Pose Estimation using Point Sets. [\[PDF\]](https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnxnZWxpdWhhb250dXxneDoxMGU4YzMyMzNhMzM2NDUz) *(Spotlight)*
+##### Hand PointNet: 3D Hand Pose Estimation using Point Sets. [\[PDF\]](https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnxnZWxpdWhhb250dXxneDoxMGU4YzMyMzNhMzM2NDUz)  [\[Project Page\]](https://sites.google.com/site/geliuhaontu/home/cvpr2018) [\[Code\]](https://sites.google.com/site/geliuhaontu/HandPointNet.zip?attredirects=0&d=1) *(Spotlight)*
 _Liuhao Ge, Junwu Weng, Yujun Cai, Junsong Yuan_
 
 ##### Dense 3D Regression for Hand Pose Estimation. [\[PDF\]](https://arxiv.org/pdf/1711.08996.pdf)  [\[Code\]](https://github.com/melonwan/denseReg)
 _Chengde Wan, Thomas Probst, Luc Van Gool, Angela Yao_
 
-##### Cross-modal Deep Variational Hand Pose Estimation. [\[PDF\]](https://arxiv.org/pdf/1803.11404) [\[Project Page\]](https://ait.ethz.ch/projects/2018/vae_hands/) *(Spotlight)*
+##### Cross-modal Deep Variational Hand Pose Estimation. [\[PDF\]](https://arxiv.org/pdf/1803.11404) [\[Project Page\]](https://ait.ethz.ch/projects/2018/vae_hands/) [\[Code\]](https://github.com/spurra/vae-hands-3d) *(Spotlight)*
 _Adrian Spurr, Jie Song, Seonwook Park, Otmar Hilliges_
 
 ##### Feature Mapping for Learning Fast and Accurate 3D Pose Inference from Synthetic Images. [\[PDF\]](https://arxiv.org/pdf/1712.03904.pdf)  [\[Project Page\]](https://www.tugraz.at/institute/icg/research/team-lepetit/research-projects/feature-mapping/)
