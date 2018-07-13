@@ -91,6 +91,9 @@ _Guijin Wang, Xinghao Chen\*, Hengkai Guo\*, Cairong Zhang_
 ## Conference Papers
 
 ### 2018 ECCV
+##### Joint 3D tracking of a deformable object in interaction with a hand. [\[PDF\]](http://users.ics.forth.gr/~argyros/mypapers/2018_ECCV_deformable_interaction.pdf) 
+_Aggeliki Tsoli, Antonis A. Argyros_
+
 ##### Occlusion-aware Hand Pose Estimation Using Hierarchical Mixture Density Network. [\[PDF\]](https://arxiv.org/pdf/1711.10872.pdf)  *(Oral)*
 _Qi Ye, Tae-Kyun Kim_
 
