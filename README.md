@@ -91,6 +91,12 @@ _Guijin Wang, Xinghao Chen\*, Hengkai Guo\*, Cairong Zhang_
 ## Conference Papers
 
 ### 2018 ECCV
+##### Point Sets-based Point-wise Regression Method for Real-time 3D Hand Pose Estimation from Depth Images. \[PDF\]
+_Liuhao Ge, Zhou Ren, Junsong Yuan_
+
+##### Weakly-supervised 3D Hand Pose Estimation from Monocular RGB Images. \[PDF\]  *(Oral)*
+_Yujun Cai, Liuhao Ge, Jianfei Cai, Junsong Yuan_
+
 ##### Joint 3D tracking of a deformable object in interaction with a hand. [\[PDF\]](http://users.ics.forth.gr/~argyros/mypapers/2018_ECCV_deformable_interaction.pdf)
 _Aggeliki Tsoli, Antonis A. Argyros_
 
