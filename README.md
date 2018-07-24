@@ -1,6 +1,7 @@
 # Awesome Work on Hand Pose Estimation
 
 ## Table of Contents
+ - [Evaluation](#evaluation)
  - [arXiv Papers](#arxiv-papers)
  - [Journal Papers](#journal-papers)
  - [Conference Papers](#conference-papers)
@@ -91,7 +92,7 @@ _Guijin Wang, Xinghao Chen\*, Hengkai Guo\*, Cairong Zhang_
 ## Conference Papers
 
 ### 2018 ECCV
-##### Point Sets-based Point-wise Regression Method for Real-time 3D Hand Pose Estimation from Depth Images. \[PDF\]
+##### Point-to-Point Regression PointNet for 3D Hand Pose Estimation. \[PDF\]
 _Liuhao Ge, Zhou Ren, Junsong Yuan_
 
 ##### Weakly-supervised 3D Hand Pose Estimation from Monocular RGB Images. \[PDF\]  *(Oral)*
@@ -112,7 +113,7 @@ _Umar Iqbal, Pavlo Molchanov, Thomas Breuel, Juergen Gall, Jan Kautz_
 _Georg Poier, David Schinagl, Horst Bischof_
 
 ##### Hand PointNet: 3D Hand Pose Estimation using Point Sets. [\[PDF\]](https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnxnZWxpdWhhb250dXxneDoxMGU4YzMyMzNhMzM2NDUz)  [\[Project Page\]](https://sites.google.com/site/geliuhaontu/home/cvpr2018) [\[Code\]](https://sites.google.com/site/geliuhaontu/HandPointNet.zip?attredirects=0&d=1) *(Spotlight)*
-_Liuhao Ge, Junwu Weng, Yujun Cai, Junsong Yuan_
+_Liuhao Ge, Yujun Cai, Junwu Weng, Junsong Yuan_
 
 ##### Dense 3D Regression for Hand Pose Estimation. [\[PDF\]](https://arxiv.org/pdf/1711.08996.pdf)  [\[Code\]](https://github.com/melonwan/denseReg)
 _Chengde Wan, Thomas Probst, Luc Van Gool, Angela Yao_
