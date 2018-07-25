@@ -142,7 +142,7 @@ _Endri Dibra, Silvan Melchior, Ali Balkis, Thomas Wolf, Cengiz Oztireli, Markus 
 
 ### 2018 Others
 
-##### [2018 BMVC] 3D Hand Pose Estimation using Simulation and Partial-Supervision with a Shared Latent Space. [\[PDF\]](https://arxiv.org/pdf/1807.05380.pdf) [\[Code\]](https://github.com/masabdi/LSPS)
+##### [2018 BMVC] 3D Hand Pose Estimation using Simulation and Partial-Supervision with a Shared Latent Space. [\[PDF\]](https://arxiv.org/pdf/1807.05380.pdf) [\[Code\]](https://github.com/masabdi/LSPS) *(Oral)*
 _Masoud Abdi, Ehsan Abbasnejad, Chee Peng Lim, Saeid Nahavandi_
 
 ##### [2018 FG] Kinematic Constrained Cascaded Autoencoder for Real-time Hand Pose Estimation. [\[PDF\]](https://ieeexplore.ieee.org/abstract/document/8373810/)
