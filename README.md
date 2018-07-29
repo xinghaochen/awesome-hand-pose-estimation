@@ -93,7 +93,7 @@ _Guijin Wang, Xinghao Chen\*, Hengkai Guo\*, Cairong Zhang_
 
 ### 2018 ECCV
 
-##### HandMap: Robust Hand Pose Estimation via Intermediate Dense Guidance Map Supervision. \[PDF\]
+##### HandMap: Robust Hand Pose Estimation via Intermediate Dense Guidance Map Supervision. [\[PDF\]](http://yongliangyang.net/docs/handMap_eccv18.pdf)
 _Xiaokun Wu, Daniel Finnegan, Eamonn O'Neill, Yongliang Yang_
 
 ##### HBE: Hand Branch Ensemble network for real time 3D hand pose estimation.  \[PDF\]
