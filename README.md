@@ -92,6 +92,16 @@ _Guijin Wang, Xinghao Chen\*, Hengkai Guo\*, Cairong Zhang_
 ## Conference Papers
 
 ### 2018 ECCV
+
+##### HandMap: Robust Hand Pose Estimation via Intermediate Dense Guidance Map Supervision. \[PDF\]
+_Xiaokun Wu, Daniel Finnegan, Eamonn O'Neill, Yongliang Yang_
+
+##### HBE: Hand Branch Ensemble network for real time 3D hand pose estimation.  \[PDF\]
+_Yidan Zhou, Jian Lu, Kuo Du, Xiangbo Lin, Yi Sun, Xiaohong Ma_
+
+##### IM2Hand3D: Leveraging Multi-task Network for 3D Hand Pose Estimation from a Color Image. \[PDF\]
+_Xiaoming Deng, Wenyong Zheng, Yinda Zhang, Jian Shi, Ping Tan, Liang Chang, Yuying Zhu_
+
 ##### Point-to-Point Regression PointNet for 3D Hand Pose Estimation. \[PDF\]
 _Liuhao Ge, Zhou Ren, Junsong Yuan_
 
