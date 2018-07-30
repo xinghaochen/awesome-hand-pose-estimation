@@ -152,6 +152,15 @@ _Endri Dibra, Silvan Melchior, Ali Balkis, Thomas Wolf, Cengiz Oztireli, Markus 
 
 ### 2018 Others
 
+##### [2018 ICIP] Networks Effectively Utilizing 2D Spatial Information for Accurate 3D Hand Pose Estimation. \[PDF\]
+_Baoen Liu, Shiliang Huang, Zhongfu Ye_
+
+##### [2018 ICIP] On the Fusion of RGB and Depth Information For Hand Pose Estimation. \[PDF\]
+_Evangelos Kazakos, Christophoros Nikou, Ioannis Kakadiaris_
+
+##### [2018 ICIP] Fast Lifting for 3D Hand Pose Estimation in AR/VR Applications. [\[PDF\]](https://drive.google.com/file/d/1kbNSb0ySAkhpQ6ntxPhs0wPvFDbsGu8v/view)
+_Onur Guleryuz, Christine Kaeser-Chen_
+
 ##### [2018 BMVC] 3D Hand Pose Estimation using Simulation and Partial-Supervision with a Shared Latent Space. [\[PDF\]](https://arxiv.org/pdf/1807.05380.pdf) [\[Code\]](https://github.com/masabdi/LSPS) *(Oral)*
 _Masoud Abdi, Ehsan Abbasnejad, Chee Peng Lim, Saeid Nahavandi_
 
