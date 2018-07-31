@@ -152,6 +152,16 @@ _Endri Dibra, Silvan Melchior, Ali Balkis, Thomas Wolf, Cengiz Oztireli, Markus 
 
 ### 2018 Others
 
+##### [2018 ICPR] Local Regression Based Hourglass Network for Hand Pose Estimation from a Single Depth Image. \[PDF\]
+_Jia Li, Zengfu Wang_
+
+##### [2018 ICPR] Dynamic Projected Segmentation Networks for Hand Pose Estimation. \[PDF\]
+_Yunlong Che, Yue Qi_
+
+
+##### [2018 3DV] DeepHPS: End-to-end Estimation of 3D Hand Pose and Shape by Learning from Synthetic Depth. \[PDF\]
+_ _
+
 ##### [2018 ICIP] Networks Effectively Utilizing 2D Spatial Information for Accurate 3D Hand Pose Estimation. \[PDF\]
 _Baoen Liu, Shiliang Huang, Zhongfu Ye_
 
