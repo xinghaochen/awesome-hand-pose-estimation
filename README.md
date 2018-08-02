@@ -470,11 +470,6 @@ _Ayan Sinha\*, Chiho Choi\*, Karthik Ramani_
 
 ## Challenges
 
-##### [TBA](https://sites.google.com/view/hands2018/challenge)
-*[HANDS 2018](https://sites.google.com/view/hands2018/), [ECCV 2018](https://eccv2018.org/program/workshops_tutorials/)*
-- Submission Website: TBA
-- Document: TBA
-
 ##### [The 2017 Hands in the Million Challenge on 3D Hand Pose Estimation](http://icvl.ee.ic.ac.uk/hands17/challenge/)
 *[HANDS 2017](http://icvl.ee.ic.ac.uk/hands17/), [ICCV 2017](http://iccv2017.thecvf.com/)*
 - Submission Website: [Frame and Tracking Task](https://competitions.codalab.org/competitions/17356#results), [Hand-Object Task](https://competitions.codalab.org/competitions/17452#results)
@@ -484,7 +479,7 @@ _Ayan Sinha\*, Chiho Choi\*, Karthik Ramani_
 
 ## Other Related Papers
 
-##### \[2018 SIGGRAPH\] Online Optical Marker-based Hand Tracking with Deep Labels. [\[PDF\]](https://research.fb.com/wp-content/uploads/2018/06/Online-Optical-Marker-based-Hand-Tracking-with-Deep-Labels.pdf?)
+##### \[2018 SIGGRAPH\] Online Optical Marker-based Hand Tracking with Deep Labels. [\[PDF\]](https://research.fb.com/wp-content/uploads/2018/06/Online-Optical-Marker-based-Hand-Tracking-with-Deep-Labels.pdf) [\[Code\]](https://github.com/Beibei88/Mocap_SIG18_Data)
 *Shangchen Han, Beibei Liu, Robert Wang, Yuting Ye, Christopher D. Twigg, Kenrick Kin*
 
 ##### \[2018 CVPRW\] HandyNet: A One-stop Solution to Detect, Segment, Localize & Analyze Driver Hands. [\[PDF\]](https://arxiv.org/pdf/1804.07834.pdf)
