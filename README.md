@@ -108,7 +108,7 @@ _Liuhao Ge, Zhou Ren, Junsong Yuan_
 ##### Weakly-supervised 3D Hand Pose Estimation from Monocular RGB Images. \[PDF\]  *(Oral)*
 _Yujun Cai, Liuhao Ge, Jianfei Cai, Junsong Yuan_
 
-##### Joint 3D tracking of a deformable object in interaction with a hand. [\[PDF\]](http://users.ics.forth.gr/~argyros/mypapers/2018_ECCV_deformable_interaction.pdf)
+##### Joint 3D tracking of a deformable object in interaction with a hand. [\[PDF\]](http://users.ics.forth.gr/~argyros/mypapers/2018_ECCV_deformable_interaction.pdf)  [\[Project Page\]](https://www.ics.forth.gr/cvrl/deformable_interaction/) 
 _Aggeliki Tsoli, Antonis A. Argyros_
 
 ##### Occlusion-aware Hand Pose Estimation Using Hierarchical Mixture Density Network. [\[PDF\]](https://arxiv.org/pdf/1711.10872.pdf)  *(Oral)*
