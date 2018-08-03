@@ -6,6 +6,7 @@ python src/compute_error.py icvl max-frame\
     Ren-9x6x6   results/icvl/JVCI18_ICVL_REN_9x6x6.txt\
 	Pose-REN   results/icvl/NEUCOM18_ICVL_Pose_REN.txt\
 	DenseReg   results/icvl/CVPR18_ICVL_denseReg.txt\
-	V2V-PoseNet   results/icvl/CVPR18_ICVL_V2V_PoseNet.txt
+	V2V-PoseNet   results/icvl/CVPR18_ICVL_V2V_PoseNet.txt\
+	SHPR-Net	results/icvl/Access18_ICVL_SHPR_Net.txt\
     #DeepPrior   results/icvl/CVWW15_ICVL_Prior.txt\
     #DeepPrior-Refine   results/nyu/CVWW15_ICVL_Prior-Refinement.txt\

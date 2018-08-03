@@ -12,4 +12,6 @@ python src/compute_error.py nyu max-frame\
     Pose-REN   results/nyu/NEUCOM18_NYU_Pose_REN.txt\
 	DenseReg   results/nyu/CVPR18_NYU_denseReg.txt\
 	V2V-PoseNet   results/nyu/CVPR18_NYU_V2V_PoseNet.txt\
-	FeatureMapping	results/nyu/CVPR18_NYU_DeepPrior++_FM.txt
+	FeatureMapping	results/nyu/CVPR18_NYU_DeepPrior++_FM.txt\
+	SHPR-Net	results/nyu/Access18_NYU_SHPR_Net_frontal.txt\
+	SHPR-Net\(three\ views\)	results/nyu/Access18_NYU_SHPR_Net_three.txt\
