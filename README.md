@@ -102,13 +102,13 @@ _Yidan Zhou, Jian Lu, Kuo Du, Xiangbo Lin, Yi Sun, Xiaohong Ma_
 ##### IM2Hand3D: Leveraging Multi-task Network for 3D Hand Pose Estimation from a Color Image. \[PDF\]
 _Xiaoming Deng, Wenyong Zheng, Yinda Zhang, Jian Shi, Ping Tan, Liang Chang, Yuying Zhu_
 
-##### Point-to-Point Regression PointNet for 3D Hand Pose Estimation. \[PDF\]
+##### Point-to-Point Regression PointNet for 3D Hand Pose Estimation. [\[PDF\]](https://cse.buffalo.edu/~jsyuan/papers/2018/Point-to-Point%203D%20hand%20Poese%20Estimation.pdf)
 _Liuhao Ge, Zhou Ren, Junsong Yuan_
 
-##### Weakly-supervised 3D Hand Pose Estimation from Monocular RGB Images. \[PDF\]  *(Oral)*
+##### Weakly-supervised 3D Hand Pose Estimation from Monocular RGB Images. [\[PDF\]](https://cse.buffalo.edu/~jsyuan/papers/2018/Weakly-supervised%203D%20Hand%20Pose%20Estimation%20from%20Monocular%20RGB%20Images.pdf) *(Oral)*
 _Yujun Cai, Liuhao Ge, Jianfei Cai, Junsong Yuan_
 
-##### Joint 3D tracking of a deformable object in interaction with a hand. [\[PDF\]](http://users.ics.forth.gr/~argyros/mypapers/2018_ECCV_deformable_interaction.pdf)  [\[Project Page\]](https://www.ics.forth.gr/cvrl/deformable_interaction/) 
+##### Joint 3D tracking of a deformable object in interaction with a hand. [\[PDF\]](http://users.ics.forth.gr/~argyros/mypapers/2018_ECCV_deformable_interaction.pdf)  [\[Project Page\]](https://www.ics.forth.gr/cvrl/deformable_interaction/)
 _Aggeliki Tsoli, Antonis A. Argyros_
 
 ##### Occlusion-aware Hand Pose Estimation Using Hierarchical Mixture Density Network. [\[PDF\]](https://arxiv.org/pdf/1711.10872.pdf)  *(Oral)*
