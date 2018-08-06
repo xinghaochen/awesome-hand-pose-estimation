@@ -102,9 +102,6 @@ _Xiaokun Wu, Daniel Finnegan, Eamonn O'Neill, Yongliang Yang_
 ##### HBE: Hand Branch Ensemble network for real time 3D hand pose estimation.  \[PDF\]
 _Yidan Zhou, Jian Lu, Kuo Du, Xiangbo Lin, Yi Sun, Xiaohong Ma_
 
-##### IM2Hand3D: Leveraging Multi-task Network for 3D Hand Pose Estimation from a Color Image. \[PDF\]
-_Xiaoming Deng, Wenyong Zheng, Yinda Zhang, Jian Shi, Ping Tan, Liang Chang, Yuying Zhu_
-
 ##### Point-to-Point Regression PointNet for 3D Hand Pose Estimation. [\[PDF\]](https://cse.buffalo.edu/~jsyuan/papers/2018/Point-to-Point%203D%20hand%20Poese%20Estimation.pdf)
 _Liuhao Ge, Zhou Ren, Junsong Yuan_
 
