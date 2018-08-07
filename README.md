@@ -38,7 +38,7 @@ _Xiaoming Deng\*, Shuo Yang\*, Yinda Zhang\*, Ping Tan, Liang Chang, Hongan Wang
 
 ## Journal Papers
 
-##### \[2018 IEEE Access\] SHPR-Net: Deep Semantic Hand Pose Regression From Point Clouds. \[PDF\]
+##### \[2018 IEEE Access\] SHPR-Net: Deep Semantic Hand Pose Regression From Point Clouds. [\[PDF\]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8425735&tag=1)
 _Xinghao Chen, Guijin Wang, Cairong Zhang, Tae-Kyun Kim, Xiangyang Ji_
 
 ##### \[2018 Neurocomputing\]  Pose Guided Structured Region Ensemble Network for Cascaded Hand Pose Estimation. [\[PDF\]](https://arxiv.org/pdf/1708.03416.pdf)  [\[Project Page\]](https://sites.google.com/view/xinghaochen/projects/Pose-REN)  [\[Code\]](https://github.com/xinghaochen/Pose-REN)
@@ -160,7 +160,7 @@ _Yunlong Che, Yue Qi_
 
 
 ##### [2018 3DV] DeepHPS: End-to-end Estimation of 3D Hand Pose and Shape by Learning from Synthetic Depth. \[PDF\]
-_ _
+_Jameel Malik, Ahmed Elhayek, Fabrizio Nunnari, Kiran Varanasi, Kiarash Tamaddon, Alexis Heloir, Didier Stricker_
 
 ##### [2018 ICIP] Networks Effectively Utilizing 2D Spatial Information for Accurate 3D Hand Pose Estimation. \[PDF\]
 _Baoen Liu, Shiliang Huang, Zhongfu Ye_
