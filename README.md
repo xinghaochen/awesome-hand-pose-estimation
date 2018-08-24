@@ -171,6 +171,9 @@ _Evangelos Kazakos, Christophoros Nikou, Ioannis Kakadiaris_
 ##### [2018 ICIP] Fast Lifting for 3D Hand Pose Estimation in AR/VR Applications. [\[PDF\]](https://drive.google.com/file/d/1kbNSb0ySAkhpQ6ntxPhs0wPvFDbsGu8v/view)
 _Onur Guleryuz, Christine Kaeser-Chen_
 
+##### [2018 BMVC] Structure-Aware 3D Hourglass Network for Hand Pose Estimation from Single Depth Image. [\[PDF\]](http://bmvc2018.org/papers/1133.pdf)
+_Fuyang Huang, Ailing Zeng, Minhao Liu, Jing Qin, Qiang Xu_
+
 ##### [2018 BMVC] 3D Hand Pose Estimation using Simulation and Partial-Supervision with a Shared Latent Space. [\[PDF\]](https://arxiv.org/pdf/1807.05380.pdf) [\[Code\]](https://github.com/masabdi/LSPS) *(Oral)*
 _Masoud Abdi, Ehsan Abbasnejad, Chee Peng Lim, Saeid Nahavandi_
 
