@@ -159,7 +159,7 @@ _Jia Li, Zengfu Wang_
 _Yunlong Che, Yue Qi_
 
 
-##### [2018 3DV] DeepHPS: End-to-end Estimation of 3D Hand Pose and Shape by Learning from Synthetic Depth. \[PDF\]
+##### [2018 3DV] DeepHPS: End-to-end Estimation of 3D Hand Pose and Shape by Learning from Synthetic Depth. [\[PDF\]](https://www.dfki.de/web/forschung/publikationen/renameFileForDownload?filename=Malik2018_3DV_3D%20Hand%20Pose%20and%20Shape.pdf&file_id=uploads_3810)
 _Jameel Malik, Ahmed Elhayek, Fabrizio Nunnari, Kiran Varanasi, Kiarash Tamaddon, Alexis Heloir, Didier Stricker_
 
 ##### [2018 ICIP] Networks Effectively Utilizing 2D Spatial Information for Accurate 3D Hand Pose Estimation. \[PDF\]
