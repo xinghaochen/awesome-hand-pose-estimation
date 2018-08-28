@@ -488,10 +488,10 @@ _Ayan Sinha\*, Chiho Choi\*, Karthik Ramani_
 ##### \[2018 CVPRW\] HandyNet: A One-stop Solution to Detect, Segment, Localize & Analyze Driver Hands. [\[PDF\]](https://arxiv.org/pdf/1804.07834.pdf)
 *Akshay Rangesh, Mohan M. Trivedi*
 
-##### \[2018 CVPR\] DensePose: Dense Human Pose Estimation In The Wild. [\[PDF\]](https://arxiv.org/pdf/1802.00434.pdf)  [\[Project Page\]](http://densepose.org/)
+##### \[2018 CVPR\] DensePose: Dense Human Pose Estimation In The Wild. [\[PDF\]](https://arxiv.org/pdf/1802.00434.pdf)  [\[Project Page\]](http://densepose.org/) [\[Code\]](https://github.com/facebookresearch/DensePose)
 *Rıza Alp Güler, Natalia Neverova, Iasonas Kokkinos*
 
-##### \[2018 CVPR\] Analysis of Hand Segmentation in the Wild. [\[PDF\]](https://arxiv.org/pdf/1803.03317.pdf)
+##### \[2018 CVPR\] Analysis of Hand Segmentation in the Wild. [\[PDF\]](https://arxiv.org/pdf/1803.03317.pdf) [\[Code\]](https://github.com/aurooj/Hand-Segmentation-in-the-Wild)
 *Aisha Urooj Khan, Ali Borji*
 
 ##### \[2018 CVPR\] Total Capture: A 3D Deformation Model for Tracking Faces, Hands, and Bodies. [\[PDF\]](https://arxiv.org/pdf/1801.01615.pdf) [\[Project Page\]](http://www.cs.cmu.edu/~hanbyulj/totalcapture/)
