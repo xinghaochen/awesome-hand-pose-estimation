@@ -117,6 +117,12 @@ _Qi Ye, Tae-Kyun Kim_
 ##### Hand Pose Estimation via Latent 2.5D Heatmap Regression. [\[PDF\]](https://arxiv.org/pdf/1804.09534.pdf)
 _Umar Iqbal, Pavlo Molchanov, Thomas Breuel, Juergen Gall, Jan Kautz_
 
+##### [Hands18 Workshop] Adapting Egocentric Visual Hand Pose Estimation Towards a Robot-Controlled Exoskeleton. \[PDF\]
+_Gerald Baulig, Thomas Gulde, Cristobal Curio_
+
+##### [Hands18 Workshop] Estimating 2D Multi-Hand Poses From Single Depth Images. \[PDF\]
+_Le Duan, Minmin Shen, Song Cui, Zhexiao Guo, Oliver Deussen_
+
 ### 2018 CVPR
 
 ##### Learning Pose Specific Representations by Predicting Different Views. [\[PDF\]](https://arxiv.org/pdf/1804.03390.pdf)  [\[Project Page\]](https://poier.github.io/PreView/)  [\[Code\]](https://github.com/poier/PreView)
