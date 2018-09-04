@@ -38,7 +38,7 @@ _Xiaoming Deng\*, Shuo Yang\*, Yinda Zhang\*, Ping Tan, Liang Chang, Hongan Wang
 
 ## Journal Papers
 
-##### \[2018 IEEE Access\] SHPR-Net: Deep Semantic Hand Pose Regression From Point Clouds. [\[PDF\]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8425735&tag=1)
+##### \[2018 IEEE Access\] SHPR-Net: Deep Semantic Hand Pose Regression From Point Clouds. [\[PDF\]](https://ieeexplore.ieee.org/document/8425735/)
 _Xinghao Chen, Guijin Wang, Cairong Zhang, Tae-Kyun Kim, Xiangyang Ji_
 
 ##### \[2018 Neurocomputing\]  Pose Guided Structured Region Ensemble Network for Cascaded Hand Pose Estimation. [\[PDF\]](https://arxiv.org/pdf/1708.03416.pdf)  [\[Project Page\]](https://sites.google.com/view/xinghaochen/projects/Pose-REN)  [\[Code\]](https://github.com/xinghaochen/Pose-REN)
@@ -99,25 +99,25 @@ _Guijin Wang, Xinghao Chen\*, Hengkai Guo\*, Cairong Zhang_
 
 ### 2018 ECCV
 
-##### HandMap: Robust Hand Pose Estimation via Intermediate Dense Guidance Map Supervision. [\[PDF\]](http://yongliangyang.net/docs/handMap_eccv18.pdf)
+##### HandMap: Robust Hand Pose Estimation via Intermediate Dense Guidance Map Supervision. [\[PDF\]](http://openaccess.thecvf.com/content_ECCV_2018/papers/Xiaokun_Wu_HandMap_Robust_Hand_ECCV_2018_paper.pdf)
 _Xiaokun Wu, Daniel Finnegan, Eamonn O'Neill, Yongliang Yang_
 
-##### HBE: Hand Branch Ensemble network for real time 3D hand pose estimation.  \[PDF\]
+##### HBE: Hand Branch Ensemble network for real time 3D hand pose estimation.  [\[PDF\]](http://openaccess.thecvf.com/content_ECCV_2018/papers/Yidan_Zhou_HBE_Hand_Branch_ECCV_2018_paper.pdf)
 _Yidan Zhou, Jian Lu, Kuo Du, Xiangbo Lin, Yi Sun, Xiaohong Ma_
 
-##### Point-to-Point Regression PointNet for 3D Hand Pose Estimation. [\[PDF\]](https://cse.buffalo.edu/~jsyuan/papers/2018/Point-to-Point%203D%20hand%20Poese%20Estimation.pdf)
+##### Point-to-Point Regression PointNet for 3D Hand Pose Estimation. [\[PDF\]](http://openaccess.thecvf.com/content_ECCV_2018/papers/Liuhao_Ge_Point-to-Point_Regression_PointNet_ECCV_2018_paper.pdf)
 _Liuhao Ge, Zhou Ren, Junsong Yuan_
 
-##### Weakly-supervised 3D Hand Pose Estimation from Monocular RGB Images. [\[PDF\]](https://cse.buffalo.edu/~jsyuan/papers/2018/Weakly-supervised%203D%20Hand%20Pose%20Estimation%20from%20Monocular%20RGB%20Images.pdf) *(Oral)*
+##### Weakly-supervised 3D Hand Pose Estimation from Monocular RGB Images. [\[PDF\]](http://openaccess.thecvf.com/content_ECCV_2018/papers/Sijia_Cai_Weakly-supervised_Video_Summarization_ECCV_2018_paper.pdf) *(Oral)*
 _Yujun Cai, Liuhao Ge, Jianfei Cai, Junsong Yuan_
 
-##### Joint 3D tracking of a deformable object in interaction with a hand. [\[PDF\]](http://users.ics.forth.gr/~argyros/mypapers/2018_ECCV_deformable_interaction.pdf)  [\[Project Page\]](https://www.ics.forth.gr/cvrl/deformable_interaction/)
+##### Joint 3D tracking of a deformable object in interaction with a hand. [\[PDF\]](http://openaccess.thecvf.com/content_ECCV_2018/papers/Aggeliki_Tsoli_Joint_3D_tracking_ECCV_2018_paper.pdf)  [\[Project Page\]](https://www.ics.forth.gr/cvrl/deformable_interaction/)
 _Aggeliki Tsoli, Antonis A. Argyros_
 
-##### Occlusion-aware Hand Pose Estimation Using Hierarchical Mixture Density Network. [\[PDF\]](https://arxiv.org/pdf/1711.10872.pdf)  *(Oral)*
+##### Occlusion-aware Hand Pose Estimation Using Hierarchical Mixture Density Network. [\[PDF\]](http://openaccess.thecvf.com/content_ECCV_2018/papers/Qi_Ye_Occlusion-aware_Hand_Pose_ECCV_2018_paper.pdf)  *(Oral)*
 _Qi Ye, Tae-Kyun Kim_
 
-##### Hand Pose Estimation via Latent 2.5D Heatmap Regression. [\[PDF\]](https://arxiv.org/pdf/1804.09534.pdf)
+##### Hand Pose Estimation via Latent 2.5D Heatmap Regression. [\[PDF\]](http://openaccess.thecvf.com/content_ECCV_2018/papers/Umar_Iqbal_Hand_Pose_Estimation_ECCV_2018_paper.pdf)
 _Umar Iqbal, Pavlo Molchanov, Thomas Breuel, Juergen Gall, Jan Kautz_
 
 ##### [Hands18 Workshop] Adapting Egocentric Visual Hand Pose Estimation Towards a Robot-Controlled Exoskeleton. \[PDF\]
