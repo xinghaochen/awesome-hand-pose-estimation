@@ -403,6 +403,9 @@ _Ayan Sinha\*, Chiho Choi\*, Karthik Ramani_
 
 ## Theses
 
+##### \[2018 Thesis\] Real-Time Generative Hand Modeling and Tracking. [\[PDF\]](https://infoscience.epfl.ch/record/256674/files/EPFL_TH8573.pdf)
+*Anastasia Tkach, EPFL*
+
 ##### \[2018 Thesis\] Recovery of the 3D Virtual Human: Monocular Estimation of 3D Shape and Pose with Data Driven Priors. [\[PDF\]](https://www.research-collection.ethz.ch/bitstream/handle/20.500.11850/266852/Endri_Dibra_Thesis_Final.pdf?sequence=3&isAllowed=y)  [\[Project Page\]](https://www.research-collection.ethz.ch/handle/20.500.11850/266852)
 *[Endri Dibra](https://graphics.ethz.ch/~edibra/), ETH Zürich*
 
