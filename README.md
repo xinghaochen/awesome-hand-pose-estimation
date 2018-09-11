@@ -171,10 +171,10 @@ _Yunlong Che, Yue Qi_
 ##### [2018 3DV] DeepHPS: End-to-end Estimation of 3D Hand Pose and Shape by Learning from Synthetic Depth. [\[PDF\]](https://arxiv.org/pdf/1808.09208.pdf)
 _Jameel Malik, Ahmed Elhayek, Fabrizio Nunnari, Kiran Varanasi, Kiarash Tamaddon, Alexis Heloir, Didier Stricker_
 
-##### [2018 ICIP] Networks Effectively Utilizing 2D Spatial Information for Accurate 3D Hand Pose Estimation. \[PDF\]
+##### [2018 ICIP] Networks Effectively Utilizing 2D Spatial Information for Accurate 3D Hand Pose Estimation. [\[PDF\]](https://ieeexplore.ieee.org/abstract/document/8451509/)
 _Baoen Liu, Shiliang Huang, Zhongfu Ye_
 
-##### [2018 ICIP] On the Fusion of RGB and Depth Information For Hand Pose Estimation. \[PDF\]
+##### [2018 ICIP] On the Fusion of RGB and Depth Information For Hand Pose Estimation. [\[PDF\]](https://ieeexplore.ieee.org/document/8451022/) [\[Code\]](https://github.com/ekazakos/fusenet-hand-pose)
 _Evangelos Kazakos, Christophoros Nikou, Ioannis Kakadiaris_
 
 ##### [2018 ICIP] Fast Lifting for 3D Hand Pose Estimation in AR/VR Applications. [\[PDF\]](https://drive.google.com/file/d/1kbNSb0ySAkhpQ6ntxPhs0wPvFDbsGu8v/view)
