@@ -44,8 +44,8 @@ _Xinghao Chen, Guijin Wang, Cairong Zhang, Tae-Kyun Kim, Xiangyang Ji_
 ##### \[2018 Neurocomputing\]  Pose Guided Structured Region Ensemble Network for Cascaded Hand Pose Estimation. [\[PDF\]](https://arxiv.org/pdf/1708.03416.pdf)  [\[Project Page\]](https://sites.google.com/view/xinghaochen/projects/Pose-REN)  [\[Code\]](https://github.com/xinghaochen/Pose-REN)
 _Xinghao Chen, Guijin Wang, Hengkai Guo, Cairong Zhang_
 
-##### \[2018 PR\]  Learning a deep network with spherical part model for 3D hand pose estimation. [\[PDF\]](https://ac.els-cdn.com/S0031320318300839/1-s2.0-S0031320318300839-main.pdf?_tid=ac45955a-2268-4a68-abba-602612a6d0ad&acdnat=1535534178_0fbcfe9711f481ab905c774c7d89681d)
-_Tzu-Yang Chena, Pai-Wen Tinga, Min-Yu Wua, Li-Chen Fu_
+##### \[2018 PR\]  Learning a deep network with spherical part model for 3D hand pose estimation. [\[PDF\]](https://www.sciencedirect.com/science/article/pii/S0031320318300839)
+_Tzu-Yang Chen, Pai-Wen Ting, Min-Yu Wu, Li-Chen Fu_
 
 ##### \[2018 TPAMI\] Opening the Black Box: Hierarchical Sampling Optimization for Hand Pose Estimation. [\[PDF\]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8386667)
 _Danhang Tang\*, Qi Ye\*, Shanxin Yuan, Jonathan Taylor, Pushmeet Kohli, Cem Keskin, Tae-Kyun Kim, Jamie Shotton_
