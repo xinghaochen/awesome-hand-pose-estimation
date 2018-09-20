@@ -21,6 +21,9 @@ See folder [``evaluation``](https://github.com/xinghaochen/awesome-hand-pose-est
 
 ## arXiv Papers
 
+##### [\[arXiv:1809.06268\]](https://arxiv.org/abs/1809.06268) Vision-based Teleoperation of Shadow Dexterous Hand using End-to-End Deep Neural Network. [\[PDF\]](https://arxiv.org/pdf/1809.06268.pdf)
+_Shuang Li\*, Xiaojian Ma\*, Hongzhuo Liang, Michael Görner, Philipp Ruppel, Bing Fang, Fuchun Sun, Jianwei Zhang_
+
 ##### [\[arXiv:1807.00898\]](https://arxiv.org/abs/1807.00898) Model-based Hand Pose Estimation for Generalized Hand Shape with Appearance Normalization. [\[PDF\]](https://arxiv.org/pdf/1807.00898.pdf)
 _Jan Wöhlke, Shile Li, Dongheui Lee_
 
