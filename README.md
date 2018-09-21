@@ -164,6 +164,12 @@ _Endri Dibra, Silvan Melchior, Ali Balkis, Thomas Wolf, Cengiz Oztireli, Markus 
 
 ### 2018 Others
 
+##### [2018 PCM] Hand Pose Estimation with Attention-and-Sequence Network. [\[PDF\]](https://link.springer.com/chapter/10.1007/978-3-030-00776-8_51)
+_Tianping Hu\*, Wenhai Wang\*, Tong Lu_
+
+##### [2018 PCM] Mutiple Transfer Net with Region Ensemble for Deep Hand Pose Estimation. [\[PDF\]](https://link.springer.com/chapter/10.1007/978-3-030-00776-8_58)
+_Haoqian WangDa LiEmail authorXingzheng Wang_
+
 ##### [2018 ICPR] Local Regression Based Hourglass Network for Hand Pose Estimation from a Single Depth Image. \[PDF\]
 _Jia Li, Zengfu Wang_
 
