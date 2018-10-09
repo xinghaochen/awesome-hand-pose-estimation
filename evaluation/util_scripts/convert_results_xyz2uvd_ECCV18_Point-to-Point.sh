@@ -1,0 +1,3 @@
+python src/convert_results_xyz2uvd_3DCNN.py nyu results/nyu/ECCV18_NYU_Point-to-Point_ori.mat results/nyu/ECCV18_NYU_Point-to-Point.txt
+python src/convert_results_xyz2uvd_3DCNN.py msra results/msra/ECCV18_MSRA_Point-to-Point_ori.mat results/msra/ECCV18_MSRA_Point-to-Point.txt
+python src/convert_results_xyz2uvd_3DCNN.py icvl results/icvl/ECCV18_ICVL_Point-to-Point_ori.mat results/icvl/ECCV18_ICVL_Point-to-Point.txt

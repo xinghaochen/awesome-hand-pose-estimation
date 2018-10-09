@@ -15,3 +15,5 @@ python src/compute_error.py nyu max-frame\
 	FeatureMapping	results/nyu/CVPR18_NYU_DeepPrior++_FM.txt\
 	SHPR-Net	results/nyu/Access18_NYU_SHPR_Net_frontal.txt\
 	SHPR-Net\(three\ views\)	results/nyu/Access18_NYU_SHPR_Net_three.txt\
+	HandPointNet	results/nyu/CVPR18_NYU_HandPointNet.txt\
+	Point-to-Point	results/nyu/ECCV18_NYU_Point-to-Point.txt\

@@ -1,0 +1,3 @@
+python src/convert_results_xyz2uvd_Ge.py nyu results/nyu/CVPR18_NYU_HandPointNet_ori.mat results/nyu/CVPR18_NYU_HandPointNet.txt
+python src/convert_results_xyz2uvd_Ge.py msra results/msra/CVPR18_MSRA_HandPointNet_ori.mat results/msra/CVPR18_MSRA_HandPointNet.txt
+python src/convert_results_xyz2uvd_Ge.py icvl results/icvl/CVPR18_ICVL_HandPointNet_ori.mat results/icvl/CVPR18_ICVL_HandPointNet.txt
