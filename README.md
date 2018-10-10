@@ -174,6 +174,9 @@ _Endri Dibra, Silvan Melchior, Ali Balkis, Thomas Wolf, Cengiz Oztireli, Markus 
 
 ### 2018 Others
 
+##### [2018 ACCV] Domain Transfer for 3D Pose Estimation from Color Images without Manual Annotations. [\[PDF\]](https://arxiv.org/pdf/1810.03707.pdf)  *(Oral)*
+_Mahdi Rad, Markus Oberweger, Vincent Lepetit_
+
 ##### [2018 PCM] Hand Pose Estimation with Attention-and-Sequence Network. [\[PDF\]](https://link.springer.com/chapter/10.1007/978-3-030-00776-8_51)
 _Tianping Hu\*, Wenhai Wang\*, Tong Lu_
 
@@ -185,7 +188,6 @@ _Jia Li, Zengfu Wang_
 
 ##### [2018 ICPR] Dynamic Projected Segmentation Networks for Hand Pose Estimation. \[PDF\]
 _Yunlong Che, Yue Qi_
-
 
 ##### [2018 3DV] DeepHPS: End-to-end Estimation of 3D Hand Pose and Shape by Learning from Synthetic Depth. [\[PDF\]](https://arxiv.org/pdf/1808.09208.pdf)
 _Jameel Malik, Ahmed Elhayek, Fabrizio Nunnari, Kiran Varanasi, Kiarash Tamaddon, Alexis Heloir, Didier Stricker_
