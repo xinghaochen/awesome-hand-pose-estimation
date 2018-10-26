@@ -41,6 +41,9 @@ _Xiaoming Deng\*, Shuo Yang\*, Yinda Zhang\*, Ping Tan, Liang Chang, Hongan Wang
 
 ## Journal Papers
 
+##### \[2018 IVC\] Top-down model fitting for hand pose recovery in sequences of depth images. [\[PDF\]](https://www.sciencedirect.com/science/article/pii/S0262885618301513#aep-article-footnote-id1)
+_Meysam Madadi, Sergio Escalera, Alex Carruesco, Carlos Andujar, Xavier Baró, Jordi Gonzàlez_
+
 ##### \[2018 TCYB\] Context-Aware Deep Spatio-Temporal Network for Hand Pose Estimation from Depth Images. [\[PDF\]](https://arxiv.org/pdf/1810.02994.pdf)
 _Yiming Wu, Wei Ji, Xi Li, Gang Wang, Jianwei Yin, Fei Wu_
 
@@ -496,14 +499,17 @@ _Ayan Sinha\*, Chiho Choi\*, Karthik Ramani_
 
 ## Workshops
 
-*Workshops on Observing and Understanding Hands in Action:*
+[1] *Workshops on Observing and Understanding Hands in Action:*
 
 ##### [HANDS 2018](https://sites.google.com/view/hands2018/), In conjunction with ECCV 2018
+- HANDS18: Methods, Techniques and Applications for Hand Observation. [\[PDF\]](https://arxiv.org/abs/1810.10818)
+- *Iason Oikonomidis, Guillermo Garcia-Hernando, Angela Yao, Antonis Argyros, Vincent Lepetit, Tae-Kyun Kim*
+
 ##### [HANDS 2017](http://icvl.ee.ic.ac.uk/hands17/), In conjunction with ICCV 2017
 ##### [HANDS 2016](https://labicvl.github.io/hand/Hands2016/), In conjunction with CVPR 2016
 ##### [HANDS 2015](http://www.ics.uci.edu/~jsupanci/HANDS-2015/), In conjunction with CVPR 2015
 
-*Workshops on Capturing and modeling human bodies, faces and hands:*
+[2] *Workshops on Capturing and modeling human bodies, faces and hands:*
 
 ##### [PeopleCap 2018](https://peoplecap2018.weebly.com/), In conjunction with ECCV 2018
 ##### [PeopleCap 2017](http://peoplecap.weebly.com/), In conjunction with ICCV 2017
