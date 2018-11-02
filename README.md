@@ -177,6 +177,12 @@ _Endri Dibra, Silvan Melchior, Ali Balkis, Thomas Wolf, Cengiz Oztireli, Markus 
 
 ### 2018 Others
 
+##### [2018 ACCV] Hand Pose Estimation based on 3D Residual Network with Data Padding and Skeleton Steadying. \[PDF\]
+_Pai-Wen Ting, En-Te Chou, Ya-Hui Tang, Li-Chen Fu_
+
+##### [2018 ACCV] Partially Occluded Hands: A challenging new dataset for single-image hand pose estimation. \[PDF\] [\[Project Page\]](http://occludedhands.com/)  *(Oral)*
+_Battushig Myanganbayar, Cristina Mata, Gil Dekel, Boris Katz, Guy Ben-Yosef, Andrei Barbu_
+
 ##### [2018 ACCV] Domain Transfer for 3D Pose Estimation from Color Images without Manual Annotations. [\[PDF\]](https://arxiv.org/pdf/1810.03707.pdf)  *(Oral)*
 _Mahdi Rad, Markus Oberweger, Vincent Lepetit_
 
