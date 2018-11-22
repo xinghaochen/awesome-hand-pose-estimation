@@ -5,6 +5,7 @@
  - [arXiv Papers](#arxiv-papers)
  - [Journal Papers](#journal-papers)
  - [Conference Papers](#conference-papers)
+   - 2019: [Others](#2019-others)
    - 2018: [CVPR](#2018-cvpr), [ECCV](#2018-eccv), [Others](#2018-others)
    - 2017: [CVPR](#2017-cvpr), [ICCV](#2017-iccv), [Others](#2017-others)
    - 2016: [CVPR](#2016-cvpr), [ECCV](#2016-eccv), [Others](#2016-others)
@@ -111,6 +112,11 @@ _Guijin Wang, Xinghao Chen\*, Hengkai Guo\*, Cairong Zhang_
 *Hui Liang, Junsong Yuan, Daniel Thalmann*
 
 ## Conference Papers
+
+### 2019 Others
+
+##### [2018 WACV] MURAUER: Mapping Unlabeled Real Data for Label AUstERity. [\[PDF\]](https://poier.github.io/murauer/documents/poier2019wacv_selfpublishing.pdf) [\[Project Page\]](https://poier.github.io/murauer/) [\[Code\]](https://github.com/poier/murauer)
+_Georg Poier, Michael Opitz, David Schinagl and Horst Bischof_
 
 ### 2018 ECCV
 
