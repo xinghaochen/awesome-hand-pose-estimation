@@ -115,7 +115,7 @@ _Guijin Wang, Xinghao Chen\*, Hengkai Guo\*, Cairong Zhang_
 
 ### 2019 Others
 
-##### [2018 WACV] MURAUER: Mapping Unlabeled Real Data for Label AUstERity. [\[PDF\]](https://poier.github.io/murauer/documents/poier2019wacv_selfpublishing.pdf) [\[Project Page\]](https://poier.github.io/murauer/) [\[Code\]](https://github.com/poier/murauer)
+##### [2019 WACV] MURAUER: Mapping Unlabeled Real Data for Label AUstERity. [\[PDF\]](https://poier.github.io/murauer/documents/poier2019wacv_selfpublishing.pdf) [\[Project Page\]](https://poier.github.io/murauer/) [\[Code\]](https://github.com/poier/murauer)
 _Georg Poier, Michael Opitz, David Schinagl and Horst Bischof_
 
 ### 2018 ECCV
