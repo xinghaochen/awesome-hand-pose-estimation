@@ -21,6 +21,9 @@ See folder [``evaluation``](https://github.com/xinghaochen/awesome-hand-pose-est
 
 ## arXiv Papers
 
+##### [\[arXiv:1811.07123\]](https://arxiv.org/abs/1811.07123) Explicit Pose Deformation Learning for Tracking Human Poses. [\[PDF\]](https://arxiv.org/pdf/1811.07123.pdf)
+_Xiao Sun, Chuankang Li, Stephen Lin_
+
 ##### [\[arXiv:1809.06268\]](https://arxiv.org/abs/1809.06268) Vision-based Teleoperation of Shadow Dexterous Hand using End-to-End Deep Neural Network. [\[PDF\]](https://arxiv.org/pdf/1809.06268.pdf)
 _Shuang Li\*, Xiaojian Ma\*, Hongzhuo Liang, Michael Görner, Philipp Ruppel, Bing Fang, Fuchun Sun, Jianwei Zhang_
 
