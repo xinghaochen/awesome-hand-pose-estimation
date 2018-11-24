@@ -22,6 +22,9 @@ See folder [``evaluation``](https://github.com/xinghaochen/awesome-hand-pose-est
 
 ## arXiv Papers
 
+##### [\[arXiv:1811.07123\]](https://arxiv.org/abs/1811.07376) RGB-based 3D Hand Pose Estimation via Privileged Learning with Depth Images. [\[PDF\]](https://arxiv.org/pdf/1811.07376.pdf)
+_Shanxin Yuan, Bjorn Stenger, Tae-Kyun Kim_
+
 ##### [\[arXiv:1811.07123\]](https://arxiv.org/abs/1811.07123) Explicit Pose Deformation Learning for Tracking Human Poses. [\[PDF\]](https://arxiv.org/pdf/1811.07123.pdf)
 _Xiao Sun, Chuankang Li, Stephen Lin_
 
