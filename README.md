@@ -210,10 +210,10 @@ _Tianping Hu\*, Wenhai Wang\*, Tong Lu_
 ##### [2018 PCM] Mutiple Transfer Net with Region Ensemble for Deep Hand Pose Estimation. [\[PDF\]](https://link.springer.com/chapter/10.1007/978-3-030-00776-8_58)
 _Haoqian Wang, Da Li, Xingzheng Wang_
 
-##### [2018 ICPR] Local Regression Based Hourglass Network for Hand Pose Estimation from a Single Depth Image. \[PDF\]
+##### [2018 ICPR] Local Regression Based Hourglass Network for Hand Pose Estimation from a Single Depth Image. [\[PDF\]](https://ieeexplore.ieee.org/abstract/document/8545460)
 _Jia Li, Zengfu Wang_
 
-##### [2018 ICPR] Dynamic Projected Segmentation Networks for Hand Pose Estimation. \[PDF\]
+##### [2018 ICPR] Dynamic Projected Segmentation Networks for Hand Pose Estimation. [\[PDF\]](https://ieeexplore.ieee.org/abstract/document/8546330)
 _Yunlong Che, Yue Qi_
 
 ##### [2018 3DV] DeepHPS: End-to-end Estimation of 3D Hand Pose and Shape by Learning from Synthetic Depth. [\[PDF\]](https://arxiv.org/pdf/1808.09208.pdf)
