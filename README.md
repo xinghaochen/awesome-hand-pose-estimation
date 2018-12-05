@@ -21,6 +21,12 @@
 See folder [``evaluation``](https://github.com/xinghaochen/awesome-hand-pose-estimation/tree/master/evaluation) to get more details about performance evaluation for hand pose estimation.
 
 ## arXiv Papers
+##### [\[arXiv:1812.01598\]](https://arxiv.org/abs/1812.01598) Monocular Total Capture: Posing Face, Body, and Hands in the Wild. [\[PDF\]](https://arxiv.org/pdf/1812.01598.pdf)
+_Donglai Xiang, Hanbyul Joo, Yaser Sheikh_
+
+##### [\[arXiv:1812.01002\]](https://arxiv.org/abs/1812.01002) Disentangling Latent Hands for Image Synthesis and Pose Estimation. [\[PDF\]](https://arxiv.org/pdf/1812.01002.pdf)
+_Linlin Yang, Angela Yao_
+
 
 ##### [\[arXiv:1811.09916\]](https://arxiv.org/abs/1811.09916) Generating Realistic Training Images Based on Tonality-Alignment Generative Adversarial Networks for Hand Pose Estimation. [\[PDF\]](https://arxiv.org/pdf/1811.09916.pdf)
 _Liangjian Chen, Shih-Yao Lin, Yusheng Xie, Hui Tang, Yufan Xue, Xiaohui Xie, Yen-Yu Lin, Wei Fan_
