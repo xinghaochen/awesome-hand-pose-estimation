@@ -21,6 +21,10 @@
 See folder [``evaluation``](https://github.com/xinghaochen/awesome-hand-pose-estimation/tree/master/evaluation) to get more details about performance evaluation for hand pose estimation.
 
 ## arXiv Papers
+
+##### [\[arXiv:1812.02050\]](https://arxiv.org/abs/1812.02050) Point-to-Pose Voting based Hand Pose Estimation using Residual Permutation Equivariant Layer. [\[PDF\]](https://arxiv.org/pdf/1812.02050.pdf)
+_Shile Li, Dongheui Lee_
+
 ##### [\[arXiv:1812.01598\]](https://arxiv.org/abs/1812.01598) Monocular Total Capture: Posing Face, Body, and Hands in the Wild. [\[PDF\]](https://arxiv.org/pdf/1812.01598.pdf)
 _Donglai Xiang, Hanbyul Joo, Yaser Sheikh_
 
