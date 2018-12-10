@@ -41,7 +41,7 @@ _Shanxin Yuan, Bjorn Stenger, Tae-Kyun Kim_
 ##### [\[arXiv:1811.07123\]](https://arxiv.org/abs/1811.07123) Explicit Pose Deformation Learning for Tracking Human Poses. [\[PDF\]](https://arxiv.org/pdf/1811.07123.pdf)
 _Xiao Sun, Chuankang Li, Stephen Lin_
 
-##### [\[arXiv:1809.06268\]](https://arxiv.org/abs/1809.06268) Vision-based Teleoperation of Shadow Dexterous Hand using End-to-End Deep Neural Network. [\[PDF\]](https://arxiv.org/pdf/1809.06268.pdf)
+##### [\[arXiv:1809.06268\]](https://arxiv.org/abs/1809.06268) Vision-based Teleoperation of Shadow Dexterous Hand using End-to-End Deep Neural Network. [\[PDF\]](https://arxiv.org/pdf/1809.06268.pdf) [\[Code\]](https://github.com/Smilels/TeachNet_Teleoperation)
 _Shuang Li\*, Xiaojian Ma\*, Hongzhuo Liang, Michael Görner, Philipp Ruppel, Bing Fang, Fuchun Sun, Jianwei Zhang_
 
 ##### [\[arXiv:1807.00898\]](https://arxiv.org/abs/1807.00898) Model-based Hand Pose Estimation for Generalized Hand Shape with Appearance Normalization. [\[PDF\]](https://arxiv.org/pdf/1807.00898.pdf)
