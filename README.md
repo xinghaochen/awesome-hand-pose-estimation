@@ -461,37 +461,40 @@ _Ayan Sinha\*, Chiho Choi\*, Karthik Ramani_
 
 ## Theses
 
-##### \[2018 Thesis\] Real-Time Generative Hand Modeling and Tracking. [\[PDF\]](https://infoscience.epfl.ch/record/256674/files/EPFL_TH8573.pdf)
+##### \[2018\] Articulated Human Pose Estimation in Unconstrained Images and Videos. [\[PDF\]](http://hss.ulb.uni-bonn.de/2018/5292/5292.pdf)
+*Umar Iqbal, University of Bonn*
+
+##### \[2018\] Real-Time Generative Hand Modeling and Tracking. [\[PDF\]](https://infoscience.epfl.ch/record/256674/files/EPFL_TH8573.pdf)
 *Anastasia Tkach, EPFL*
 
-##### \[2018 Thesis\] Recovery of the 3D Virtual Human: Monocular Estimation of 3D Shape and Pose with Data Driven Priors. [\[PDF\]](https://www.research-collection.ethz.ch/bitstream/handle/20.500.11850/266852/Endri_Dibra_Thesis_Final.pdf?sequence=3&isAllowed=y)  [\[Project Page\]](https://www.research-collection.ethz.ch/handle/20.500.11850/266852)
+##### \[2018\] Recovery of the 3D Virtual Human: Monocular Estimation of 3D Shape and Pose with Data Driven Priors. [\[PDF\]](https://www.research-collection.ethz.ch/bitstream/handle/20.500.11850/266852/Endri_Dibra_Thesis_Final.pdf?sequence=3&isAllowed=y)  [\[Project Page\]](https://www.research-collection.ethz.ch/handle/20.500.11850/266852)
 *[Endri Dibra](https://graphics.ethz.ch/~edibra/), ETH Zürich*
 
-##### \[2017 Thesis\] Human Segmentation, Pose Estimation and Applications. [\[PDF\]](http://sergioescalera.com/wp-content/uploads/2017/10/MeysamPhDv2.pdf) [\[Slides\]](http://sergioescalera.com/wp-content/uploads/2017/10/Thesis-presentation.pdf)
+##### \[2017\] Human Segmentation, Pose Estimation and Applications. [\[PDF\]](http://sergioescalera.com/wp-content/uploads/2017/10/MeysamPhDv2.pdf) [\[Slides\]](http://sergioescalera.com/wp-content/uploads/2017/10/Thesis-presentation.pdf)
 *Meysam Madadi, Universitat Autònoma de Barcelonato*
 
-##### \[2017 Thesis\] Capturing Hand-Object Interaction and Reconstruction of Manipulated Objects. [\[PDF\]](http://ps.is.tue.mpg.de/uploads_file/attachment/attachment/340/Thesis_FINAL_online.pdf) [\[Project Page\]](http://ps.is.tue.mpg.de/publications/tzionas-thesis-phd)
+##### \[2017\] Capturing Hand-Object Interaction and Reconstruction of Manipulated Objects. [\[PDF\]](http://ps.is.tue.mpg.de/uploads_file/attachment/attachment/340/Thesis_FINAL_online.pdf) [\[Project Page\]](http://ps.is.tue.mpg.de/publications/tzionas-thesis-phd)
 *[Dimitrios Tzionas](http://ps.is.tue.mpg.de/person/dtzionas), University of Bonn*
 
-##### \[2016 Thesis\] Tracking Hands in Action for Gesture-based Computer Input. [\[PDF\]](http://cs.stanford.edu/people/ssrinath/pubs/Dissertation_SrinathSridhar.pdf)
+##### \[2016\] Tracking Hands in Action for Gesture-based Computer Input. [\[PDF\]](http://cs.stanford.edu/people/ssrinath/pubs/Dissertation_SrinathSridhar.pdf)
 *[Srinath Sridhar](http://cs.stanford.edu/people/ssrinath/),  Max Planck Institute for Informatics*
 
-##### \[2016 Thesis\] 3D hand pose regression with variants of decision forests. [\[PDF\]](https://spiral.imperial.ac.uk/bitstream/10044/1/31531/1/Tang-D-2016-PhD-Thesis.pdf) [\[Project Page\]](https://spiral.imperial.ac.uk/handle/10044/1/31531)
+##### \[2016\] 3D hand pose regression with variants of decision forests. [\[PDF\]](https://spiral.imperial.ac.uk/bitstream/10044/1/31531/1/Tang-D-2016-PhD-Thesis.pdf) [\[Project Page\]](https://spiral.imperial.ac.uk/handle/10044/1/31531)
 *[Danhang Tang](http://www.iis.ee.ic.ac.uk/dtang/), Imperial College London*
 
-##### \[2016 Thesis\] Deep Learning for Human Motion Analysis. [\[PDF\]](https://tel.archives-ouvertes.fr/tel-01470466v1/document) [\[Project Page\]](https://tel.archives-ouvertes.fr/tel-01470466v1)
+##### \[2016\] Deep Learning for Human Motion Analysis. [\[PDF\]](https://tel.archives-ouvertes.fr/tel-01470466v1/document) [\[Project Page\]](https://tel.archives-ouvertes.fr/tel-01470466v1)
 *[Natalia Neverova](https://nneverova.github.io/), National Institut of Applied Science (INSA de Lyon), France*
 
-##### \[2016 Thesis\] Real time hand pose estimation for human computer interaction. [\[PDF\]](http://epubs.surrey.ac.uk/809973/1/thesis.pdf) [\[Project Page\]](http://epubs.surrey.ac.uk/809973/)
+##### \[2016\] Real time hand pose estimation for human computer interaction. [\[PDF\]](http://epubs.surrey.ac.uk/809973/1/thesis.pdf) [\[Project Page\]](http://epubs.surrey.ac.uk/809973/)
 *[Philip Krejov](http://www.krejov.com/), University of Surrey*
 
-##### \[2015 Thesis\] Efficient Tracking of the 3D Articulated Motion of Human Hands. [\[PDF\]](http://users.ics.forth.gr/~oikonom/pb/oikonomidisPhDthesis.pdf)
+##### \[2015\] Efficient Tracking of the 3D Articulated Motion of Human Hands. [\[PDF\]](http://users.ics.forth.gr/~oikonom/pb/oikonomidisPhDthesis.pdf)
 *[Iason Oikonomidis](http://users.ics.forth.gr/~oikonom/pb/), University of Crete*
 
-##### \[2015 Thesis\] Vision-based hand pose estimation and gesture recognition. [\[PDF\]](https://repository.ntu.edu.sg/bitstream/handle/10356/65842/ThesisMain.pdf?sequence=1&isAllowed=y)
+##### \[2015\] Vision-based hand pose estimation and gesture recognition. [\[PDF\]](https://repository.ntu.edu.sg/bitstream/handle/10356/65842/ThesisMain.pdf?sequence=1&isAllowed=y)
 *[Hui Liang](https://sites.google.com/site/seraphlh/home), Nanyang Technological University*
 
-##### \[2015 Thesis\] Localization of Humans in Images Using Convolutional Networks. [\[PDF\]](http://www.cims.nyu.edu/~tompson/others/thesis.pdf)
+##### \[2015\] Localization of Humans in Images Using Convolutional Networks. [\[PDF\]](http://www.cims.nyu.edu/~tompson/others/thesis.pdf)
 *[Jonathan Tompson](http://cims.nyu.edu/~tompson/), New York University*
 
 ## Datasets
