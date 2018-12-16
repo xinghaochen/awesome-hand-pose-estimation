@@ -136,7 +136,7 @@ _Georg Poier, Michael Opitz, David Schinagl and Horst Bischof_
 
 ### 2018 ECCV
 
-##### HandMap: Robust Hand Pose Estimation via Intermediate Dense Guidance Map Supervision. [\[PDF\]](http://openaccess.thecvf.com/content_ECCV_2018/papers/Xiaokun_Wu_HandMap_Robust_Hand_ECCV_2018_paper.pdf)
+##### HandMap: Robust Hand Pose Estimation via Intermediate Dense Guidance Map Supervision. [\[PDF\]](http://openaccess.thecvf.com/content_ECCV_2018/papers/Xiaokun_Wu_HandMap_Robust_Hand_ECCV_2018_paper.pdf)  [\[Project Page\]](https://xkunwu.github.io/research/18HandPose/18HandPose)  [\[Code\]](https://github.com/xkunwu/depth-hand)
 _Xiaokun Wu, Daniel Finnegan, Eamonn O'Neill, Yongliang Yang_
 
 ##### HBE: Hand Branch Ensemble network for real time 3D hand pose estimation.  [\[PDF\]](http://openaccess.thecvf.com/content_ECCV_2018/papers/Yidan_Zhou_HBE_Hand_Branch_ECCV_2018_paper.pdf)
