@@ -56,6 +56,8 @@ _Xiaoming Deng\*, Shuo Yang\*, Yinda Zhang\*, Ping Tan, Liang Chang, Hongan Wang
 ##### [\[arXiv:1612.00596\]](https://arxiv.org/abs/1612.00596) Learning to Search on Manifolds for 3D Pose Estimation of Articulated Objects. [\[PDF\]](https://arxiv.org/pdf/1612.00596.pdf)
 *Yu Zhang, Chi Xu, Li Cheng*
 
+[\[back to top\]](#table-of-contents)
+
 ## Journal Papers
 
 ##### \[2018 IVC\] Large-scale Multiview 3D Hand Pose Dataset. [\[PDF\]](https://arxiv.org/pdf/1707.03742.pdf)  [\[Project Page\]](http://www.rovit.ua.es/dataset/mhpdataset/)
@@ -70,7 +72,7 @@ _Meysam Madadi, Sergio Escalera, Alex Carruesco, Carlos Andujar, Xavier Baró, J
 ##### \[2018 TCYB\] Context-Aware Deep Spatio-Temporal Network for Hand Pose Estimation from Depth Images. [\[PDF\]](https://arxiv.org/pdf/1810.02994.pdf)
 _Yiming Wu, Wei Ji, Xi Li, Gang Wang, Jianwei Yin, Fei Wu_
 
-##### \[2018 IEEE Access\] SHPR-Net: Deep Semantic Hand Pose Regression From Point Clouds. [\[PDF\]](https://ieeexplore.ieee.org/document/8425735/)
+##### \[2018 IEEE Access\] SHPR-Net: Deep Semantic Hand Pose Regression From Point Clouds. [\[PDF\]](https://ieeexplore.ieee.org/document/8425735/)  [\[Project Page\]](https://sites.google.com/view/xinghaochen/projects/SHPR-Net)
 _Xinghao Chen, Guijin Wang, Cairong Zhang, Tae-Kyun Kim, Xiangyang Ji_
 
 ##### \[2018 Neurocomputing\]  Pose Guided Structured Region Ensemble Network for Cascaded Hand Pose Estimation. [\[PDF\]](https://arxiv.org/pdf/1708.03416.pdf)  [\[Project Page\]](https://sites.google.com/view/xinghaochen/projects/Pose-REN)  [\[Code\]](https://github.com/xinghaochen/Pose-REN)
@@ -127,12 +129,16 @@ _Guijin Wang, Xinghao Chen\*, Hengkai Guo\*, Cairong Zhang_
 ##### \[2014 TMM\] Parsing the Hand in Depth Images. [\[PDF\]](https://fae1051c-a-62cb3a1a-s-sites.googlegroups.com/site/seraphlh/attachments/2014TMM_HandParsing.pdf?attachauth=ANoY7crJCn_-tr0um1h8DhY3QtG8ngGn8jsllw1_S2ykaSsRGXvoeHWz7MW4DJ4KvQbXVd3nIsyWxEcs4rEn04TjtUaOTEMm7llUEP2e4renxgUj7G2DrVKDZzYg3Dbat1xhrvbz0BdjBoGrvxIniQLQ3Jyzs58UCDGSlzo-sGiOdmgMC072ZOCIR9STMP1FDpQzq3WV9fIGMUycXQRyWLja08ADLZOeV3d0eGKO1NoNH8pxN5pDD6M%3D&attredirects=0) [\[Project Page\]](https://sites.google.com/site/seraphlh/projects)  [\[Code\]](https://github.com/shrekei/RandomDecisionForest)
 *Hui Liang, Junsong Yuan, Daniel Thalmann*
 
+[\[back to top\]](#table-of-contents)
+
 ## Conference Papers
 
 ### 2019 Others
 
 ##### [2019 WACV] MURAUER: Mapping Unlabeled Real Data for Label AUstERity. [\[PDF\]](https://poier.github.io/murauer/documents/poier2019wacv_selfpublishing.pdf) [\[Project Page\]](https://poier.github.io/murauer/) [\[Code\]](https://github.com/poier/murauer)
 _Georg Poier, Michael Opitz, David Schinagl and Horst Bischof_
+
+[\[back to top\]](#table-of-contents)
 
 ### 2018 ECCV
 
@@ -250,6 +256,8 @@ _Yushun Lin, Xiujuan Chai, Xilin Chen_
 ##### [2018 WACV] Using a single RGB frame for real time 3D hand pose estimation in the wild. [\[PDF\]](https://arxiv.org/pdf/1712.03866.pdf)  [\[Project Page\]](http://users.ics.forth.gr/~argyros/res_rgbmonohand.html)
 _Paschalis Panteleris, Iason Oikonomidis, Antonis Argyros_
 
+[\[back to top\]](#table-of-contents)
+
 ### 2017 ICCV
 ##### Learning to Estimate 3D Hand Pose from Single RGB Images. [\[PDF\]](https://arxiv.org/pdf/1705.01389.pdf)  [\[Project Page\]](https://lmb.informatik.uni-freiburg.de/projects/hand3d/)   [\[Code\]](https://github.com/lmb-freiburg/hand3d)
 _Christian Zimmermann, Thomas Brox_
@@ -326,6 +334,8 @@ _Javier Romero\*, Dimitrios Tzionas\* and Michael J. Black_
 ##### [2017 FG] 3D Hand-Object Pose Estimation from Depth with Convolutional Neural Networks. [\[PDF\]](http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7961770) [\[Project Page\]](http://www.cs.man.ac.uk/~goudied/research.html)
 *Duncan Goudie, Aphrodite Galata*
 
+[\[back to top\]](#table-of-contents)
+
 ### 2016 ECCV
 ##### Spatial Attention Deep Net with Partial PSO for Hierarchical Hybrid Hand Pose Estimation. [\[PDF\]](https://labicvl.github.io/docs/pubs/Qi_Shanxin_ECCV_2016.pdf) [\[Project Page\]](https://sites.google.com/site/qiyeincv/home/eccv2016)
 _Qi Ye\*, Shanxin Yuan\*, Tae-Kyun Kim_
@@ -367,6 +377,8 @@ _Ayan Sinha\*, Chiho Choi\*, Karthik Ramani_
 
 ##### \[2016 SIGGRAPH Asia\] Sphere-Meshes for Real-Time Hand Modeling and Tracking. [\[PDF\]](http://lgg.epfl.ch/publications/2016/HModel/paper.pdf)  [\[Project Page\]](http://lgg.epfl.ch/publications/2016/HModel/index.php) [\[Code\]](https://github.com/OpenGP/hmodel)
 *Anastasia Tkach, Mark Pauly, Andrea Tagliasacchi*
+
+[\[back to top\]](#table-of-contents)
 
 ### 2015 ICCV
 ##### Training a Feedback Loop for Hand Pose Estimation. [\[PDF\]](https://cvarlab.icg.tugraz.at/pubs/oberweger_iccv15.pdf) [\[Project Page\]](https://cvarlab.icg.tugraz.at/projects/hand_detection/)
@@ -420,6 +432,8 @@ _Ayan Sinha\*, Chiho Choi\*, Karthik Ramani_
 ##### \[2015 SGP\] Robust Articulated-ICP for Real-Time Hand Tracking. [\[PDF\]](http://gfx.uvic.ca/pubs/2015/htrack//paper.pdf)  [\[Project Page\]](http://lgg.epfl.ch/publications/2015/Htrack_ICP/index.php) [\[Code\]](https://github.com/OpenGP/htrack)
 *Anastasia Tkach, Mark Pauly, Andrea Tagliasacchi*
 
+[\[back to top\]](#table-of-contents)
+
 ### 2014 CVPR
 ##### Realtime and robust hand tracking from depth. [\[PDF\]](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/yichenw-cvpr14_handtracking.pdf) [\[Project Page\]](https://www.microsoft.com/en-us/research/people/yichenw/)
 *Chen Qian, Xiao Sun, Yichen Wei, Xiaoou Tang and Jian Sun*
@@ -458,6 +472,7 @@ _Ayan Sinha\*, Chiho Choi\*, Karthik Ramani_
 ##### \[2011 BMVC\] Efficient Model-based 3D Tracking of Hand Articulations using Kinect. [\[PDF\]](http://www.cp.jku.at/teaching/praktika/imageproc/bodyparts_Algorithmus1.pdf) [\[Project Page\]](http://users.ics.forth.gr/~argyros/research/kinecthandtracking.htm) [\[Code\]](https://github.com/FORTH-ModelBasedTracker/HandTracker)
 *Iason Oikonomidis, Nikolaos Kyriazis, Antonis A. Argyros*
 
+[\[back to top\]](#table-of-contents)
 
 ## Theses
 
@@ -497,6 +512,8 @@ _Ayan Sinha\*, Chiho Choi\*, Karthik Ramani_
 ##### \[2015\] Localization of Humans in Images Using Convolutional Networks. [\[PDF\]](http://www.cims.nyu.edu/~tompson/others/thesis.pdf)
 *[Jonathan Tompson](http://cims.nyu.edu/~tompson/), New York University*
 
+[\[back to top\]](#table-of-contents)
+
 ## Datasets
 
 - S/R: Synthetic (S) or Real (R) or Both (B)
@@ -534,6 +551,8 @@ _Ayan Sinha\*, Chiho Choi\*, Karthik Ramani_
 - [3] Capturing Hand-Object Interaction and Reconstruction of Manipulated Objects, IJCV 2016 [\[PDF\]](http://ps.is.tue.mpg.de/uploads_file/attachment/attachment/340/Thesis_FINAL_online.pdf)
 - [4] [MPI Hand Tracking Central](http://handtracker.mpi-inf.mpg.de/)
 
+[\[back to top\]](#table-of-contents)
+
 ## Workshops
 
 [1] *Workshops on Observing and Understanding Hands in Action:*
@@ -551,6 +570,8 @@ _Ayan Sinha\*, Chiho Choi\*, Karthik Ramani_
 ##### [PeopleCap 2018](https://peoplecap2018.weebly.com/), In conjunction with ECCV 2018
 ##### [PeopleCap 2017](http://peoplecap.weebly.com/), In conjunction with ICCV 2017
 
+[\[back to top\]](#table-of-contents)
+
 ## Challenges
 
 ##### [The 2017 Hands in the Million Challenge on 3D Hand Pose Estimation](http://icvl.ee.ic.ac.uk/hands17/challenge/)
@@ -559,6 +580,8 @@ _Ayan Sinha\*, Chiho Choi\*, Karthik Ramani_
 - Documents
     - [The 2017 Hands in the Million Challenge on 3D Hand Pose Estimation](https://arxiv.org/pdf/1707.02237.pdf), arXiv 2017
     - [Depth-Based 3D Hand Pose Estimation: From Current Achievements to Future Goals.](https://arxiv.org/pdf/1712.03917.pdf), CVPR 2018
+
+[\[back to top\]](#table-of-contents)
 
 ## Other Related Papers
 
@@ -591,6 +614,8 @@ _Ayan Sinha\*, Chiho Choi\*, Karthik Ramani_
 
 ##### [2015 ICCV] 3D Object Reconstruction from Hand-Object Interactions. [\[PDF\]](http://files.is.tue.mpg.de/dtzionas/In-Hand-Scanning/ICCV15_Reconstruction_from_HandObject_Interactions.pdf) [\[Project Page\]](http://ps.is.tue.mpg.de/publications/-886ddd69-ebde-4f83-8b77-9c41f8af1065)
 *Dimitrios Tzionas and Juergen Gall*
+
+[\[back to top\]](#table-of-contents)
 
 ---
 \* indicates equal contribution
