@@ -22,6 +22,9 @@ See folder [``evaluation``](https://github.com/xinghaochen/awesome-hand-pose-est
 
 ## arXiv Papers
 
+##### [\[arXiv:1812.08028\]](https://arxiv.org/abs/1812.08028) Accurate Hand Keypoint Localization on Mobile Devices. [\[PDF\]](https://arxiv.org/pdf/1812.08028.pdf)
+_Filippos Gouidis, Paschalis Panteleris, Iason Oikonomidis, Antonis Argyros_
+
 ##### [\[arXiv:1812.02050\]](https://arxiv.org/abs/1812.02050) Point-to-Pose Voting based Hand Pose Estimation using Residual Permutation Equivariant Layer. [\[PDF\]](https://arxiv.org/pdf/1812.02050.pdf)
 _Shile Li, Dongheui Lee_
 
