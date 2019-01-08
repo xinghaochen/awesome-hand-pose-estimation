@@ -56,6 +56,8 @@ There are two types of evaluation metrics that are widely used for hand pose est
 - HandPointNet \[15\]: CVPR'18, [Predicted labels](https://drive.google.com/file/d/1hYsgLvpuKpWpBkVzrIdCetJPWzGCtooB/view)
 - Point-to-Point \[16\]: ECCV'18, [Predicted labels](https://drive.google.com/file/d/1hvAf7iee7bysDi26639qP9LfvucXBcTM/view)
 
+[\[back to top\]](#evaluations-on-hand-pose-estimation)
+
 ### Notes
 - Note that only 14 out of 36 joints are used for evaluation and we use the joints with id [0, 3, 6, 9, 12, 15, 18, 21, 24, 25, 27, 30, 31, 32]. All labels are in the format of (u, v, d) where u and v are pixel coordinates.
 
@@ -73,6 +75,8 @@ There are two types of evaluation metrics that are widely used for hand pose est
 
 - The annotations for MSRA dataset for [V2V-PoseNet](http://cv.snu.ac.kr/research/V2V-PoseNet/MSRA/coordinate/result.txt) are slightly different from prior work (see the discussions [here](https://github.com/xinghaochen/awesome-hand-pose-estimation/issues/2)) so we haven't included its results yet.
 
+[\[back to top\]](#evaluations-on-hand-pose-estimation)
+
 ## Usage
 Use the python code to show the evaluation results:
 ```
@@ -84,6 +88,9 @@ We provide easy-to-use bash scripts to display performances of some methods, jus
 ```
 sh evaluate_{dataset}.sh
 ```
+
+[\[back to top\]](#evaluations-on-hand-pose-estimation)
+
 ## Results
 ### Results on NYU dataset
 ![figures/nyu_error_bar.png](figures/nyu_error.png)
@@ -109,6 +116,8 @@ sh evaluate_{dataset}.sh
 |  V2V-PoseNet [12] |8.419  |
 |  FeatureMapping [13] | 7.441  |
 
+[\[back to top\]](#evaluations-on-hand-pose-estimation)
+
 ### Results on ICVL dataset
 ![figures/icvl_error_bar.png](figures/icvl_error.png)
 
@@ -126,6 +135,8 @@ sh evaluate_{dataset}.sh
 |  Point-to-Point [16] | 6.328  |
 |  V2V-PoseNet [12] | 6.284  |
 
+[\[back to top\]](#evaluations-on-hand-pose-estimation)
+
 ### Results on MSRA dataset
 ![figures/msra_error_bar.png](figures/msra_error.png)
 
@@ -138,6 +149,8 @@ sh evaluate_{dataset}.sh
 |  SHPR-Net [14] | 7.756 |
 |  Point-to-Point [16] | 7.707  |
 |  DenseReg [10] | 7.234 |
+
+[\[back to top\]](#evaluations-on-hand-pose-estimation)
 
 ## Reference
 - \[1\] [Latent regression forest: Structured estimation of 3d articulated hand posture](https://labicvl.github.io/docs/pubs/Danny_CVPR_2014.pdf), Danhang Tang, Hyung Jin Chang, Alykhan Tejani, and Tae-Kyun Kim, Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**) 2014.
@@ -156,3 +169,5 @@ sh evaluate_{dataset}.sh
 - \[14\] [SHPR-Net: Deep Semantic Hand Pose Regression From Point Clouds](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8425735&tag=1), Xinghao Chen, Guijin Wang, Cairong Zhang, Tae-Kyun Kim, Xiangyang Ji, (**IEEE Access**) 2018.
 - \[15\] [Hand PointNet: 3D Hand Pose Estimation using Point Sets](http://openaccess.thecvf.com/content_cvpr_2018/papers/Ge_Hand_PointNet_3D_CVPR_2018_paper.pdf), Liuhao Ge, Yujun Cai, Junwu Weng, Junsong Yuan, Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**) 2018.
 - \[16\] [Point-to-Point Regression PointNet for 3D Hand Pose Estimation](http://openaccess.thecvf.com/content_ECCV_2018/papers/Liuhao_Ge_Point-to-Point_Regression_PointNet_ECCV_2018_paper.pdf), Liuhao Ge, Zhou Ren, Junsong Yuan, European Conference on Computer Vision (**ECCV**) 2018.
+
+[\[back to top\]](#evaluations-on-hand-pose-estimation)
