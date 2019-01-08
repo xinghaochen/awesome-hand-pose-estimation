@@ -4,7 +4,7 @@
  - [Evaluation](#evaluation)
  - [arXiv Papers](#arxiv-papers)
  - [Journal Papers](#journal-papers)
-   - [TPAMI / IJCV](#tpami-/-ijcv)
+   - [TPAMI / IJCV](#tpami--ijcv)
    - [Others](#others)
  - [Conference Papers](#conference-papers)
    - 2019: [Others](#2019-others)
