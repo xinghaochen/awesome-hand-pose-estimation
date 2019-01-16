@@ -17,3 +17,4 @@ python src/compute_error.py nyu max-frame\
 	SHPR-Net\(three\ views\)	results/nyu/Access18_NYU_SHPR_Net_three.txt\
 	HandPointNet	results/nyu/CVPR18_NYU_HandPointNet.txt\
 	Point-to-Point	results/nyu/ECCV18_NYU_Point-to-Point.txt\
+	MURAUER	results/nyu/WACV19_NYU_murauer_n72757_uvd.txt\
