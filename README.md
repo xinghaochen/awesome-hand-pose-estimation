@@ -67,6 +67,9 @@ _Xiaoming Deng\*, Shuo Yang\*, Yinda Zhang\*, Ping Tan, Liang Chang, Hongan Wang
 
 ### TPAMI / IJCV
 
+##### \[2019 TPAMI\] Feature Boosting Network For 3D Pose Estimation. [\[PDF\]](https://ieeexplore.ieee.org/document/8621059)
+_Jun Liu, Henghui Ding, Amir Shahroudy, Ling-Yu Duan, Xudong Jiang, Gang Wang, Alex C. Kot_
+
 ##### \[2018 TPAMI\] Opening the Black Box: Hierarchical Sampling Optimization for Hand Pose Estimation. [\[PDF\]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8386667)
 _Danhang Tang\*, Qi Ye\*, Shanxin Yuan, Jonathan Taylor, Pushmeet Kohli, Cem Keskin, Tae-Kyun Kim, Jamie Shotton_
 
