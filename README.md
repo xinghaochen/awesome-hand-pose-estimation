@@ -180,10 +180,10 @@ _Qi Ye, Tae-Kyun Kim_
 ##### Hand Pose Estimation via Latent 2.5D Heatmap Regression. [\[PDF\]](http://openaccess.thecvf.com/content_ECCV_2018/papers/Umar_Iqbal_Hand_Pose_Estimation_ECCV_2018_paper.pdf)
 _Umar Iqbal, Pavlo Molchanov, Thomas Breuel, Juergen Gall, Jan Kautz_
 
-##### [Hands18 Workshop] Adapting Egocentric Visual Hand Pose Estimation Towards a Robot-Controlled Exoskeleton. \[PDF\]
+##### [Hands18 Workshop] Adapting Egocentric Visual Hand Pose Estimation Towards a Robot-Controlled Exoskeleton. [\[PDF\]](https://link.springer.com/chapter/10.1007/978-3-030-11024-6_16)
 _Gerald Baulig, Thomas Gulde, Cristobal Curio_
 
-##### [Hands18 Workshop] Estimating 2D Multi-Hand Poses From Single Depth Images. \[PDF\]
+##### [Hands18 Workshop] Estimating 2D Multi-Hand Poses From Single Depth Images. [\[PDF\]](https://link.springer.com/chapter/10.1007/978-3-030-11024-6_17)
 _Le Duan, Minmin Shen, Song Cui, Zhexiao Guo, Oliver Deussen_
 
 ##### [Hands18 Workshop] Task-Oriented Hand Motion Retargeting for Dexterous Manipulation Imitation. [\[PDF\]](https://arxiv.org/pdf/1810.01845.pdf) [\[Project Page\]](https://daphneantotsiou.github.io/task-oriented-retargeting.html)
@@ -389,6 +389,10 @@ _Ayan Sinha\*, Chiho Choi\*, Karthik Ramani_
 [\[back to top\]](#table-of-contents)
 
 ### 2016 Others
+
+##### [2016 NIPS] DISCO Nets : Dissimilarity Coefficient Networks. [\[PDF\]](http://www.robots.ox.ac.uk/~diane/DISCONET_camera_ready.pdf) [\[Project Page\]](http://www.robots.ox.ac.uk/~diane/DiscoNets.html) [\[Code\]](https://github.com/oval-group/DISCONets)
+*Diane Bouchacourt, M. Pawan Kumar, Sebastian Nowozin*
+
 ##### \[2016 ACCV\] Hand Pose Regression via A Classification-guided Approach. [\[PDF\]](http://staff.ustc.edu.cn/~juyong/Papers/HandTracking-2016.pdf)
 *Hongwei Yang, Juyong Zhang*
 
@@ -595,12 +599,13 @@ _Ayan Sinha\*, Chiho Choi\*, Karthik Ramani_
 
 ##### [HANDS 2018](https://sites.google.com/view/hands2018/), In conjunction with ECCV 2018
 - HANDS18: Methods, Techniques and Applications for Hand Observation. [\[PDF\]](https://arxiv.org/abs/1810.10818)
-- *Iason Oikonomidis, Guillermo Garcia-Hernando, Angela Yao, Antonis Argyros, Vincent Lepetit, Tae-Kyun Kim*
 
 ##### [HANDS 2017](http://icvl.ee.ic.ac.uk/hands17/), In conjunction with ICCV 2017
+- Depth-Based 3D Hand Pose Estimation: From Current Achievements to Future Goals. [\[PDF\]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Yuan_Depth-Based_3D_Hand_CVPR_2018_paper.pdf)
+
 ##### [HANDS 2016](https://labicvl.github.io/hand/Hands2016/), In conjunction with CVPR 2016
 ##### [HANDS 2015](http://www.ics.uci.edu/~jsupanci/HANDS-2015/), In conjunction with CVPR 2015
-
+<br>
 [2] *Workshops on Capturing and modeling human bodies, faces and hands:*
 
 ##### [PeopleCap 2018](https://peoplecap2018.weebly.com/), In conjunction with ECCV 2018
@@ -644,9 +649,6 @@ _Ayan Sinha\*, Chiho Choi\*, Karthik Ramani_
 
 ##### \[2016 3DV\] Learning to Navigate the Energy Landscape. [\[PDF\]](http://www.robots.ox.ac.uk/~tvg/publications/2016/LNEL.pdf) [\[Project Page\]](http://graphics.stanford.edu/projects/reloc/)
 *Julien Valentin, Angela Dai, Matthias Niessner, Pushmeet Kohli, Philip H.S. Torr, Shahram Izadi*
-
-##### [2016 NIPS] DISCO Nets : Dissimilarity Coefficient Networks. [\[PDF\]](http://www.robots.ox.ac.uk/~diane/DISCONET_camera_ready.pdf) [\[Project Page\]](http://www.robots.ox.ac.uk/~diane/DiscoNets.html) [\[Code\]](https://github.com/oval-group/DISCONets)
-*Diane Bouchacourt, M. Pawan Kumar, Sebastian Nowozin*
 
 ##### [2015 ICCV] 3D Object Reconstruction from Hand-Object Interactions. [\[PDF\]](http://files.is.tue.mpg.de/dtzionas/In-Hand-Scanning/ICCV15_Reconstruction_from_HandObject_Interactions.pdf) [\[Project Page\]](http://ps.is.tue.mpg.de/publications/-886ddd69-ebde-4f83-8b77-9c41f8af1065)
 *Dimitrios Tzionas and Juergen Gall*
