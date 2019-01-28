@@ -101,7 +101,7 @@ _Zhongxu Hu, Youmin Hu, Jie Liu, Bo Wu, Dongmin Han, Thomas Kurfess_
 ##### \[2018 IVC\] Large-scale Multiview 3D Hand Pose Dataset. [\[PDF\]](https://arxiv.org/pdf/1707.03742.pdf)  [\[Project Page\]](http://www.rovit.ua.es/dataset/mhpdataset/)
 _Francisco Gomez-Donoso, Sergio Orts-Escolano and Miguel Cazorla_
 
-##### \[2018 TCSVT\] Mask-pose Cascaded CNN for 2D Hand Pose Estimation from Single Color Image. [\[PDF\]](https://www.yangangwang.com/papers/WANG-MCC-2018-10.pdf)
+##### \[2018 TCSVT\] Mask-pose Cascaded CNN for 2D Hand Pose Estimation from Single Color Image. [\[PDF\]](https://www.yangangwang.com/papers/WANG-MCC-2018-10.pdf)  [\[Project Page\]](https://www.yangangwang.com/papers/WANG-MCC-2018-10.html)  [\[Code\]](https://www.yangangwang.com/papers/WANG-MCC-2018-10.html)
 _Yangang Wang, Cong Peng and Yebin Liu_
 
 ##### \[2018 IVC\] Top-down model fitting for hand pose recovery in sequences of depth images. [\[PDF\]](https://www.sciencedirect.com/science/article/pii/S0262885618301513#aep-article-footnote-id1)
