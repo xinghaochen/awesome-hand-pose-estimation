@@ -168,7 +168,7 @@ _Yidan Zhou, Jian Lu, Kuo Du, Xiangbo Lin, Yi Sun, Xiaohong Ma_
 ##### Point-to-Point Regression PointNet for 3D Hand Pose Estimation. [\[PDF\]](http://openaccess.thecvf.com/content_ECCV_2018/papers/Liuhao_Ge_Point-to-Point_Regression_PointNet_ECCV_2018_paper.pdf)
 _Liuhao Ge, Zhou Ren, Junsong Yuan_
 
-##### Weakly-supervised 3D Hand Pose Estimation from Monocular RGB Images. [\[PDF\]](http://openaccess.thecvf.com/content_ECCV_2018/papers/Sijia_Cai_Weakly-supervised_Video_Summarization_ECCV_2018_paper.pdf) *(Oral)*
+##### Weakly-supervised 3D Hand Pose Estimation from Monocular RGB Images. [\[PDF\]](http://openaccess.thecvf.com/content_ECCV_2018/papers/Yujun_Cai_Weakly-supervised_3D_Hand_ECCV_2018_paper.pdf) *(Oral)*
 _Yujun Cai, Liuhao Ge, Jianfei Cai, Junsong Yuan_
 
 ##### Joint 3D tracking of a deformable object in interaction with a hand. [\[PDF\]](http://openaccess.thecvf.com/content_ECCV_2018/papers/Aggeliki_Tsoli_Joint_3D_tracking_ECCV_2018_paper.pdf)  [\[Project Page\]](https://www.ics.forth.gr/cvrl/deformable_interaction/)
