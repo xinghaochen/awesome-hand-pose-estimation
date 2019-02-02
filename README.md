@@ -606,6 +606,7 @@ _Ayan Sinha\*, Chiho Choi\*, Karthik Ramani_
 ##### [HANDS 2016](https://labicvl.github.io/hand/Hands2016/), In conjunction with CVPR 2016
 ##### [HANDS 2015](http://www.ics.uci.edu/~jsupanci/HANDS-2015/), In conjunction with CVPR 2015
 <br>
+
 [2] *Workshops on Capturing and modeling human bodies, faces and hands:*
 
 ##### [PeopleCap 2018](https://peoplecap2018.weebly.com/), In conjunction with ECCV 2018
@@ -629,7 +630,7 @@ _Ayan Sinha\*, Chiho Choi\*, Karthik Ramani_
 ##### \[2018 SIGGRAPH\] Online Optical Marker-based Hand Tracking with Deep Labels. [\[PDF\]](https://research.fb.com/wp-content/uploads/2018/06/Online-Optical-Marker-based-Hand-Tracking-with-Deep-Labels.pdf) [\[Code\]](https://github.com/Beibei88/Mocap_SIG18_Data)
 *Shangchen Han, Beibei Liu, Robert Wang, Yuting Ye, Christopher D. Twigg, Kenrick Kin*
 
-##### \[2018 CVPRW\] HandyNet: A One-stop Solution to Detect, Segment, Localize & Analyze Driver Hands. [\[PDF\]](https://arxiv.org/pdf/1804.07834.pdf)
+##### \[2018 CVPRW\] HandyNet: A One-stop Solution to Detect, Segment, Localize & Analyze Driver Hands. [\[PDF\]](https://arxiv.org/pdf/1804.07834.pdf) [\[Code\]](https://github.com/arangesh/HandyNet)
 *Akshay Rangesh, Mohan M. Trivedi*
 
 ##### \[2018 CVPR\] DensePose: Dense Human Pose Estimation In The Wild. [\[PDF\]](https://arxiv.org/pdf/1802.00434.pdf)  [\[Project Page\]](http://densepose.org/) [\[Code\]](https://github.com/facebookresearch/DensePose)
@@ -638,13 +639,13 @@ _Ayan Sinha\*, Chiho Choi\*, Karthik Ramani_
 ##### \[2018 CVPR\] Analysis of Hand Segmentation in the Wild. [\[PDF\]](https://arxiv.org/pdf/1803.03317.pdf) [\[Code\]](https://github.com/aurooj/Hand-Segmentation-in-the-Wild)
 *Aisha Urooj Khan, Ali Borji*
 
-##### \[2018 CVPR\] Total Capture: A 3D Deformation Model for Tracking Faces, Hands, and Bodies. [\[PDF\]](https://arxiv.org/pdf/1801.01615.pdf) [\[Project Page\]](http://www.cs.cmu.edu/~hanbyulj/totalcapture/)
+##### \[2018 CVPR\] Total Capture: A 3D Deformation Model for Tracking Faces, Hands, and Bodies. [\[PDF\]](https://arxiv.org/pdf/1801.01615.pdf) [\[Project Page\]](http://www.cs.cmu.edu/~hanbyulj/totalcapture/) *(CVPR Best Student Paper Award)*
 *Hanbyul Joo, Tomas Simon, Yaser Sheikh*
 
 ##### \[2017 CVPR\] SurfNet: Generating 3D shape surfaces using deep residual networks. [\[PDF\]](https://engineering.purdue.edu/cdesign/wp/wp-content/uploads/2017/03/Sinha_CVPR17.pdf)
 *Ayan Sinha, Asim Unmesh, Qixing Huang, Karthik Ramani*
 
-##### \[2017 CVPR\] Learning from Simulated and Unsupervised Images through Adversarial Training. [\[PDF\]](https://arxiv.org/pdf/1511.06728) [\[Project Page\]](https://machinelearning.apple.com/2017/07/07/GAN.html) [\[Code-Tensorflow\]](https://github.com/carpedm20/simulated-unsupervised-tensorflow) [\[Code-Keras\]](https://github.com/wayaai/SimGAN) [\[Code-Tensorflow-NYU-Hand\]](https://github.com/shinseung428/simGAN_NYU_Hand)
+##### \[2017 CVPR\] Learning from Simulated and Unsupervised Images through Adversarial Training. [\[PDF\]](https://arxiv.org/pdf/1511.06728) [\[Project Page\]](https://machinelearning.apple.com/2017/07/07/GAN.html) [\[Code-Tensorflow\]](https://github.com/carpedm20/simulated-unsupervised-tensorflow) [\[Code-Keras\]](https://github.com/wayaai/SimGAN) [\[Code-Tensorflow-NYU-Hand\]](https://github.com/shinseung428/simGAN_NYU_Hand) *(CVPR Best Paper Award)*
 *Ashish Shrivastava, Tomas Pfister, Oncel Tuzel, Josh Susskind, Wenda Wang, Russ Webb*
 
 ##### \[2016 3DV\] Learning to Navigate the Energy Landscape. [\[PDF\]](http://www.robots.ox.ac.uk/~tvg/publications/2016/LNEL.pdf) [\[Project Page\]](http://graphics.stanford.edu/projects/reloc/)
