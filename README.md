@@ -24,6 +24,9 @@ See folder [``evaluation``](./evaluation) to get more details about performance 
 
 ## arXiv Papers
 
+##### [\[arXiv:1902.03451\]](https://arxiv.org/abs/1902.03451) 3D Hand Shape and Pose from Images in the Wild. [\[PDF\]](https://arxiv.org/pdf/1902.03451.pdf)  [\[Code\]](https://github.com/boukhayma/3dhand)
+_Adnane Boukhayma, Rodrigo de Bem, Philip H.S. Torr_
+
 ##### [\[arXiv:1812.08028\]](https://arxiv.org/abs/1812.08028) Accurate Hand Keypoint Localization on Mobile Devices. [\[PDF\]](https://arxiv.org/pdf/1812.08028.pdf)
 _Filippos Gouidis, Paschalis Panteleris, Iason Oikonomidis, Antonis Argyros_
 
