@@ -153,7 +153,7 @@ _Guijin Wang, Xinghao Chen\*, Hengkai Guo\*, Cairong Zhang_
 
 ## Conference Papers
 
-### 2018 CVPR
+### 2019 CVPR
 
 ##### Monocular Total Capture: Posing Face, Body, and Hands in the Wild. [\[PDF\]](https://arxiv.org/pdf/1812.01598.pdf)
 _Donglai Xiang, Hanbyul Joo, Yaser Sheikh_
