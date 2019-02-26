@@ -24,8 +24,8 @@ See folder [``evaluation``](./evaluation) to get more details about performance 
 
 ## arXiv Papers
 
-##### [\[arXiv:1902.09305\]](https://arxiv.org/abs/1902.09305) End-to-end Hand Mesh Recovery from a Monocular RGB Image. [\[PDF\]](https://arxiv.org/pdf/1902.09305.pdf)
-_Xiong Zhang, Qiang Li, Wenbo Zhang, Wen Zheng_
+##### [\[arXiv:1902.09305\]](https://arxiv.org/abs/1902.09305) End-to-end Hand Mesh Recovery from a Monocular RGB Image. [\[PDF\]](https://arxiv.org/pdf/1902.09305.pdf)  [\[Code\]](https://github.com/MandyMo/HAMR)
+_Xiong Zhang\*, Qiang Li\*, Wenbo Zhang, Wen Zheng_
 
 ##### [\[arXiv:1902.03451\]](https://arxiv.org/abs/1902.03451) 3D Hand Shape and Pose from Images in the Wild. [\[PDF\]](https://arxiv.org/pdf/1902.03451.pdf)  [\[Code\]](https://github.com/boukhayma/3dhand)
 _Adnane Boukhayma, Rodrigo de Bem, Philip H.S. Torr_
