@@ -155,6 +155,9 @@ _Guijin Wang, Xinghao Chen\*, Hengkai Guo\*, Cairong Zhang_
 
 ### 2019 CVPR
 
+##### Pushing the envelope for RGB-based dense 3D hand pose estimation via neural rendering. \[PDF\]
+_Seungryul Baek, Kwang In Kim, Tae-Kyun Kim_
+
 ##### Monocular Total Capture: Posing Face, Body, and Hands in the Wild. [\[PDF\]](https://arxiv.org/pdf/1812.01598.pdf)
 _Donglai Xiang, Hanbyul Joo, Yaser Sheikh_
 
