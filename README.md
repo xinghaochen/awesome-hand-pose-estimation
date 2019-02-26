@@ -7,7 +7,7 @@
    - [TPAMI / IJCV](#tpami--ijcv)
    - [Others](#others)
  - [Conference Papers](#conference-papers)
-   - 2019: [Others](#2019-others)
+   - 2019: [CVPR](#2019-cvpr), [Others](#2019-others)
    - 2018: [CVPR](#2018-cvpr), [ECCV](#2018-eccv), [Others](#2018-others)
    - 2017: [CVPR](#2017-cvpr), [ICCV](#2017-iccv), [Others](#2017-others)
    - 2016: [CVPR](#2016-cvpr), [ECCV](#2016-eccv), [Others](#2016-others)
@@ -24,6 +24,9 @@ See folder [``evaluation``](./evaluation) to get more details about performance 
 
 ## arXiv Papers
 
+##### [\[arXiv:1902.09305\]](https://arxiv.org/abs/1902.09305) End-to-end Hand Mesh Recovery from a Monocular RGB Image. [\[PDF\]](https://arxiv.org/pdf/1902.09305.pdf)
+_Xiong Zhang, Qiang Li, Wenbo Zhang, Wen Zheng_
+
 ##### [\[arXiv:1902.03451\]](https://arxiv.org/abs/1902.03451) 3D Hand Shape and Pose from Images in the Wild. [\[PDF\]](https://arxiv.org/pdf/1902.03451.pdf)  [\[Code\]](https://github.com/boukhayma/3dhand)
 _Adnane Boukhayma, Rodrigo de Bem, Philip H.S. Torr_
 
@@ -32,9 +35,6 @@ _Filippos Gouidis, Paschalis Panteleris, Iason Oikonomidis, Antonis Argyros_
 
 ##### [\[arXiv:1812.02050\]](https://arxiv.org/abs/1812.02050) Point-to-Pose Voting based Hand Pose Estimation using Residual Permutation Equivariant Layer. [\[PDF\]](https://arxiv.org/pdf/1812.02050.pdf)
 _Shile Li, Dongheui Lee_
-
-##### [\[arXiv:1812.01598\]](https://arxiv.org/abs/1812.01598) Monocular Total Capture: Posing Face, Body, and Hands in the Wild. [\[PDF\]](https://arxiv.org/pdf/1812.01598.pdf)
-_Donglai Xiang, Hanbyul Joo, Yaser Sheikh_
 
 ##### [\[arXiv:1812.01002\]](https://arxiv.org/abs/1812.01002) Disentangling Latent Hands for Image Synthesis and Pose Estimation. [\[PDF\]](https://arxiv.org/pdf/1812.01002.pdf)
 _Linlin Yang, Angela Yao_
@@ -152,6 +152,13 @@ _Guijin Wang, Xinghao Chen\*, Hengkai Guo\*, Cairong Zhang_
 [\[back to top\]](#table-of-contents)
 
 ## Conference Papers
+
+### 2018 CVPR
+
+##### Monocular Total Capture: Posing Face, Body, and Hands in the Wild. [\[PDF\]](https://arxiv.org/pdf/1812.01598.pdf)
+_Donglai Xiang, Hanbyul Joo, Yaser Sheikh_
+
+[\[back to top\]](#table-of-contents)
 
 ### 2019 Others
 
