@@ -27,9 +27,6 @@ See folder [``evaluation``](./evaluation) to get more details about performance 
 ##### [\[arXiv:1902.09305\]](https://arxiv.org/abs/1902.09305) End-to-end Hand Mesh Recovery from a Monocular RGB Image. [\[PDF\]](https://arxiv.org/pdf/1902.09305.pdf)  [\[Code\]](https://github.com/MandyMo/HAMR)
 _Xiong Zhang\*, Qiang Li\*, Wenbo Zhang, Wen Zheng_
 
-##### [\[arXiv:1902.03451\]](https://arxiv.org/abs/1902.03451) 3D Hand Shape and Pose from Images in the Wild. [\[PDF\]](https://arxiv.org/pdf/1902.03451.pdf)  [\[Code\]](https://github.com/boukhayma/3dhand)
-_Adnane Boukhayma, Rodrigo de Bem, Philip H.S. Torr_
-
 ##### [\[arXiv:1812.08028\]](https://arxiv.org/abs/1812.08028) Accurate Hand Keypoint Localization on Mobile Devices. [\[PDF\]](https://arxiv.org/pdf/1812.08028.pdf)
 _Filippos Gouidis, Paschalis Panteleris, Iason Oikonomidis, Antonis Argyros_
 
@@ -155,10 +152,13 @@ _Guijin Wang, Xinghao Chen\*, Hengkai Guo\*, Cairong Zhang_
 
 ### 2019 CVPR
 
+##### 3D Hand Shape and Pose from Images in the Wild. [\[PDF\]](https://arxiv.org/pdf/1902.03451.pdf)  [\[Code\]](https://github.com/boukhayma/3dhand)
+_Adnane Boukhayma, Rodrigo de Bem, Philip H.S. Torr_
+
 ##### Pushing the envelope for RGB-based dense 3D hand pose estimation via neural rendering. \[PDF\]
 _Seungryul Baek, Kwang In Kim, Tae-Kyun Kim_
 
-##### Monocular Total Capture: Posing Face, Body, and Hands in the Wild. [\[PDF\]](https://arxiv.org/pdf/1812.01598.pdf)
+##### Monocular Total Capture: Posing Face, Body, and Hands in the Wild. [\[PDF\]](https://arxiv.org/pdf/1812.01598.pdf) [\[Project Page\]](http://domedb.perception.cs.cmu.edu/monototalcapture.html)
 _Donglai Xiang, Hanbyul Joo, Yaser Sheikh_
 
 [\[back to top\]](#table-of-contents)
