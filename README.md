@@ -152,6 +152,9 @@ _Guijin Wang, Xinghao Chen\*, Hengkai Guo\*, Cairong Zhang_
 
 ### 2019 CVPR
 
+##### 3D Hand Shape and Pose Estimation from a Single RGB Image. [\[PDF\]](https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnxnZWxpdWhhb250dXxneDpmMjExOTRkMDJhZTA5OTI) [\[Project Page\]](https://sites.google.com/site/geliuhaontu/home/cvpr2019)  [\[Code\]](https://github.com/geliuhao/3DHandShapePosefromRGB)
+_Liuhao Ge, Zhou Ren, Yuncheng Li, Zehao Xue, Yingying Wang, Jianfei Cai, Junsong Yuan_
+
 ##### 3D Hand Shape and Pose from Images in the Wild. [\[PDF\]](https://arxiv.org/pdf/1902.03451.pdf)  [\[Code\]](https://github.com/boukhayma/3dhand)
 _Adnane Boukhayma, Rodrigo de Bem, Philip H.S. Torr_
 
