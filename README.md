@@ -27,9 +27,6 @@ See folder [``evaluation``](./evaluation) to get more details about performance 
 ##### [\[arXiv:1902.09305\]](https://arxiv.org/abs/1902.09305) End-to-end Hand Mesh Recovery from a Monocular RGB Image. [\[PDF\]](https://arxiv.org/pdf/1902.09305.pdf)  [\[Code\]](https://github.com/MandyMo/HAMR)
 _Xiong Zhang\*, Qiang Li\*, Wenbo Zhang, Wen Zheng_
 
-##### [\[arXiv:1812.08028\]](https://arxiv.org/abs/1812.08028) Accurate Hand Keypoint Localization on Mobile Devices. [\[PDF\]](https://arxiv.org/pdf/1812.08028.pdf)
-_Filippos Gouidis, Paschalis Panteleris, Iason Oikonomidis, Antonis Argyros_
-
 ##### [\[arXiv:1812.02050\]](https://arxiv.org/abs/1812.02050) Point-to-Pose Voting based Hand Pose Estimation using Residual Permutation Equivariant Layer. [\[PDF\]](https://arxiv.org/pdf/1812.02050.pdf)
 _Shile Li, Dongheui Lee_
 
@@ -45,9 +42,6 @@ _Shanxin Yuan, Bjorn Stenger, Tae-Kyun Kim_
 
 ##### [\[arXiv:1811.07123\]](https://arxiv.org/abs/1811.07123) Explicit Pose Deformation Learning for Tracking Human Poses. [\[PDF\]](https://arxiv.org/pdf/1811.07123.pdf)
 _Xiao Sun, Chuankang Li, Stephen Lin_
-
-##### [\[arXiv:1809.06268\]](https://arxiv.org/abs/1809.06268) Vision-based Teleoperation of Shadow Dexterous Hand using End-to-End Deep Neural Network. [\[PDF\]](https://arxiv.org/pdf/1809.06268.pdf) [\[Code\]](https://github.com/Smilels/TeachNet_Teleoperation)
-_Shuang Li\*, Xiaojian Ma\*, Hongzhuo Liang, Michael Görner, Philipp Ruppel, Bing Fang, Fuchun Sun, Jianwei Zhang_
 
 ##### [\[arXiv:1807.00898\]](https://arxiv.org/abs/1807.00898) Model-based Hand Pose Estimation for Generalized Hand Shape with Appearance Normalization. [\[PDF\]](https://arxiv.org/pdf/1807.00898.pdf)
 _Jan Wöhlke, Shile Li, Dongheui Lee_
@@ -152,7 +146,7 @@ _Guijin Wang, Xinghao Chen\*, Hengkai Guo\*, Cairong Zhang_
 
 ### 2019 CVPR
 
-##### 3D Hand Shape and Pose Estimation from a Single RGB Image. [\[PDF\]](https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnxnZWxpdWhhb250dXxneDo3ZjE0ZjY3OWUzYjJkYjA2) [\[Project Page\]](https://sites.google.com/site/geliuhaontu/home/cvpr2019)  [\[Code\]](https://github.com/geliuhao/3DHandShapePosefromRGB)
+##### 3D Hand Shape and Pose Estimation from a Single RGB Image. [\[PDF\]](https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnxnZWxpdWhhb250dXxneDo3ZjE0ZjY3OWUzYjJkYjA2) [\[Project Page\]](https://sites.google.com/site/geliuhaontu/home/cvpr2019)  [\[Code\]](https://github.com/geliuhao/3DHandShapePosefromRGB) *(Oral)*
 _Liuhao Ge, Zhou Ren, Yuncheng Li, Zehao Xue, Yingying Wang, Jianfei Cai, Junsong Yuan_
 
 ##### 3D Hand Shape and Pose from Images in the Wild. [\[PDF\]](https://arxiv.org/pdf/1902.03451.pdf)  [\[Code\]](https://github.com/boukhayma/3dhand)
@@ -167,6 +161,9 @@ _Donglai Xiang, Hanbyul Joo, Yaser Sheikh_
 [\[back to top\]](#table-of-contents)
 
 ### 2019 Others
+
+##### [2019 ICRA] Vision-based Teleoperation of Shadow Dexterous Hand using End-to-End Deep Neural Network. [\[PDF\]](https://arxiv.org/pdf/1809.06268.pdf) [\[Code\]](https://github.com/TAMS-Group/TeachNet_Teleoperation)
+_Shuang Li\*, Xiaojian Ma\*, Hongzhuo Liang, Michael Görner, Philipp Ruppel, Bing Fang, Fuchun Sun, Jianwei Zhang_
 
 ##### [2019 WACV] MURAUER: Mapping Unlabeled Real Data for Label AUstERity. [\[PDF\]](https://poier.github.io/murauer/documents/poier2019wacv_selfpublishing.pdf) [\[Project Page\]](https://poier.github.io/murauer/) [\[Code\]](https://github.com/poier/murauer)
 _Georg Poier, Michael Opitz, David Schinagl and Horst Bischof_
