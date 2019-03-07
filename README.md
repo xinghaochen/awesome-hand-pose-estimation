@@ -155,7 +155,7 @@ _Adnane Boukhayma, Rodrigo de Bem, Philip H.S. Torr_
 ##### Pushing the envelope for RGB-based dense 3D hand pose estimation via neural rendering. \[PDF\]
 _Seungryul Baek, Kwang In Kim, Tae-Kyun Kim_
 
-##### Monocular Total Capture: Posing Face, Body, and Hands in the Wild. [\[PDF\]](https://arxiv.org/pdf/1812.01598.pdf) [\[Project Page\]](http://domedb.perception.cs.cmu.edu/monototalcapture.html)
+##### Monocular Total Capture: Posing Face, Body, and Hands in the Wild. [\[PDF\]](https://arxiv.org/pdf/1812.01598.pdf) [\[Project Page\]](http://domedb.perception.cs.cmu.edu/monototalcapture.html) *(Oral)*
 _Donglai Xiang, Hanbyul Joo, Yaser Sheikh_
 
 [\[back to top\]](#table-of-contents)
