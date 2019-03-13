@@ -146,6 +146,9 @@ _Guijin Wang, Xinghao Chen\*, Hengkai Guo\*, Cairong Zhang_
 
 ### 2019 CVPR
 
+##### Learning joint reconstruction of hands and manipulated objects. \[PDF\]
+_Yana Hasson, Gül Varol, Dimitris Tzionas, Igor Kalevatykh, Michael J. Black, Ivan Laptev, and Cordelia Schmid_
+
 ##### 3D Hand Shape and Pose Estimation from a Single RGB Image. [\[PDF\]](https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnxnZWxpdWhhb250dXxneDo3ZjE0ZjY3OWUzYjJkYjA2) [\[Project Page\]](https://sites.google.com/site/geliuhaontu/home/cvpr2019)  [\[Code\]](https://github.com/geliuhao/3DHandShapePosefromRGB) *(Oral)*
 _Liuhao Ge, Zhou Ren, Yuncheng Li, Zehao Xue, Yingying Wang, Jianfei Cai, Junsong Yuan_
 
