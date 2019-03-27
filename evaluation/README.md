@@ -47,6 +47,7 @@ There are two types of evaluation metrics that are widely used for hand pose est
 - HandPointNet \[15\]: CVPR'18, [Predicted labels](https://drive.google.com/file/d/1hYsgLvpuKpWpBkVzrIdCetJPWzGCtooB/view)
 - Point-to-Point \[16\]: ECCV'18, [Predicted labels](https://drive.google.com/file/d/1hvAf7iee7bysDi26639qP9LfvucXBcTM/view)
 - MURAUER \[17\]: WACV'19, [Predicted labels](https://github.com/poier/murauer/blob/master/results/joint_pos_murauer_n72757_wacv_uvd.txt)
+- Generalized-Feedback \[18\]: TPAMI'19, [Predicted labels](https://www.tugraz.at/fileadmin/user_upload/Institute/ICG/Downloads/team_lepetit/3d_hand_pose/PAMI19_NYU_FB.txt)
 
 ### MSRA
 - REN-9x6x6 \[7\]: JVCI'18, [Predicted labels](https://github.com/guohengkai/region-ensemble-network/blob/master/results/msra_ren_9x6x6.txt)
@@ -109,6 +110,7 @@ sh evaluate_{dataset}.sh
 |  REN-9x6x6 [7] | 12.694  |
 |  DeepPrior++ [9] |12.238 |
 |  Pose-REN [8] | 11.811  |
+|  Generalized-Feedback [18] | 10.894 |
 |  SHPR-Net [14] | 10.775 |
 |  HandPointNet [15] | 10.540  |
 |  DenseReg [10] | 10.214 |
@@ -172,5 +174,6 @@ sh evaluate_{dataset}.sh
 - \[15\] [Hand PointNet: 3D Hand Pose Estimation using Point Sets](http://openaccess.thecvf.com/content_cvpr_2018/papers/Ge_Hand_PointNet_3D_CVPR_2018_paper.pdf), Liuhao Ge, Yujun Cai, Junwu Weng, Junsong Yuan, Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**) 2018.
 - \[16\] [Point-to-Point Regression PointNet for 3D Hand Pose Estimation](http://openaccess.thecvf.com/content_ECCV_2018/papers/Liuhao_Ge_Point-to-Point_Regression_PointNet_ECCV_2018_paper.pdf), Liuhao Ge, Zhou Ren, Junsong Yuan, European Conference on Computer Vision (**ECCV**) 2018.
 - \[17\] [MURAUER: Mapping Unlabeled Real Data for Label AUstERity](https://arxiv.org/pdf/1811.09497.pdf), Georg Poier, Michael Opitz, David Schinagl and Horst Bischof, Proceedings IEEE Winter Conference on Applications of Computer Vision (**WACV**) 2019.
+- \[18\] [Generalized Feedback Loop for Joint Hand-Object Pose Estimation](https://arxiv.org/pdf/1903.10883), Markus Oberweger, Paul Wohlhart, Vincent Lepetit, IEEE Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**) 2019.
 
 [\[back to top\]](#evaluations-on-hand-pose-estimation)
