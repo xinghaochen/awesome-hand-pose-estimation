@@ -1,6 +1,8 @@
-# Awesome Work on Hand Pose Estimation
+# Awesome Hand Pose Estimation [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
-## Table of Contents
+A curated list of related resources for hand pose estimation. Feel free to [contribute](#Contribute)!
+
+## Contents
  - [Evaluation](#evaluation)
  - [arXiv Papers](#arxiv-papers)
  - [Journal Papers](#journal-papers)
@@ -18,6 +20,8 @@
  - [Workshops](#workshops)
  - [Challenges](#challenges)
  - [Other Related Papers](#other-related-papers)
+
+\* indicates equal contribution
 
 ## Evaluation
 See folder [``evaluation``](./evaluation) to get more details about performance evaluation for hand pose estimation.
@@ -55,7 +59,7 @@ _Xiaoming Deng\*, Shuo Yang\*, Yinda Zhang\*, Ping Tan, Liang Chang, Hongan Wang
 ##### [\[arXiv:1612.00596\]](https://arxiv.org/abs/1612.00596) Learning to Search on Manifolds for 3D Pose Estimation of Articulated Objects. [\[PDF\]](https://arxiv.org/pdf/1612.00596.pdf)
 *Yu Zhang, Chi Xu, Li Cheng*
 
-[\[back to top\]](#table-of-contents)
+[\[back to top\]](#contents)
 
 ## Journal Papers
 
@@ -88,7 +92,7 @@ _Liuhao Ge, Hui Liang, Junsong Yuan and Daniel Thalmann_
 ##### \[2015 IJCV\] Estimate Hand Poses Efficiently from Single Depth Images. [\[PDF\]](https://web.bii.a-star.edu.sg/~xuchi/pdf/XuEtAl_IJCV15.pdf) [\[Project\]](http://web.bii.a-star.edu.sg/~xuchi/dhand.htm)  [\[Code\]](https://github.com/lzddzh/HandPoseEstimation)
 *Chi Xu, Ashwin Nanjappa, Xiaowei Zhang, Li Cheng*
 
-[\[back to top\]](#table-of-contents)
+[\[back to top\]](#contents)
 
 ### Others
 
@@ -143,7 +147,7 @@ _Guijin Wang, Xinghao Chen\*, Hengkai Guo\*, Cairong Zhang_
 ##### \[2014 TMM\] Parsing the Hand in Depth Images. [\[PDF\]](https://ieeexplore.ieee.org/document/6740010) [\[Project\]](https://sites.google.com/site/seraphlh/projects)  [\[Code\]](https://github.com/shrekei/RandomDecisionForest)
 *Hui Liang, Junsong Yuan, Daniel Thalmann*
 
-[\[back to top\]](#table-of-contents)
+[\[back to top\]](#contents)
 
 ## Conference Papers
 
@@ -167,7 +171,7 @@ _Seungryul Baek, Kwang In Kim, Tae-Kyun Kim_
 ##### Monocular Total Capture: Posing Face, Body, and Hands in the Wild. [\[PDF\]](https://arxiv.org/pdf/1812.01598.pdf) [\[Project\]](http://domedb.perception.cs.cmu.edu/monototalcapture.html) *(Oral)*
 _Donglai Xiang, Hanbyul Joo, Yaser Sheikh_
 
-[\[back to top\]](#table-of-contents)
+[\[back to top\]](#contents)
 
 ### 2019 Others
 
@@ -177,7 +181,7 @@ _Shuang Li\*, Xiaojian Ma\*, Hongzhuo Liang, Michael Görner, Philipp Ruppel, Bi
 ##### [2019 WACV] MURAUER: Mapping Unlabeled Real Data for Label AUstERity. [\[PDF\]](https://poier.github.io/murauer/documents/poier2019wacv_selfpublishing.pdf) [\[Project\]](https://poier.github.io/murauer/) [\[Code\]](https://github.com/poier/murauer)
 _Georg Poier, Michael Opitz, David Schinagl and Horst Bischof_
 
-[\[back to top\]](#table-of-contents)
+[\[back to top\]](#contents)
 
 ### 2018 ECCV
 
@@ -211,7 +215,7 @@ _Le Duan, Minmin Shen, Song Cui, Zhexiao Guo, Oliver Deussen_
 ##### [Hands18 Workshop] Task-Oriented Hand Motion Retargeting for Dexterous Manipulation Imitation. [\[PDF\]](https://arxiv.org/pdf/1810.01845.pdf) [\[Project\]](https://daphneantotsiou.github.io/task-oriented-retargeting.html)
 _Dafni Antotsiou, Guillermo Garcia-Hernando, Tae-Kyun Kim_
 
-[\[back to top\]](#table-of-contents)
+[\[back to top\]](#contents)
 
 ### 2018 CVPR
 
@@ -250,7 +254,7 @@ _Seungryul Baek, Kwang In Kim, Tae-Kyun Kim_
 ##### [\[3D HUMANS Workshop\]](https://project.inria.fr/humans2018/) Monocular RGB Hand Pose Inference From Unsupervised Refinable Nets. [\[PDF\]](http://openaccess.thecvf.com/CVPR2018_workshops/content_CVPR_2018/papers/w17/Dibra_Monocular_RGB_Hand_CVPR_2018_paper.pdf)
 _Endri Dibra, Silvan Melchior, Ali Balkis, Thomas Wolf, Cengiz Oztireli, Markus Gross_
 
-[\[back to top\]](#table-of-contents)
+[\[back to top\]](#contents)
 
 ### 2018 Others
 
@@ -299,7 +303,7 @@ _Yushun Lin, Xiujuan Chai, Xilin Chen_
 ##### [2018 WACV] Using a single RGB frame for real time 3D hand pose estimation in the wild. [\[PDF\]](https://arxiv.org/pdf/1712.03866.pdf)  [\[Project\]](http://users.ics.forth.gr/~argyros/res_rgbmonohand.html)
 _Paschalis Panteleris, Iason Oikonomidis, Antonis Argyros_
 
-[\[back to top\]](#table-of-contents)
+[\[back to top\]](#contents)
 
 ### 2017 ICCV
 ##### Learning to Estimate 3D Hand Pose from Single RGB Images. [\[PDF\]](https://arxiv.org/pdf/1705.01389.pdf)  [\[Project\]](https://lmb.informatik.uni-freiburg.de/projects/hand3d/)   [\[Code\]](https://github.com/lmb-freiburg/hand3d)
@@ -326,7 +330,7 @@ _Paschalis Panteleris, Antonis Argyros_
 ##### [Hands17 Workshop] Hand Pose Estimation Using Deep Stereovision and Markov-chain Monte Carlo. [\[PDF\]](http://openaccess.city.ac.uk/18087/1/BasaruICCVW2017_MCMC.pdf)
 *Rilwan Remilekun Basaru, Chris Child, Eduardo Alonso, Greg Slabaugh*
 
-[\[back to top\]](#table-of-contents)
+[\[back to top\]](#contents)
 
 ### 2017 CVPR
 ##### Hand Keypoint Detection in Single Images using Multiview Bootstrapping. [\[PDF\]](https://arxiv.org/pdf/1704.07809) [\[Project\]](http://www.cs.cmu.edu/~tsimon/projects/mvbs.html) [\[Code\]](https://github.com/CMU-Perceptual-Computing-Lab/openpose)
@@ -341,7 +345,7 @@ _Shanxin Yuan\*, Qi Ye\*, Bjorn Stenger, Siddhand Jain, Tae-Kyun Kim_
 ##### 3D Convolutional Neural Networks for Efficient and Robust Hand Pose Estimation from Single Depth Images. [\[PDF\]](http://openaccess.thecvf.com/content_cvpr_2017/papers/Ge_3D_Convolutional_Neural_CVPR_2017_paper.pdf) [\[Project\]](https://sites.google.com/site/geliuhaontu/home/cvpr2017)
 *Liuhao Ge, Hui Liang, Junsong Yuan and Daniel Thalmann*
 
-[\[back to top\]](#table-of-contents)
+[\[back to top\]](#contents)
 
 ### 2017 Others
 
@@ -381,7 +385,7 @@ _Javier Romero\*, Dimitrios Tzionas\* and Michael J. Black_
 ##### [2017 FG] 3D Hand-Object Pose Estimation from Depth with Convolutional Neural Networks. [\[PDF\]](http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7961770) [\[Project\]](http://www.cs.man.ac.uk/~goudied/research.html)
 *Duncan Goudie, Aphrodite Galata*
 
-[\[back to top\]](#table-of-contents)
+[\[back to top\]](#contents)
 
 ### 2016 ECCV
 ##### Spatial Attention Deep Net with Partial PSO for Hierarchical Hybrid Hand Pose Estimation. [\[PDF\]](https://labicvl.github.io/docs/pubs/Qi_Shanxin_ECCV_2016.pdf) [\[Project\]](https://sites.google.com/site/qiyeincv/home/eccv2016)
@@ -393,7 +397,7 @@ _Qi Ye\*, Shanxin Yuan\*, Tae-Kyun Kim_
 ##### Real-time Joint Tracking of a Hand Manipulating an Object from RGB-D Input. [\[PDF\]](http://handtracker.mpi-inf.mpg.de/projects/RealtimeHO/content/RealtimeHO_ECCV2016.pdf) [\[Project\]](http://handtracker.mpi-inf.mpg.de/projects/RealtimeHO/)
 *Srinath Sridhar, Franziska Mueller, Michael Zollhöfer, Dan Casas, Antti Oulasvirta, Christian Theobalt*
 
-[\[back to top\]](#table-of-contents)
+[\[back to top\]](#contents)
 
 ### 2016 CVPR
 ##### Robust 3D Hand Pose Estimation in Single Depth Images: From Single-View CNN to Multi-View CNNs. [\[PDF\]](http://openaccess.thecvf.com/content_cvpr_2016/papers/Ge_Robust_3D_Hand_CVPR_2016_paper.pdf) [\[Project\]](https://sites.google.com/site/geliuhaontu/home/cvpr2016) [\[Code\]](https://github.com/geliuhao/CVPR2016_HandPoseEstimation)
@@ -408,7 +412,7 @@ _Ayan Sinha\*, Chiho Choi\*, Karthik Ramani_
 ##### Fits Like a Glove: Rapid and Reliable Hand Shape Personalization.  [\[PDF\]](http://www.samehkhamis.com/tan-cvpr2016.pdf) [\[Project\]](http://campar.in.tum.de/Main/DavidTan)
 *David Joseph Tan, Thomas Cashman, Jonathan Taylor, Andrew Fitzgibbon, Daniel Tarlow, Sameh Khamis, Shahram Izadi, Jamie Shotton*
 
-[\[back to top\]](#table-of-contents)
+[\[back to top\]](#contents)
 
 ### 2016 Others
 
@@ -433,7 +437,7 @@ _Ayan Sinha\*, Chiho Choi\*, Karthik Ramani_
 ##### \[2016 SIGGRAPH Asia\] Sphere-Meshes for Real-Time Hand Modeling and Tracking. [\[PDF\]](http://lgg.epfl.ch/publications/2016/HModel/paper.pdf)  [\[Project\]](http://lgg.epfl.ch/publications/2016/HModel/index.php) [\[Code\]](https://github.com/OpenGP/hmodel)
 *Anastasia Tkach, Mark Pauly, Andrea Tagliasacchi*
 
-[\[back to top\]](#table-of-contents)
+[\[back to top\]](#contents)
 
 ### 2015 ICCV
 ##### Training a Feedback Loop for Hand Pose Estimation. [\[PDF\]](https://cvarlab.icg.tugraz.at/pubs/oberweger_iccv15.pdf) [\[Project\]](https://cvarlab.icg.tugraz.at/projects/hand_detection/)
@@ -457,7 +461,7 @@ _Ayan Sinha\*, Chiho Choi\*, Karthik Ramani_
 ##### Understanding Everyday Hands in Action from RGB-D Images. [\[PDF\]](https://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Rogez_Understanding_Everyday_Hands_ICCV_2015_paper.pdf)
 *Gregory Rogez, James Supancic III, Deva Ramanan*
 
-[\[back to top\]](#table-of-contents)
+[\[back to top\]](#contents)
 
 ### 2015 CVPR
 ##### Cascaded Hand Pose Regression.  [\[PDF\]](http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Sun_Cascaded_Hand_Pose_2015_CVPR_paper.pdf)
@@ -469,7 +473,7 @@ _Ayan Sinha\*, Chiho Choi\*, Karthik Ramani_
 ##### Learning an Efficient Model of Hand Shape Variation from Depth Images. [\[PDF\]](http://www.samehkhamis.com/khamis-cvpr2015.pdf)
 *Sameh Khamis, Jonathan Taylor, Jamie Shotton, Cem Keskin, Shahram Izadi, Andrew Fitzgibbon*
 
-[\[back to top\]](#table-of-contents)
+[\[back to top\]](#contents)
 
 ### 2015 Others
 
@@ -491,7 +495,7 @@ _Ayan Sinha\*, Chiho Choi\*, Karthik Ramani_
 ##### \[2015 SGP\] Robust Articulated-ICP for Real-Time Hand Tracking. [\[PDF\]](http://gfx.uvic.ca/pubs/2015/htrack//paper.pdf)  [\[Project\]](http://lgg.epfl.ch/publications/2015/Htrack_ICP/index.php) [\[Code\]](https://github.com/OpenGP/htrack)
 *Anastasia Tkach, Mark Pauly, Andrea Tagliasacchi*
 
-[\[back to top\]](#table-of-contents)
+[\[back to top\]](#contents)
 
 ### 2014 CVPR
 ##### Realtime and robust hand tracking from depth. [\[PDF\]](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/yichenw-cvpr14_handtracking.pdf) [\[Project\]](https://www.microsoft.com/en-us/research/people/yichenw/)
@@ -506,7 +510,7 @@ _Ayan Sinha\*, Chiho Choi\*, Karthik Ramani_
 ##### Evolutionary Quasi-random Search for Hand Articulations Tracking. [\[PDF\]](https://www.cv-foundation.org/openaccess/content_cvpr_2014/papers/Oikonomidis_Evolutionary_Quasi-random_Search_2014_CVPR_paper.pdf) [\[Project\]](http://users.ics.forth.gr/~oikonom/pb/publications)
 *Iason Oikonomidis, Manolis IA Lourakis, Antonis A Argyros*
 
-[\[back to top\]](#table-of-contents)
+[\[back to top\]](#contents)
 
 ### 2014 Others & Before
 ##### \[2014 SIGGRAPH\] Real-Time Continuous Pose Recovery of Human Hands Using Convolutional Networks. [\[PDF\]](http://cims.nyu.edu/~tompson/others/TOG_2014_paper_PREPRINT.pdf) [\[Project\]](http://cims.nyu.edu/~tompson/NYU_Hand_Pose_Dataset.htm)
@@ -533,7 +537,7 @@ _Ayan Sinha\*, Chiho Choi\*, Karthik Ramani_
 ##### \[2011 BMVC\] Efficient Model-based 3D Tracking of Hand Articulations using Kinect. [\[PDF\]](http://www.cp.jku.at/teaching/praktika/imageproc/bodyparts_Algorithmus1.pdf) [\[Project\]](http://users.ics.forth.gr/~argyros/research/kinecthandtracking.htm) [\[Code\]](https://github.com/FORTH-ModelBasedTracker/HandTracker)
 *Iason Oikonomidis, Nikolaos Kyriazis, Antonis A. Argyros*
 
-[\[back to top\]](#table-of-contents)
+[\[back to top\]](#contents)
 
 ## Theses
 
@@ -573,7 +577,7 @@ _Ayan Sinha\*, Chiho Choi\*, Karthik Ramani_
 ##### \[2015\] Localization of Humans in Images Using Convolutional Networks. [\[PDF\]](http://www.cims.nyu.edu/~tompson/others/thesis.pdf)
 *[Jonathan Tompson](http://cims.nyu.edu/~tompson/), New York University*
 
-[\[back to top\]](#table-of-contents)
+[\[back to top\]](#contents)
 
 ## Datasets
 
@@ -613,7 +617,7 @@ _Ayan Sinha\*, Chiho Choi\*, Karthik Ramani_
 - [3] Capturing Hand-Object Interaction and Reconstruction of Manipulated Objects, IJCV 2016 [\[PDF\]](http://ps.is.tue.mpg.de/uploads_file/attachment/attachment/340/Thesis_FINAL_online.pdf)
 - [4] [MPI Hand Tracking Central](http://handtracker.mpi-inf.mpg.de/)
 
-[\[back to top\]](#table-of-contents)
+[\[back to top\]](#contents)
 
 ## Workshops
 
@@ -634,7 +638,7 @@ _Ayan Sinha\*, Chiho Choi\*, Karthik Ramani_
 ##### [PeopleCap 2018](https://peoplecap2018.weebly.com/), In conjunction with ECCV 2018
 ##### [PeopleCap 2017](http://peoplecap.weebly.com/), In conjunction with ICCV 2017
 
-[\[back to top\]](#table-of-contents)
+[\[back to top\]](#contents)
 
 ## Challenges
 
@@ -645,7 +649,7 @@ _Ayan Sinha\*, Chiho Choi\*, Karthik Ramani_
     - [The 2017 Hands in the Million Challenge on 3D Hand Pose Estimation](https://arxiv.org/pdf/1707.02237.pdf), arXiv 2017
     - [Depth-Based 3D Hand Pose Estimation: From Current Achievements to Future Goals.](https://arxiv.org/pdf/1712.03917.pdf), CVPR 2018
 
-[\[back to top\]](#table-of-contents)
+[\[back to top\]](#contents)
 
 ## Other Related Papers
 
@@ -676,7 +680,18 @@ _Ayan Sinha\*, Chiho Choi\*, Karthik Ramani_
 ##### [2015 ICCV] 3D Object Reconstruction from Hand-Object Interactions. [\[PDF\]](http://files.is.tue.mpg.de/dtzionas/In-Hand-Scanning/ICCV15_Reconstruction_from_HandObject_Interactions.pdf) [\[Project\]](http://ps.is.tue.mpg.de/publications/-886ddd69-ebde-4f83-8b77-9c41f8af1065)
 *Dimitrios Tzionas and Juergen Gall*
 
-[\[back to top\]](#table-of-contents)
+[\[back to top\]](#contents)
 
----
-\* indicates equal contribution
+## Contribute
+
+Contributions welcome! Read the [contribution guidelines](contributing.md) first.
+
+Please feel free to [pull requests](https://github.com/xinghaochen/awesome-hand-pose-estimation/pulls), [open an issue](https://github.com/xinghaochen/awesome-hand-pose-estimation/issues) or send me email (chenxinghaothu@gmail.com) to add awesome papers.
+
+
+## License
+
+[![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0)
+
+To the extent possible under law, [xinghaochen](https://github.com/xinghaochen) has waived all copyright and
+related or neighboring rights to this work.
