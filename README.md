@@ -156,7 +156,7 @@ _Guijin Wang, Xinghao Chen\*, Hengkai Guo\*, Cairong Zhang_
 ##### Expressive Body Capture: 3D Hands, Face, and Body from a Single Image. \[PDF\] [\[Project\]](https://ps.is.tuebingen.mpg.de/publications/smplex-2019)
 _Georgios Pavlakos, Vasileios Choutas, Nima Ghorbani, Timo Bolkart, Ahmed A. A. Osman, Dimitrios Tzionas, Michael J. Black_
 
-##### Learning joint reconstruction of hands and manipulated objects. \[PDF\] [\[Code\]](https://github.com/hassony2/manopth)  [\[Project\]](https://ps.is.tuebingen.mpg.de/publications/hasson-cvpr-2019)
+##### Learning joint reconstruction of hands and manipulated objects. [\[PDF\]](https://ps.is.tuebingen.mpg.de/uploads_file/attachment/attachment/499/obman.pdf) [\[Code\]](https://github.com/hassony2/manopth)  [\[Project\]](https://ps.is.tuebingen.mpg.de/publications/hasson-cvpr-2019)
 _Yana Hasson, Gül Varol, Dimitris Tzionas, Igor Kalevatykh, Michael J. Black, Ivan Laptev, and Cordelia Schmid_
 
 ##### 3D Hand Shape and Pose Estimation from a Single RGB Image. [\[PDF\]](https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnxnZWxpdWhhb250dXxneDo3ZjE0ZjY3OWUzYjJkYjA2) [\[Project\]](https://sites.google.com/site/geliuhaontu/home/cvpr2019) [\[Code\]](https://github.com/geliuhao/3DHandShapePosefromRGB) *(Oral)*
