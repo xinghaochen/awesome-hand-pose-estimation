@@ -153,10 +153,13 @@ _Guijin Wang, Xinghao Chen\*, Hengkai Guo\*, Cairong Zhang_
 
 ### 2019 CVPR
 
+##### CrossInfoNet: Multi-Task Information Sharing Based Hand Pose Estimation. \[PDF\] [\[Code\]](https://github.com/dumyy/handpose)
+_TBA_
+
 ##### Expressive Body Capture: 3D Hands, Face, and Body from a Single Image. \[PDF\] [\[Project\]](https://ps.is.tuebingen.mpg.de/publications/smplex-2019)
 _Georgios Pavlakos, Vasileios Choutas, Nima Ghorbani, Timo Bolkart, Ahmed A. A. Osman, Dimitrios Tzionas, Michael J. Black_
 
-##### Learning joint reconstruction of hands and manipulated objects. [\[PDF\]](https://ps.is.tuebingen.mpg.de/uploads_file/attachment/attachment/499/obman.pdf) [\[Code\]](https://github.com/hassony2/manopth)  [\[Project\]](https://ps.is.tuebingen.mpg.de/publications/hasson-cvpr-2019)
+##### Learning joint reconstruction of hands and manipulated objects. [\[PDF\]](https://ps.is.tuebingen.mpg.de/uploads_file/attachment/attachment/499/obman.pdf) [\[Code\]](https://github.com/hassony2/manopth)  [\[Project\]](https://www.di.ens.fr/willow/research/obman/)
 _Yana Hasson, Gül Varol, Dimitris Tzionas, Igor Kalevatykh, Michael J. Black, Ivan Laptev, and Cordelia Schmid_
 
 ##### 3D Hand Shape and Pose Estimation from a Single RGB Image. [\[PDF\]](https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnxnZWxpdWhhb250dXxneDo3ZjE0ZjY3OWUzYjJkYjA2) [\[Project\]](https://sites.google.com/site/geliuhaontu/home/cvpr2019) [\[Code\]](https://github.com/geliuhao/3DHandShapePosefromRGB) *(Oral)*
@@ -165,7 +168,7 @@ _Liuhao Ge, Zhou Ren, Yuncheng Li, Zehao Xue, Yingying Wang, Jianfei Cai, Junson
 ##### 3D Hand Shape and Pose from Images in the Wild. [\[PDF\]](https://arxiv.org/pdf/1902.03451.pdf)  [\[Code\]](https://github.com/boukhayma/3dhand) *(Oral)*
 _Adnane Boukhayma, Rodrigo de Bem, Philip H.S. Torr_
 
-##### Pushing the envelope for RGB-based dense 3D hand pose estimation via neural rendering. \[PDF\]
+##### Pushing the Envelope for RGB-based Dense 3D Hand Pose Estimation via Neural Rendering. [\[PDF\]](https://arxiv.org/pdf/1904.04196)
 _Seungryul Baek, Kwang In Kim, Tae-Kyun Kim_
 
 ##### Monocular Total Capture: Posing Face, Body, and Hands in the Wild. [\[PDF\]](https://arxiv.org/pdf/1812.01598.pdf) [\[Project\]](http://domedb.perception.cs.cmu.edu/monototalcapture.html) *(Oral)*
