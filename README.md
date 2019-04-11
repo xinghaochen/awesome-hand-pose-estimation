@@ -153,6 +153,9 @@ _Guijin Wang, Xinghao Chen\*, Hengkai Guo\*, Cairong Zhang_
 
 ### 2019 CVPR
 
+##### H+O: Unified Egocentric Recognition of 3D Hand-Object Poses and Interactions. [\[PDF\]](https://arxiv.org/pdf/1904.05349)  *(Oral)*
+_Bugra Tekin, Federica Bogo, Marc Pollefeys_
+
 ##### CrossInfoNet: Multi-Task Information Sharing Based Hand Pose Estimation. \[PDF\] [\[Code\]](https://github.com/dumyy/handpose)
 _TBA_
 
