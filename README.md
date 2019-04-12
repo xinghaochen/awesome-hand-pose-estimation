@@ -160,7 +160,7 @@ _Bugra Tekin, Federica Bogo, Marc Pollefeys_
 _TBA_
 
 ##### Expressive Body Capture: 3D Hands, Face, and Body from a Single Image.  [\[PDF\]](https://arxiv.org/pdf/1904.05866)  [\[Project\]](https://smpl-x.is.tue.mpg.de/)
-_Georgios Pavlakos, Vasileios Choutas, Nima Ghorbani, Timo Bolkart, Ahmed A. A. Osman, Dimitrios Tzionas, Michael J. Black_
+_Georgios Pavlakos\*, Vasileios Choutas\*, Nima Ghorbani, Timo Bolkart, Ahmed A. A. Osman, Dimitrios Tzionas, Michael J. Black_
 
 ##### Learning joint reconstruction of hands and manipulated objects. [\[PDF\]](https://ps.is.tuebingen.mpg.de/uploads_file/attachment/attachment/499/obman.pdf) [\[Code\]](https://github.com/hassony2/manopth)  [\[Project\]](https://www.di.ens.fr/willow/research/obman/)
 _Yana Hasson, Gül Varol, Dimitris Tzionas, Igor Kalevatykh, Michael J. Black, Ivan Laptev, and Cordelia Schmid_

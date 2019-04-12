@@ -19,3 +19,4 @@ python src/compute_error.py nyu max-frame\
 	Point-to-Point	results/nyu/ECCV18_NYU_Point-to-Point.txt\
 	MURAUER	results/nyu/WACV19_NYU_murauer_n72757_uvd.txt\
 	Generalized-Feedback	results/nyu/TPAMI19_NYU_Generalized_Feedback.txt\
+	CrossInfoNet	results/nyu/CVPR19_NYU_CrossInfoNet.txt\
