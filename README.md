@@ -34,13 +34,6 @@ _Yikang Li, Chris Twigg, Yuting Ye, Lingling Tao, Xiaogang Wang_
 ##### [\[arXiv:1902.09305\]](https://arxiv.org/abs/1902.09305) End-to-end Hand Mesh Recovery from a Monocular RGB Image. [\[PDF\]](https://arxiv.org/pdf/1902.09305.pdf)  [\[Code\]](https://github.com/MandyMo/HAMR)
 _Xiong Zhang\*, Qiang Li\*, Wenbo Zhang, Wen Zheng_
 
-##### [\[arXiv:1812.02050\]](https://arxiv.org/abs/1812.02050) Point-to-Pose Voting based Hand Pose Estimation using Residual Permutation Equivariant Layer. [\[PDF\]](https://arxiv.org/pdf/1812.02050.pdf)
-_Shile Li, Dongheui Lee_
-
-##### [\[arXiv:1812.01002\]](https://arxiv.org/abs/1812.01002) Disentangling Latent Hands for Image Synthesis and Pose Estimation. [\[PDF\]](https://arxiv.org/pdf/1812.01002.pdf)
-_Linlin Yang, Angela Yao_
-
-
 ##### [\[arXiv:1811.09916\]](https://arxiv.org/abs/1811.09916) Generating Realistic Training Images Based on Tonality-Alignment Generative Adversarial Networks for Hand Pose Estimation. [\[PDF\]](https://arxiv.org/pdf/1811.09916.pdf)
 _Liangjian Chen, Shih-Yao Lin, Yusheng Xie, Hui Tang, Yufan Xue, Xiaohui Xie, Yen-Yu Lin, Wei Fan_
 
@@ -156,13 +149,22 @@ _Guijin Wang, Xinghao Chen\*, Hengkai Guo\*, Cairong Zhang_
 
 ### 2019 CVPR
 
+##### Disentangling Latent Hands for Image Synthesis and Pose Estimation. [\[PDF\]](https://arxiv.org/pdf/1812.01002.pdf)
+_Linlin Yang, Angela Yao_
+
+##### Point-to-Pose Voting based Hand Pose Estimation using Residual Permutation Equivariant Layer. [\[PDF\]](https://arxiv.org/pdf/1812.02050.pdf)
+_Shile Li, Dongheui Lee_
+
 ##### H+O: Unified Egocentric Recognition of 3D Hand-Object Poses and Interactions. [\[PDF\]](https://arxiv.org/pdf/1904.05349)  *(Oral)*
 _Bugra Tekin, Federica Bogo, Marc Pollefeys_
 
-##### CrossInfoNet: Multi-Task Information Sharing Based Hand Pose Estimation. \[PDF\] [\[Code\]](https://github.com/dumyy/handpose)
-_TBA_
+##### Self supervised 3D hand pose estimation. \[PDF\] *(Oral)*
+_Chengde Wan, Thomas Probst, Luc Van Gool, Angela Yao_
 
-##### Expressive Body Capture: 3D Hands, Face, and Body from a Single Image.  [\[PDF\]](https://arxiv.org/pdf/1904.05866)  [\[Project\]](https://smpl-x.is.tue.mpg.de/)
+##### CrossInfoNet: Multi-Task Information Sharing Based Hand Pose Estimation. \[PDF\] [\[Code\]](https://github.com/dumyy/handpose)
+_Kuo Du, Xiangbo Lin, Yi Sun, Xiaohong Ma_
+
+##### Expressive Body Capture: 3D Hands, Face, and Body from a Single Image.  [\[PDF\]](https://arxiv.org/pdf/1904.05866)  [\[Project\]](https://smpl-x.is.tue.mpg.de/) *(Oral)*
 _Georgios Pavlakos\*, Vasileios Choutas\*, Nima Ghorbani, Timo Bolkart, Ahmed A. A. Osman, Dimitrios Tzionas, Michael J. Black_
 
 ##### Learning joint reconstruction of hands and manipulated objects. [\[PDF\]](https://ps.is.tuebingen.mpg.de/uploads_file/attachment/attachment/499/obman.pdf) [\[Code\]](https://github.com/hassony2/manopth)  [\[Project\]](https://www.di.ens.fr/willow/research/obman/)

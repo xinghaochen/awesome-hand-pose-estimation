@@ -189,6 +189,6 @@ See leaderboard [here](https://competitions.codalab.org/competitions/17452#resul
 - \[16\] [Point-to-Point Regression PointNet for 3D Hand Pose Estimation](http://openaccess.thecvf.com/content_ECCV_2018/papers/Liuhao_Ge_Point-to-Point_Regression_PointNet_ECCV_2018_paper.pdf), Liuhao Ge, Zhou Ren, Junsong Yuan, European Conference on Computer Vision (**ECCV**) 2018.
 - \[17\] [MURAUER: Mapping Unlabeled Real Data for Label AUstERity](https://arxiv.org/pdf/1811.09497.pdf), Georg Poier, Michael Opitz, David Schinagl and Horst Bischof, Proceedings IEEE Winter Conference on Applications of Computer Vision (**WACV**) 2019.
 - \[18\] [Generalized Feedback Loop for Joint Hand-Object Pose Estimation](https://arxiv.org/pdf/1903.10883), Markus Oberweger, Paul Wohlhart, Vincent Lepetit, IEEE Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**) 2019.
-- \[19\] [CrossInfoNet: Multi-Task Information Sharing Based Hand Pose Estimation](#), TBA, Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**) 2019.
+- \[19\] [CrossInfoNet: Multi-Task Information Sharing Based Hand Pose Estimation](#), Kuo Du, Xiangbo Lin, Yi Sun, Xiaohong Ma, Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**) 2019.
 
 [\[back to top\]](#evaluations-on-hand-pose-estimation)
