@@ -158,7 +158,7 @@ _Shile Li, Dongheui Lee_
 ##### H+O: Unified Egocentric Recognition of 3D Hand-Object Poses and Interactions. [\[PDF\]](https://arxiv.org/pdf/1904.05349)  *(Oral)*
 _Bugra Tekin, Federica Bogo, Marc Pollefeys_
 
-##### Self supervised 3D hand pose estimation. \[PDF\] *(Oral)*
+##### Self supervised 3D hand pose estimation. [\[PDF\]](http://www.vision.ee.ethz.ch/~wanc/papers/cvpr2019.pdf) [\[Code\]](https://github.com/melonwan/sphereHand) *(Oral)*
 _Chengde Wan, Thomas Probst, Luc Van Gool, Angela Yao_
 
 ##### CrossInfoNet: Multi-Task Information Sharing Based Hand Pose Estimation. \[PDF\] [\[Code\]](https://github.com/dumyy/handpose)
