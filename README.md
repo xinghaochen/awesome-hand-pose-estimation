@@ -7,7 +7,7 @@ A curated list of related resources for hand pose estimation. Feel free to [cont
  - [arXiv Papers](#arxiv-papers)
  - [Journal Papers](#journal-papers)
    - [TPAMI / IJCV](#tpami--ijcv)
-   - [Others](#others)
+   - [Others](#other-journals)
  - [Conference Papers](#conference-papers)
    - 2019: [CVPR](#2019-cvpr), [Others](#2019-others)
    - 2018: [CVPR](#2018-cvpr), [ECCV](#2018-eccv), [Others](#2018-others)
@@ -90,7 +90,9 @@ _Liuhao Ge, Hui Liang, Junsong Yuan and Daniel Thalmann_
 
 [\[back to top\]](#contents)
 
-### Others
+### Other Journals
+##### \[2018 PR\] A Survey on 3D Hand Pose Estimation: Cameras, Methods, and Datasets. [\[PDF\]](https://www.sciencedirect.com/science/article/abs/pii/S0031320319301724)
+_Rui Li, Zhenyu Liu, Jianrong Tan_
 
 ##### \[2018 Neurocomputing\] A CRNN module for hand pose estimation. [\[PDF\]](https://www.sciencedirect.com/science/article/pii/S0925231218315273#!)
 _Zhongxu Hu, Youmin Hu, Jie Liu, Bo Wu, Dongmin Han, Thomas Kurfess_
@@ -185,6 +187,12 @@ _Donglai Xiang, Hanbyul Joo, Yaser Sheikh_
 [\[back to top\]](#contents)
 
 ### 2019 Others
+
+##### [2019 ICASSP] Cascaded Point Network for 3D Hand Pose Estimation. [\[PDF\]](https://ieeexplore.ieee.org/abstract/document/8683356)
+_Yikun Dou, Xuguang Wang, Yuying Zhu, Xiaoming Deng, Cuixia Ma, Liang Chang, Hongan Wang_
+
+##### [2019 ICASSP] A Novel Framework of Hand Localization and Hand Pose Estimation. [\[PDF\]](https://ieeexplore.ieee.org/abstract/document/8682382)
+_Yunlong Che, Yuxiang Song, Yue Qi_
 
 ##### [2019 ICRA] Vision-based Teleoperation of Shadow Dexterous Hand using End-to-End Deep Neural Network. [\[PDF\]](https://arxiv.org/pdf/1809.06268.pdf) [\[Code\]](https://github.com/TAMS-Group/TeachNet_Teleoperation)
 _Shuang Li\*, Xiaojian Ma\*, Hongzhuo Liang, Michael Görner, Philipp Ruppel, Bing Fang, Fuchun Sun, Jianwei Zhang_
@@ -311,7 +319,7 @@ _Masoud Abdi, Ehsan Abbasnejad, Chee Peng Lim, Saeid Nahavandi_
 ##### [2018 FG] Kinematic Constrained Cascaded Autoencoder for Real-time Hand Pose Estimation. [\[PDF\]](https://ieeexplore.ieee.org/abstract/document/8373810/)
 _Yushun Lin, Xiujuan Chai, Xilin Chen_
 
-##### [2018 WACV] Using a single RGB frame for real time 3D hand pose estimation in the wild. [\[PDF\]](https://arxiv.org/pdf/1712.03866.pdf)  [\[Project\]](http://users.ics.forth.gr/~argyros/res_rgbmonohand.html)
+##### [2018 WACV] Using a single RGB frame for real time 3D hand pose estimation in the wild. [\[PDF\]](https://arxiv.org/pdf/1712.03866.pdf)  [\[Project\]](http://users.ics.forth.gr/~argyros/res_rgbmonohand.html) [\[Code\]](https://github.com/FORTH-ModelBasedTracker/MonocularRGB_3D_Handpose_WACV18)
 _Paschalis Panteleris, Iason Oikonomidis, Antonis Argyros_
 
 [\[back to top\]](#contents)
@@ -551,6 +559,9 @@ _Ayan Sinha\*, Chiho Choi\*, Karthik Ramani_
 [\[back to top\]](#contents)
 
 ## Theses
+
+##### \[2018\] 3D hand pose estimation using convolutional neural networks. [\[PDF\]](https://spiral.imperial.ac.uk/bitstream/10044/1/68489/1/Ye-Q-2019-PhD-thesis.pdf)
+*Qi Ye, Imperial College London*
 
 ##### \[2018\] Articulated Human Pose Estimation in Unconstrained Images and Videos. [\[PDF\]](http://hss.ulb.uni-bonn.de/2018/5292/5292.pdf)
 *Umar Iqbal, University of Bonn*
