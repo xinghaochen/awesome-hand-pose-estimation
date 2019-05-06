@@ -277,10 +277,13 @@ _Endri Dibra, Silvan Melchior, Ali Balkis, Thomas Wolf, Cengiz Oztireli, Markus 
 
 ### 2018 Others
 
+##### [2018 ISMAR] Hybrid 3D Hand Articulations Tracking Guided by Classification and Search Space Adaptation. [\[PDF\]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8613751)
+_Gabyong Park, Woontack Woo_
+
 ##### [2018 ACCV] Hand Pose Estimation based on 3D Residual Network with Data Padding and Skeleton Steadying. \[PDF\]
 _Pai-Wen Ting, En-Te Chou, Ya-Hui Tang, Li-Chen Fu_
 
-##### [2018 ACCV] Partially Occluded Hands: A challenging new dataset for single-image hand pose estimation. \[PDF\] [\[Project\]](http://occludedhands.com/)  *(Oral)*
+##### [2018 ACCV] Partially Occluded Hands: A challenging new dataset for single-image hand pose estimation. [\[PDF\]](https://cbmm.mit.edu/sites/default/files/publications/partially-occluded-hands-6.pdf) [\[Project\]](http://occludedhands.com/)  *(Oral)*
 _Battushig Myanganbayar, Cristina Mata, Gil Dekel, Boris Katz, Guy Ben-Yosef, Andrei Barbu_
 
 ##### [2018 ACCV] Domain Transfer for 3D Pose Estimation from Color Images without Manual Annotations. [\[PDF\]](https://arxiv.org/pdf/1810.03707.pdf)  *(Oral)*
@@ -617,6 +620,7 @@ _Ayan Sinha\*, Chiho Choi\*, Karthik Ramani_
 |[ICVL](https://labicvl.github.io/hand.html) | 2014 | R | D | No |  16 | 3rd  |  10 | 331k/1.5k | Latent regression forest: Structured estimation of 3d articulated hand posture, CVPR 2014 [\[PDF\]](https://labicvl.github.io/docs/pubs/Danny_CVPR_2014.pdf)|
 |[MSRA15](https://github.com/geliuhao/CVPR2016_HandPoseEstimation/issues/4) | 2015 | R | D | No |  21 | 3rd  |  9 | 76,375 | Cascaded Hand Pose Regression, CVPR 2015 [\[PDF\]](http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Sun_Cascaded_Hand_Pose_2015_CVPR_paper.pdf)|
 |[BigHand2.2M](http://icvl.ee.ic.ac.uk/hands17/challenge/) | 2017 | R | D | No |  21 | 3rd  |  10 | 2.2M | Big Hand 2.2M Benchmark: Hand Pose Data Set and State of the Art Analysis, CVPR 2017 [\[PDF\]](https://labicvl.github.io/docs/pubs/Shanxin_CVPR_2017.pdf)|
+|[SynHand5M](https://cloud.dfki.de/owncloud/index.php/s/iCMRF7a5FkXrdpn) | 2018 | S | D | No |  21 | 3rd  |  - | 5M | DeepHPS: End-to-end Estimation of 3D Hand Pose and Shape by Learning from Synthetic Depth, 3DV 2018 [\[PDF\]](https://arxiv.org/pdf/1808.09208.pdf)|
 |[FHAD](https://guiggh.github.io/publications/first-person-hands/) | 2018 | R | D | Yes |  21 | ego  |  6 | 100k | First-Person Hand Action Benchmark with RGB-D Videos and 3D Hand Pose Annotations, CVPR 2018 [\[PDF\]](https://arxiv.org/pdf/1704.02463)|
 |[GANerated Hands](https://handtracker.mpi-inf.mpg.de/projects/GANeratedHands/GANeratedDataset.htm) | 2018 | S | C | Both |  21 | ego  |  - | 330k | GANerated Hands for Real-Time 3D Hand Tracking from Monocular RGB, CVPR 2018 [\[PDF\]](https://handtracker.mpi-inf.mpg.de/projects/GANeratedHands/content/GANeratedHands_CVPR2018.pdf)|
 |[EgoDexter](http://handtracker.mpi-inf.mpg.de/projects/OccludedHands/EgoDexter.htm) | 2017 | R | C+D | Yes |  5 | ego  |  4 | 1485 | Real-time Hand Tracking under Occlusion from an Egocentric RGB-D Sensor, ICCV 2017 [\[PDF\]](http://handtracker.mpi-inf.mpg.de/projects/OccludedHands/content/OccludedHands_ICCV2017.pdf)|
