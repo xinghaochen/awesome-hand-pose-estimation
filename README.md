@@ -28,6 +28,12 @@ See folder [``evaluation``](./evaluation) to get more details about performance 
 
 ## arXiv Papers
 
+##### [\[arXiv:1905.02085\]](https://arxiv.org/abs/1905.02085) Pixel-wise Regression: 3D Hand Pose Estimation via Spatial-form Representation and Differentiable Decoder. [\[PDF\]](https://arxiv.org/pdf/1905.02085.pdf)
+_Xingyuan Zhang, Fuhai Zhang_
+
+##### [\[arXiv:1905.01326\]](https://arxiv.org/abs/1905.01326) Single Image 3D Hand Reconstruction with Mesh Convolutions. [\[PDF\]](https://arxiv.org/pdf/1905.01326.pdf) [\[Code\]](https://github.com/dkulon/hand-reconstruction)
+_Dominik Kulon, Haoyang Wang, Riza Alp Güler, Michael Bronstein, Stefanos Zafeiriou_
+
 ##### [\[arXiv:1904.07528\]](https://arxiv.org/abs/1904.07528) Disentangling Pose from Appearance in Monochrome Hand Images. [\[PDF\]](https://arxiv.org/pdf/1904.07528.pdf)
 _Yikang Li, Chris Twigg, Yuting Ye, Lingling Tao, Xiaogang Wang_
 
