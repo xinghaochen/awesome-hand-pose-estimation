@@ -568,12 +568,14 @@ _Ayan Sinha\*, Chiho Choi\*, Karthik Ramani_
 [\[back to top\]](#contents)
 
 ## Theses
+##### \[2018\] 3D Hand Pose Estimation from Images for Interactive Applications. [\[PDF\]](http://diglib.tugraz.at/download.php?id=5c4a489d042d4&location=aleph)
+*[Markus Oberweger](https://moberweger.github.io/), Graz University of Technology*
 
 ##### \[2018\] 3D hand pose estimation using convolutional neural networks. [\[PDF\]](https://spiral.imperial.ac.uk/bitstream/10044/1/68489/1/Ye-Q-2019-PhD-thesis.pdf)
-*Qi Ye, Imperial College London*
+*[Qi Ye](https://sites.google.com/site/qiyeincv/), Imperial College London*
 
 ##### \[2018\] Articulated Human Pose Estimation in Unconstrained Images and Videos. [\[PDF\]](http://hss.ulb.uni-bonn.de/2018/5292/5292.pdf)
-*Umar Iqbal, University of Bonn*
+*[Umar Iqbal](http://www.umariqbal.info/), University of Bonn*
 
 ##### \[2018\] Real-Time Generative Hand Modeling and Tracking. [\[PDF\]](https://infoscience.epfl.ch/record/256674/files/EPFL_TH8573.pdf)
 *Anastasia Tkach, EPFL*
