@@ -169,7 +169,7 @@ _Bugra Tekin, Federica Bogo, Marc Pollefeys_
 ##### Self supervised 3D hand pose estimation. [\[PDF\]](http://www.vision.ee.ethz.ch/~wanc/papers/cvpr2019.pdf) [\[Code\]](https://github.com/melonwan/sphereHand) *(Oral)*
 _Chengde Wan, Thomas Probst, Luc Van Gool, Angela Yao_
 
-##### CrossInfoNet: Multi-Task Information Sharing Based Hand Pose Estimation. \[PDF\] [\[Code\]](https://github.com/dumyy/handpose)
+##### CrossInfoNet: Multi-Task Information Sharing Based Hand Pose Estimation. [\[PDF\]](https://docs.google.com/viewer?url=https%3A%2F%2Fgithub.com%2Fdumyy%2Fhandpose%2Fraw%2Fmaster%2Ffigs%2F5207.pdf&embedded=true&chrome=false&dov=1) [\[Code\]](https://github.com/dumyy/handpose)
 _Kuo Du, Xiangbo Lin, Yi Sun, Xiaohong Ma_
 
 ##### Expressive Body Capture: 3D Hands, Face, and Body from a Single Image.  [\[PDF\]](https://arxiv.org/pdf/1904.05866)  [\[Project\]](https://smpl-x.is.tue.mpg.de/) *(Oral)*
@@ -655,7 +655,8 @@ _Ayan Sinha\*, Chiho Choi\*, Karthik Ramani_
 
 ## Workshops
 
-[1] *Workshops on Observing and Understanding Hands in Action:*
+#### [1] *Workshops on Observing and Understanding Hands in Action:*
+##### [HANDS 2019](https://sites.google.com/view/hands2019/), In conjunction with ICCV 2019
 
 ##### [HANDS 2018](https://sites.google.com/view/hands2018/), In conjunction with ECCV 2018
 - HANDS18: Methods, Techniques and Applications for Hand Observation. [\[PDF\]](https://arxiv.org/abs/1810.10818)
@@ -665,9 +666,8 @@ _Ayan Sinha\*, Chiho Choi\*, Karthik Ramani_
 
 ##### [HANDS 2016](https://labicvl.github.io/hand/Hands2016/), In conjunction with CVPR 2016
 ##### [HANDS 2015](http://www.ics.uci.edu/~jsupanci/HANDS-2015/), In conjunction with CVPR 2015
-<br>
 
-[2] *Workshops on Capturing and modeling human bodies, faces and hands:*
+#### [2] *Workshops on Capturing and modeling human bodies, faces and hands:*
 
 ##### [PeopleCap 2018](https://peoplecap2018.weebly.com/), In conjunction with ECCV 2018
 ##### [PeopleCap 2017](http://peoplecap.weebly.com/), In conjunction with ICCV 2017
