@@ -193,6 +193,11 @@ _Donglai Xiang, Hanbyul Joo, Yaser Sheikh_
 [\[back to top\]](#contents)
 
 ### 2019 Others
+##### [2019 SIGGRAPH] Cascaded Point Network for 3D Hand Pose Estimation. [\[PDF\]](https://handtracker.mpi-inf.mpg.de/projects/TwoHands/content/TwoHands_SIGGRAPH2019.pdf) [\[Project\]](https://handtracker.mpi-inf.mpg.de/projects/TwoHands/)
+_Franziska Mueller, Micah Davis, Florian Bernard, Oleksandr Sotnychenko, Mickeal Verschoor, Miguel A. Otaduy, Dan Casas, Christian Theobalt_
+
+##### [2019 ACCV] Hand Pose Estimation Based on 3D Residual Network with Data Padding and Skeleton Steadying. [\[PDF\]](https://link.springer.com/chapter/10.1007/978-3-030-20873-8_19)
+_Pai-Wen Ting, En-Te Chou, Ya-Hui Tang, Li-Chen Fu_
 
 ##### [2019 ICASSP] Cascaded Point Network for 3D Hand Pose Estimation. [\[PDF\]](https://ieeexplore.ieee.org/abstract/document/8683356)
 _Yikun Dou, Xuguang Wang, Yuying Zhu, Xiaoming Deng, Cuixia Ma, Liang Chang, Hongan Wang_
