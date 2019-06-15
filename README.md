@@ -172,13 +172,13 @@ _Chengde Wan, Thomas Probst, Luc Van Gool, Angela Yao_
 ##### CrossInfoNet: Multi-Task Information Sharing Based Hand Pose Estimation. [\[PDF\]](https://docs.google.com/viewer?url=https%3A%2F%2Fgithub.com%2Fdumyy%2Fhandpose%2Fraw%2Fmaster%2Ffigs%2F5207.pdf&embedded=true&chrome=false&dov=1) [\[Code\]](https://github.com/dumyy/handpose)
 _Kuo Du, Xiangbo Lin, Yi Sun, Xiaohong Ma_
 
-##### Expressive Body Capture: 3D Hands, Face, and Body from a Single Image.  [\[PDF\]](https://arxiv.org/pdf/1904.05866)  [\[Project\]](https://smpl-x.is.tue.mpg.de/) *(Oral)*
+##### Expressive Body Capture: 3D Hands, Face, and Body from a Single Image.  [\[PDF\]](https://arxiv.org/pdf/1904.05866)  [\[Project\]](https://smpl-x.is.tue.mpg.de/)  [\[Code\]](https://github.com/vchoutas/smplify-x) *(Oral)*
 _Georgios Pavlakos\*, Vasileios Choutas\*, Nima Ghorbani, Timo Bolkart, Ahmed A. A. Osman, Dimitrios Tzionas, Michael J. Black_
 
 ##### Learning joint reconstruction of hands and manipulated objects. [\[PDF\]](https://ps.is.tuebingen.mpg.de/uploads_file/attachment/attachment/499/obman.pdf) [\[Code\]](https://github.com/hassony2/manopth)  [\[Project\]](https://www.di.ens.fr/willow/research/obman/)
 _Yana Hasson, Gül Varol, Dimitris Tzionas, Igor Kalevatykh, Michael J. Black, Ivan Laptev, and Cordelia Schmid_
 
-##### 3D Hand Shape and Pose Estimation from a Single RGB Image. [\[PDF\]](https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnxnZWxpdWhhb250dXxneDo3ZjE0ZjY3OWUzYjJkYjA2) [\[Project\]](https://sites.google.com/site/geliuhaontu/home/cvpr2019) [\[Code\]](https://github.com/geliuhao/3DHandShapePosefromRGB) *(Oral)*
+##### 3D Hand Shape and Pose Estimation from a Single RGB Image. [\[PDF\]](https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnxnZWxpdWhhb250dXxneDo3ZjE0ZjY3OWUzYjJkYjA2) [\[Project\]](https://sites.google.com/site/geliuhaontu/home/cvpr2019) [\[Code\]](https://github.com/3d-hand-shape/hand-graph-cnn) *(Oral)*
 _Liuhao Ge, Zhou Ren, Yuncheng Li, Zehao Xue, Yingying Wang, Jianfei Cai, Junsong Yuan_
 
 ##### 3D Hand Shape and Pose from Images in the Wild. [\[PDF\]](https://arxiv.org/pdf/1902.03451.pdf)  [\[Code\]](https://github.com/boukhayma/3dhand) *(Oral)*
