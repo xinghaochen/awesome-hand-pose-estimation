@@ -28,6 +28,9 @@ See folder [``evaluation``](./evaluation) to get more details about performance 
 
 ## arXiv Papers
 
+##### [\[arXiv:1907.01481\]](https://arxiv.org/abs/1907.01481) HO-3D: A Multi-User, Multi-Object Dataset for Joint 3D Hand-Object Pose Estimation. [\[PDF\]](https://arxiv.org/pdf/1907.01481.pdf)
+_Shreyas Hampali, Markus Oberweger, Mahdi Rad, Vincent Lepetit_
+
 ##### [\[arXiv:1905.02085\]](https://arxiv.org/abs/1905.02085) Pixel-wise Regression: 3D Hand Pose Estimation via Spatial-form Representation and Differentiable Decoder. [\[PDF\]](https://arxiv.org/pdf/1905.02085.pdf)
 _Xingyuan Zhang, Fuhai Zhang_
 
