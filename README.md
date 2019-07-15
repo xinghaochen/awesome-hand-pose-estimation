@@ -187,6 +187,12 @@ _Franziska Mueller, Micah Davis, Florian Bernard, Oleksandr Sotnychenko, Mickeal
 - Output: real time two hand reconstructed mesh with shape and pose and collision detection
 - Novelty: First ever to do two hand real time reconstruction
 
+##### InteractionFusion: Real-time Reconstruction of Hand Poses and Deformable Objects in Hand-object Interactions. [\[PDF\]](https://dl.acm.org/citation.cfm?id=3322998)
+_Hao Zhang, Zi-hao Bo, Jun-Hai Yong, Fengxu_
+
+- Tsinghua University
+- Input: two opposite depth cameras, one hand with wrist band interacts with a object (focused)
+- Output: Hand and object mesh with non-rigid deformations
 
 ### 2019 CVPR
 
@@ -210,6 +216,9 @@ _Georgios Pavlakos\*, Vasileios Choutas\*, Nima Ghorbani, Timo Bolkart, Ahmed A.
 
 ##### Learning joint reconstruction of hands and manipulated objects. [\[PDF\]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Pavlakos_Expressive_Body_Capture_3D_Hands_Face_and_Body_From_a_CVPR_2019_paper.pdf) [\[Code\]](https://github.com/hassony2/manopth) [\[Code\]](https://github.com/hassony2/obman_train) [\[Project\]](https://www.di.ens.fr/willow/research/obman/)
 _Yana Hasson, Gül Varol, Dimitris Tzionas, Igor Kalevatykh, Michael J. Black, Ivan Laptev, and Cordelia Schmid_
+
+- MPI
+
 
 ##### 3D Hand Shape and Pose Estimation from a Single RGB Image. [\[PDF\]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Ge_3D_Hand_Shape_and_Pose_Estimation_From_a_Single_RGB_CVPR_2019_paper.pdf) [\[Project\]](https://sites.google.com/site/geliuhaontu/home/cvpr2019) [\[Code\]](https://github.com/3d-hand-shape/hand-graph-cnn) *(Oral)*
 _Liuhao Ge, Zhou Ren, Yuncheng Li, Zehao Xue, Yingying Wang, Jianfei Cai, Junsong Yuan_
