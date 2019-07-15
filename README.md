@@ -197,7 +197,7 @@ _Donglai Xiang, Hanbyul Joo, Yaser Sheikh_
 
 ### 2019 Others
 
-##### [2019 SIGGRAPH] InteractionFusion: Real-time Reconstruction of Hand Poses and Deformable Objects in Hand-object Interactions.
+##### [2019 SIGGRAPH] InteractionFusion: Real-time Reconstruction of Hand Poses and Deformable Objects in Hand-object Interactions. [\[PDF\]](https://dl.acm.org/citation.cfm?id=3322998)
 _Hao Zhang, Zi-hao Bo, Jun-Hai Yong, Fengxu_
 
 ##### [2019 SIGGRAPH] Real-time pose and shape reconstruction of two interacting hands with a single depth camera. [\[PDF\]](https://handtracker.mpi-inf.mpg.de/projects/TwoHands/content/TwoHands_SIGGRAPH2019.pdf) [\[Project\]](https://handtracker.mpi-inf.mpg.de/projects/TwoHands/)
