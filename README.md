@@ -9,7 +9,7 @@ A curated list of related resources for hand pose estimation. Feel free to [cont
    - [TPAMI / IJCV](#tpami--ijcv)
    - [Others](#other-journals)
  - [Conference Papers](#conference-papers)
-   - 2019: [CVPR](#2019-cvpr), [Others](#2019-others)
+   - 2019: [SIGGRAPH](#2019-SIGGRAPH), [CVPR](#2019-cvpr), [Others](#2019-others)
    - 2018: [CVPR](#2018-cvpr), [ECCV](#2018-eccv), [Others](#2018-others)
    - 2017: [CVPR](#2017-cvpr), [ICCV](#2017-iccv), [Others](#2017-others)
    - 2016: [CVPR](#2016-cvpr), [ECCV](#2016-eccv), [Others](#2016-others)
@@ -31,8 +31,27 @@ See folder [``evaluation``](./evaluation) to get more details about performance 
 ##### [\[arXiv:1907.01481\]](https://arxiv.org/abs/1907.01481) HO-3D: A Multi-User, Multi-Object Dataset for Joint 3D Hand-Object Pose Estimation. [\[PDF\]](https://arxiv.org/pdf/1907.01481.pdf)
 _Shreyas Hampali, Markus Oberweger, Mahdi Rad, Vincent Lepetit_
 
+- Graz University of Technology, Austria
+- RGBD hand object dataset and gt 3D pose
+  - hand centric view, only arm
+  - single hand and object
+- an annotation method to estimate hand and object 3D pose 
+  - annotated with optimization MANO and YCB-Video object set
+- a 3D pose estimation method for **one** hand and **one** object on a single RGBD frame
+  - Input: RGBD, focus on hand with object
+  - Output: Hand skeleton + object pose
+  - Method: Detection network + separate CNN for hand/object pose estimation
+- **Questionable**: How to ensure ground truth label is correct, since it is acquired through MANO fitting???
+
 ##### [\[arXiv:1905.02085\]](https://arxiv.org/abs/1905.02085) Pixel-wise Regression: 3D Hand Pose Estimation via Spatial-form Representation and Differentiable Decoder. [\[PDF\]](https://arxiv.org/pdf/1905.02085.pdf)
 _Xingyuan Zhang, Fuhai Zhang_
+
+- TIP template, Harbin Institute of Technology
+- Input: depth image, single hand focus
+- Output: hand skeleton
+- Method: new network structure to regression 3D keypoint
+  - spatial-form representation (SFR)
+  - differentiable decoder (DD)
 
 ##### [\[arXiv:1905.01326\]](https://arxiv.org/abs/1905.01326) Single Image 3D Hand Reconstruction with Mesh Convolutions. [\[PDF\]](https://arxiv.org/pdf/1905.01326.pdf) [\[Code\]](https://github.com/dkulon/hand-reconstruction)
 _Dominik Kulon, Haoyang Wang, Riza Alp Güler, Michael Bronstein, Stefanos Zafeiriou_
@@ -157,6 +176,17 @@ _Guijin Wang, Xinghao Chen\*, Hengkai Guo\*, Cairong Zhang_
 [\[back to top\]](#contents)
 
 ## Conference Papers
+
+### 2019 SIGGRAPH
+
+##### Real-time pose and shape reconstruction of two interacting hands with a single depth camera. [\[PDF\]](https://handtracker.mpi-inf.mpg.de/projects/TwoHands/content/TwoHands_SIGGRAPH2019.pdf) [\[Project\]](https://handtracker.mpi-inf.mpg.de/projects/TwoHands/)
+_Franziska Mueller, Micah Davis, Florian Bernard, Oleksandr Sotnychenko, Mickeal Verschoor, Miguel A. Otaduy, Dan Casas, Christian Theobalt_
+
+- MPI
+- Input: two hand performing complex interaction in front of a depth camera (focused)
+- Output: real time two hand reconstructed mesh with shape and pose and collision detection
+- Novelty: First ever to do two hand real time reconstruction
+
 
 ### 2019 CVPR
 
