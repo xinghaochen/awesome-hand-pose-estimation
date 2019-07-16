@@ -31,6 +31,7 @@ See folder [``evaluation``](./evaluation) to get more details about performance 
 ##### [\[arXiv:1907.01481\]](https://arxiv.org/abs/1907.01481) HO-3D: A Multi-User, Multi-Object Dataset for Joint 3D Hand-Object Pose Estimation. [\[PDF\]](https://arxiv.org/pdf/1907.01481.pdf)
 _Shreyas Hampali, Markus Oberweger, Mahdi Rad, Vincent Lepetit_
 
+_> review_lyw_
 - Graz University of Technology, Austria
 - RGBD hand object dataset and gt 3D pose
   - hand centric view, only arm
@@ -46,6 +47,7 @@ _Shreyas Hampali, Markus Oberweger, Mahdi Rad, Vincent Lepetit_
 ##### [\[arXiv:1905.02085\]](https://arxiv.org/abs/1905.02085) Pixel-wise Regression: 3D Hand Pose Estimation via Spatial-form Representation and Differentiable Decoder. [\[PDF\]](https://arxiv.org/pdf/1905.02085.pdf)
 _Xingyuan Zhang, Fuhai Zhang_
 
+_> review_lyw_
 - TIP template, Harbin Institute of Technology
 - Input: depth image, single hand focus
 - Output: hand skeleton
@@ -222,13 +224,35 @@ _Donglai Xiang, Hanbyul Joo, Yaser Sheikh_
 ##### [2019 SIGGRAPH] InteractionFusion: Real-time Reconstruction of Hand Poses and Deformable Objects in Hand-object Interactions. [\[PDF\]](https://dl.acm.org/citation.cfm?id=3322998)
 _Hao Zhang, Zi-Hao Bo, Jun-Hai Yong, Feng Xu_
 
+_> review_lyw_
 - Tsinghua University
-- Input: two opposite depth cameras, one hand with wrist band interacts with a object (focused)
+- Input: two opposite depth cameras, one hand with **wrist band** (for color detection) interacts with a object (focused)
 - Output: Hand and object mesh with non-rigid deformations
+- Method:
+  - Use TSDF from **dynamic fusion** to represent object model from depth
+  - Use sphere mesh from [SIGA 2016](#jump) to represent hand model from depth
+  - They adopt an energy minimization framework
+    - Hand: joint rotations $\theta$, 28 DoF
+    - Object: motion field $\mathcal{W_N^t}$ (ED node transformation)
+  - Given synchronized depth frames, use DNN to segment hand and object (depth map)
+  - Hand tracking is basically the same with [SIGA 2016](#jump), they only add a LSTM term in the energy function to handle occluded joints based on long time motion information.
+  - Object model follows the dynamic fusion pipeline, first get representation in canonical frame, then fuse the surface model (clean object depth after hand optimization) to the object.
+- Evanluation
+  - RealSense SR300 at 30 Hz, 40ms per frame
+  - 36ms for hand-object tracking and 2ms for object fuse [one NVIDIA TITAN X]
+  - 22ms for hand-object segmentation and LSTM based prediction [GPU server]
+- Contribution
+  - first real-time hand object tracking system
+  - an **LSTM based predictor** and **a novel interaction term**
+  - a generative model to solve the problem by fusing point cloud of two frames and involving pose, object and joint pose-and-object regularizers in an unified optimization framework.
+- LSTM
+  - input hand poses of previous frames and outputs a predicted hand pose
+   
 
 ##### [2019 SIGGRAPH] Real-time pose and shape reconstruction of two interacting hands with a single depth camera. [\[PDF\]](https://handtracker.mpi-inf.mpg.de/projects/TwoHands/content/TwoHands_SIGGRAPH2019.pdf) [\[Project\]](https://handtracker.mpi-inf.mpg.de/projects/TwoHands/)
 _Franziska Mueller, Micah Davis, Florian Bernard, Oleksandr Sotnychenko, Mickeal Verschoor, Miguel A. Otaduy, Dan Casas, Christian Theobalt_
 
+_> review_lyw_
 - MPI
 - Input: two hand performing complex interaction in front of a depth camera (focused)
 - Output: real time two hand reconstructed mesh with shape and pose and collision detection
@@ -499,14 +523,26 @@ _Ayan Sinha\*, Chiho Choi\*, Karthik Ramani_
 ##### \[2016 ICPR\] Depth-based 3D hand pose tracking. [\[PDF\]](http://ieeexplore.ieee.org/abstract/document/7900051)
 *Kha Gia Quach, Chi Nhan Duong, Khoa Luu, and Tien D. Bui.*
 
+_> review_lyw_
+
+-
+
 ##### \[2016 IJCAI\] Model-based Deep Hand Pose Estimation. [\[PDF\]](http://xingyizhou.xyz/zhou2016model.pdf) [\[Project\]](http://xingyizhou.xyz/) [\[Code\]](https://github.com/tenstep/DeepModel)
 *Xingyi Zhou, Qingfu Wan, Wei Zhang, Xiangyang Xue, Yichen Wei*
 
 ##### \[2016 SIGGRAPH\] Efficient and precise interactive hand tracking through joint, continuous optimization of pose and correspondences. [\[PDF\]](http://www.cs.toronto.edu/~jtaylor/papers/SIGGRAPH2016-SmoothHandTracking.pdf)
 *Jonathan Taylor et al.*
 
-##### \[2016 SIGGRAPH Asia\] Sphere-Meshes for Real-Time Hand Modeling and Tracking. [\[PDF\]](http://lgg.epfl.ch/publications/2016/HModel/paper.pdf)  [\[Project\]](http://lgg.epfl.ch/publications/2016/HModel/index.php) [\[Code\]](https://github.com/OpenGP/hmodel)
+##### <span id="jump"></span>\[2016 SIGGRAPH Asia\] Sphere-Meshes for Real-Time Hand Modeling and Tracking. [\[PDF\]](http://lgg.epfl.ch/publications/2016/HModel/paper.pdf)  [\[Project\]](http://lgg.epfl.ch/publications/2016/HModel/index.php) [\[Code\]](https://github.com/OpenGP/hmodel)
 *Anastasia Tkach, Mark Pauly, Andrea Tagliasacchi*
+
+_> review_lyw_
+- EPFL
+- Input: single depth
+- Output: Real-time hand model (represented with sphere mesh)
+- Method: fitting and tracking
+  - temporal term: two previous poses
+
 
 [\[back to top\]](#contents)
 
