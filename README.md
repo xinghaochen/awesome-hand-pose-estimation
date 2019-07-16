@@ -247,6 +247,11 @@ _> review_lyw_
   - a generative model to solve the problem by fusing point cloud of two frames and involving pose, object and joint pose-and-object regularizers in an unified optimization framework.
 - LSTM
   - input hand poses of previous frames and outputs a predicted hand pose
+- Limitations
+  - strong object deforamtion and topology change
+  - fast motion
+  - failed segmentation
+- They use dynamic fusion for object tracking, it's like cheating!
    
 
 ##### [2019 SIGGRAPH] Real-time pose and shape reconstruction of two interacting hands with a single depth camera. [\[PDF\]](https://handtracker.mpi-inf.mpg.de/projects/TwoHands/content/TwoHands_SIGGRAPH2019.pdf) [\[Project\]](https://handtracker.mpi-inf.mpg.de/projects/TwoHands/)
