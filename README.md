@@ -9,7 +9,7 @@ A curated list of related resources for hand pose estimation. Feel free to [cont
    - [TPAMI / IJCV](#tpami--ijcv)
    - [Others](#other-journals)
  - [Conference Papers](#conference-papers)
-   - 2019: [SIGGRAPH](#2019-SIGGRAPH), [CVPR](#2019-cvpr), [Others](#2019-others)
+   - 2019: [CVPR](#2019-cvpr), [Others](#2019-others)
    - 2018: [CVPR](#2018-cvpr), [ECCV](#2018-eccv), [Others](#2018-others)
    - 2017: [CVPR](#2017-cvpr), [ICCV](#2017-iccv), [Others](#2017-others)
    - 2016: [CVPR](#2016-cvpr), [ECCV](#2016-eccv), [Others](#2016-others)
@@ -177,23 +177,6 @@ _Guijin Wang, Xinghao Chen\*, Hengkai Guo\*, Cairong Zhang_
 
 ## Conference Papers
 
-### 2019 SIGGRAPH
-
-##### Real-time pose and shape reconstruction of two interacting hands with a single depth camera. [\[PDF\]](https://handtracker.mpi-inf.mpg.de/projects/TwoHands/content/TwoHands_SIGGRAPH2019.pdf) [\[Project\]](https://handtracker.mpi-inf.mpg.de/projects/TwoHands/)
-_Franziska Mueller, Micah Davis, Florian Bernard, Oleksandr Sotnychenko, Mickeal Verschoor, Miguel A. Otaduy, Dan Casas, Christian Theobalt_
-
-- MPI
-- Input: two hand performing complex interaction in front of a depth camera (focused)
-- Output: real time two hand reconstructed mesh with shape and pose and collision detection
-- Novelty: First ever to do two hand real time reconstruction
-
-##### InteractionFusion: Real-time Reconstruction of Hand Poses and Deformable Objects in Hand-object Interactions. [\[PDF\]](https://dl.acm.org/citation.cfm?id=3322998)
-_Hao Zhang, Zi-hao Bo, Jun-Hai Yong, Fengxu_
-
-- Tsinghua University
-- Input: two opposite depth cameras, one hand with wrist band interacts with a object (focused)
-- Output: Hand and object mesh with non-rigid deformations
-
 ### 2019 CVPR
 
 ##### Disentangling Latent Hands for Image Synthesis and Pose Estimation. [\[PDF\]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Yang_Disentangling_Latent_Hands_for_Image_Synthesis_and_Pose_Estimation_CVPR_2019_paper.pdf)
@@ -235,8 +218,21 @@ _Donglai Xiang, Hanbyul Joo, Yaser Sheikh_
 [\[back to top\]](#contents)
 
 ### 2019 Others
-##### [2019 SIGGRAPH] Cascaded Point Network for 3D Hand Pose Estimation. [\[PDF\]](https://handtracker.mpi-inf.mpg.de/projects/TwoHands/content/TwoHands_SIGGRAPH2019.pdf) [\[Project\]](https://handtracker.mpi-inf.mpg.de/projects/TwoHands/)
+
+##### [2019 SIGGRAPH] InteractionFusion: Real-time Reconstruction of Hand Poses and Deformable Objects in Hand-object Interactions. [\[PDF\]](https://dl.acm.org/citation.cfm?id=3322998)
+_Hao Zhang, Zi-Hao Bo, Jun-Hai Yong, Feng Xu_
+
+- Tsinghua University
+- Input: two opposite depth cameras, one hand with wrist band interacts with a object (focused)
+- Output: Hand and object mesh with non-rigid deformations
+
+##### [2019 SIGGRAPH] Real-time pose and shape reconstruction of two interacting hands with a single depth camera. [\[PDF\]](https://handtracker.mpi-inf.mpg.de/projects/TwoHands/content/TwoHands_SIGGRAPH2019.pdf) [\[Project\]](https://handtracker.mpi-inf.mpg.de/projects/TwoHands/)
 _Franziska Mueller, Micah Davis, Florian Bernard, Oleksandr Sotnychenko, Mickeal Verschoor, Miguel A. Otaduy, Dan Casas, Christian Theobalt_
+
+- MPI
+- Input: two hand performing complex interaction in front of a depth camera (focused)
+- Output: real time two hand reconstructed mesh with shape and pose and collision detection
+- Novelty: First ever to do two hand real time reconstruction
 
 ##### [2019 ACCV] Hand Pose Estimation Based on 3D Residual Network with Data Padding and Skeleton Steadying. [\[PDF\]](https://link.springer.com/chapter/10.1007/978-3-030-20873-8_19)
 _Pai-Wen Ting, En-Te Chou, Ya-Hui Tang, Li-Chen Fu_
