@@ -31,8 +31,27 @@ See folder [``evaluation``](./evaluation) to get more details about performance 
 ##### [\[arXiv:1907.01481\]](https://arxiv.org/abs/1907.01481) HO-3D: A Multi-User, Multi-Object Dataset for Joint 3D Hand-Object Pose Estimation. [\[PDF\]](https://arxiv.org/pdf/1907.01481.pdf)
 _Shreyas Hampali, Markus Oberweger, Mahdi Rad, Vincent Lepetit_
 
+- Graz University of Technology, Austria
+- RGBD hand object dataset and gt 3D pose
+  - hand centric view, only arm
+  - single hand and object
+- an annotation method to estimate hand and object 3D pose 
+  - annotated with optimization MANO and YCB-Video object set
+- a 3D pose estimation method for **one** hand and **one** object on a single RGBD frame
+  - Input: RGBD, focus on hand with object
+  - Output: Hand skeleton + object pose
+  - Method: Detection network + separate CNN for hand/object pose estimation
+- **Questionable**: How to ensure ground truth label is correct, since it is acquired through MANO fitting???
+
 ##### [\[arXiv:1905.02085\]](https://arxiv.org/abs/1905.02085) Pixel-wise Regression: 3D Hand Pose Estimation via Spatial-form Representation and Differentiable Decoder. [\[PDF\]](https://arxiv.org/pdf/1905.02085.pdf)
 _Xingyuan Zhang, Fuhai Zhang_
+
+- TIP template, Harbin Institute of Technology
+- Input: depth image, single hand focus
+- Output: hand skeleton
+- Method: new network structure to regression 3D keypoint
+  - spatial-form representation (SFR)
+  - differentiable decoder (DD)
 
 ##### [\[arXiv:1905.01326\]](https://arxiv.org/abs/1905.01326) Single Image 3D Hand Reconstruction with Mesh Convolutions. [\[PDF\]](https://arxiv.org/pdf/1905.01326.pdf) [\[Code\]](https://github.com/dkulon/hand-reconstruction)
 _Dominik Kulon, Haoyang Wang, Riza Alp Güler, Michael Bronstein, Stefanos Zafeiriou_
@@ -181,6 +200,9 @@ _Georgios Pavlakos\*, Vasileios Choutas\*, Nima Ghorbani, Timo Bolkart, Ahmed A.
 ##### Learning joint reconstruction of hands and manipulated objects. [\[PDF\]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Pavlakos_Expressive_Body_Capture_3D_Hands_Face_and_Body_From_a_CVPR_2019_paper.pdf) [\[Code\]](https://github.com/hassony2/manopth) [\[Code\]](https://github.com/hassony2/obman_train) [\[Project\]](https://www.di.ens.fr/willow/research/obman/)
 _Yana Hasson, Gül Varol, Dimitris Tzionas, Igor Kalevatykh, Michael J. Black, Ivan Laptev, and Cordelia Schmid_
 
+- MPI
+
+
 ##### 3D Hand Shape and Pose Estimation from a Single RGB Image. [\[PDF\]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Ge_3D_Hand_Shape_and_Pose_Estimation_From_a_Single_RGB_CVPR_2019_paper.pdf) [\[Project\]](https://sites.google.com/site/geliuhaontu/home/cvpr2019) [\[Code\]](https://github.com/3d-hand-shape/hand-graph-cnn) *(Oral)*
 _Liuhao Ge, Zhou Ren, Yuncheng Li, Zehao Xue, Yingying Wang, Jianfei Cai, Junsong Yuan_
 
@@ -200,8 +222,17 @@ _Donglai Xiang, Hanbyul Joo, Yaser Sheikh_
 ##### [2019 SIGGRAPH] InteractionFusion: Real-time Reconstruction of Hand Poses and Deformable Objects in Hand-object Interactions. [\[PDF\]](https://dl.acm.org/citation.cfm?id=3322998)
 _Hao Zhang, Zi-Hao Bo, Jun-Hai Yong, Feng Xu_
 
+- Tsinghua University
+- Input: two opposite depth cameras, one hand with wrist band interacts with a object (focused)
+- Output: Hand and object mesh with non-rigid deformations
+
 ##### [2019 SIGGRAPH] Real-time pose and shape reconstruction of two interacting hands with a single depth camera. [\[PDF\]](https://handtracker.mpi-inf.mpg.de/projects/TwoHands/content/TwoHands_SIGGRAPH2019.pdf) [\[Project\]](https://handtracker.mpi-inf.mpg.de/projects/TwoHands/)
 _Franziska Mueller, Micah Davis, Florian Bernard, Oleksandr Sotnychenko, Mickeal Verschoor, Miguel A. Otaduy, Dan Casas, Christian Theobalt_
+
+- MPI
+- Input: two hand performing complex interaction in front of a depth camera (focused)
+- Output: real time two hand reconstructed mesh with shape and pose and collision detection
+- Novelty: First ever to do two hand real time reconstruction
 
 ##### [2019 ACCV] Hand Pose Estimation Based on 3D Residual Network with Data Padding and Skeleton Steadying. [\[PDF\]](https://link.springer.com/chapter/10.1007/978-3-030-20873-8_19)
 _Pai-Wen Ting, En-Te Chou, Ya-Hui Tang, Li-Chen Fu_
