@@ -202,8 +202,22 @@ _Georgios Pavlakos\*, Vasileios Choutas\*, Nima Ghorbani, Timo Bolkart, Ahmed A.
 ##### Learning joint reconstruction of hands and manipulated objects. [\[PDF\]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Pavlakos_Expressive_Body_Capture_3D_Hands_Face_and_Body_From_a_CVPR_2019_paper.pdf) [\[Code\]](https://github.com/hassony2/manopth) [\[Code\]](https://github.com/hassony2/obman_train) [\[Project\]](https://www.di.ens.fr/willow/research/obman/)
 _Yana Hasson, Gül Varol, Dimitris Tzionas, Igor Kalevatykh, Michael J. Black, Ivan Laptev, and Cordelia Schmid_
 
-- MPI
+_>review_lyw_
 
+- Inria and MPI
+- Input: single RGB image (focused), one hand holding an object
+- Output: hand and object mesh
+- Method:
+  - An end-to-end network
+  - A hand encoder extract features (MANO $\theta$ and $\beta$ and translation and scale) from image
+  - An object encoder to get features
+  - features + image -> AtlasNet -> normalized verticves (represents the object)
+  - normalized vertices + translation + scale -> object vertices
+- Contributions:
+  - End-to-end network
+  - Differentiable MANO network layer to learn hand shape
+  - Contact loss to penalize hand object penetration and encourage contact
+  - a new large-scale synthetic dataset **ObMan**, with hand-object manipulations
 
 ##### 3D Hand Shape and Pose Estimation from a Single RGB Image. [\[PDF\]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Ge_3D_Hand_Shape_and_Pose_Estimation_From_a_Single_RGB_CVPR_2019_paper.pdf) [\[Project\]](https://sites.google.com/site/geliuhaontu/home/cvpr2019) [\[Code\]](https://github.com/3d-hand-shape/hand-graph-cnn) *(Oral)*
 _Liuhao Ge, Zhou Ren, Yuncheng Li, Zehao Xue, Yingying Wang, Jianfei Cai, Junsong Yuan_
@@ -226,7 +240,7 @@ _Hao Zhang, Zi-Hao Bo, Jun-Hai Yong, Feng Xu_
 
 _> review_lyw_
 - Tsinghua University
-- Input: two opposite depth cameras, one hand with **wrist band** (for color detection) interacts with a object (focused)
+- Input: two opposite depth cameras, one hand, with **wrist band** (for color detection) interacts with an object (focused)
 - Output: Hand and object mesh with non-rigid deformations
 - Method:
   - Use TSDF from **dynamic fusion** to represent object model from depth
