@@ -1,4 +1,4 @@
-# Mega review - liyuwei
+# Meta review - liyuwei
 - general contributions
   - Novel/first system/approach/pipeline/generative model for real-time/joint...
   - A new large-scale/synthetic/real dataset
