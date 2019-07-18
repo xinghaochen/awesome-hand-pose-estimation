@@ -1,3 +1,12 @@
+# Mega review - liyuwei
+- general contributions
+  - Novel/first system/approach/pipeline/generative model for real-time/joint...
+  - A new large-scale/synthetic/real dataset
+  - **real novel algorithm/network structure/loss design**
+---
+
+
+
 # Awesome Hand Pose Estimation [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
 A curated list of related resources for hand pose estimation. Feel free to [contribute](#Contribute)!
@@ -215,12 +224,33 @@ _>review_lyw_
   - normalized vertices + translation + scale -> object vertices
 - Contributions:
   - End-to-end network
-  - Differentiable MANO network layer to learn hand shape
-  - Contact loss to penalize hand object penetration and encourage contact
+  - **Differentiable MANO network layer to learn hand shape**
+  - **Contact loss to penalize hand object penetration and encourage contact**
   - a new large-scale synthetic dataset **ObMan**, with hand-object manipulations
 
 ##### 3D Hand Shape and Pose Estimation from a Single RGB Image. [\[PDF\]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Ge_3D_Hand_Shape_and_Pose_Estimation_From_a_Single_RGB_CVPR_2019_paper.pdf) [\[Project\]](https://sites.google.com/site/geliuhaontu/home/cvpr2019) [\[Code\]](https://github.com/3d-hand-shape/hand-graph-cnn) *(Oral)*
 _Liuhao Ge, Zhou Ren, Yuncheng Li, Zehao Xue, Yingying Wang, Jianfei Cai, Junsong Yuan_
+
+_>review_lyw_
+
+- Nanyang Technological University & Snap Inc.
+- Input: a single RGB image centered on a hand (focused)
+- Output: Hand mesh
+- Method:
+  - An end-to-end GNN
+    - trained on systhetic dataset (2d headmap loss, mesh loss, pose loss)
+    - fine tuned on real world dataset with weak supervision (heat-map loss, depth map loss and pseudo-GT mesh loss)
+  - image -> stacked hourglass network = heatmap + image feature map -> residual network = latent feature
+  - latent feature -> GNN = **3D hand mesh** -> linear regressor = **3D hand pose**
+- Contributions
+  - **a novel end-to-end trainable hand mesh generation approach based on GNN**
+  - a weakly-supervised trainning pipeline on real-world dataset(without gt mesh)
+  - the first large-scale (375,000 images) synthetic RGB-based 3D hand shape and pose dataset and a small-scale (583 images) real world dataset
+- Insights
+  - _Compare with MANO and LBS methods_
+    - It is difficult to regress accurate MANO parameters directly from image features and it is limited for nonlinear variations in hand shape. GNN can better express hand shape, because it directly manipulates mesh vertices. They also use an artist rigged hand mesh with **1280** vertices, MANO has **778** vertices.
+    - LBS can not represent different shapes and have unrealistic deformation at joints and suffer from serious inherent artifacts.
+    - ![comparsion_with_MANO_LBS](figures/compare_mano_lbs.png)
 
 ##### 3D Hand Shape and Pose from Images in the Wild. [\[PDF\]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Boukhayma_3D_Hand_Shape_and_Pose_From_Images_in_the_Wild_CVPR_2019_paper.pdf)  [\[Code\]](https://github.com/boukhayma/3dhand) *(Oral)*
 _Adnane Boukhayma, Rodrigo de Bem, Philip H.S. Torr_
@@ -257,7 +287,7 @@ _> review_lyw_
   - 22ms for hand-object segmentation and LSTM based prediction [GPU server]
 - Contribution
   - first real-time hand object tracking system
-  - an **LSTM based predictor** and **a novel interaction term**
+  - **an LSTM based predictor and a novel interaction term**
   - a generative model to solve the problem by fusing point cloud of two frames and involving pose, object and joint pose-and-object regularizers in an unified optimization framework.
 - LSTM
   - input hand poses of previous frames and outputs a predicted hand pose
