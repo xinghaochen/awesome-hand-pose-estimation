@@ -211,7 +211,7 @@ _Georgios Pavlakos\*, Vasileios Choutas\*, Nima Ghorbani, Timo Bolkart, Ahmed A.
 ##### Learning joint reconstruction of hands and manipulated objects. [\[PDF\]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Pavlakos_Expressive_Body_Capture_3D_Hands_Face_and_Body_From_a_CVPR_2019_paper.pdf) [\[Code\]](https://github.com/hassony2/manopth) [\[Code\]](https://github.com/hassony2/obman_train) [\[Project\]](https://www.di.ens.fr/willow/research/obman/)
 _Yana Hasson, Gül Varol, Dimitris Tzionas, Igor Kalevatykh, Michael J. Black, Ivan Laptev, and Cordelia Schmid_
 
-_>review_lyw_
+_> review_lyw_
 
 - Inria and MPI
 - Input: single RGB image (focused), one hand holding an object
@@ -231,7 +231,7 @@ _>review_lyw_
 ##### 3D Hand Shape and Pose Estimation from a Single RGB Image. [\[PDF\]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Ge_3D_Hand_Shape_and_Pose_Estimation_From_a_Single_RGB_CVPR_2019_paper.pdf) [\[Project\]](https://sites.google.com/site/geliuhaontu/home/cvpr2019) [\[Code\]](https://github.com/3d-hand-shape/hand-graph-cnn) *(Oral)*
 _Liuhao Ge, Zhou Ren, Yuncheng Li, Zehao Xue, Yingying Wang, Jianfei Cai, Junsong Yuan_
 
-_>review_lyw_
+_> review_lyw_
 
 - Nanyang Technological University & Snap Inc.
 - Input: a single RGB image centered on a hand (focused)
@@ -514,6 +514,13 @@ _Anastasia Tkach\*, Andrea Tagliasacchi\*, Edoardo Remelli, Mark Pauly, Andrew F
 ##### [2017 SIGGRAPH Asia] Embodied Hands: Modeling and Capturing Hands and Bodies Together. [\[PDF\]](http://ps.is.tue.mpg.de/uploads_file/attachment/attachment/392/Embodied_Hands_SiggraphAsia2017.pdf)  [\[Project\]](http://ps.is.tue.mpg.de/publications/embodiedhands)
 _Javier Romero\*, Dimitrios Tzionas\* and Michael J. Black_
 
+_> review_lyw_
+- MPI
+- Contributions:
+  - learning a new model of the hand
+  - tracking hands and bodies together
+
+
 ##### [2017 BMVC] Hand Pose Learning: Combining Deep Learning and Hierarchical Refinement for 3D Hand Pose Estimation. [\[PDF\]](https://www.dropbox.com/s/3y96pnutxum3p4v/0569.pdf?dl=1)
 *Min-Yu Wu, Ya Hui Tang, Pai-Wei Ting and Li-Chen Fu*
 
@@ -571,10 +578,6 @@ _Ayan Sinha\*, Chiho Choi\*, Karthik Ramani_
 
 ##### \[2016 ICPR\] Depth-based 3D hand pose tracking. [\[PDF\]](http://ieeexplore.ieee.org/abstract/document/7900051)
 *Kha Gia Quach, Chi Nhan Duong, Khoa Luu, and Tien D. Bui.*
-
-_> review_lyw_
-
--
 
 ##### \[2016 IJCAI\] Model-based Deep Hand Pose Estimation. [\[PDF\]](http://xingyizhou.xyz/zhou2016model.pdf) [\[Project\]](http://xingyizhou.xyz/) [\[Code\]](https://github.com/tenstep/DeepModel)
 *Xingyi Zhou, Qingfu Wan, Wei Zhang, Xiangyang Xue, Yichen Wei*
