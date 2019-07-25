@@ -580,11 +580,15 @@ _Ayan Sinha\*, Chiho Choi\*, Karthik Ramani_
 [\[back to top\]](#contents)
 
 ## Theses
-##### \[2018\] 3D Hand Pose Estimation from Images for Interactive Applications. [\[PDF\]](http://diglib.tugraz.at/download.php?id=5c4a489d042d4&location=aleph)
-*[Markus Oberweger](https://moberweger.github.io/), Graz University of Technology*
+
+##### \[2018\] 3D hand pose estimation: methods, datasets, and challenges. [\[PDF\]](https://spiral.imperial.ac.uk/handle/10044/1/70791)
+*[Shanxin Yuan](https://sites.google.com/site/shanxinyuan/), Imperial College London*
 
 ##### \[2018\] 3D hand pose estimation using convolutional neural networks. [\[PDF\]](https://spiral.imperial.ac.uk/bitstream/10044/1/68489/1/Ye-Q-2019-PhD-thesis.pdf)
 *[Qi Ye](https://sites.google.com/site/qiyeincv/), Imperial College London*
+
+##### \[2018\] 3D Hand Pose Estimation from Images for Interactive Applications. [\[PDF\]](http://diglib.tugraz.at/download.php?id=5c4a489d042d4&location=aleph)
+*[Markus Oberweger](https://moberweger.github.io/), Graz University of Technology*
 
 ##### \[2018\] Articulated Human Pose Estimation in Unconstrained Images and Videos. [\[PDF\]](http://hss.ulb.uni-bonn.de/2018/5292/5292.pdf)
 *[Umar Iqbal](http://www.umariqbal.info/), University of Bonn*
@@ -687,6 +691,9 @@ _Ayan Sinha\*, Chiho Choi\*, Karthik Ramani_
 [\[back to top\]](#contents)
 
 ## Challenges
+
+##### [HANDS19 Challenge](https://sites.google.com/view/hands2019/challenge)
+*[HANDS 2019](https://sites.google.com/view/hands2019/), [ICCV 2019](http://iccv2019.thecvf.com/)*
 
 ##### [The 2017 Hands in the Million Challenge on 3D Hand Pose Estimation](http://icvl.ee.ic.ac.uk/hands17/challenge/)
 *[HANDS 2017](http://icvl.ee.ic.ac.uk/hands17/), [ICCV 2017](http://iccv2017.thecvf.com/)*
