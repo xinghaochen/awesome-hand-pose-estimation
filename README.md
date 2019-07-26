@@ -28,6 +28,9 @@ See folder [``evaluation``](./evaluation) to get more details about performance 
 
 ## arXiv Papers
 
+##### [\[arXiv:1907.10695\]](https://arxiv.org/abs/1907.10695) Dual Grid Net: hand mesh vertex regression from single depth maps. [\[PDF\]](https://arxiv.org/pdf/1907.10695.pdf)
+_Chengde Wan, Thomas Probst, Luc Van Gool, Angela Yao_
+
 ##### [\[arXiv:1907.01481\]](https://arxiv.org/abs/1907.01481) HO-3D: A Multi-User, Multi-Object Dataset for Joint 3D Hand-Object Pose Estimation. [\[PDF\]](https://arxiv.org/pdf/1907.01481.pdf)
 _Shreyas Hampali, Markus Oberweger, Mahdi Rad, Vincent Lepetit_
 
