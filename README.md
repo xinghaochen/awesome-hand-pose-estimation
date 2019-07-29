@@ -37,6 +37,9 @@ See folder [``evaluation``](./evaluation) to get more details about performance 
 
 ## arXiv Papers
 
+##### [\[arXiv:1907.10695\]](https://arxiv.org/abs/1907.10695) Dual Grid Net: hand mesh vertex regression from single depth maps. [\[PDF\]](https://arxiv.org/pdf/1907.10695.pdf)
+_Chengde Wan, Thomas Probst, Luc Van Gool, Angela Yao_
+
 ##### [\[arXiv:1907.01481\]](https://arxiv.org/abs/1907.01481) HO-3D: A Multi-User, Multi-Object Dataset for Joint 3D Hand-Object Pose Estimation. [\[PDF\]](https://arxiv.org/pdf/1907.01481.pdf)
 _Shreyas Hampali, Markus Oberweger, Mahdi Rad, Vincent Lepetit_
 
@@ -264,6 +267,9 @@ _Donglai Xiang, Hanbyul Joo, Yaser Sheikh_
 [\[back to top\]](#contents)
 
 ### 2019 Others
+
+##### [2019 SIGGRAPH] Interactive Hand Pose Estimation using a Stretch-Sensing Soft Glove. [\[PDF\]](https://cims.nyu.edu/gcl/papers/2019-Capacitive.pdf)  [\[Project\]](https://igl.ethz.ch/projects/stretch-glove/)
+_Oliver Glauser, Shihao Wu, Daniele Panozzo, Otmar Hilliges, Olga Sorkine-Hornung_
 
 ##### [2019 SIGGRAPH] InteractionFusion: Real-time Reconstruction of Hand Poses and Deformable Objects in Hand-object Interactions. [\[PDF\]](https://dl.acm.org/citation.cfm?id=3322998)
 _Hao Zhang, Zi-Hao Bo, Jun-Hai Yong, Feng Xu_
@@ -699,11 +705,15 @@ _> review_lyw_
 [\[back to top\]](#contents)
 
 ## Theses
-##### \[2018\] 3D Hand Pose Estimation from Images for Interactive Applications. [\[PDF\]](http://diglib.tugraz.at/download.php?id=5c4a489d042d4&location=aleph)
-*[Markus Oberweger](https://moberweger.github.io/), Graz University of Technology*
+
+##### \[2018\] 3D hand pose estimation: methods, datasets, and challenges. [\[PDF\]](https://spiral.imperial.ac.uk/handle/10044/1/70791)
+*[Shanxin Yuan](https://sites.google.com/site/shanxinyuan/), Imperial College London*
 
 ##### \[2018\] 3D hand pose estimation using convolutional neural networks. [\[PDF\]](https://spiral.imperial.ac.uk/bitstream/10044/1/68489/1/Ye-Q-2019-PhD-thesis.pdf)
 *[Qi Ye](https://sites.google.com/site/qiyeincv/), Imperial College London*
+
+##### \[2018\] 3D Hand Pose Estimation from Images for Interactive Applications. [\[PDF\]](http://diglib.tugraz.at/download.php?id=5c4a489d042d4&location=aleph)
+*[Markus Oberweger](https://moberweger.github.io/), Graz University of Technology*
 
 ##### \[2018\] Articulated Human Pose Estimation in Unconstrained Images and Videos. [\[PDF\]](http://hss.ulb.uni-bonn.de/2018/5292/5292.pdf)
 *[Umar Iqbal](http://www.umariqbal.info/), University of Bonn*
@@ -748,7 +758,7 @@ _> review_lyw_
 - S/R: Synthetic (S) or Real (R) or Both (B)
 - C/D: Color (RGB) or Depth (D)
 - Obj: Interaction with objects or not
-- #J:  No. of joints
+- #J:  No. of joints or Mesh (M)
 - V: view (3rd or egocentric)
 - #S: No. of subjects
 - #F: No. of frames (train/test)
@@ -759,7 +769,7 @@ _> review_lyw_
 |[ICVL](https://labicvl.github.io/hand.html) | 2014 | R | D | No |  16 | 3rd  |  10 | 331k/1.5k | Latent regression forest: Structured estimation of 3d articulated hand posture, CVPR 2014 [\[PDF\]](https://labicvl.github.io/docs/pubs/Danny_CVPR_2014.pdf)|
 |[MSRA15](https://github.com/geliuhao/CVPR2016_HandPoseEstimation/issues/4) | 2015 | R | D | No |  21 | 3rd  |  9 | 76,375 | Cascaded Hand Pose Regression, CVPR 2015 [\[PDF\]](http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Sun_Cascaded_Hand_Pose_2015_CVPR_paper.pdf)|
 |[BigHand2.2M](http://icvl.ee.ic.ac.uk/hands17/challenge/) | 2017 | R | D | No |  21 | 3rd  |  10 | 2.2M | Big Hand 2.2M Benchmark: Hand Pose Data Set and State of the Art Analysis, CVPR 2017 [\[PDF\]](https://labicvl.github.io/docs/pubs/Shanxin_CVPR_2017.pdf)|
-|[SynHand5M](https://cloud.dfki.de/owncloud/index.php/s/iCMRF7a5FkXrdpn) | 2018 | S | D | No |  21 | 3rd  |  - | 5M | DeepHPS: End-to-end Estimation of 3D Hand Pose and Shape by Learning from Synthetic Depth, 3DV 2018 [\[PDF\]](https://arxiv.org/pdf/1808.09208.pdf)|
+|[SynHand5M](https://cloud.dfki.de/owncloud/index.php/s/iCMRF7a5FkXrdpn) | 2018 | S | D | No |  M | 3rd  |  - | 5M | DeepHPS: End-to-end Estimation of 3D Hand Pose and Shape by Learning from Synthetic Depth, 3DV 2018 [\[PDF\]](https://arxiv.org/pdf/1808.09208.pdf)|
 |[FHAD](https://guiggh.github.io/publications/first-person-hands/) | 2018 | R | D | Yes |  21 | ego  |  6 | 100k | First-Person Hand Action Benchmark with RGB-D Videos and 3D Hand Pose Annotations, CVPR 2018 [\[PDF\]](https://arxiv.org/pdf/1704.02463)|
 |[GANerated Hands](https://handtracker.mpi-inf.mpg.de/projects/GANeratedHands/GANeratedDataset.htm) | 2018 | S | C | Both |  21 | ego  |  - | 330k | GANerated Hands for Real-Time 3D Hand Tracking from Monocular RGB, CVPR 2018 [\[PDF\]](https://handtracker.mpi-inf.mpg.de/projects/GANeratedHands/content/GANeratedHands_CVPR2018.pdf)|
 |[EgoDexter](http://handtracker.mpi-inf.mpg.de/projects/OccludedHands/EgoDexter.htm) | 2017 | R | C+D | Yes |  5 | ego  |  4 | 1485 | Real-time Hand Tracking under Occlusion from an Egocentric RGB-D Sensor, ICCV 2017 [\[PDF\]](http://handtracker.mpi-inf.mpg.de/projects/OccludedHands/content/OccludedHands_ICCV2017.pdf)|
@@ -806,6 +816,9 @@ _> review_lyw_
 [\[back to top\]](#contents)
 
 ## Challenges
+
+(https://sites.google.com/view/hands2019/challenge)
+*[HANDS 2019](https://sites.google.com/view/hands2019/), [ICCV 2019](http://iccv2019.thecvf.com/)*
 
 ##### [The 2017 Hands in the Million Challenge on 3D Hand Pose Estimation](http://icvl.ee.ic.ac.uk/hands17/challenge/)
 *[HANDS 2017](http://icvl.ee.ic.ac.uk/hands17/), [ICCV 2017](http://iccv2017.thecvf.com/)*
