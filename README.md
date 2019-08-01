@@ -9,7 +9,7 @@ A curated list of related resources for hand pose estimation. Feel free to [cont
    - [TPAMI / IJCV](#tpami--ijcv)
    - [Others](#other-journals)
  - [Conference Papers](#conference-papers)
-   - 2019: [CVPR](#2019-cvpr), [Others](#2019-others)
+   - 2019: [CVPR](#2019-cvpr), [ICCV](#2019-iccv), [Others](#2019-others)
    - 2018: [CVPR](#2018-cvpr), [ECCV](#2018-eccv), [Others](#2018-others)
    - 2017: [CVPR](#2017-cvpr), [ICCV](#2017-iccv), [Others](#2017-others)
    - 2016: [CVPR](#2016-cvpr), [ECCV](#2016-eccv), [Others](#2016-others)
@@ -39,9 +39,6 @@ _Xingyuan Zhang, Fuhai Zhang_
 
 ##### [\[arXiv:1904.07528\]](https://arxiv.org/abs/1904.07528) Disentangling Pose from Appearance in Monochrome Hand Images. [\[PDF\]](https://arxiv.org/pdf/1904.07528.pdf)
 _Yikang Li, Chris Twigg, Yuting Ye, Lingling Tao, Xiaogang Wang_
-
-##### [\[arXiv:1902.09305\]](https://arxiv.org/abs/1902.09305) End-to-end Hand Mesh Recovery from a Monocular RGB Image. [\[PDF\]](https://arxiv.org/pdf/1902.09305.pdf)  [\[Code\]](https://github.com/MandyMo/HAMR)
-_Xiong Zhang\*, Qiang Li\*, Wenbo Zhang, Wen Zheng_
 
 ##### [\[arXiv:1811.07123\]](https://arxiv.org/abs/1811.07376) RGB-based 3D Hand Pose Estimation via Privileged Learning with Depth Images. [\[PDF\]](https://arxiv.org/pdf/1811.07376.pdf)
 _Shanxin Yuan, Bjorn Stenger, Tae-Kyun Kim_
@@ -154,6 +151,10 @@ _Guijin Wang, Xinghao Chen\*, Hengkai Guo\*, Cairong Zhang_
 [\[back to top\]](#contents)
 
 ## Conference Papers
+
+### 2019 ICCV
+##### End-to-end Hand Mesh Recovery from a Monocular RGB Image. [\[PDF\]](https://arxiv.org/pdf/1902.09305.pdf)  [\[Code\]](https://github.com/MandyMo/HAMR)
+_Xiong Zhang\*, Qiang Li\*, Wenbo Zhang, Wen Zheng_
 
 ### 2019 CVPR
 
