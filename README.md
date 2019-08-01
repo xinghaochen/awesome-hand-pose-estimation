@@ -67,17 +67,11 @@ _> review_lyw_
   - spatial-form representation (SFR)
   - differentiable decoder (DD)
 
-##### [\[arXiv:1905.01326\]](https://arxiv.org/abs/1905.01326) Single Image 3D Hand Reconstruction with Mesh Convolutions. [\[PDF\]](https://arxiv.org/pdf/1905.01326.pdf) [\[Code\]](https://github.com/dkulon/hand-reconstruction)
-_Dominik Kulon, Haoyang Wang, Riza Alp Güler, Michael Bronstein, Stefanos Zafeiriou_
-
 ##### [\[arXiv:1904.07528\]](https://arxiv.org/abs/1904.07528) Disentangling Pose from Appearance in Monochrome Hand Images. [\[PDF\]](https://arxiv.org/pdf/1904.07528.pdf)
 _Yikang Li, Chris Twigg, Yuting Ye, Lingling Tao, Xiaogang Wang_
 
 ##### [\[arXiv:1902.09305\]](https://arxiv.org/abs/1902.09305) End-to-end Hand Mesh Recovery from a Monocular RGB Image. [\[PDF\]](https://arxiv.org/pdf/1902.09305.pdf)  [\[Code\]](https://github.com/MandyMo/HAMR)
 _Xiong Zhang\*, Qiang Li\*, Wenbo Zhang, Wen Zheng_
-
-##### [\[arXiv:1811.09916\]](https://arxiv.org/abs/1811.09916) Generating Realistic Training Images Based on Tonality-Alignment Generative Adversarial Networks for Hand Pose Estimation. [\[PDF\]](https://arxiv.org/pdf/1811.09916.pdf)
-_Liangjian Chen, Shih-Yao Lin, Yusheng Xie, Hui Tang, Yufan Xue, Xiaohui Xie, Yen-Yu Lin, Wei Fan_
 
 ##### [\[arXiv:1811.07123\]](https://arxiv.org/abs/1811.07376) RGB-based 3D Hand Pose Estimation via Privileged Learning with Depth Images. [\[PDF\]](https://arxiv.org/pdf/1811.07376.pdf)
 _Shanxin Yuan, Bjorn Stenger, Tae-Kyun Kim_
@@ -312,6 +306,24 @@ _> review_lyw_
 - Input: two hand performing complex interaction in front of a depth camera (focused)
 - Output: real time two hand reconstructed mesh with shape and pose and collision detection
 - Novelty: First ever to do two hand real time reconstruction
+
+##### [2019 BMVC] Unified 2D and 3D Hand Pose Estimation from a Single Visible or X-ray Image. \[PDF\]
+_Akila Pemasiri, Kien Nguyen Thanh, Sridha Sridharan, Clinton Fookes_
+
+##### [2019 BMVC] TAGAN: Tonality Aligned GenerativeAdversarial Networks for Realistic HandPose Synthesis. [\[PDF\]](https://arxiv.org/pdf/1811.09916.pdf)
+_Liangjian Chen, Shih-Yao Lin, Yusheng Xie, Hui Tang, Yufan Xue, Xiaohui Xie, Yen-Yu Lin, Wei Fan_
+
+##### [2019 BMVC] Single Image 3D Hand Reconstruction with Mesh Convolutions. [\[PDF\]](https://arxiv.org/pdf/1905.01326.pdf) [\[Code\]](https://github.com/dkulon/hand-reconstruction)
+_Dominik Kulon, Haoyang Wang, Riza Alp Güler, Michael Bronstein, Stefanos Zafeiriou_
+
+##### [2019 BMVC] Adaptive Graphical Model Network for 2D Handpose Estimation. \[PDF\]
+_Deying Kong, Yifei Chen, Haoyu Ma, Xiangyi Yan, Xiaohui Xie_
+
+##### [2019 BMVC] SRN: Stacked Regression Network for Real-time 3D Hand Pose Estimation. \[PDF\]
+_Pengfei Ren, Haifeng Sun, Jingyu Wang, Qi Qi, Weiting Huang_
+
+##### [2019 BMVC] End-to-End 3D Hand Pose Estimation from Stereo Cameras. \[PDF\]  *(Oral)*
+_Yuncheng Li, Zehao Xue, Yingying Wang, Liuhao Ge, Zhou Ren, Jonathan Rodriguez_
 
 ##### [2019 ACCV] Hand Pose Estimation Based on 3D Residual Network with Data Padding and Skeleton Steadying. [\[PDF\]](https://link.springer.com/chapter/10.1007/978-3-030-20873-8_19)
 _Pai-Wen Ting, En-Te Chou, Ya-Hui Tang, Li-Chen Fu_
