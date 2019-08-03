@@ -94,6 +94,9 @@ _Liuhao Ge, Hui Liang, Junsong Yuan and Daniel Thalmann_
 [\[back to top\]](#contents)
 
 ### Other Journals
+##### \[2019 [RA-L](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7083369)\] Variational Object-aware 3D Hand Pose from a Single RGB Image. [\[PDF\]](https://www.researchgate.net/profile/Yida_Wang/publication/334639748_Variational_Object-aware_3D_Hand_Pose_from_a_Single_RGB_Image/links/5d3a1a41a6fdcc370a6048df/Variational-Object-aware-3D-Hand-Pose-from-a-Single-RGB-Image.pdf)
+_Yafei Gao\*, Yida Wang\*, Pietro Falco, Nassir Navab, Federico Tombari_
+
 ##### \[2018 PR\] A Survey on 3D Hand Pose Estimation: Cameras, Methods, and Datasets. [\[PDF\]](https://www.sciencedirect.com/science/article/abs/pii/S0031320319301724)
 _Rui Li, Zhenyu Liu, Jianrong Tan_
 
