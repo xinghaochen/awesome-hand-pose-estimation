@@ -204,6 +204,9 @@ _Hao Zhang, Zi-Hao Bo, Jun-Hai Yong, Feng Xu_
 ##### [2019 SIGGRAPH] Real-time pose and shape reconstruction of two interacting hands with a single depth camera. [\[PDF\]](https://handtracker.mpi-inf.mpg.de/projects/TwoHands/content/TwoHands_SIGGRAPH2019.pdf) [\[Project\]](https://handtracker.mpi-inf.mpg.de/projects/TwoHands/)
 _Franziska Mueller, Micah Davis, Florian Bernard, Oleksandr Sotnychenko, Mickeal Verschoor, Miguel A. Otaduy, Dan Casas, Christian Theobalt_
 
+##### [2019 FG] Deep Conditional Variational Estimation for Depth-Based Hand Poses. [\[PDF\]](https://ieeexplore.ieee.org/abstract/document/8756559)
+_Lu Xu, Chen Hu, Yinqi Li, Ji’an Tao, Jianru Xue, Kuizhi Mei_
+
 ##### [2019 BMVC] Unified 2D and 3D Hand Pose Estimation from a Single Visible or X-ray Image. \[PDF\]
 _Akila Pemasiri, Kien Nguyen Thanh, Sridha Sridharan, Clinton Fookes_
 
