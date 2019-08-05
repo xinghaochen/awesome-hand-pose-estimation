@@ -18,7 +18,7 @@ A curated list of related resources for hand pose estimation. Feel free to [cont
    - [TPAMI / IJCV](#tpami--ijcv)
    - [Others](#other-journals)
  - [Conference Papers](#conference-papers)
-   - 2019: [CVPR](#2019-cvpr), [Others](#2019-others)
+   - 2019: [CVPR](#2019-cvpr), [ICCV](#2019-iccv), [Others](#2019-others)
    - 2018: [CVPR](#2018-cvpr), [ECCV](#2018-eccv), [Others](#2018-others)
    - 2017: [CVPR](#2017-cvpr), [ICCV](#2017-iccv), [Others](#2017-others)
    - 2016: [CVPR](#2016-cvpr), [ECCV](#2016-eccv), [Others](#2016-others)
@@ -69,9 +69,6 @@ _> review_lyw_
 
 ##### [\[arXiv:1904.07528\]](https://arxiv.org/abs/1904.07528) Disentangling Pose from Appearance in Monochrome Hand Images. [\[PDF\]](https://arxiv.org/pdf/1904.07528.pdf)
 _Yikang Li, Chris Twigg, Yuting Ye, Lingling Tao, Xiaogang Wang_
-
-##### [\[arXiv:1902.09305\]](https://arxiv.org/abs/1902.09305) End-to-end Hand Mesh Recovery from a Monocular RGB Image. [\[PDF\]](https://arxiv.org/pdf/1902.09305.pdf)  [\[Code\]](https://github.com/MandyMo/HAMR)
-_Xiong Zhang\*, Qiang Li\*, Wenbo Zhang, Wen Zheng_
 
 ##### [\[arXiv:1811.07123\]](https://arxiv.org/abs/1811.07376) RGB-based 3D Hand Pose Estimation via Privileged Learning with Depth Images. [\[PDF\]](https://arxiv.org/pdf/1811.07376.pdf)
 _Shanxin Yuan, Bjorn Stenger, Tae-Kyun Kim_
@@ -127,6 +124,10 @@ _Liuhao Ge, Hui Liang, Junsong Yuan and Daniel Thalmann_
 [\[back to top\]](#contents)
 
 ### Other Journals
+
+##### \[2019 [RA-L](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7083369)\] Variational Object-aware 3D Hand Pose from a Single RGB Image. [\[PDF\]](https://www.researchgate.net/profile/Yida_Wang/publication/334639748_Variational_Object-aware_3D_Hand_Pose_from_a_Single_RGB_Image/links/5d3a1a41a6fdcc370a6048df/Variational-Object-aware-3D-Hand-Pose-from-a-Single-RGB-Image.pdf)  [\[Code\]](https://github.com/wangyida/VO-handpose)
+_Yafei Gao\*, Yida Wang\*, Pietro Falco, Nassir Navab, Federico Tombari_
+
 ##### \[2018 PR\] A Survey on 3D Hand Pose Estimation: Cameras, Methods, and Datasets. [\[PDF\]](https://www.sciencedirect.com/science/article/abs/pii/S0031320319301724)
 _Rui Li, Zhenyu Liu, Jianrong Tan_
 
@@ -186,6 +187,9 @@ _Guijin Wang, Xinghao Chen\*, Hengkai Guo\*, Cairong Zhang_
 ## Conference Papers
 
 ### 2019 CVPR
+
+##### End-to-end Hand Mesh Recovery from a Monocular RGB Image. [\[PDF\]](https://arxiv.org/pdf/1902.09305.pdf)  [\[Code\]](https://github.com/MandyMo/HAMR)
+_Xiong Zhang\*, Qiang Li\*, Wenbo Zhang, Wen Zheng_
 
 ##### Disentangling Latent Hands for Image Synthesis and Pose Estimation. [\[PDF\]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Yang_Disentangling_Latent_Hands_for_Image_Synthesis_and_Pose_Estimation_CVPR_2019_paper.pdf)
 _Linlin Yang, Angela Yao_
@@ -306,6 +310,9 @@ _> review_lyw_
 - Input: two hand performing complex interaction in front of a depth camera (focused)
 - Output: real time two hand reconstructed mesh with shape and pose and collision detection
 - Novelty: First ever to do two hand real time reconstruction
+
+##### [2019 FG] Deep Conditional Variational Estimation for Depth-Based Hand Poses. [\[PDF\]](https://ieeexplore.ieee.org/abstract/document/8756559)
+_Lu Xu, Chen Hu, Yinqi Li, Ji’an Tao, Jianru Xue, Kuizhi Mei_
 
 ##### [2019 BMVC] Unified 2D and 3D Hand Pose Estimation from a Single Visible or X-ray Image. \[PDF\]
 _Akila Pemasiri, Kien Nguyen Thanh, Sridha Sridharan, Clinton Fookes_
