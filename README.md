@@ -159,6 +159,9 @@ _Guijin Wang, Xinghao Chen\*, Hengkai Guo\*, Cairong Zhang_
 ##### End-to-end Hand Mesh Recovery from a Monocular RGB Image. [\[PDF\]](https://arxiv.org/pdf/1902.09305.pdf)  [\[Code\]](https://github.com/MandyMo/HAMR)
 _Xiong Zhang\*, Qiang Li\*, Wenbo Zhang, Wen Zheng_
 
+##### Aligning Latent Spaces for 3D Hand Pose Estimation. \[PDF\]
+_Linlin Yang\*, Shile Li\*, Dongheui Lee, Angela Yao_
+
 ### 2019 CVPR
 
 ##### Disentangling Latent Hands for Image Synthesis and Pose Estimation. [\[PDF\]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Yang_Disentangling_Latent_Hands_for_Image_Synthesis_and_Pose_Estimation_CVPR_2019_paper.pdf)
