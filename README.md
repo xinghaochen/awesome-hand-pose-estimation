@@ -156,6 +156,9 @@ _Guijin Wang, Xinghao Chen\*, Hengkai Guo\*, Cairong Zhang_
 ## Conference Papers
 
 ### 2019 ICCV
+##### SO-HandNet: Self-Organizing Network for 3D Hand Pose Estimation with Semi-supervised Learning. [\[PDF\]](https://drive.google.com/file/d/11GJzouV6jt_aOpvrJ8l3J5x_R_-m-Lg8/view)  [\[Code\]](https://github.com/TerenceCYJ/SO-HandNet)
+_Yujin Chen, Zhigang Tu, Liuhao Ge, Dejun Zhang, Ruizhi Chen, Junsong Yuan_
+
 ##### End-to-end Hand Mesh Recovery from a Monocular RGB Image. [\[PDF\]](https://arxiv.org/pdf/1902.09305.pdf)  [\[Code\]](https://github.com/MandyMo/HAMR)
 _Xiong Zhang\*, Qiang Li\*, Wenbo Zhang, Wen Zheng_
 
