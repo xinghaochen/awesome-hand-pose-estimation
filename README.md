@@ -156,6 +156,9 @@ _Guijin Wang, Xinghao Chen\*, Hengkai Guo\*, Cairong Zhang_
 ## Conference Papers
 
 ### 2019 ICCV
+##### Resolving 3D Human Pose Ambiguities with 3D Scene Constraints. [\[PDF\]](https://ps.is.tuebingen.mpg.de/uploads_file/attachment/attachment/530/ICCV_2019___PROX.pdf)  [\[Project\]](https://prox.is.tue.mpg.de/)
+_Mohamed Hassan, Vasileios Choutas, Dimitrios Tzionas and Michael J. Black_
+
 ##### SO-HandNet: Self-Organizing Network for 3D Hand Pose Estimation with Semi-supervised Learning. [\[PDF\]](https://drive.google.com/file/d/11GJzouV6jt_aOpvrJ8l3J5x_R_-m-Lg8/view)  [\[Code\]](https://github.com/TerenceCYJ/SO-HandNet)
 _Yujin Chen, Zhigang Tu, Liuhao Ge, Dejun Zhang, Ruizhi Chen, Junsong Yuan_
 
