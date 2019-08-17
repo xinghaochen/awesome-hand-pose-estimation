@@ -156,6 +156,12 @@ _Guijin Wang, Xinghao Chen\*, Hengkai Guo\*, Cairong Zhang_
 ## Conference Papers
 
 ### 2019 ICCV
+##### A2J: Anchor-to-Joint Regression Network for 3D Articulated Pose Estimation from a Single Depth Image. [\[PDF\]](https://cse.buffalo.edu/~jsyuan/papers/2019/A2J.pdf) [\[Code\]](https://github.com/zhangboshen/A2J)
+_Fu Xiong\*, Boshen Zhang\*, Yang Xiao, Zhiguo Cao, Taidong Yu, Joey Tianyi Zhou, and Junsong Yuan_
+
+##### Exploiting Spatial-temporal Relationships for 3D Pose Estimation via Graph Convolutional Networks. [\[PDF\]](https://cse.buffalo.edu/~jsyuan/papers/2019/Exploiting_Spatial-temporal_Relationships_for_3D_Pose_Estimation_via_Graph_Convolutional_Networks.pdf)
+_Yujun Cai, Liuhao Ge, Jun Liu, Jianfei Cai, Tat-Jen Cham, Junsong Yuan, and Nadia Magnenat Thalmann_
+
 ##### Resolving 3D Human Pose Ambiguities with 3D Scene Constraints. [\[PDF\]](https://ps.is.tuebingen.mpg.de/uploads_file/attachment/attachment/530/ICCV_2019___PROX.pdf)  [\[Project\]](https://prox.is.tue.mpg.de/)
 _Mohamed Hassan, Vasileios Choutas, Dimitrios Tzionas and Michael J. Black_
 
