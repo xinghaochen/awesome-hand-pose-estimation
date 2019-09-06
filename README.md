@@ -703,6 +703,7 @@ _Ayan Sinha\*, Chiho Choi\*, Karthik Ramani_
 |[MSRA14](https://jimmysuen.github.io/) | 2014|  R | D | No |  21 | 3rd  |  6 | 2,400 | Realtime and Robust Hand Tracking from Depth, CVPR 2014 [\[PDF\]](http://www.cv-foundation.org/openaccess/content_cvpr_2014/papers/Qian_Realtime_and_Robust_2014_CVPR_paper.pdf)|
 |[Dexter1](http://handtracker.mpi-inf.mpg.de/projects/handtracker_iccv2013/dexter1.htm) | 2013 | R | D+C | No |  6 | 3rd |  1 | 2,137 | Interactive Markerless Articulated Hand Motion Tracking Using RGB and Depth Data, ICCV 2013 [\[PDF\]](http://handtracker.mpi-inf.mpg.de/projects/handtracker_iccv2013/content/handtracker_iccv2013.pdf)|
 |[ASTAR](http://hpes.bii.a-star.edu.sg/) | 2013 | R | D | No |  20 | 3rd  |  30 | 870 | Efficient hand pose estimation from a single depth image, ICCV 2013 [\[PDF\]](http://www.cv-foundation.org/openaccess/content_iccv_2013/papers/Xu_Efficient_Hand_Pose_2013_ICCV_paper.pdf)|
+|[MHP](http://www.rovit.ua.es/dataset/mhpdataset/) | 2017 | R | C | No  | 21 | 3rd | 9 | 80k | Large-scale Multiview 3D Hand Pose Dataset [\[PDF\]](https://arxiv.org/pdf/1707.03742.pdf)  |
 
 **Credits:**
 - [1] Big Hand 2.2M Benchmark: Hand Pose Data Set and State of the Art Analysis, CVPR 2017 [\[PDF\]](https://labicvl.github.io/docs/pubs/Shanxin_CVPR_2017.pdf)
