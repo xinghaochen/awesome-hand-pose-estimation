@@ -37,15 +37,6 @@ _Shreyas Hampali, Markus Oberweger, Mahdi Rad, Vincent Lepetit_
 ##### [\[arXiv:1905.02085\]](https://arxiv.org/abs/1905.02085) Pixel-wise Regression: 3D Hand Pose Estimation via Spatial-form Representation and Differentiable Decoder. [\[PDF\]](https://arxiv.org/pdf/1905.02085.pdf)
 _Xingyuan Zhang, Fuhai Zhang_
 
-##### [\[arXiv:1904.07528\]](https://arxiv.org/abs/1904.07528) Disentangling Pose from Appearance in Monochrome Hand Images. [\[PDF\]](https://arxiv.org/pdf/1904.07528.pdf)
-_Yikang Li, Chris Twigg, Yuting Ye, Lingling Tao, Xiaogang Wang_
-
-##### [\[arXiv:1811.07123\]](https://arxiv.org/abs/1811.07376) RGB-based 3D Hand Pose Estimation via Privileged Learning with Depth Images. [\[PDF\]](https://arxiv.org/pdf/1811.07376.pdf)
-_Shanxin Yuan, Bjorn Stenger, Tae-Kyun Kim_
-
-##### [\[arXiv:1811.07123\]](https://arxiv.org/abs/1811.07123) Explicit Pose Deformation Learning for Tracking Human Poses. [\[PDF\]](https://arxiv.org/pdf/1811.07123.pdf)
-_Xiao Sun, Chuankang Li, Stephen Lin_
-
 ##### [\[arXiv:1807.00898\]](https://arxiv.org/abs/1807.00898) Model-based Hand Pose Estimation for Generalized Hand Shape with Appearance Normalization. [\[PDF\]](https://arxiv.org/pdf/1807.00898.pdf)
 _Jan Wöhlke, Shile Li, Dongheui Lee_
 
@@ -171,8 +162,20 @@ _Yujin Chen, Zhigang Tu, Liuhao Ge, Dejun Zhang, Ruizhi Chen, Junsong Yuan_
 ##### End-to-end Hand Mesh Recovery from a Monocular RGB Image. [\[PDF\]](https://arxiv.org/pdf/1902.09305.pdf)  [\[Code\]](https://github.com/MandyMo/HAMR)
 _Xiong Zhang\*, Qiang Li\*, Wenbo Zhang, Wen Zheng_
 
-##### Aligning Latent Spaces for 3D Hand Pose Estimation. \[PDF\]
+##### Aligning Latent Spaces for 3D Hand Pose Estimation. [\[PDF\]](https://www.mu4yang.com/files/papers/Aligning%20Latent%20Spaces%20for%203D%20Hand%20Pose%20Estimation.pdf)
 _Linlin Yang\*, Shile Li\*, Dongheui Lee, Angela Yao_
+
+##### [HANDS19 Workshop] Disentangling Pose from Appearance in Monochrome Hand Images. [\[PDF\]](https://arxiv.org/pdf/1904.07528.pdf)
+_Yikang Li, Chris Twigg, Yuting Ye, Lingling Tao, Xiaogang Wang_
+
+##### [HANDS19 Workshop] RGB-based 3D Hand Pose Estimation via Privileged Learning with Depth Images. [\[PDF\]](https://arxiv.org/pdf/1811.07376.pdf)
+_Shanxin Yuan, Bjorn Stenger, Tae-Kyun Kim_
+
+##### [HANDS19 Workshop] Explicit Pose Deformation Learning for Tracking Human Poses. [\[PDF\]](https://arxiv.org/pdf/1811.07123.pdf)
+_Xiao Sun, Chuankang Li, Stephen Lin_
+
+##### [HANDS19 Workshop] Hand Pose Ensemble Learning based on Grouping Features of Hand Point Sets. \[PDF\]
+_Tianqiang Zhu, Yi Sun, Xiaohong Ma, Xiangbo Lin_
 
 ### 2019 CVPR
 
