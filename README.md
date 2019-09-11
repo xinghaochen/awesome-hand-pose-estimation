@@ -85,6 +85,10 @@ _Liuhao Ge, Hui Liang, Junsong Yuan and Daniel Thalmann_
 [\[back to top\]](#contents)
 
 ### Other Journals
+
+##### \[2019 Sensors\] WHSP-Net: A Weakly-Supervised Approach for 3D Hand Shape and Pose Recovery from a Single Depth Image. [\[PDF\]](https://www.mdpi.com/1424-8220/19/17/3784)
+_Jameel Malik\*, Ahmed Elhayek\*, Didier Stricker_
+
 ##### \[2019 [RA-L](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7083369)\] Variational Object-aware 3D Hand Pose from a Single RGB Image. [\[PDF\]](https://www.researchgate.net/profile/Yida_Wang/publication/334639748_Variational_Object-aware_3D_Hand_Pose_from_a_Single_RGB_Image/links/5d3a1a41a6fdcc370a6048df/Variational-Object-aware-3D-Hand-Pose-from-a-Single-RGB-Image.pdf)  [\[Code\]](https://github.com/wangyida/VO-handpose)
 _Yafei Gao\*, Yida Wang\*, Pietro Falco, Nassir Navab, Federico Tombari_
 
@@ -147,6 +151,10 @@ _Guijin Wang, Xinghao Chen\*, Hengkai Guo\*, Cairong Zhang_
 ## Conference Papers
 
 ### 2019 ICCV
+
+##### FreiHAND: A Dataset for Markerless Capture of Hand Pose and Shape from Single RGB Images. [\[PDF\]](https://arxiv.org/pdf/1909.04349.pdf)  [\[Project\]](https://lmb.informatik.uni-freiburg.de/projects/freihand/) [\[Code\]](https://github.com/lmb-freiburg/freihand)
+_Christian Zimmermann, Duygu Ceylan, Jimei Yang, Bryan Russell, Max Argus, Thomas Brox_
+
 ##### A2J: Anchor-to-Joint Regression Network for 3D Articulated Pose Estimation from a Single Depth Image. [\[PDF\]](https://cse.buffalo.edu/~jsyuan/papers/2019/A2J.pdf) [\[Code\]](https://github.com/zhangboshen/A2J)
 _Fu Xiong\*, Boshen Zhang\*, Yang Xiao, Zhiguo Cao, Taidong Yu, Joey Tianyi Zhou, and Junsong Yuan_
 
@@ -228,22 +236,22 @@ _Franziska Mueller, Micah Davis, Florian Bernard, Oleksandr Sotnychenko, Mickeal
 ##### [2019 FG] Deep Conditional Variational Estimation for Depth-Based Hand Poses. [\[PDF\]](https://ieeexplore.ieee.org/abstract/document/8756559)
 _Lu Xu, Chen Hu, Yinqi Li, Ji’an Tao, Jianru Xue, Kuizhi Mei_
 
-##### [2019 BMVC] Unified 2D and 3D Hand Pose Estimation from a Single Visible or X-ray Image. \[PDF\]
+##### [2019 BMVC] Unified 2D and 3D Hand Pose Estimation from a Single Visible or X-ray Image. [\[PDF\]](https://bmvc2019.org/wp-content/uploads/papers/0931-paper.pdf)
 _Akila Pemasiri, Kien Nguyen Thanh, Sridha Sridharan, Clinton Fookes_
 
-##### [2019 BMVC] TAGAN: Tonality Aligned GenerativeAdversarial Networks for Realistic HandPose Synthesis. [\[PDF\]](https://arxiv.org/pdf/1811.09916.pdf)
+##### [2019 BMVC] TAGAN: Tonality Aligned Generative Adversarial Networks for Realistic HandPose Synthesis. [\[PDF\]](https://bmvc2019.org/wp-content/uploads/papers/0408-paper.pdf)
 _Liangjian Chen, Shih-Yao Lin, Yusheng Xie, Hui Tang, Yufan Xue, Xiaohui Xie, Yen-Yu Lin, Wei Fan_
 
-##### [2019 BMVC] Single Image 3D Hand Reconstruction with Mesh Convolutions. [\[PDF\]](https://arxiv.org/pdf/1905.01326.pdf) [\[Code\]](https://github.com/dkulon/hand-reconstruction)
+##### [2019 BMVC] Single Image 3D Hand Reconstruction with Mesh Convolutions. [\[PDF\]](https://bmvc2019.org/wp-content/uploads/papers/0653-paper.pdf) [\[Code\]](https://github.com/dkulon/hand-reconstruction)
 _Dominik Kulon, Haoyang Wang, Riza Alp Güler, Michael Bronstein, Stefanos Zafeiriou_
 
-##### [2019 BMVC] Adaptive Graphical Model Network for 2D Handpose Estimation. \[PDF\]
+##### [2019 BMVC] Adaptive Graphical Model Network for 2D Handpose Estimation. [\[PDF\]](https://bmvc2019.org/wp-content/uploads/papers/0907-paper.pdf)
 _Deying Kong, Yifei Chen, Haoyu Ma, Xiangyi Yan, Xiaohui Xie_
 
-##### [2019 BMVC] SRN: Stacked Regression Network for Real-time 3D Hand Pose Estimation. \[PDF\]
+##### [2019 BMVC] SRN: Stacked Regression Network for Real-time 3D Hand Pose Estimation. [\[PDF\]](https://bmvc2019.org/wp-content/uploads/papers/0918-paper.pdf)
 _Pengfei Ren, Haifeng Sun, Jingyu Wang, Qi Qi, Weiting Huang_
 
-##### [2019 BMVC] End-to-End 3D Hand Pose Estimation from Stereo Cameras. \[PDF\]  *(Oral)*
+##### [2019 BMVC] End-to-End 3D Hand Pose Estimation from Stereo Cameras. [\[PDF\]](https://bmvc2019.org/wp-content/uploads/papers/0219-paper.pdf)  *(Oral)*
 _Yuncheng Li, Zehao Xue, Yingying Wang, Liuhao Ge, Zhou Ren, Jonathan Rodriguez_
 
 ##### [2019 ACCV] Hand Pose Estimation Based on 3D Residual Network with Data Padding and Skeleton Steadying. [\[PDF\]](https://link.springer.com/chapter/10.1007/978-3-030-20873-8_19)
@@ -683,10 +691,11 @@ _Ayan Sinha\*, Chiho Choi\*, Karthik Ramani_
 
 |Dataset|Year|S/R|C/D|Obj|#J|V|#S|#F|Related Paper|
 |------|------|------|------|------|------|------|------|------|----------------|
-|[NYU Hand Pose](http://cims.nyu.edu/~tompson/NYU_Hand_Pose_Dataset.htm) | 2014 | R | D | No | 36 | 3rd | 2 | 72k/8k | Real-Time Continuous Pose Recovery of Human Hands Using Convolutional Networks, SIGGRAPH 2014 [\[PDF\]](http://cims.nyu.edu/~tompson/others/TOG_2014_paper_PREPRINT.pdf)|
+|[NYU](http://cims.nyu.edu/~tompson/NYU_Hand_Pose_Dataset.htm) | 2014 | R | D | No | 36 | 3rd | 2 | 72k/8k | Real-Time Continuous Pose Recovery of Human Hands Using Convolutional Networks, SIGGRAPH 2014 [\[PDF\]](http://cims.nyu.edu/~tompson/others/TOG_2014_paper_PREPRINT.pdf)|
 |[ICVL](https://labicvl.github.io/hand.html) | 2014 | R | D | No |  16 | 3rd  |  10 | 331k/1.5k | Latent regression forest: Structured estimation of 3d articulated hand posture, CVPR 2014 [\[PDF\]](https://labicvl.github.io/docs/pubs/Danny_CVPR_2014.pdf)|
 |[MSRA15](https://github.com/geliuhao/CVPR2016_HandPoseEstimation/issues/4) | 2015 | R | D | No |  21 | 3rd  |  9 | 76,375 | Cascaded Hand Pose Regression, CVPR 2015 [\[PDF\]](http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Sun_Cascaded_Hand_Pose_2015_CVPR_paper.pdf)|
 |[BigHand2.2M](http://icvl.ee.ic.ac.uk/hands17/challenge/) | 2017 | R | D | No |  21 | 3rd  |  10 | 2.2M | Big Hand 2.2M Benchmark: Hand Pose Data Set and State of the Art Analysis, CVPR 2017 [\[PDF\]](https://labicvl.github.io/docs/pubs/Shanxin_CVPR_2017.pdf)|
+|[FreiHAND](https://lmb.informatik.uni-freiburg.de/resources/datasets/FreihandDataset.en.html) | 2019 | R | C | Yes |  21 | 3rd  |  - | 130k/3960  | DeepHPS: End-to-end Estimation of 3D Hand Pose and Shape by Learning from Synthetic Depth, 3DV 2018 [\[PDF\]](https://arxiv.org/pdf/1808.09208.pdf)|
 |[SynHand5M](https://cloud.dfki.de/owncloud/index.php/s/iCMRF7a5FkXrdpn) | 2018 | S | D | No |  M | 3rd  |  - | 5M | DeepHPS: End-to-end Estimation of 3D Hand Pose and Shape by Learning from Synthetic Depth, 3DV 2018 [\[PDF\]](https://arxiv.org/pdf/1808.09208.pdf)|
 |[FHAD](https://guiggh.github.io/publications/first-person-hands/) | 2018 | R | D | Yes |  21 | ego  |  6 | 100k | First-Person Hand Action Benchmark with RGB-D Videos and 3D Hand Pose Annotations, CVPR 2018 [\[PDF\]](https://arxiv.org/pdf/1704.02463)|
 |[GANerated Hands](https://handtracker.mpi-inf.mpg.de/projects/GANeratedHands/GANeratedDataset.htm) | 2018 | S | C | Both |  21 | ego  |  - | 330k | GANerated Hands for Real-Time 3D Hand Tracking from Monocular RGB, CVPR 2018 [\[PDF\]](https://handtracker.mpi-inf.mpg.de/projects/GANeratedHands/content/GANeratedHands_CVPR2018.pdf)|

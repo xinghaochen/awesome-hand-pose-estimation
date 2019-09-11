@@ -51,6 +51,7 @@ There are two types of evaluation metrics that are widely used for hand pose est
 - Generalized-Feedback \[18\]: TPAMI'19, [Predicted labels](https://www.tugraz.at/fileadmin/user_upload/Institute/ICG/Downloads/team_lepetit/3d_hand_pose/PAMI19_NYU_FB.txt)
 - CrossInfoNet \[19\]: CVPR'19, [Predicted labels](https://github.com/dumyy/handpose/blob/master/results/CVPR19_NYU_CrossInfoNet.txt)
 - DeepHPS \[20\]: 3DV'18, [Predicted labels](https://cloud.dfki.de/owncloud/index.php/s/5RZomRooZBxgAox)
+- WHSP-Net \[21\]: Sensors'19, [Predicted labels](https://cloud.dfki.de/owncloud/index.php/s/5QeDcAECCMGj3gB?path=%2FNYUPose)
 
 ### MSRA
 - REN-9x6x6 \[7\]: JVCI'18, [Predicted labels](https://github.com/guohengkai/region-ensemble-network/blob/master/results/msra_ren_9x6x6.txt)
@@ -121,6 +122,7 @@ sh evaluate_{dataset}.sh
 |  DenseReg [10] | 10.214 |
 |  CrossInfoNet [19] | 10.078 |
 |  MURAUER [17] | 9.466 |
+|  WHSP-Net [21] | 9.421 |
 |  SHPR-Net (three views) [14] | 9.371 |
 |  Point-to-Point [16] | 9.045  |
 |  V2V-PoseNet [12] |8.419  |
@@ -192,6 +194,7 @@ See leaderboard [here](https://competitions.codalab.org/competitions/17452#resul
 - \[17\] [MURAUER: Mapping Unlabeled Real Data for Label AUstERity](https://arxiv.org/pdf/1811.09497.pdf), Georg Poier, Michael Opitz, David Schinagl and Horst Bischof, **WACV** 2019.
 - \[18\] [Generalized Feedback Loop for Joint Hand-Object Pose Estimation](https://arxiv.org/pdf/1903.10883), Markus Oberweger, Paul Wohlhart, Vincent Lepetit, **TPAMI** 2019.
 - \[19\] [CrossInfoNet: Multi-Task Information Sharing Based Hand Pose Estimation](#), Kuo Du, Xiangbo Lin, Yi Sun, Xiaohong Ma, **CVPR** 2019.
-- \[19\] [DeepHPS: End-to-end Estimation of 3D Hand Pose and Shape by Learning from Synthetic Depth](https://arxiv.org/pdf/1808.09208.pdf), Jameel Malik, Ahmed Elhayek, Fabrizio Nunnari, Kiran Varanasi, Kiarash Tamaddon, Alexis Heloir, Didier Stricker, **3DV** 2018.
+- \[20\] [DeepHPS: End-to-end Estimation of 3D Hand Pose and Shape by Learning from Synthetic Depth](https://arxiv.org/pdf/1808.09208.pdf), Jameel Malik, Ahmed Elhayek, Fabrizio Nunnari, Kiran Varanasi, Kiarash Tamaddon, Alexis Heloir, Didier Stricker, **3DV** 2018.
+- \[21\] [WHSP-Net: A Weakly-Supervised Approach for 3D Hand Shape and Pose Recovery from a Single Depth Image](https://www.mdpi.com/1424-8220/19/17/3784), Jameel Malik, Ahmed Elhayek, Didier Stricker, **Sensors** 2019.
 
 [\[back to top\]](#evaluations-on-hand-pose-estimation)
