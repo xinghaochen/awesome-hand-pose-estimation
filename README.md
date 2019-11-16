@@ -28,6 +28,9 @@ See folder [``evaluation``](./evaluation) to get more details about performance 
 
 ## arXiv Papers
 
+##### [\[arXiv:1909.05666\]](https://arxiv.org/abs/1909.05666) Adaptive Wasserstein Hourglass for Weakly Supervised Hand Pose Estimation from Monocular RGB. [\[PDF\]](https://arxiv.org/pdf/1909.05666.pdf)
+_Yumeng Zhang, Li Chen, Yufeng Liu, Junhai Yong, Wen Zheng_
+
 ##### [\[arXiv:1907.10695\]](https://arxiv.org/abs/1907.10695) Dual Grid Net: hand mesh vertex regression from single depth maps. [\[PDF\]](https://arxiv.org/pdf/1907.10695.pdf)
 _Chengde Wan, Thomas Probst, Luc Van Gool, Angela Yao_
 
@@ -85,6 +88,9 @@ _Liuhao Ge, Hui Liang, Junsong Yuan and Daniel Thalmann_
 [\[back to top\]](#contents)
 
 ### Other Journals
+
+##### \[2019 TIP\] SRHandNet: Real-time 2D Hand Pose Estimation with Simultaneous Region Localization. [\[PDF\]](https://yangangwang.com/papers/WANG-SRH-2019-11.pdf) [\[Project\]](https://yangangwang.com/papers/WANG-SRH-2019-07.html)
+_Yangang Wang, Baowen Zhang, Cong Peng_
 
 ##### \[2019 Sensors\] WHSP-Net: A Weakly-Supervised Approach for 3D Hand Shape and Pose Recovery from a Single Depth Image. [\[PDF\]](https://www.mdpi.com/1424-8220/19/17/3784)
 _Jameel Malik\*, Ahmed Elhayek\*, Didier Stricker_
@@ -695,7 +701,7 @@ _Ayan Sinha\*, Chiho Choi\*, Karthik Ramani_
 |[ICVL](https://labicvl.github.io/hand.html) | 2014 | R | D | No |  16 | 3rd  |  10 | 331k/1.5k | Latent regression forest: Structured estimation of 3d articulated hand posture, CVPR 2014 [\[PDF\]](https://labicvl.github.io/docs/pubs/Danny_CVPR_2014.pdf)|
 |[MSRA15](https://github.com/geliuhao/CVPR2016_HandPoseEstimation/issues/4) | 2015 | R | D | No |  21 | 3rd  |  9 | 76,375 | Cascaded Hand Pose Regression, CVPR 2015 [\[PDF\]](http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Sun_Cascaded_Hand_Pose_2015_CVPR_paper.pdf)|
 |[BigHand2.2M](http://icvl.ee.ic.ac.uk/hands17/challenge/) | 2017 | R | D | No |  21 | 3rd  |  10 | 2.2M | Big Hand 2.2M Benchmark: Hand Pose Data Set and State of the Art Analysis, CVPR 2017 [\[PDF\]](https://labicvl.github.io/docs/pubs/Shanxin_CVPR_2017.pdf)|
-|[FreiHAND](https://lmb.informatik.uni-freiburg.de/resources/datasets/FreihandDataset.en.html) | 2019 | R | C | Yes |  21 | 3rd  |  - | 130k/3960  | DeepHPS: End-to-end Estimation of 3D Hand Pose and Shape by Learning from Synthetic Depth, 3DV 2018 [\[PDF\]](https://arxiv.org/pdf/1808.09208.pdf)|
+|[FreiHAND](https://lmb.informatik.uni-freiburg.de/resources/datasets/FreihandDataset.en.html) | 2019 | R | C | Yes |  21 | 3rd  |  - | 130k/3960  | FreiHAND: A Dataset for Markerless Capture of Hand Pose and Shape from Single RGB Images, ICCV 2019 [\[PDF\]](https://arxiv.org/pdf/1909.04349.pdf)|
 |[SynHand5M](https://cloud.dfki.de/owncloud/index.php/s/iCMRF7a5FkXrdpn) | 2018 | S | D | No |  M | 3rd  |  - | 5M | DeepHPS: End-to-end Estimation of 3D Hand Pose and Shape by Learning from Synthetic Depth, 3DV 2018 [\[PDF\]](https://arxiv.org/pdf/1808.09208.pdf)|
 |[FHAD](https://guiggh.github.io/publications/first-person-hands/) | 2018 | R | D | Yes |  21 | ego  |  6 | 100k | First-Person Hand Action Benchmark with RGB-D Videos and 3D Hand Pose Annotations, CVPR 2018 [\[PDF\]](https://arxiv.org/pdf/1704.02463)|
 |[GANerated Hands](https://handtracker.mpi-inf.mpg.de/projects/GANeratedHands/GANeratedDataset.htm) | 2018 | S | C | Both |  21 | ego  |  - | 330k | GANerated Hands for Real-Time 3D Hand Tracking from Monocular RGB, CVPR 2018 [\[PDF\]](https://handtracker.mpi-inf.mpg.de/projects/GANeratedHands/content/GANeratedHands_CVPR2018.pdf)|
