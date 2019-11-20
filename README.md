@@ -28,6 +28,9 @@ See folder [``evaluation``](./evaluation) to get more details about performance 
 
 ## arXiv Papers
 
+##### [\[arXiv:1911.07424\]](https://arxiv.org/abs/1911.07424) Capturing Hand Articulations using Recurrent Neural Network for 3D Hand Pose Estimation. [\[PDF\]](https://arxiv.org/pdf/1911.07424.pdf)
+_Cheol-hwan Yoo, Seung-wook Kim, Seo-won Ji, Yong-goo Shin, Sung-jea Ko_
+
 ##### [\[arXiv:1909.05666\]](https://arxiv.org/abs/1909.05666) Adaptive Wasserstein Hourglass for Weakly Supervised Hand Pose Estimation from Monocular RGB. [\[PDF\]](https://arxiv.org/pdf/1909.05666.pdf)
 _Yumeng Zhang, Li Chen, Yufeng Liu, Junhai Yong, Wen Zheng_
 
@@ -88,6 +91,9 @@ _Liuhao Ge, Hui Liang, Junsong Yuan and Daniel Thalmann_
 [\[back to top\]](#contents)
 
 ### Other Journals
+
+##### \[2019 Computers & Graphics\] Simple and effective deep hand shape and pose regression from a single depth image. [\[PDF\]](https://www.sciencedirect.com/science/article/abs/pii/S0097849319301591)
+_Jameel Malik, Ahmed Elhayek, Fabrizio Nunnari, Didier Stricker_
 
 ##### \[2019 TIP\] SRHandNet: Real-time 2D Hand Pose Estimation with Simultaneous Region Localization. [\[PDF\]](https://yangangwang.com/papers/WANG-SRH-2019-11.pdf) [\[Project\]](https://yangangwang.com/papers/WANG-SRH-2019-07.html)
 _Yangang Wang, Baowen Zhang, Cong Peng_
