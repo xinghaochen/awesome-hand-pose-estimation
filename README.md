@@ -28,6 +28,9 @@ See folder [``evaluation``](./evaluation) to get more details about performance 
 
 ## arXiv Papers
 
+##### [\[arXiv:1912.01875\]](https://arxiv.org/abs/1912.01875) GraphPoseGAN: 3D Hand Pose Estimation from a Monocular RGB Image via Adversarial Learning on Graphs. [\[PDF\]](https://arxiv.org/pdf/1912.01875.pdf)
+_Yiming He, Wei Hu, Siyuan Yang, Xiaochao Qu, Pengfei Wan, Zongming Guo_
+
 ##### [\[arXiv:1911.07424\]](https://arxiv.org/abs/1911.07424) Capturing Hand Articulations using Recurrent Neural Network for 3D Hand Pose Estimation. [\[PDF\]](https://arxiv.org/pdf/1911.07424.pdf)
 _Cheol-hwan Yoo, Seung-wook Kim, Seo-won Ji, Yong-goo Shin, Sung-jea Ko_
 
@@ -703,11 +706,11 @@ _Ayan Sinha\*, Chiho Choi\*, Karthik Ramani_
 
 |Dataset|Year|S/R|C/D|Obj|#J|V|#S|#F|Related Paper|
 |------|------|------|------|------|------|------|------|------|----------------|
-|[OneHand10K](https://yangangwang.com/papers/WANG-MCC-2018-10.html) | 2019 | R | C | No | 21 | 3rd | - | 10k/1.3k | Mask-pose Cascaded CNN for 2D Hand Pose Estimation from Single Color Image, TCSVT 2019 [\[PDF\]](https://yangangwang.com/papers/WANG-MCC-2018-10.pdf)|
 |[NYU](http://cims.nyu.edu/~tompson/NYU_Hand_Pose_Dataset.htm) | 2014 | R | D | No | 36 | 3rd | 2 | 72k/8k | Real-Time Continuous Pose Recovery of Human Hands Using Convolutional Networks, SIGGRAPH 2014 [\[PDF\]](http://cims.nyu.edu/~tompson/others/TOG_2014_paper_PREPRINT.pdf)|
 |[ICVL](https://labicvl.github.io/hand.html) | 2014 | R | D | No |  16 | 3rd  |  10 | 331k/1.5k | Latent regression forest: Structured estimation of 3d articulated hand posture, CVPR 2014 [\[PDF\]](https://labicvl.github.io/docs/pubs/Danny_CVPR_2014.pdf)|
 |[MSRA15](https://github.com/geliuhao/CVPR2016_HandPoseEstimation/issues/4) | 2015 | R | D | No |  21 | 3rd  |  9 | 76,375 | Cascaded Hand Pose Regression, CVPR 2015 [\[PDF\]](http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Sun_Cascaded_Hand_Pose_2015_CVPR_paper.pdf)|
 |[BigHand2.2M](http://icvl.ee.ic.ac.uk/hands17/challenge/) | 2017 | R | D | No |  21 | 3rd  |  10 | 2.2M | Big Hand 2.2M Benchmark: Hand Pose Data Set and State of the Art Analysis, CVPR 2017 [\[PDF\]](https://labicvl.github.io/docs/pubs/Shanxin_CVPR_2017.pdf)|
+|[OneHand10K](https://yangangwang.com/papers/WANG-MCC-2018-10.html) | 2019 | R | C | No | 21 | 3rd | - | 10k/1.3k | Mask-pose Cascaded CNN for 2D Hand Pose Estimation from Single Color Image, TCSVT 2019 [\[PDF\]](https://yangangwang.com/papers/WANG-MCC-2018-10.pdf)|
 |[FreiHAND](https://lmb.informatik.uni-freiburg.de/resources/datasets/FreihandDataset.en.html) | 2019 | R | C | Yes |  21 | 3rd  |  - | 130k/3960  | FreiHAND: A Dataset for Markerless Capture of Hand Pose and Shape from Single RGB Images, ICCV 2019 [\[PDF\]](https://arxiv.org/pdf/1909.04349.pdf)|
 |[SynHand5M](https://cloud.dfki.de/owncloud/index.php/s/iCMRF7a5FkXrdpn) | 2018 | S | D | No |  M | 3rd  |  - | 5M | DeepHPS: End-to-end Estimation of 3D Hand Pose and Shape by Learning from Synthetic Depth, 3DV 2018 [\[PDF\]](https://arxiv.org/pdf/1808.09208.pdf)|
 |[FHAD](https://guiggh.github.io/publications/first-person-hands/) | 2018 | R | D | Yes |  21 | ego  |  6 | 100k | First-Person Hand Action Benchmark with RGB-D Videos and 3D Hand Pose Annotations, CVPR 2018 [\[PDF\]](https://arxiv.org/pdf/1704.02463)|
