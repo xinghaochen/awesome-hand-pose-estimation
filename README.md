@@ -28,6 +28,9 @@ See folder [``evaluation``](./evaluation) to get more details about performance 
 
 ## arXiv Papers
 
+##### [\[arXiv:1911.12501\]](https://arxiv.org/abs/1911.12501) An End-to-end Framework for Unconstrained Monocular 3D Hand Pose Estimation. [\[PDF\]](https://arxiv.org/pdf/1911.12501.pdf)
+_Sanjeev Sharma, Shaoli Huang, Dacheng Tao_
+
 ##### [\[arXiv:1912.01875\]](https://arxiv.org/abs/1912.01875) GraphPoseGAN: 3D Hand Pose Estimation from a Monocular RGB Image via Adversarial Learning on Graphs. [\[PDF\]](https://arxiv.org/pdf/1912.01875.pdf)
 _Yiming He, Wei Hu, Siyuan Yang, Xiaochao Qu, Pengfei Wan, Zongming Guo_
 
