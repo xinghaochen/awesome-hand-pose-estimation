@@ -9,6 +9,7 @@ A curated list of related resources for hand pose estimation. Feel free to [cont
    - [TPAMI / IJCV](#tpami--ijcv)
    - [Others](#other-journals)
  - [Conference Papers](#conference-papers)
+   - 2020: [CVPR](#2020-cvpr), [ECCV](#2020-eccv), [Others](#2020-others)
    - 2019: [CVPR](#2019-cvpr), [ICCV](#2019-iccv), [Others](#2019-others)
    - 2018: [CVPR](#2018-cvpr), [ECCV](#2018-eccv), [Others](#2018-others)
    - 2017: [CVPR](#2017-cvpr), [ICCV](#2017-iccv), [Others](#2017-others)
@@ -27,6 +28,12 @@ A curated list of related resources for hand pose estimation. Feel free to [cont
 See folder [``evaluation``](./evaluation) to get more details about performance evaluation for hand pose estimation.
 
 ## arXiv Papers
+
+##### [\[arXiv:2001.00702\]](https://arxiv.org/abs/2001.00702) HandAugment: A Simple Data Augmentation for HANDS19 Challenge Task 1 -- Depth-Based 3D Hand Pose Estimation. [\[PDF\]](https://arxiv.org/pdf/2001.00702.pdf)
+_Zhaohui Zhang, Shipeng Xie, Mingxiu Chen, Haichao Zhu_
+
+##### [\[arXiv:1912.12436\]](https://arxiv.org/abs/1912.12436) Silhouette-Net: 3D Hand Pose Estimation from Silhouettes. [\[PDF\]](https://arxiv.org/pdf/1912.12436.pdf)
+_Kuo-Wei Lee, Shih-Hung Liu, Hwann-Tzong Chen, Koichi Ito_
 
 ##### [\[arXiv:1911.12501\]](https://arxiv.org/abs/1911.12501) An End-to-end Framework for Unconstrained Monocular 3D Hand Pose Estimation. [\[PDF\]](https://arxiv.org/pdf/1911.12501.pdf)
 _Sanjeev Sharma, Shaoli Huang, Dacheng Tao_
@@ -167,6 +174,11 @@ _Guijin Wang, Xinghao Chen\*, Hengkai Guo\*, Cairong Zhang_
 [\[back to top\]](#contents)
 
 ## Conference Papers
+
+### 2020 Others
+
+##### [2020 AAAI] AWR: Adaptive Weighting Regression for 3D Hand Pose Estimation. \[PDF\]
+_Weiting Huang, Pengfei Ren, Jingyu Wang, Qi Qi, Haifeng Sun_
 
 ### 2019 ICCV
 
