@@ -29,6 +29,9 @@ See folder [``evaluation``](./evaluation) to get more details about performance 
 
 ## arXiv Papers
 
+##### [\[arXiv:2001.08047\]](https://arxiv.org/abs/2001.08047) Attention! A Lightweight 2D Hand Pose Estimation Approach. [\[PDF\]](https://arxiv.org/pdf/2001.08047.pdf)
+_Nicholas Santavas, Ioannis Kansizoglou, Loukas Bampis, Evangelos Karakasis, Antonios Gasteratos_
+
 ##### [\[arXiv:2001.00702\]](https://arxiv.org/abs/2001.00702) HandAugment: A Simple Data Augmentation for HANDS19 Challenge Task 1 -- Depth-Based 3D Hand Pose Estimation. [\[PDF\]](https://arxiv.org/pdf/2001.00702.pdf)
 _Zhaohui Zhang, Shipeng Xie, Mingxiu Chen, Haichao Zhu_
 
@@ -179,6 +182,9 @@ _Guijin Wang, Xinghao Chen\*, Hengkai Guo\*, Cairong Zhang_
 
 ##### [2020 AAAI] AWR: Adaptive Weighting Regression for 3D Hand Pose Estimation. \[PDF\]
 _Weiting Huang, Pengfei Ren, Jingyu Wang, Qi Qi, Haifeng Sun_
+
+##### [2020 WACV] Nonparametric Structure Regularization Machine for 2D Hand Pose Estimation. [\[PDF\]](https://arxiv.org/pdf/2001.08869.pdf) [\[Code\]](https://github.com/HowieMa/NSRMhand)
+_Yifei Chen\*, Haoyu Ma\*, Deying Kong, Xiangyi Yan, Jianbao Wu, Wei Fan, Xiaohui Xie_
 
 ### 2019 ICCV
 
