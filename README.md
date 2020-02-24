@@ -183,6 +183,10 @@ _Guijin Wang, Xinghao Chen\*, Hengkai Guo\*, Cairong Zhang_
 ##### Weakly-supervised Domain Adaptation for 3D Hand Pose Estimation under Hand-Object Interaction via GAN and 3D Mesh Model. \[PDF\]
 _Seungryul Baek, Kwang In Kim, Tae-Kyun Kim_
 
+##### HOPE-Net: A Graph-based Model for Hand-Object Pose Estimation. \[PDF\]
+_Bardia Doosti, Shujon Naha, David Crandall, Majid Mirbagheri_
+
+
 ### 2020 Others
 
 ##### [2020 AAAI] AWR: Adaptive Weighting Regression for 3D Hand Pose Estimation. \[PDF\]
