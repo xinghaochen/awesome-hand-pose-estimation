@@ -195,6 +195,15 @@ _Weiting Huang, Pengfei Ren, Jingyu Wang, Qi Qi, Haifeng Sun_
 ##### [2020 WACV] Nonparametric Structure Regularization Machine for 2D Hand Pose Estimation. [\[PDF\]](https://arxiv.org/pdf/2001.08869.pdf) [\[Code\]](https://github.com/HowieMa/NSRMhand)
 _Yifei Chen\*, Haoyu Ma\*, Deying Kong, Xiangyi Yan, Jianbao Wu, Wei Fan, Xiaohui Xie_
 
+##### [2020 WACV] 3D Hand Pose Estimation with Disentangled Cross-Modal Latent Space. [\[PDF\]](http://openaccess.thecvf.com/content_WACV_2020/papers/Gu_3D_Hand_Pose_Estimation_with_Disentangled_Cross-Modal_Latent_Space_WACV_2020_paper.pdf)
+_Jiajun Gu, Zhiyong Wang, Wanli Ouyang, Weichen Zhang, Jiafeng Li, Li Zhuo_
+
+##### [2020 WACV] DGGAN: Depth-image Guided Generative Adversarial Networks for Disentangling RGB and Depth Images in 3D Hand Pose Estimation. [\[PDF\]](http://openaccess.thecvf.com/content_WACV_2020/papers/Chen_DGGAN_Depth-image_Guided_Generative_Adversarial_Networks_forDisentangling_RGB_and_Depth_WACV_2020_paper.pdf)
+_Liangjian Chen, Shih-Yao Lin, Yusheng Xie, Yen-Yu Lin, Wei Fan, Xiaohui Xie_
+
+##### [2020 WACV] Rotation-invariant Mixed Graphical Model Network for 2D Hand Pose Estimation. [\[PDF\]](http://openaccess.thecvf.com/content_WACV_2020/papers/Kong_Rotation-invariant_Mixed_Graphical_Model_Network_for_2D_Hand_Pose_Estimation_WACV_2020_paper.pdf)
+_Deying Kong, Haoyu Ma, Yifei Chen, Xiaohui Xie_
+
 ### 2019 ICCV
 
 ##### FreiHAND: A Dataset for Markerless Capture of Hand Pose and Shape from Single RGB Images. [\[PDF\]](https://arxiv.org/pdf/1909.04349.pdf)  [\[Project\]](https://lmb.informatik.uni-freiburg.de/projects/freihand/) [\[Code\]](https://github.com/lmb-freiburg/freihand)
