@@ -180,13 +180,16 @@ _Guijin Wang, Xinghao Chen\*, Hengkai Guo\*, Cairong Zhang_
 
 ### 2020 CVPR
 
+##### Leveraging Photometric Consistency over Time for Sparsely Supervised Hand-Object Reconstruction. \[PDF\]
+_Yana Hasson, Bugra Tekin, Federica Bogo, Ivan Laptev, Marc Pollefeys, Cordelia Schmid_
+
 ##### Monocular Real-time Hand Shape and Motion Capture using Multi-modal Data. [\[PDF\]](https://arxiv.org/pdf/2003.09572.pdf) [\[Project\]](https://calciferzh.github.io/publications/zhou2020monocular) [\[Code\]](https://github.com/CalciferZh/minimal-hand)
 _Yuxiao Zhou, Marc Habermann, Weipeng Xu, Ikhsanul Habibie, Christian Theobalt, Feng Xu_
 
 ##### Weakly-supervised Domain Adaptation for 3D Hand Pose Estimation under Hand-Object Interaction via GAN and 3D Mesh Model. \[PDF\]
 _Seungryul Baek, Kwang In Kim, Tae-Kyun Kim_
 
-##### HOPE-Net: A Graph-based Model for Hand-Object Pose Estimation. \[PDF\]
+##### HOPE-Net: A Graph-based Model for Hand-Object Pose Estimation. \[PDF\] [\[Code\]](https://github.com/bardiadoosti/HOPE)
 _Bardia Doosti, Shujon Naha, David Crandall, Majid Mirbagheri_
 
 ##### HOnnotate: A method for 3D Annotation of Hand and Objects Poses. [\[PDF\]](https://arxiv.org/pdf/1907.01481.pdf) [\[Project\]](https://www.tugraz.at/institute/icg/research/team-lepetit/research-projects/hand-object-3d-pose-annotation/) [\[Code\]](https://github.com/shreyashampali/ho3d)
