@@ -29,6 +29,9 @@ See folder [``evaluation``](./evaluation) to get more details about performance 
 
 ## arXiv Papers
 
+##### [\[arXiv:2003.13764\]](https://arxiv.org/abs/2003.13764) Measuring Generalisation to Unseen Viewpoints, Articulations, Shapes and Objects for 3D Hand Pose Estimation under Hand-Object Interaction. [\[PDF\]](https://arxiv.org/pdf/2003.13764.pdf)
+_Anil Armagan, Guillermo Garcia-Hernando, Seungryul Baek, Shreyas Hampali, Mahdi Rad, Zhaohui Zhang, Shipeng Xie, MingXiu Chen, Boshen Zhang, Fu Xiong, Yang Xiao, Zhiguo Cao, Junsong Yuan, Pengfei Ren, Weiting Huang, Haifeng Sun, Marek Hrúz, Jakub Kanis, Zdeněk Krňoul, Qingfu Wan, Shile Li, Linlin Yang, Dongheui Lee, Angela Yao, Weiguo Zhou, Sijia Mei, Yunhui Liu, Adrian Spurr, Umar Iqbal, Pavlo Molchanov, Philippe Weinzaepfel, Romain Brégier, Gregory Rogez, Vincent Lepetit, Tae-Kyun Kim_
+
 ##### [\[arXiv:2003.09282\]](https://arxiv.org/abs/2003.09282) Weakly-Supervised 3D Hand Pose Estimation via Biomechanical Constraints. [\[PDF\]](https://arxiv.org/pdf/2003.09282.pdf)
 _Adrian Spurr, Umar Iqbal, Pavlo Molchanov, Otmar Hilliges, Jan Kautz_
 
@@ -186,7 +189,7 @@ _Yana Hasson, Bugra Tekin, Federica Bogo, Ivan Laptev, Marc Pollefeys, Cordelia 
 ##### Monocular Real-time Hand Shape and Motion Capture using Multi-modal Data. [\[PDF\]](https://arxiv.org/pdf/2003.09572.pdf) [\[Project\]](https://calciferzh.github.io/publications/zhou2020monocular) [\[Code\]](https://github.com/CalciferZh/minimal-hand)
 _Yuxiao Zhou, Marc Habermann, Weipeng Xu, Ikhsanul Habibie, Christian Theobalt, Feng Xu_
 
-##### Weakly-supervised Domain Adaptation for 3D Hand Pose Estimation under Hand-Object Interaction via GAN and 3D Mesh Model. \[PDF\]
+##### Weakly-supervised Domain Adaptation via GAN and Mesh Model for Estimating 3D Hand Poses Interacting Objects. \[PDF\]
 _Seungryul Baek, Kwang In Kim, Tae-Kyun Kim_
 
 ##### HOPE-Net: A Graph-based Model for Hand-Object Pose Estimation. \[PDF\] [\[Code\]](https://github.com/bardiadoosti/HOPE)
@@ -811,6 +814,8 @@ _Ayan Sinha\*, Chiho Choi\*, Karthik Ramani_
 #### [1] [HANDS19 Challenge](https://sites.google.com/view/hands2019/challenge)
 *[HANDS 2019](https://sites.google.com/view/hands2019/), [ICCV 2019](http://iccv2019.thecvf.com/)*
 - Submission Website: [Depth-Based Task](https://competitions.codalab.org/competitions/20913), [Depth-Based Hand-Object Task](https://competitions.codalab.org/competitions/20449), [RGB-Based Hand-Object Task](https://competitions.codalab.org/competitions/21116)
+- Documents
+    - [Measuring Generalisation to Unseen Viewpoints, Articulations, Shapes and Objects for 3D Hand Pose Estimation under Hand-Object Interaction](https://arxiv.org/pdf/2003.13764.pdf), arXiv 2020
 
 #### [2] [The 2017 Hands in the Million Challenge on 3D Hand Pose Estimation](http://icvl.ee.ic.ac.uk/hands17/challenge/)
 *[HANDS 2017](http://icvl.ee.ic.ac.uk/hands17/), [ICCV 2017](http://iccv2017.thecvf.com/)*
