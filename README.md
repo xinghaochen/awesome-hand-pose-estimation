@@ -183,6 +183,12 @@ _Guijin Wang, Xinghao Chen\*, Hengkai Guo\*, Cairong Zhang_
 
 ### 2020 CVPR
 
+##### Knowledge as Priors: Cross-Modal Knowledge Generalization for Datasets without Superior Knowledge. [\[PDF\]](https://arxiv.org/pdf/2004.00176.pdf)
+_Long Zhao, Xi Peng, Yuxiao Chen, Mubbasir Kapadia, Dimitris N. Metaxas_
+
+##### Weakly-Supervised Mesh-Convolutional Hand Reconstruction in the Wild. [\[PDF\]](https://arxiv.org/pdf/2004.01946.pdf) [\[Project\]](https://www.arielai.com/mesh_hands/)  *(Oral)*
+_Dominik Kulon, Riza Alp Güler, Iasonas Kokkinos, Michael Bronstein, Stefanos Zafeiriou_
+
 ##### Leveraging Photometric Consistency over Time for Sparsely Supervised Hand-Object Reconstruction. \[PDF\]
 _Yana Hasson, Bugra Tekin, Federica Bogo, Ivan Laptev, Marc Pollefeys, Cordelia Schmid_
 
