@@ -198,7 +198,7 @@ _Yana Hasson, Bugra Tekin, Federica Bogo, Ivan Laptev, Marc Pollefeys, Cordelia 
 ##### Monocular Real-time Hand Shape and Motion Capture using Multi-modal Data. [\[PDF\]](https://arxiv.org/pdf/2003.09572.pdf) [\[Project\]](https://calciferzh.github.io/publications/zhou2020monocular) [\[Code\]](https://github.com/CalciferZh/minimal-hand)
 _Yuxiao Zhou, Marc Habermann, Weipeng Xu, Ikhsanul Habibie, Christian Theobalt, Feng Xu_
 
-##### Weakly-supervised Domain Adaptation via GAN and Mesh Model for Estimating 3D Hand Poses Interacting Objects. \[PDF\]
+##### Weakly-supervised Domain Adaptation via GAN and Mesh Model for Estimating 3D Hand Poses Interacting Objects. \[PDF\]  *(Oral)*
 _Seungryul Baek, Kwang In Kim, Tae-Kyun Kim_
 
 ##### HOPE-Net: A Graph-based Model for Hand-Object Pose Estimation. \[PDF\] [\[Code\]](https://github.com/bardiadoosti/HOPE)
@@ -705,6 +705,9 @@ _Ayan Sinha\*, Chiho Choi\*, Karthik Ramani_
 [\[back to top\]](#contents)
 
 ## Theses
+
+##### \[2018\] Computational Learning for Hand Pose Estimation. [\[PDF\]](https://docs.lib.purdue.edu/dissertations/AAI10743663/)
+*[Chiho Choi](http://www.chihochoi.me/), Purdue University*
 
 ##### \[2018\] 3D hand pose estimation: methods, datasets, and challenges. [\[PDF\]](https://spiral.imperial.ac.uk/handle/10044/1/70791)
 *[Shanxin Yuan](https://sites.google.com/site/shanxinyuan/), Imperial College London*
