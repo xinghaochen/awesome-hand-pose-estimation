@@ -209,7 +209,8 @@ _Shreyas Hampali, Mahdi Rad, Markus Oberweger, Vincent Lepetit_
 
 ### 2020 Others
 
-##### [2020 AAAI] AWR: Adaptive Weighting Regression for 3D Hand Pose Estimation. \[PDF\]
+##### [2020 AAAI] AWR: Adaptive Weighting Regression for 3D Hand Pose Estimation. [\[PDF\]](https://www.aaai.org//Papers//AAAI//2020GB//AAAI-HuangW.4059.pdf)  [\[Code\]](https://github.com/Elody-07/AWR-Adaptive-Weighting-Regression)
+
 _Weiting Huang, Pengfei Ren, Jingyu Wang, Qi Qi, Haifeng Sun_
 
 ##### [2020 WACV] Nonparametric Structure Regularization Machine for 2D Hand Pose Estimation. [\[PDF\]](https://arxiv.org/pdf/2001.08869.pdf) [\[Code\]](https://github.com/HowieMa/NSRMhand)
