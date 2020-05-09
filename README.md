@@ -111,6 +111,9 @@ _Liuhao Ge, Hui Liang, Junsong Yuan and Daniel Thalmann_
 
 ### Other Journals
 
+##### \[2020 TVCG\] 3D Hand Tracking in the Presence of Excessive Motion Blur. [\[PDF\]](https://ieeexplore.ieee.org/document/8998145)
+_Gabyong Park, Antonis Argyros, Juyoung Lee, Woontack Woo_
+
 ##### \[2019 Computers & Graphics\] Simple and effective deep hand shape and pose regression from a single depth image. [\[PDF\]](https://www.sciencedirect.com/science/article/abs/pii/S0097849319301591)
 _Jameel Malik, Ahmed Elhayek, Fabrizio Nunnari, Didier Stricker_
 
