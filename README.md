@@ -80,6 +80,9 @@ _Xiaoming Deng\*, Shuo Yang\*, Yinda Zhang\*, Ping Tan, Liang Chang, Hongan Wang
 
 ### TPAMI / IJCV
 
+##### \[2020 TPAMI\] 3D Hand Pose Estimation Using Synthetic Data and Weakly Labeled RGB Images. [\[PDF\]](https://ieeexplore.ieee.org/document/9091090)
+_Yujun Cai, Liuhao Ge, Jianfei Cai, Nadia Magnenat-Thalmann, Junsong Yuan_
+
 ##### \[2019 TPAMI\] Generalized Feedback Loop for Joint Hand-Object Pose Estimation. [\[PDF\]](https://arxiv.org/pdf/1903.10883) [\[Project\]](https://www.tugraz.at/institute/icg/research/team-lepetit/research-projects/joint-3d-hand-object-pose-estimation/)
 _Markus Oberweger, Paul Wohlhart, Vincent Lepetit_
 
@@ -186,6 +189,9 @@ _Guijin Wang, Xinghao Chen\*, Hengkai Guo\*, Cairong Zhang_
 
 ### 2020 CVPR
 
+##### Epipolar Transformers. [\[PDF\]](https://arxiv.org/pdf/2005.04551.pdf) [\[Code\]](https://github.com/yihui-he/epipolar-transformers)
+_Yihui He\*, Rui Yan\*, Shoou-I Yu, Katerina Fragkiadaki_
+
 ##### HandVoxNet: Deep Voxel-Based Network for 3D Hand Shape and Pose Estimation from a Single Depth Map. [\[PDF\]](https://arxiv.org/pdf/2004.01588.pdf)
 _Jameel Malik, Ibrahim Abdelaziz, Ahmed Elhayek, Soshi Shimada, Sk Aziz Ali, Vladislav Golyanik, Christian Theobalt, Didier Stricker_
 
@@ -227,6 +233,12 @@ _Liangjian Chen, Shih-Yao Lin, Yusheng Xie, Yen-Yu Lin, Wei Fan, Xiaohui Xie_
 
 ##### [2020 WACV] Rotation-invariant Mixed Graphical Model Network for 2D Hand Pose Estimation. [\[PDF\]](http://openaccess.thecvf.com/content_WACV_2020/papers/Kong_Rotation-invariant_Mixed_Graphical_Model_Network_for_2D_Hand_Pose_Estimation_WACV_2020_paper.pdf)
 _Deying Kong, Haoyu Ma, Yifei Chen, Xiaohui Xie_
+
+##### [2020 ICASSP] Weakly Supervised Segmentation Guided Hand Pose Estimation During Interaction With Unknown Objects. [\[PDF\]](https://ieeexplore.ieee.org/abstract/document/9053082)
+_Cairong Zhang, Guijin Wang, Xinghao Chen, Pengwei Xie, Toshihiko Yamasaki_
+
+##### [2020 ICASSP] Hand-3D-Studio: A New Multi-view System for 3D Hand Reconstruction. [\[PDF\]](https://www.yangangwang.com/papers/ZHAO-H3D-2020-02.pdf) [\[Project\]](https://www.yangangwang.com/papers/ZHAO-H3S-2020-02.html)
+_Zhengyi Zhao, Tianyao Wang, Siyu Xia, Yangang Wang_
 
 ### 2019 ICCV
 
