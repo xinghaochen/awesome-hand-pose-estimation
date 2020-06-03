@@ -29,6 +29,9 @@ See folder [``evaluation``](./evaluation) to get more details about performance 
 
 ## arXiv Papers
 
+##### [\[arXiv:2003.09282\]](https://arxiv.org/abs/2006.01320) Two-hand Global 3D Pose Estimation Using Monocular RGB. [\[PDF\]](https://arxiv.org/pdf/2006.01320.pdf)
+_Fanqing Lin, Connor Wilhelm, Tony Martinez_
+
 ##### [\[arXiv:2003.13764\]](https://arxiv.org/abs/2003.13764) Measuring Generalisation to Unseen Viewpoints, Articulations, Shapes and Objects for 3D Hand Pose Estimation under Hand-Object Interaction. [\[PDF\]](https://arxiv.org/pdf/2003.13764.pdf)
 _Anil Armagan, Guillermo Garcia-Hernando, Seungryul Baek, Shreyas Hampali, Mahdi Rad, Zhaohui Zhang, Shipeng Xie, MingXiu Chen, Boshen Zhang, Fu Xiong, Yang Xiao, Zhiguo Cao, Junsong Yuan, Pengfei Ren, Weiting Huang, Haifeng Sun, Marek Hrúz, Jakub Kanis, Zdeněk Krňoul, Qingfu Wan, Shile Li, Linlin Yang, Dongheui Lee, Angela Yao, Weiguo Zhou, Sijia Mei, Yunhui Liu, Adrian Spurr, Umar Iqbal, Pavlo Molchanov, Philippe Weinzaepfel, Romain Brégier, Gregory Rogez, Vincent Lepetit, Tae-Kyun Kim_
 
@@ -113,6 +116,9 @@ _Liuhao Ge, Hui Liang, Junsong Yuan and Daniel Thalmann_
 [\[back to top\]](#contents)
 
 ### Other Journals
+
+##### \[2020 TCSVT\] Improve Regression Network on Depth Hand Pose Estimation with Auxiliary Variable. [\[PDF\]](https://ieeexplore.ieee.org/abstract/document/9085372)
+_Lu Xu, Chen Hu, Ji’an Tao, Jianru Xue, Kuizhi Mei_
 
 ##### \[2020 TVCG\] 3D Hand Tracking in the Presence of Excessive Motion Blur. [\[PDF\]](https://ieeexplore.ieee.org/document/8998145)
 _Gabyong Park, Antonis Argyros, Juyoung Lee, Woontack Woo_
@@ -218,8 +224,10 @@ _Shreyas Hampali, Mahdi Rad, Markus Oberweger, Vincent Lepetit_
 
 ### 2020 Others
 
-##### [2020 AAAI] AWR: Adaptive Weighting Regression for 3D Hand Pose Estimation. [\[PDF\]](https://www.aaai.org//Papers//AAAI//2020GB//AAAI-HuangW.4059.pdf)  [\[Code\]](https://github.com/Elody-07/AWR-Adaptive-Weighting-Regression)
+##### [2020 CHI] Evaluation of Machine Learning Techniques for Hand Pose Estimation on Handheld Device with Proximity Sensor. [\[PDF\]](https://dl.acm.org/doi/pdf/10.1145/3313831.3376712)
+_Kazuyuki Arimatsu, Hideki Mori_
 
+##### [2020 AAAI] AWR: Adaptive Weighting Regression for 3D Hand Pose Estimation. [\[PDF\]](https://www.aaai.org//Papers//AAAI//2020GB//AAAI-HuangW.4059.pdf)  [\[Code\]](https://github.com/Elody-07/AWR-Adaptive-Weighting-Regression)
 _Weiting Huang, Pengfei Ren, Jingyu Wang, Qi Qi, Haifeng Sun_
 
 ##### [2020 WACV] Nonparametric Structure Regularization Machine for 2D Hand Pose Estimation. [\[PDF\]](https://arxiv.org/pdf/2001.08869.pdf) [\[Code\]](https://github.com/HowieMa/NSRMhand)
