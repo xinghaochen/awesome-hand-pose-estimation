@@ -210,7 +210,7 @@ _Long Zhao, Xi Peng, Yuxiao Chen, Mubbasir Kapadia, Dimitris N. Metaxas_
 ##### Weakly-Supervised Mesh-Convolutional Hand Reconstruction in the Wild. [\[PDF\]](https://arxiv.org/pdf/2004.01946.pdf) [\[Project\]](https://www.arielai.com/mesh_hands/)  *(Oral)*
 _Dominik Kulon, Riza Alp Güler, Iasonas Kokkinos, Michael Bronstein, Stefanos Zafeiriou_
 
-##### Leveraging Photometric Consistency over Time for Sparsely Supervised Hand-Object Reconstruction. \[PDF\]
+##### Leveraging Photometric Consistency over Time for Sparsely Supervised Hand-Object Reconstruction. [\[PDF\]](http://arxiv.org/pdf/2004.13449.pdf) [\[Project\]](https://hassony2.github.io/handobjectconsist.html) [\[Code\]](https://github.com/hassony2/handobjectconsist)
 _Yana Hasson, Bugra Tekin, Federica Bogo, Ivan Laptev, Marc Pollefeys, Cordelia Schmid_
 
 ##### Monocular Real-time Hand Shape and Motion Capture using Multi-modal Data. [\[PDF\]](https://arxiv.org/pdf/2003.09572.pdf) [\[Project\]](https://calciferzh.github.io/publications/zhou2020monocular) [\[Code\]](https://github.com/CalciferZh/minimal-hand)
