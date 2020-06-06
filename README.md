@@ -29,7 +29,7 @@ See folder [``evaluation``](./evaluation) to get more details about performance 
 
 ## arXiv Papers
 
-##### [\[arXiv:2003.09282\]](https://arxiv.org/abs/2006.01320) Two-hand Global 3D Pose Estimation Using Monocular RGB. [\[PDF\]](https://arxiv.org/pdf/2006.01320.pdf)
+##### [\[arXiv:2003.09282\]](https://arxiv.org/abs/2006.01320) Two-hand Global 3D Pose Estimation Using Monocular RGB. [\[PDF\]](https://arxiv.org/pdf/2006.01320.pdf)  [\[Project\]](https://github.com/AlextheEngineer/Ego3DHands)
 _Fanqing Lin, Connor Wilhelm, Tony Martinez_
 
 ##### [\[arXiv:2003.13764\]](https://arxiv.org/abs/2003.13764) Measuring Generalisation to Unseen Viewpoints, Articulations, Shapes and Objects for 3D Hand Pose Estimation under Hand-Object Interaction. [\[PDF\]](https://arxiv.org/pdf/2003.13764.pdf)
@@ -194,6 +194,9 @@ _Guijin Wang, Xinghao Chen\*, Hengkai Guo\*, Cairong Zhang_
 ## Conference Papers
 
 ### 2020 CVPR
+
+##### HUMBI: A Large Multiview Dataset of Human Body Expressions. [\[PDF\]](https://arxiv.org/pdf/1812.00281.pdf) [\[Project\]](https://humbi-data.net/hand/)
+_Zhixuan Yu\*, Jae Shin Yoon\*, Prashanth Venkatesh, Jaesik Park, Jihun Yu, Hyun Soo Park_
 
 ##### Epipolar Transformers. [\[PDF\]](https://arxiv.org/pdf/2005.04551.pdf) [\[Code\]](https://github.com/yihui-he/epipolar-transformers)
 _Yihui He\*, Rui Yan\*, Shoou-I Yu, Katerina Fragkiadaki_
@@ -796,7 +799,8 @@ _Ayan Sinha\*, Chiho Choi\*, Karthik Ramani_
 |[ICVL](https://labicvl.github.io/hand.html) | 2014 | R | D | No |  16 | 3rd  |  10 | 331k/1.5k | Latent regression forest: Structured estimation of 3d articulated hand posture, CVPR 2014 [\[PDF\]](https://labicvl.github.io/docs/pubs/Danny_CVPR_2014.pdf)|
 |[MSRA15](https://github.com/geliuhao/CVPR2016_HandPoseEstimation/issues/4) | 2015 | R | D | No |  21 | 3rd  |  9 | 76,375 | Cascaded Hand Pose Regression, CVPR 2015 [\[PDF\]](http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Sun_Cascaded_Hand_Pose_2015_CVPR_paper.pdf)|
 |[BigHand2.2M](http://icvl.ee.ic.ac.uk/hands17/challenge/) | 2017 | R | D | No |  21 | 3rd  |  10 | 2.2M | Big Hand 2.2M Benchmark: Hand Pose Data Set and State of the Art Analysis, CVPR 2017 [\[PDF\]](https://labicvl.github.io/docs/pubs/Shanxin_CVPR_2017.pdf)|
-|[OneHand10K](https://yangangwang.com/papers/WANG-MCC-2018-10.html) | 2019 | R | C | No | 21 | 3rd | - | 10k/1.3k | Mask-pose Cascaded CNN for 2D Hand Pose Estimation from Single Color Image, TCSVT 2019 [\[PDF\]](https://yangangwang.com/papers/WANG-MCC-2018-10.pdf)|
+|[Ego3DHands](https://github.com/AlextheEngineer/Ego3DHands) | 2020 | S | C+D | No | 21 | ego | 1 | 50k/5k | Two-hand Global 3D Pose Estimation Using Monocular RGB, arXiv 2020 [\[PDF\]](https://arxiv.org/pdf/2006.01320.pdf)|
+|[OneHand10K](https://yangangwang.com/papers/WANG-MCC-2018-10.html) | 2019 | R | C | No | 21 | 3rd | 1 | 10k/1.3k | Mask-pose Cascaded CNN for 2D Hand Pose Estimation from Single Color Image, TCSVT 2019 [\[PDF\]](https://yangangwang.com/papers/WANG-MCC-2018-10.pdf)|
 |[FreiHAND](https://lmb.informatik.uni-freiburg.de/resources/datasets/FreihandDataset.en.html) | 2019 | R | C | Yes |  21 | 3rd  |  - | 130k/3960  | FreiHAND: A Dataset for Markerless Capture of Hand Pose and Shape from Single RGB Images, ICCV 2019 [\[PDF\]](https://arxiv.org/pdf/1909.04349.pdf)|
 |[SynHand5M](https://cloud.dfki.de/owncloud/index.php/s/iCMRF7a5FkXrdpn) | 2018 | S | D | No |  M | 3rd  |  - | 5M | DeepHPS: End-to-end Estimation of 3D Hand Pose and Shape by Learning from Synthetic Depth, 3DV 2018 [\[PDF\]](https://arxiv.org/pdf/1808.09208.pdf)|
 |[FHAD](https://guiggh.github.io/publications/first-person-hands/) | 2018 | R | D | Yes |  21 | ego  |  6 | 100k | First-Person Hand Action Benchmark with RGB-D Videos and 3D Hand Pose Annotations, CVPR 2018 [\[PDF\]](https://arxiv.org/pdf/1704.02463)|
