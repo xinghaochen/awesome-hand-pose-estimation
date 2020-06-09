@@ -274,6 +274,9 @@ _Xiong Zhang\*, Qiang Li\*, Wenbo Zhang, Wen Zheng_
 ##### Aligning Latent Spaces for 3D Hand Pose Estimation. [\[PDF\]](https://www.mu4yang.com/files/papers/Aligning%20Latent%20Spaces%20for%203D%20Hand%20Pose%20Estimation.pdf)
 _Linlin Yang\*, Shile Li\*, Dongheui Lee, Angela Yao_
 
+##### Contextual Attention for Hand Detection in the Wild. [\[PDF\]](https://arxiv.org/pdf/1904.04882.pdf) [\[Project\]](http://vision.cs.stonybrook.edu/~supreeth/) [\[Code\]](https://github.com/SupreethN/Hand-CNN)
+_Supreeth Narasimhaswamy\*, Zhengwei Wei\*, Yang Wang, Justin Zhang, Minh Hoai_
+
 ##### [HANDS19 Workshop] Disentangling Pose from Appearance in Monochrome Hand Images. [\[PDF\]](https://arxiv.org/pdf/1904.07528.pdf)
 _Yikang Li, Chris Twigg, Yuting Ye, Lingling Tao, Xiaogang Wang_
 
