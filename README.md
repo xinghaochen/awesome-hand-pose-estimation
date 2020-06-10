@@ -274,9 +274,6 @@ _Xiong Zhang\*, Qiang Li\*, Wenbo Zhang, Wen Zheng_
 ##### Aligning Latent Spaces for 3D Hand Pose Estimation. [\[PDF\]](https://www.mu4yang.com/files/papers/Aligning%20Latent%20Spaces%20for%203D%20Hand%20Pose%20Estimation.pdf)
 _Linlin Yang\*, Shile Li\*, Dongheui Lee, Angela Yao_
 
-##### Contextual Attention for Hand Detection in the Wild. [\[PDF\]](https://arxiv.org/pdf/1904.04882.pdf) [\[Project\]](http://vision.cs.stonybrook.edu/~supreeth/) [\[Code\]](https://github.com/SupreethN/Hand-CNN)
-_Supreeth Narasimhaswamy\*, Zhengwei Wei\*, Yang Wang, Justin Zhang, Minh Hoai_
-
 ##### [HANDS19 Workshop] Disentangling Pose from Appearance in Monochrome Hand Images. [\[PDF\]](https://arxiv.org/pdf/1904.07528.pdf)
 _Yikang Li, Chris Twigg, Yuting Ye, Lingling Tao, Xiaogang Wang_
 
@@ -870,6 +867,9 @@ _Ayan Sinha\*, Chiho Choi\*, Karthik Ramani_
 [\[back to top\]](#contents)
 
 ## Other Related Papers
+
+##### \[2019 ICCV\] Contextual Attention for Hand Detection in the Wild. [\[PDF\]](https://arxiv.org/pdf/1904.04882.pdf) [\[Project\]](http://vision.cs.stonybrook.edu/~supreeth/) [\[Code\]](https://github.com/SupreethN/Hand-CNN)
+_Supreeth Narasimhaswamy\*, Zhengwei Wei\*, Yang Wang, Justin Zhang, Minh Hoai_
 
 ##### \[2018 SIGGRAPH\] Online Optical Marker-based Hand Tracking with Deep Labels. [\[PDF\]](https://research.fb.com/wp-content/uploads/2018/06/Online-Optical-Marker-based-Hand-Tracking-with-Deep-Labels.pdf) [\[Code\]](https://github.com/Beibei88/Mocap_SIG18_Data)
 *Shangchen Han, Beibei Liu, Robert Wang, Yuting Ye, Christopher D. Twigg, Kenrick Kin*
