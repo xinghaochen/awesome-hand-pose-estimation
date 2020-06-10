@@ -868,6 +868,9 @@ _Ayan Sinha\*, Chiho Choi\*, Karthik Ramani_
 
 ## Other Related Papers
 
+##### \[2019 ICCV\] Contextual Attention for Hand Detection in the Wild. [\[PDF\]](https://arxiv.org/pdf/1904.04882.pdf) [\[Project\]](http://vision.cs.stonybrook.edu/~supreeth/) [\[Code\]](https://github.com/SupreethN/Hand-CNN)
+_Supreeth Narasimhaswamy\*, Zhengwei Wei\*, Yang Wang, Justin Zhang, Minh Hoai_
+
 ##### \[2018 SIGGRAPH\] Online Optical Marker-based Hand Tracking with Deep Labels. [\[PDF\]](https://research.fb.com/wp-content/uploads/2018/06/Online-Optical-Marker-based-Hand-Tracking-with-Deep-Labels.pdf) [\[Code\]](https://github.com/Beibei88/Mocap_SIG18_Data)
 *Shangchen Han, Beibei Liu, Robert Wang, Yuting Ye, Christopher D. Twigg, Kenrick Kin*
 
