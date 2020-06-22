@@ -198,6 +198,12 @@ _Guijin Wang, Xinghao Chen\*, Hengkai Guo\*, Cairong Zhang_
 
 ### 2020 CVPR
 
+##### Weakly-Supervised Mesh-Convolutional Hand Reconstruction in the Wild. [\[PDF\]](https://arxiv.org/pdf/2004.01946.pdf) [\[Project\]](https://www.arielai.com/mesh_hands/)  *(Oral)* *([Paper Award Nominees](http://cvpr2020.thecvf.com/node/817))*
+_Dominik Kulon, Riza Alp Güler, Iasonas Kokkinos, Michael Bronstein, Stefanos Zafeiriou_
+
+##### Weakly-supervised Domain Adaptation via GAN and Mesh Model for Estimating 3D Hand Poses Interacting Objects.  [\[PDF\]](http://openaccess.thecvf.com/content_CVPR_2020/papers/Baek_Weakly-Supervised_Domain_Adaptation_via_GAN_and_Mesh_Model_for_Estimating_CVPR_2020_paper.pdf) [\[Code\]](https://github.com/bsrvision/weak_da_hands) *(Oral)* *([Paper Award Nominees](http://cvpr2020.thecvf.com/node/817))*
+_Seungryul Baek, Kwang In Kim, Tae-Kyun Kim_
+
 ##### GanHand: Predicting Human Grasp Affordances in Multi-Object Scenes. [\[PDF\]](http://openaccess.thecvf.com/content_CVPR_2020/papers/Corona_GanHand_Predicting_Human_Grasp_Affordances_in_Multi-Object_Scenes_CVPR_2020_paper.pdf)
 _Enric Corona, Albert Pumarola, Guillem Alenya, Francesc Moreno-Noguer, Gregory Rogez_
 
@@ -216,17 +222,11 @@ _Jameel Malik, Ibrahim Abdelaziz, Ahmed Elhayek, Soshi Shimada, Sk Aziz Ali, Vla
 ##### Knowledge as Priors: Cross-Modal Knowledge Generalization for Datasets without Superior Knowledge. [\[PDF\]](https://arxiv.org/pdf/2004.00176.pdf)
 _Long Zhao, Xi Peng, Yuxiao Chen, Mubbasir Kapadia, Dimitris N. Metaxas_
 
-##### Weakly-Supervised Mesh-Convolutional Hand Reconstruction in the Wild. [\[PDF\]](https://arxiv.org/pdf/2004.01946.pdf) [\[Project\]](https://www.arielai.com/mesh_hands/)  *(Oral)*
-_Dominik Kulon, Riza Alp Güler, Iasonas Kokkinos, Michael Bronstein, Stefanos Zafeiriou_
-
 ##### Leveraging Photometric Consistency over Time for Sparsely Supervised Hand-Object Reconstruction. [\[PDF\]](http://arxiv.org/pdf/2004.13449.pdf) [\[Project\]](https://hassony2.github.io/handobjectconsist.html) [\[Code\]](https://github.com/hassony2/handobjectconsist)
 _Yana Hasson, Bugra Tekin, Federica Bogo, Ivan Laptev, Marc Pollefeys, Cordelia Schmid_
 
 ##### Monocular Real-time Hand Shape and Motion Capture using Multi-modal Data. [\[PDF\]](https://arxiv.org/pdf/2003.09572.pdf) [\[Project\]](https://calciferzh.github.io/publications/zhou2020monocular) [\[Code\]](https://github.com/CalciferZh/minimal-hand)
 _Yuxiao Zhou, Marc Habermann, Weipeng Xu, Ikhsanul Habibie, Christian Theobalt, Feng Xu_
-
-##### Weakly-supervised Domain Adaptation via GAN and Mesh Model for Estimating 3D Hand Poses Interacting Objects.  [\[PDF\]](http://openaccess.thecvf.com/content_CVPR_2020/papers/Baek_Weakly-Supervised_Domain_Adaptation_via_GAN_and_Mesh_Model_for_Estimating_CVPR_2020_paper.pdf) [\[Code\]](https://github.com/bsrvision/weak_da_hands) *(Oral)*  *([Paper Award Nominees](http://cvpr2020.thecvf.com/node/817))*
-_Seungryul Baek, Kwang In Kim, Tae-Kyun Kim_
 
 ##### HOPE-Net: A Graph-based Model for Hand-Object Pose Estimation. [\[PDF\]](http://openaccess.thecvf.com/content_CVPR_2020/papers/Doosti_HOPE-Net_A_Graph-Based_Model_for_Hand-Object_Pose_Estimation_CVPR_2020_paper.pdf) [\[Code\]](https://github.com/bardiadoosti/HOPE)
 _Bardia Doosti, Shujon Naha, David Crandall, Majid Mirbagheri_
