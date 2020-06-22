@@ -29,6 +29,9 @@ See folder [``evaluation``](./evaluation) to get more details about performance 
 
 ## arXiv Papers
 
+##### [\[arXiv:2006.05927\]](https://arxiv.org/abs/2006.05927) Recent Advances in 3D Object and Hand Pose Estimation. [\[PDF\]](https://arxiv.org/pdf/2006.05927.pdf)
+_Vincent Lepetit_
+
 ##### [\[arXiv:2003.09282\]](https://arxiv.org/abs/2006.01320) Two-hand Global 3D Pose Estimation Using Monocular RGB. [\[PDF\]](https://arxiv.org/pdf/2006.01320.pdf)  [\[Project\]](https://github.com/AlextheEngineer/Ego3DHands)
 _Fanqing Lin, Connor Wilhelm, Tony Martinez_
 
@@ -195,6 +198,12 @@ _Guijin Wang, Xinghao Chen\*, Hengkai Guo\*, Cairong Zhang_
 
 ### 2020 CVPR
 
+##### GanHand: Predicting Human Grasp Affordances in Multi-Object Scenes. [\[PDF\]](http://openaccess.thecvf.com/content_CVPR_2020/papers/Corona_GanHand_Predicting_Human_Grasp_Affordances_in_Multi-Object_Scenes_CVPR_2020_paper.pdf)
+_Enric Corona, Albert Pumarola, Guillem Alenya, Francesc Moreno-Noguer, Gregory Rogez_
+
+##### Cross-Modal Variational Alignment of Latent Spaces. [\[PDF\]](http://openaccess.thecvf.com/content_CVPRW_2020/papers/w56/Theodoridis_Cross-Modal_Variational_Alignment_of_Latent_Spaces_CVPRW_2020_paper.pdf)
+_Thomas Theodoridis, Theocharis Chatzis, Vassilios Solachidis, Kosmas Dimitropoulos, Petros Daras_
+
 ##### HUMBI: A Large Multiview Dataset of Human Body Expressions. [\[PDF\]](https://arxiv.org/pdf/1812.00281.pdf) [\[Project\]](https://humbi-data.net/hand/)
 _Zhixuan Yu\*, Jae Shin Yoon\*, Prashanth Venkatesh, Jaesik Park, Jihun Yu, Hyun Soo Park_
 
@@ -216,10 +225,10 @@ _Yana Hasson, Bugra Tekin, Federica Bogo, Ivan Laptev, Marc Pollefeys, Cordelia 
 ##### Monocular Real-time Hand Shape and Motion Capture using Multi-modal Data. [\[PDF\]](https://arxiv.org/pdf/2003.09572.pdf) [\[Project\]](https://calciferzh.github.io/publications/zhou2020monocular) [\[Code\]](https://github.com/CalciferZh/minimal-hand)
 _Yuxiao Zhou, Marc Habermann, Weipeng Xu, Ikhsanul Habibie, Christian Theobalt, Feng Xu_
 
-##### Weakly-supervised Domain Adaptation via GAN and Mesh Model for Estimating 3D Hand Poses Interacting Objects. \[PDF\]  *(Oral)*
+##### Weakly-supervised Domain Adaptation via GAN and Mesh Model for Estimating 3D Hand Poses Interacting Objects.  [\[PDF\]](http://openaccess.thecvf.com/content_CVPR_2020/papers/Baek_Weakly-Supervised_Domain_Adaptation_via_GAN_and_Mesh_Model_for_Estimating_CVPR_2020_paper.pdf) [\[Code\]](https://github.com/bsrvision/weak_da_hands) *(Oral)*  *([Paper Award Nominees](http://cvpr2020.thecvf.com/node/817))*
 _Seungryul Baek, Kwang In Kim, Tae-Kyun Kim_
 
-##### HOPE-Net: A Graph-based Model for Hand-Object Pose Estimation. \[PDF\] [\[Code\]](https://github.com/bardiadoosti/HOPE)
+##### HOPE-Net: A Graph-based Model for Hand-Object Pose Estimation. [\[PDF\]](http://openaccess.thecvf.com/content_CVPR_2020/papers/Doosti_HOPE-Net_A_Graph-Based_Model_for_Hand-Object_Pose_Estimation_CVPR_2020_paper.pdf) [\[Code\]](https://github.com/bardiadoosti/HOPE)
 _Bardia Doosti, Shujon Naha, David Crandall, Majid Mirbagheri_
 
 ##### HOnnotate: A method for 3D Annotation of Hand and Objects Poses. [\[PDF\]](https://arxiv.org/pdf/1907.01481.pdf) [\[Project\]](https://www.tugraz.at/institute/icg/research/team-lepetit/research-projects/hand-object-3d-pose-annotation/) [\[Code\]](https://github.com/shreyashampali/ho3d)
