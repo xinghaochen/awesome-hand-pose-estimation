@@ -56,9 +56,6 @@ _Cheol-hwan Yoo, Seung-wook Kim, Seo-won Ji, Yong-goo Shin, Sung-jea Ko_
 ##### [\[arXiv:1909.05666\]](https://arxiv.org/abs/1909.05666) Adaptive Wasserstein Hourglass for Weakly Supervised Hand Pose Estimation from Monocular RGB. [\[PDF\]](https://arxiv.org/pdf/1909.05666.pdf)
 _Yumeng Zhang, Li Chen, Yufeng Liu, Junhai Yong, Wen Zheng_
 
-##### [\[arXiv:1907.10695\]](https://arxiv.org/abs/1907.10695) Dual Grid Net: hand mesh vertex regression from single depth maps. [\[PDF\]](https://arxiv.org/pdf/1907.10695.pdf)
-_Chengde Wan, Thomas Probst, Luc Van Gool, Angela Yao_
-
 ##### [\[arXiv:1905.02085\]](https://arxiv.org/abs/1905.02085) Pixel-wise Regression: 3D Hand Pose Estimation via Spatial-form Representation and Differentiable Decoder. [\[PDF\]](https://arxiv.org/pdf/1905.02085.pdf)
 _Xingyuan Zhang, Fuhai Zhang_
 
@@ -191,6 +188,30 @@ _Guijin Wang, Xinghao Chen\*, Hengkai Guo\*, Cairong Zhang_
 ## Conference Papers
 
 ### 2020 ECCV
+
+##### Dual Grid Net: hand mesh vertex regression from single depth maps. [\[PDF\]](https://arxiv.org/pdf/1907.10695.pdf)
+_Chengde Wan, Thomas Probst, Luc Van Gool, Angela Yao_
+
+##### Hand-Transformer: Non-Autoregressive Structured Modeling for 3D Hand Pose Estimation. \[PDF\]
+_#_
+
+##### ContactPose: A Dataset of Grasps with Object Contact and Hand Pose. \[PDF\]
+_Samarth Brahmbhatt, Chengcheng Tang, Chris Twigg, Charles C. Kemp, and James Hays_
+
+##### SeqHAND: RGB-Sequence-Based 3D Hand Pose and Shape Estimation. \[PDF\]
+_#_
+
+##### Parametric Hand Texture Model for 3D Hand Reconstruction and Personalization. [\[PDF\]](https://pure.mpg.de/rest/items/item_3238376/component/file_3238377/content)
+_Neng Qian, Jiayi Wang, Franziska Mueller, Florian Bernard_
+
+##### JGR-P2O: Joint Graph Reasoning based Pixel-to-Offset Prediction Network for 3D Hand Pose Estimation from a Single Depth Image. \[PDF\] *(Spotlight)*
+_#_
+
+##### Adaptive Computationally Efficient Network for Monocular 3D Hand Pose Estimation. \[PDF\] *(Spotlight)*
+_#_
+
+##### Collaborative Learning of Gesture Recognition and 3D Hand Pose Estimation with Multi-Order Feature Analysis.  \[PDF\] *(Spotlight)*
+_#_
 
 ##### DeepHandMesh: Weakly-supervised Deep Encoder-Decoder Framework for High-fidelity Hand Mesh Modeling from a Single RGB Image. \[PDF\] *(Oral)*
 _Gyeongsik Moon, Takaaki Shiratori, Kyoung Mu Lee_
