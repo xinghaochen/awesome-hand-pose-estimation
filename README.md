@@ -192,6 +192,9 @@ _Guijin Wang, Xinghao Chen\*, Hengkai Guo\*, Cairong Zhang_
 
 ### 2020 ECCV
 
+- ##### Efficient Model Fitting by Combining Lifted Optimization with Phong Surface Models. \[PDF\] *(Oral)*
+_#_
+
 - ##### Dual Grid Net: hand mesh vertex regression from single depth maps. [\[PDF\]](https://arxiv.org/pdf/1907.10695.pdf)
 _Chengde Wan, Thomas Probst, Luc Van Gool, Angela Yao_
 
