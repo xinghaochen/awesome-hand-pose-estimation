@@ -205,19 +205,19 @@ _#_
 _Samarth Brahmbhatt, Chengcheng Tang, Chris Twigg, Charles C. Kemp, and James Hays_
 
 - ##### SeqHAND: RGB-Sequence-Based 3D Hand Pose and Shape Estimation. \[PDF\]
-_#_
+_John Yang, Hyung Jin Chang, Seungeui Lee, Nojun Kwak_
 
 - ##### Parametric Hand Texture Model for 3D Hand Reconstruction and Personalization. [\[PDF\]](https://pure.mpg.de/rest/items/item_3238376/component/file_3238377/content)
 _Neng Qian, Jiayi Wang, Franziska Mueller, Florian Bernard_
 
 - ##### JGR-P2O: Joint Graph Reasoning based Pixel-to-Offset Prediction Network for 3D Hand Pose Estimation from a Single Depth Image. \[PDF\] *(Spotlight)*
-_#_
+_Linpu Fang, Xingyan Liu, Li Liu, Hang Xu, Wenxiong Kang_
 
 - ##### Adaptive Computationally Efficient Network for Monocular 3D Hand Pose Estimation. \[PDF\] *(Spotlight)*
-_#_
+_Zhipeng Fan, Jun Liu, Yao Wang_
 
 - ##### Collaborative Learning of Gesture Recognition and 3D Hand Pose Estimation with Multi-Order Feature Analysis.  \[PDF\] *(Spotlight)*
-_#_
+_Siyuan Yang, Jun Liu, Shijian Lu, Meng Hwa Er, Alex C. Kot_
 
 - ##### DeepHandMesh: Weakly-supervised Deep Encoder-Decoder Framework for High-fidelity Hand Mesh Modeling from a Single RGB Image. \[PDF\] *(Oral)*
 _Gyeongsik Moon, Takaaki Shiratori, Kyoung Mu Lee_
