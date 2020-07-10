@@ -29,6 +29,9 @@ See folder [``evaluation``](./evaluation) to get more details about performance 
 
 ## arXiv Papers
 
+- ##### [\[arXiv:2007.03073\]](https://arxiv.org/abs/2006.15561) Generative Model-Based Loss to the Rescue: A Method to Overcome Annotation Errors for Depth-Based Hand Pose Estimation. [\[PDF\]](https://arxiv.org/pdf/2007.03073.pdf)
+_Jiayi Wang, Franziska Mueller, Florian Bernard, Christian Theobalt_
+
 - ##### [\[arXiv:2006.15561\]](https://arxiv.org/abs/2006.15561) Joint Hand-object 3D Reconstruction from a Single Image with Cross-branch Feature Fusion. [\[PDF\]](https://arxiv.org/pdf/2006.15561.pdf)
 _Yujin Chen, Zhigang Tu, Di Kang, Ruizhi Chen, Linchao Bao, Zhengyou Zhang, Junsong Yuan_
 
@@ -192,8 +195,8 @@ _Guijin Wang, Xinghao Chen\*, Hengkai Guo\*, Cairong Zhang_
 
 ### 2020 ECCV
 
-- ##### Efficient Model Fitting by Combining Lifted Optimization with Phong Surface Models. \[PDF\] *(Oral)*
-_#_
+- ##### The Phong Surface: Efficient 3D Model Fitting using Lifted Optimization. [\[PDF\]](https://arxiv.org/pdf/2007.04940) *(Oral)*
+_Jingjing Shen, Thomas J. Cashman, Qi Ye, Tim Hutton, Toby Sharp, Federica Bogo, Andrew William Fitzgibbon, Jamie Shotton_
 
 - ##### Dual Grid Net: hand mesh vertex regression from single depth maps. [\[PDF\]](https://arxiv.org/pdf/1907.10695.pdf)
 _Chengde Wan, Thomas Probst, Luc Van Gool, Angela Yao_
@@ -210,7 +213,7 @@ _John Yang, Hyung Jin Chang, Seungeui Lee, Nojun Kwak_
 - ##### Parametric Hand Texture Model for 3D Hand Reconstruction and Personalization. [\[PDF\]](https://pure.mpg.de/rest/items/item_3238376/component/file_3238377/content)
 _Neng Qian, Jiayi Wang, Franziska Mueller, Florian Bernard_
 
-- ##### JGR-P2O: Joint Graph Reasoning based Pixel-to-Offset Prediction Network for 3D Hand Pose Estimation from a Single Depth Image. \[PDF\] *(Spotlight)*
+- ##### JGR-P2O: Joint Graph Reasoning based Pixel-to-Offset Prediction Network for 3D Hand Pose Estimation from a Single Depth Image. [\[PDF\]](https://arxiv.org/pdf/2007.04646) *(Spotlight)*
 _Linpu Fang, Xingyan Liu, Li Liu, Hang Xu, Wenxiong Kang_
 
 - ##### Adaptive Computationally Efficient Network for Monocular 3D Hand Pose Estimation. \[PDF\] *(Spotlight)*
