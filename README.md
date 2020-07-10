@@ -237,6 +237,8 @@ _Adrian Spurr, Umar Iqbal, Pavlo Molchanov, Otmar Hilliges, Jan Kautz_
 - ##### Measuring Generalisation to Unseen Viewpoints, Articulations, Shapes and Objects for 3D Hand Pose Estimation under Hand-Object Interaction. [\[PDF\]](https://arxiv.org/pdf/2003.13764.pdf)
 _Anil Armagan, Guillermo Garcia-Hernando, Seungryul Baek, Shreyas Hampali, Mahdi Rad, Zhaohui Zhang, Shipeng Xie, MingXiu Chen, Boshen Zhang, Fu Xiong, Yang Xiao, Zhiguo Cao, Junsong Yuan, Pengfei Ren, Weiting Huang, Haifeng Sun, Marek Hrúz, Jakub Kanis, Zdeněk Krňoul, Qingfu Wan, Shile Li, Linlin Yang, Dongheui Lee, Angela Yao, Weiguo Zhou, Sijia Mei, Yunhui Liu, Adrian Spurr, Umar Iqbal, Pavlo Molchanov, Philippe Weinzaepfel, Romain Brégier, Gregory Rogez, Vincent Lepetit, Tae-Kyun Kim_
 
+[\[back to top\]](#contents)
+
 ### 2020 CVPR
 
 - ##### Weakly-Supervised Mesh-Convolutional Hand Reconstruction in the Wild. [\[PDF\]](https://arxiv.org/pdf/2004.01946.pdf) [\[Project\]](https://www.arielai.com/mesh_hands/)  *(Oral)* *([Paper Award Nominees](http://cvpr2020.thecvf.com/node/817))*
@@ -275,6 +277,8 @@ _Bardia Doosti, Shujon Naha, David Crandall, Majid Mirbagheri_
 - ##### HOnnotate: A method for 3D Annotation of Hand and Objects Poses. [\[PDF\]](https://arxiv.org/pdf/1907.01481.pdf) [\[Project\]](https://www.tugraz.at/institute/icg/research/team-lepetit/research-projects/hand-object-3d-pose-annotation/) [\[Code\]](https://github.com/shreyashampali/ho3d)
 _Shreyas Hampali, Mahdi Rad, Markus Oberweger, Vincent Lepetit_
 
+[\[back to top\]](#contents)
+
 ### 2020 Others
 
 - ##### [2020 CHI] Evaluation of Machine Learning Techniques for Hand Pose Estimation on Handheld Device with Proximity Sensor. [\[PDF\]](https://dl.acm.org/doi/pdf/10.1145/3313831.3376712)
@@ -300,6 +304,8 @@ _Cairong Zhang, Guijin Wang, Xinghao Chen, Pengwei Xie, Toshihiko Yamasaki_
 
 - ##### [2020 ICASSP] Hand-3D-Studio: A New Multi-view System for 3D Hand Reconstruction. [\[PDF\]](https://www.yangangwang.com/papers/ZHAO-H3D-2020-02.pdf) [\[Project\]](https://www.yangangwang.com/papers/ZHAO-H3S-2020-02.html)
 _Zhengyi Zhao, Tianyao Wang, Siyu Xia, Yangang Wang_
+
+[\[back to top\]](#contents)
 
 ### 2019 ICCV
 
