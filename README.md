@@ -44,7 +44,7 @@ _Fanqing Lin, Connor Wilhelm, Tony Martinez_
 - ##### [\[arXiv:2001.08047\]](https://arxiv.org/abs/2001.08047) Attention! A Lightweight 2D Hand Pose Estimation Approach. [\[PDF\]](https://arxiv.org/pdf/2001.08047.pdf)
 _Nicholas Santavas, Ioannis Kansizoglou, Loukas Bampis, Evangelos Karakasis, Antonios Gasteratos_
 
-- ##### [\[arXiv:2001.00702\]](https://arxiv.org/abs/2001.00702) HandAugment: A Simple Data Augmentation for HANDS19 Challenge Task 1 -- Depth-Based 3D Hand Pose Estimation. [\[PDF\]](https://arxiv.org/pdf/2001.00702.pdf)
+- ##### [\[arXiv:2001.00702\]](https://arxiv.org/abs/2001.00702) HandAugment: A Simple Data Augmentation for HANDS19 Challenge Task 1 -- Depth-Based 3D Hand Pose Estimation. [\[PDF\]](https://arxiv.org/pdf/2001.00702.pdf) [\[Code\]](https://github.com/wozhangzhaohui/HandAugment)
 _Zhaohui Zhang, Shipeng Xie, Mingxiu Chen, Haichao Zhu_
 
 - ##### [\[arXiv:1912.12436\]](https://arxiv.org/abs/1912.12436) Silhouette-Net: 3D Hand Pose Estimation from Silhouettes. [\[PDF\]](https://arxiv.org/pdf/1912.12436.pdf)
@@ -204,16 +204,16 @@ _Chengde Wan, Thomas Probst, Luc Van Gool, Angela Yao_
 - ##### Hand-Transformer: Non-Autoregressive Structured Modeling for 3D Hand Pose Estimation. \[PDF\]
 _#_
 
-- ##### ContactPose: A Dataset of Grasps with Object Contact and Hand Pose. \[PDF\]
+- ##### ContactPose: A Dataset of Grasps with Object Contact and Hand Pose. [\[PDF\]](https://www.dropbox.com/s/swk5j6j3xic9upo/contactpose_eccv2020.pdf?dl=0)  [\[Project\]](https://contactpose.cc.gatech.edu/)
 _Samarth Brahmbhatt, Chengcheng Tang, Chris Twigg, Charles C. Kemp, and James Hays_
 
-- ##### SeqHAND: RGB-Sequence-Based 3D Hand Pose and Shape Estimation. \[PDF\]
+- ##### SeqHAND: RGB-Sequence-Based 3D Hand Pose and Shape Estimation. [\[PDF\]](http://arxiv.org/pdf/2007.05168)
 _John Yang, Hyung Jin Chang, Seungeui Lee, Nojun Kwak_
 
 - ##### Parametric Hand Texture Model for 3D Hand Reconstruction and Personalization. [\[PDF\]](https://pure.mpg.de/rest/items/item_3238376/component/file_3238377/content)
 _Neng Qian, Jiayi Wang, Franziska Mueller, Florian Bernard_
 
-- ##### JGR-P2O: Joint Graph Reasoning based Pixel-to-Offset Prediction Network for 3D Hand Pose Estimation from a Single Depth Image. [\[PDF\]](https://arxiv.org/pdf/2007.04646) *(Spotlight)*
+- ##### JGR-P2O: Joint Graph Reasoning based Pixel-to-Offset Prediction Network for 3D Hand Pose Estimation from a Single Depth Image. [\[PDF\]](https://arxiv.org/pdf/2007.04646)  [\[Code\]](https://github.com/fanglinpu/JGR-P2O) *(Spotlight)*
 _Linpu Fang, Xingyan Liu, Li Liu, Hang Xu, Wenxiong Kang_
 
 - ##### Adaptive Computationally Efficient Network for Monocular 3D Hand Pose Estimation. \[PDF\] *(Spotlight)*
