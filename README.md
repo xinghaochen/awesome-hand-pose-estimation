@@ -210,8 +210,8 @@ _Samarth Brahmbhatt, Chengcheng Tang, Chris Twigg, Charles C. Kemp, and James Ha
 - ##### SeqHAND: RGB-Sequence-Based 3D Hand Pose and Shape Estimation. [\[PDF\]](http://arxiv.org/pdf/2007.05168)
 _John Yang, Hyung Jin Chang, Seungeui Lee, Nojun Kwak_
 
-- ##### Parametric Hand Texture Model for 3D Hand Reconstruction and Personalization. [\[PDF\]](https://pure.mpg.de/rest/items/item_3238376/component/file_3238377/content)
-_Neng Qian, Jiayi Wang, Franziska Mueller, Florian Bernard_
+- ##### Parametric Hand Texture Model for 3D Hand Reconstruction and Personalization. [\[PDF\]](https://handtracker.mpi-inf.mpg.de/projects/HandTextureModel/content/HandTextureModel_ECCV2020.pdf) [\[Project\]](https://handtracker.mpi-inf.mpg.de/projects/HandTextureModel/)
+_Neng Qian, Jiayi Wang, Franziska Mueller, Florian Bernard, Vladislav Golyanik, Christian Theobalt_
 
 - ##### JGR-P2O: Joint Graph Reasoning based Pixel-to-Offset Prediction Network for 3D Hand Pose Estimation from a Single Depth Image. [\[PDF\]](https://arxiv.org/pdf/2007.04646)  [\[Code\]](https://github.com/fanglinpu/JGR-P2O) *(Spotlight)*
 _Linpu Fang, Xingyan Liu, Li Liu, Hang Xu, Wenxiong Kang_
