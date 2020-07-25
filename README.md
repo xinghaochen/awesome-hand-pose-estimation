@@ -854,40 +854,40 @@ _Ayan Sinha\*, Chiho Choi\*, Karthik Ramani_
 
 |Dataset|Year|S/R|Mesh|Obj|#J|V|#S|#F|Paper|
 |------|------|------|------|------|------|------|------|------|----------------|
-|[NYU](http://cims.nyu.edu/~tompson/NYU_Hand_Pose_Dataset.htm) | 2014 | R | No | No | 36 | 3rd | 2 | 72k/8k | SIGGRAPH 2014 [\[PDF\]](http://cims.nyu.edu/~tompson/others/TOG_2014_paper_PREPRINT.pdf)|
-|[ICVL](https://labicvl.github.io/hand.html) | 2014 | R | No | No |  16 | 3rd  |  10 | 331k/1.5k | CVPR 2014 [\[PDF\]](https://labicvl.github.io/docs/pubs/Danny_CVPR_2014.pdf)|
-|[MSRA15](https://github.com/geliuhao/CVPR2016_HandPoseEstimation/issues/4) | 2015 | R | No | No |  21 | 3rd  |  9 | 76,375 | CVPR 2015 [\[PDF\]](http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Sun_Cascaded_Hand_Pose_2015_CVPR_paper.pdf)|
-|[BigHand2.2M](http://icvl.ee.ic.ac.uk/hands17/challenge/) | 2017 | R | No | No |  21 | 3rd  |  10 | 2.2M | CVPR 2017 [\[PDF\]](https://labicvl.github.io/docs/pubs/Shanxin_CVPR_2017.pdf)|
-|[FHAD](https://guiggh.github.io/publications/first-person-hands/) | 2018 | R | No | Yes |  21 | ego  |  6 | 100k | CVPR 2018 [\[PDF\]](https://arxiv.org/pdf/1704.02463)|
-|[SynHand5M](https://cloud.dfki.de/owncloud/index.php/s/iCMRF7a5FkXrdpn) | 2018 | S | - | No |  M | 3rd  |  - | 5M | 3DV 2018 [\[PDF\]](https://arxiv.org/pdf/1808.09208.pdf)|
-|[MSRC (FingerPaint)](https://www.microsoft.com/en-us/download/details.aspx?id=52288)  | 2015| S | No | No |  21 | both  |  1 | 100k | CHI 2015 [\[PDF\]](http://www.cs.toronto.edu/~jtaylor/papers/CHI2015-HandTracking.pdf)|
-|[HandNet](http://www.cs.technion.ac.il/~twerd/HandNet/) | 2015 | R | No | No |  6 | 3rd  |  10 | 202k/10k  | BMVC 2015 [\[PDF\]](http://www.cs.technion.ac.il/~twerd/WetzlerSlossbergKimmel-BMVC15.pdf)|
-|[Hands in Action](http://files.is.tue.mpg.de/dtzionas/Hand-Object-Capture/) | 2014 | R | - | Yes |  - | 3rd  |  - | - | IJCV 2016 [\[PDF\]](http://files.is.tue.mpg.de/dtzionas/Hand-Object-Capture/IJCV_Hand_Object_Capture.pdf)|
-|[MSRA14](https://jimmysuen.github.io/) | 2014|  R | No | No |  21 | 3rd  |  6 | 2,400 | CVPR 2014 [\[PDF\]](http://www.cv-foundation.org/openaccess/content_cvpr_2014/papers/Qian_Realtime_and_Robust_2014_CVPR_paper.pdf)|
-|[ASTAR](http://hpes.bii.a-star.edu.sg/) | 2013 | R | - | No |  20 | 3rd  |  30 | 870 | ICCV 2013 [\[PDF\]](http://www.cv-foundation.org/openaccess/content_iccv_2013/papers/Xu_Efficient_Hand_Pose_2013_ICCV_paper.pdf)|
+|[NYU](http://cims.nyu.edu/~tompson/NYU_Hand_Pose_Dataset.htm) | 2014 | R |❌|❌| 36 | 3rd | 2 | 72k/8k | SIGGRAPH 2014 [\[PDF\]](http://cims.nyu.edu/~tompson/others/TOG_2014_paper_PREPRINT.pdf)|
+|[ICVL](https://labicvl.github.io/hand.html) | 2014 | R |❌|❌|  16 | 3rd  |  10 | 331k/1.5k | CVPR 2014 [\[PDF\]](https://labicvl.github.io/docs/pubs/Danny_CVPR_2014.pdf)|
+|[MSRA15](https://github.com/geliuhao/CVPR2016_HandPoseEstimation/issues/4) | 2015 | R |❌|❌|  21 | 3rd  |  9 | 76,375 | CVPR 2015 [\[PDF\]](http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Sun_Cascaded_Hand_Pose_2015_CVPR_paper.pdf)|
+|[BigHand2.2M](http://icvl.ee.ic.ac.uk/hands17/challenge/) | 2017 | R |❌|❌|  21 | 3rd  |  10 | 2.2M | CVPR 2017 [\[PDF\]](https://labicvl.github.io/docs/pubs/Shanxin_CVPR_2017.pdf)|
+|[FHAD](https://guiggh.github.io/publications/first-person-hands/) | 2018 | R |❌| ✅ |  21 | ego  |  6 | 100k | CVPR 2018 [\[PDF\]](https://arxiv.org/pdf/1704.02463)|
+|[SynHand5M](https://cloud.dfki.de/owncloud/index.php/s/iCMRF7a5FkXrdpn) | 2018 | S | - |❌|  M | 3rd  |  - | 5M | 3DV 2018 [\[PDF\]](https://arxiv.org/pdf/1808.09208.pdf)|
+|[MSRC (FingerPaint)](https://www.microsoft.com/en-us/download/details.aspx?id=52288)  | 2015| S |❌|❌|  21 | both  |  1 | 100k | CHI 2015 [\[PDF\]](http://www.cs.toronto.edu/~jtaylor/papers/CHI2015-HandTracking.pdf)|
+|[HandNet](http://www.cs.technion.ac.il/~twerd/HandNet/) | 2015 | R |❌|❌|  6 | 3rd  |  10 | 202k/10k  | BMVC 2015 [\[PDF\]](http://www.cs.technion.ac.il/~twerd/WetzlerSlossbergKimmel-BMVC15.pdf)|
+|[Hands in Action](http://files.is.tue.mpg.de/dtzionas/Hand-Object-Capture/) | 2014 | R | - | ✅ |  - | 3rd  |  - | - | IJCV 2016 [\[PDF\]](http://files.is.tue.mpg.de/dtzionas/Hand-Object-Capture/IJCV_Hand_Object_Capture.pdf)|
+|[MSRA14](https://jimmysuen.github.io/) | 2014|  R |❌|❌|  21 | 3rd  |  6 | 2,400 | CVPR 2014 [\[PDF\]](http://www.cv-foundation.org/openaccess/content_cvpr_2014/papers/Qian_Realtime_and_Robust_2014_CVPR_paper.pdf)|
+|[ASTAR](http://hpes.bii.a-star.edu.sg/) | 2013 | R | - |❌|  20 | 3rd  |  30 | 870 | ICCV 2013 [\[PDF\]](http://www.cv-foundation.org/openaccess/content_iccv_2013/papers/Xu_Efficient_Hand_Pose_2013_ICCV_paper.pdf)|
 
 
 ### RGB+Depth
 |Dataset|Year|S/R|Mesh|Obj|#J|V|#S|#F|Paper|
 |------|------|------|------|------|------|------|------|------|----------------|
-|[Ego3DHands](https://github.com/AlextheEngineer/Ego3DHands) | 2020 | S | - | No | 21 | ego | 1 | 50k/5k | arXiv 2020 [\[PDF\]](https://arxiv.org/pdf/2006.01320.pdf)|
-|[EgoDexter](http://handtracker.mpi-inf.mpg.de/projects/OccludedHands/EgoDexter.htm) | 2017 | R | - | Yes |  5 | ego  |  4 | 1485 | ICCV 2017 [\[PDF\]](http://handtracker.mpi-inf.mpg.de/projects/OccludedHands/content/OccludedHands_ICCV2017.pdf)|
+|[Ego3DHands](https://github.com/AlextheEngineer/Ego3DHands) | 2020 | S | - |❌| 21 | ego | 1 | 50k/5k | arXiv 2020 [\[PDF\]](https://arxiv.org/pdf/2006.01320.pdf)|
+|[EgoDexter](http://handtracker.mpi-inf.mpg.de/projects/OccludedHands/EgoDexter.htm) | 2017 | R | - | ✅ |  5 | ego  |  4 | 1485 | ICCV 2017 [\[PDF\]](http://handtracker.mpi-inf.mpg.de/projects/OccludedHands/content/OccludedHands_ICCV2017.pdf)|
 |[SynthHands](http://handtracker.mpi-inf.mpg.de/projects/OccludedHands/SynthHands.htm) | 2017 | S | - | Both |  21 | ego  |  2 | 63,530  | ICCV 2017 [\[PDF\]](http://handtracker.mpi-inf.mpg.de/projects/OccludedHands/content/OccludedHands_ICCV2017.pdf)|
-|[RHD](https://lmb.informatik.uni-freiburg.de/resources/datasets/RenderedHandposeDataset.en.html) | 2017 | S | - | No |  21 | 3rd  |  20 | 41k/2.7k  |ICCV 2017 [\[PDF\]](https://arxiv.org/pdf/1705.01389.pdf)|
-|[STB](https://sites.google.com/site/zhjw1988/) | 2017 | R | - | No |  21 | 3rd |  1 | 18k | ICIP 2017 [\[PDF\]](http://www.cs.cityu.edu.hk/~jianbjiao2/pdfs/icip.pdf)|
-|[Dexter+Object](http://handtracker.mpi-inf.mpg.de/projects/RealtimeHO/dexter+object.htm) | 2016 | R | - | Yes |  5 | 3rd  |  2 | 3,014 | ECCV 2016 [\[PDF\]](http://handtracker.mpi-inf.mpg.de/projects/RealtimeHO/content/RealtimeHO_ECCV2016.pdf)|
-|[UCI-EGO](http://pascal.inrialpes.fr/data2/grogez/UCI-EGO/UCI-EGO.tar.gz) | 2014 | R |-| No |  26 | ego  |  2 | 400 | ECCVW 2014 [\[PDF\]](https://www.cs.cmu.edu/~deva/papers/egocentric_depth_workshop.pdf)|
-|[Dexter1](http://handtracker.mpi-inf.mpg.de/projects/handtracker_iccv2013/dexter1.htm) | 2013 | R |- | No |  6 | 3rd |  1 | 2,137 | ICCV 2013 [\[PDF\]](http://handtracker.mpi-inf.mpg.de/projects/handtracker_iccv2013/content/handtracker_iccv2013.pdf)|
+|[RHD](https://lmb.informatik.uni-freiburg.de/resources/datasets/RenderedHandposeDataset.en.html) | 2017 | S | - |❌|  21 | 3rd  |  20 | 41k/2.7k  |ICCV 2017 [\[PDF\]](https://arxiv.org/pdf/1705.01389.pdf)|
+|[STB](https://sites.google.com/site/zhjw1988/) | 2017 | R | - |❌|  21 | 3rd |  1 | 18k | ICIP 2017 [\[PDF\]](http://www.cs.cityu.edu.hk/~jianbjiao2/pdfs/icip.pdf)|
+|[Dexter+Object](http://handtracker.mpi-inf.mpg.de/projects/RealtimeHO/dexter+object.htm) | 2016 | R | - | ✅ |  5 | 3rd  |  2 | 3,014 | ECCV 2016 [\[PDF\]](http://handtracker.mpi-inf.mpg.de/projects/RealtimeHO/content/RealtimeHO_ECCV2016.pdf)|
+|[UCI-EGO](http://pascal.inrialpes.fr/data2/grogez/UCI-EGO/UCI-EGO.tar.gz) | 2014 | R |-|❌|  26 | ego  |  2 | 400 | ECCVW 2014 [\[PDF\]](https://www.cs.cmu.edu/~deva/papers/egocentric_depth_workshop.pdf)|
+|[Dexter1](http://handtracker.mpi-inf.mpg.de/projects/handtracker_iccv2013/dexter1.htm) | 2013 | R |- |❌|  6 | 3rd |  1 | 2,137 | ICCV 2013 [\[PDF\]](http://handtracker.mpi-inf.mpg.de/projects/handtracker_iccv2013/content/handtracker_iccv2013.pdf)|
 
 ### RGB
 |Dataset|Year|S/R|Mesh|Obj|#J|V|#S|#F|Paper|
 |------|------|------|------|------|------|------|------|------|----------------|
-|[YouTube 3D Hands](https://github.com/arielai/youtube_3d_hands) | 2020 | R | Yes | Yes | - | 3rd | - | 47,125/1525/1525 | CVPR 2020 [\[PDF\]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Kulon_Weakly-Supervised_Mesh-Convolutional_Hand_Reconstruction_in_the_Wild_CVPR_2020_paper.pdf)|
-|[OneHand10K](https://yangangwang.com/papers/WANG-MCC-2018-10.html) | 2019 | R | - | No | 21 | 3rd | 1 | 10k/1.3k | TCSVT 2019 [\[PDF\]](https://yangangwang.com/papers/WANG-MCC-2018-10.pdf)|
-|[FreiHAND](https://lmb.informatik.uni-freiburg.de/resources/datasets/FreihandDataset.en.html) | 2019 | R | - | Yes |  21 | 3rd  |  - | 130k/3960  | ICCV 2019 [\[PDF\]](https://arxiv.org/pdf/1909.04349.pdf)|
+|[YouTube 3D Hands](https://github.com/arielai/youtube_3d_hands) | 2020 | R | ✅ | ✅ | - | 3rd | - | 47,125/1525/1525 | CVPR 2020 [\[PDF\]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Kulon_Weakly-Supervised_Mesh-Convolutional_Hand_Reconstruction_in_the_Wild_CVPR_2020_paper.pdf)|
+|[OneHand10K](https://yangangwang.com/papers/WANG-MCC-2018-10.html) | 2019 | R | - |❌| 21 | 3rd | 1 | 10k/1.3k | TCSVT 2019 [\[PDF\]](https://yangangwang.com/papers/WANG-MCC-2018-10.pdf)|
+|[FreiHAND](https://lmb.informatik.uni-freiburg.de/resources/datasets/FreihandDataset.en.html) | 2019 | R | - | ✅ |  21 | 3rd  |  - | 130k/3960  | ICCV 2019 [\[PDF\]](https://arxiv.org/pdf/1909.04349.pdf)|
 |[GANerated Hands](https://handtracker.mpi-inf.mpg.de/projects/GANeratedHands/GANeratedDataset.htm) | 2018 | S | - | Both |  21 | ego  |  - | 330k | CVPR 2018 [\[PDF\]](https://handtracker.mpi-inf.mpg.de/projects/GANeratedHands/content/GANeratedHands_CVPR2018.pdf)|
-|[CMU Panoptic HandDB](http://domedb.perception.cs.cmu.edu/handdb.html) | 2017 | B | - | No |  21 | 3rd  |  - | 14,817 | CVPR 2017 [\[PDF\]](https://arxiv.org/pdf/1704.07809)|
-|[MHP](http://www.rovit.ua.es/dataset/mhpdataset/) | 2017 | R | - | No  | 21 | 3rd | 9 | 80k | IVC 2017 [\[PDF\]](https://arxiv.org/pdf/1707.03742.pdf)  |
+|[CMU Panoptic HandDB](http://domedb.perception.cs.cmu.edu/handdb.html) | 2017 | B | - |❌|  21 | 3rd  |  - | 14,817 | CVPR 2017 [\[PDF\]](https://arxiv.org/pdf/1704.07809)|
+|[MHP](http://www.rovit.ua.es/dataset/mhpdataset/) | 2017 | R | - | ❌  | 21 | 3rd | 9 | 80k | IVC 2017 [\[PDF\]](https://arxiv.org/pdf/1707.03742.pdf)  |
 
 **Credits:**
 - [1] Big Hand 2.2M Benchmark: Hand Pose Data Set and State of the Art Analysis, CVPR 2017 [\[PDF\]](https://labicvl.github.io/docs/pubs/Shanxin_CVPR_2017.pdf)
