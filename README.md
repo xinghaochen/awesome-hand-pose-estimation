@@ -18,6 +18,9 @@ A curated list of related resources for hand pose estimation. Feel free to [cont
    - 2014: [CVPR](#2014-cvpr), [Others & Before](#2014-others--before)
  - [Theses](#theses)
  - [Datasets](#datasets)
+   - [Depth](#depth)
+   - [RGB+Depth](#rgbdepth)
+   - [RGB](#rgb)
  - [Workshops](#workshops)
  - [Challenges](#challenges)
  - [Other Related Papers](#other-related-papers)
@@ -868,6 +871,7 @@ _Ayan Sinha\*, Chiho Choi\*, Karthik Ramani_
 
 
 ### RGB+Depth
+
 |Dataset|Year|S/R|Mesh|Obj|#J|V|#S|#F|Paper|
 |------|------|------|------|------|------|------|------|------|----------------|
 |[Ego3DHands](https://github.com/AlextheEngineer/Ego3DHands) | 2020 | S | - |❌| 21 | ego | 1 | 50k/5k | arXiv 2020 [\[PDF\]](https://arxiv.org/pdf/2006.01320.pdf)|
@@ -880,6 +884,7 @@ _Ayan Sinha\*, Chiho Choi\*, Karthik Ramani_
 |[Dexter1](http://handtracker.mpi-inf.mpg.de/projects/handtracker_iccv2013/dexter1.htm) | 2013 | R |- |❌|  6 | 3rd |  1 | 2,137 | ICCV 2013 [\[PDF\]](http://handtracker.mpi-inf.mpg.de/projects/handtracker_iccv2013/content/handtracker_iccv2013.pdf)|
 
 ### RGB
+
 |Dataset|Year|S/R|Mesh|Obj|#J|V|#S|#F|Paper|
 |------|------|------|------|------|------|------|------|------|----------------|
 |[YouTube 3D Hands](https://github.com/arielai/youtube_3d_hands) | 2020 | R | ✅ | ✅ | - | 3rd | - | 47,125/1525/1525 | CVPR 2020 [\[PDF\]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Kulon_Weakly-Supervised_Mesh-Convolutional_Hand_Reconstruction_in_the_Wild_CVPR_2020_paper.pdf)|
@@ -903,10 +908,10 @@ _Ayan Sinha\*, Chiho Choi\*, Karthik Ramani_
 - ##### [HANDS 2019](https://sites.google.com/view/hands2019/), In conjunction with ICCV 2019
 
 - ##### [HANDS 2018](https://sites.google.com/view/hands2018/), In conjunction with ECCV 2018
-- HANDS18: Methods, Techniques and Applications for Hand Observation. [\[PDF\]](https://arxiv.org/abs/1810.10818)
+  - HANDS18: Methods, Techniques and Applications for Hand Observation. [\[PDF\]](https://arxiv.org/abs/1810.10818)
 
 - ##### [HANDS 2017](http://icvl.ee.ic.ac.uk/hands17/), In conjunction with ICCV 2017
-- Depth-Based 3D Hand Pose Estimation: From Current Achievements to Future Goals. [\[PDF\]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Yuan_Depth-Based_3D_Hand_CVPR_2018_paper.pdf)
+  - Depth-Based 3D Hand Pose Estimation: From Current Achievements to Future Goals. [\[PDF\]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Yuan_Depth-Based_3D_Hand_CVPR_2018_paper.pdf)
 
 - ##### [HANDS 2016](https://labicvl.github.io/hand/Hands2016/), In conjunction with CVPR 2016
 - ##### [HANDS 2015](http://www.ics.uci.edu/~jsupanci/HANDS-2015/), In conjunction with CVPR 2015
@@ -924,7 +929,7 @@ _Ayan Sinha\*, Chiho Choi\*, Karthik Ramani_
 *[HANDS 2019](https://sites.google.com/view/hands2019/), [ICCV 2019](http://iccv2019.thecvf.com/)*
 - Submission Website: [Depth-Based Task](https://competitions.codalab.org/competitions/20913), [Depth-Based Hand-Object Task](https://competitions.codalab.org/competitions/20449), [RGB-Based Hand-Object Task](https://competitions.codalab.org/competitions/21116)
 - Documents
-    - [Measuring Generalisation to Unseen Viewpoints, Articulations, Shapes and Objects for 3D Hand Pose Estimation under Hand-Object Interaction](https://arxiv.org/pdf/2003.13764.pdf), arXiv 2020
+    - [Measuring Generalisation to Unseen Viewpoints, Articulations, Shapes and Objects for 3D Hand Pose Estimation under Hand-Object Interaction](https://arxiv.org/pdf/2003.13764.pdf), ECCV 2020
 
 #### [2] [The 2017 Hands in the Million Challenge on 3D Hand Pose Estimation](http://icvl.ee.ic.ac.uk/hands17/challenge/)
 *[HANDS 2017](http://icvl.ee.ic.ac.uk/hands17/), [ICCV 2017](http://iccv2017.thecvf.com/)*
