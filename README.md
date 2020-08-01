@@ -204,10 +204,10 @@ _Jingjing Shen, Thomas J. Cashman, Qi Ye, Tim Hutton, Toby Sharp, Federica Bogo,
 - ##### Dual Grid Net: hand mesh vertex regression from single depth maps. [\[PDF\]](https://arxiv.org/pdf/1907.10695.pdf)
 _Chengde Wan, Thomas Probst, Luc Van Gool, Angela Yao_
 
-- ##### Hand-Transformer: Non-Autoregressive Structured Modeling for 3D Hand Pose Estimation. \[PDF\]
-_#_
+- ##### Hand-Transformer: Non-Autoregressive Structured Modeling for 3D Hand Pose Estimation. [\[PDF\]](https://cse.buffalo.edu/~jsyuan/papers/2020/4836.pdf)
+_Lin Huang, Jianchao Tan, Ji Liu, and Junsong Yuan_
 
-- ##### ContactPose: A Dataset of Grasps with Object Contact and Hand Pose. [\[PDF\]](https://www.dropbox.com/s/swk5j6j3xic9upo/contactpose_eccv2020.pdf?dl=0)  [\[Project\]](https://contactpose.cc.gatech.edu/)
+- ##### ContactPose: A Dataset of Grasps with Object Contact and Hand Pose. [\[PDF\]](https://www.dropbox.com/s/swk5j6j3xic9upo/contactpose_eccv2020.pdf?dl=0)  [\[Project\]](https://contactpose.cc.gatech.edu/) [\[Code\]](https://github.com/facebookresearch/ContactPose)
 _Samarth Brahmbhatt, Chengcheng Tang, Chris Twigg, Charles C. Kemp, and James Hays_
 
 - ##### SeqHAND: RGB-Sequence-Based 3D Hand Pose and Shape Estimation. [\[PDF\]](http://arxiv.org/pdf/2007.05168)
