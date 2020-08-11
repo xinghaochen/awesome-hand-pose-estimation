@@ -19,7 +19,7 @@ A curated list of related resources for hand pose estimation. Feel free to [cont
  - [Theses](#theses)
  - [Datasets](#datasets)
    - [Depth](#depth)
-   - [RGB•Depth](#rgbdepth)
+   - [RGB+Depth](#rgbdepth)
    - [RGB](#rgb)
  - [Workshops](#workshops)
  - [Challenges](#challenges)
