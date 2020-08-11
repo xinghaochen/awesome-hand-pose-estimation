@@ -231,13 +231,13 @@ _Zhipeng Fan, Jun Liu, Yao Wang_
 ##### • Collaborative Learning of Gesture Recognition and 3D Hand Pose Estimation with Multi-Order Feature Analysis.  \[PDF\] *(Spotlight)*
 _Siyuan Yang, Jun Liu, Shijian Lu, Meng Hwa Er, Alex C. Kot_
 
-- ##### DeepHandMesh: Weakly-supervised Deep Encoder-Decoder Framework for High-fidelity Hand Mesh Modeling from a Single RGB Image. \[PDF\] [\[Project\]](https://mks0601.github.io/DeepHandMesh/) *(Oral)*
+##### • DeepHandMesh: Weakly-supervised Deep Encoder-Decoder Framework for High-fidelity Hand Mesh Modeling from a Single RGB Image. \[PDF\] [\[Project\]](https://mks0601.github.io/DeepHandMesh/) *(Oral)*
 _Gyeongsik Moon, Takaaki Shiratori, Kyoung Mu Lee_
 
-- ##### InterHand2.6M: A New Large-scale Dataset and Baseline for 3D Single and Interacting Hand Pose Estimation from a Single RGB Image. [\[PDF\]](https://research.fb.com/wp-content/uploads/2020/08/InterHand2.6M-A-Dataset-and-Baseline-for-3D-Interacting-Hand-Pose-Estimation-from-a-Single-RGB-Image.pdf) [\[Project\]](https://mks0601.github.io/InterHand2.6M/)
+##### • InterHand2.6M: A New Large-scale Dataset and Baseline for 3D Single and Interacting Hand Pose Estimation from a Single RGB Image. [\[PDF\]](https://research.fb.com/wp-content/uploads/2020/08/InterHand2.6M-A-Dataset-and-Baseline-for-3D-Interacting-Hand-Pose-Estimation-from-a-Single-RGB-Image.pdf) [\[Project\]](https://mks0601.github.io/InterHand2.6M/)
 _Gyeongsik Moon, Shoou-i Yu, He Wen, Takaaki Shiratori, Kyoung Mu Lee_
 
-- ##### I2L-MeshNet: Image-to-Lixel Prediction Network for Accurate 3D Human Pose and Mesh Estimation from a Single RGB Image. [\[PDF\]](https://arxiv.org/abs/2008.03713) \[[Code\]](https://github.com/mks0601/I2L-MeshNet_RELEASE)
+##### • I2L-MeshNet: Image-to-Lixel Prediction Network for Accurate 3D Human Pose and Mesh Estimation from a Single RGB Image. [\[PDF\]](https://arxiv.org/abs/2008.03713) \[[Code\]](https://github.com/mks0601/I2L-MeshNet_RELEASE)
 _Gyeongsik Moon, Kyoung Mu Lee_
 
 ##### • Weakly-Supervised 3D Hand Pose Estimation via Biomechanical Constraints. [\[PDF\]](https://arxiv.org/pdf/2003.09282.pdf)
