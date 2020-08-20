@@ -225,10 +225,10 @@ _Neng Qian, Jiayi Wang, Franziska Mueller, Florian Bernard, Vladislav Golyanik, 
 ##### • JGR-P2O: Joint Graph Reasoning based Pixel-to-Offset Prediction Network for 3D Hand Pose Estimation from a Single Depth Image. [\[PDF\]](https://arxiv.org/pdf/2007.04646)  [\[Code\]](https://github.com/fanglinpu/JGR-P2O) *(Spotlight)*
 _Linpu Fang, Xingyan Liu, Li Liu, Hang Xu, Wenxiong Kang_
 
-##### • Adaptive Computationally Efficient Network for Monocular 3D Hand Pose Estimation. \[PDF\] *(Spotlight)*
+##### • Adaptive Computationally Efficient Network for Monocular 3D Hand Pose Estimation. [\[PDF\]](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123490120.pdf) *(Spotlight)*
 _Zhipeng Fan, Jun Liu, Yao Wang_
 
-##### • Collaborative Learning of Gesture Recognition and 3D Hand Pose Estimation with Multi-Order Feature Analysis.  \[PDF\] *(Spotlight)*
+##### • Collaborative Learning of Gesture Recognition and 3D Hand Pose Estimation with Multi-Order Feature Analysis.  [\[PDF\]](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123480766.pdf) *(Spotlight)*
 _Siyuan Yang, Jun Liu, Shijian Lu, Meng Hwa Er, Alex C. Kot_
 
 ##### • DeepHandMesh: Weakly-supervised Deep Encoder-Decoder Framework for High-fidelity Hand Mesh Modeling from a Single RGB Image. \[PDF\] [\[Project\]](https://mks0601.github.io/DeepHandMesh/) *(Oral)*
