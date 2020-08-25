@@ -32,11 +32,11 @@ See folder [``evaluation``](./evaluation) to get more details about performance 
 
 ## arXiv Papers
 
+##### • [\[arXiv:2008.08324\]](https://arxiv.org/abs/2008.08324) FrankMocap: Fast Monocular 3D Hand and Body Motion Capture by Regression and Integration. [\[PDF\]](https://arxiv.org/pdf/2008.08324.pdf)  [\[Project\]](https://penincillin.github.io/frank_mocap)
+_Yu Rong, Takaaki Shiratori, Hanbyul Joo_
+
 ##### • [\[arXiv:2007.12287\]](https://arxiv.org/abs/2007.12287) Body2Hands: Learning to Infer 3D Hands from Conversational Gesture Body Dynamics. [\[PDF\]](https://arxiv.org/pdf/2007.12287.pdf)
 _Evonne Ng, Hanbyul Joo, Shiry Ginosar, Trevor Darrell_
-
-##### • [\[arXiv:2007.03073\]](https://arxiv.org/abs/2007.03073) Generative Model-Based Loss to the Rescue: A Method to Overcome Annotation Errors for Depth-Based Hand Pose Estimation. [\[PDF\]](https://arxiv.org/pdf/2007.03073.pdf)
-_Jiayi Wang, Franziska Mueller, Florian Bernard, Christian Theobalt_
 
 ##### • [\[arXiv:2006.15561\]](https://arxiv.org/abs/2006.15561) Joint Hand-object 3D Reconstruction from a Single Image with Cross-branch Feature Fusion. [\[PDF\]](https://arxiv.org/pdf/2006.15561.pdf)
 _Yujin Chen, Zhigang Tu, Di Kang, Ruizhi Chen, Linchao Bao, Zhengyou Zhang, Junsong Yuan_
@@ -50,7 +50,7 @@ _Fanqing Lin, Connor Wilhelm, Tony Martinez_
 ##### • [\[arXiv:2001.08047\]](https://arxiv.org/abs/2001.08047) Attention! A Lightweight 2D Hand Pose Estimation Approach. [\[PDF\]](https://arxiv.org/pdf/2001.08047.pdf)
 _Nicholas Santavas, Ioannis Kansizoglou, Loukas Bampis, Evangelos Karakasis, Antonios Gasteratos_
 
-##### • [\[arXiv:2001.00702\]](https://arxiv.org/abs/2001.00702) HandAugment: A Simple Data Augmentation for HANDS19 Challenge Task 1 -- Depth-Based 3D Hand Pose Estimation. [\[PDF\]](https://arxiv.org/pdf/2001.00702.pdf) [\[Code\]](https://github.com/wozhangzhaohui/HandAugment)
+##### • [\[arXiv:2001.00702\]](https://arxiv.org/abs/2001.00702) HandAugment: A Simple Data Augmentation Method for Depth-Based 3D Hand Pose Estimation. [\[PDF\]](https://arxiv.org/pdf/2001.00702.pdf) [\[Code\]](https://github.com/wozhangzhaohui/HandAugment)
 _Zhaohui Zhang, Shipeng Xie, Mingxiu Chen, Haichao Zhu_
 
 ##### • [\[arXiv:1912.12436\]](https://arxiv.org/abs/1912.12436) Silhouette-Net: 3D Hand Pose Estimation from Silhouettes. [\[PDF\]](https://arxiv.org/pdf/1912.12436.pdf)
@@ -210,16 +210,16 @@ _Sheng Jin, Lumin Xu, Jin Xu, Can Wang, Wentao Liu, Chen Qian, Wanli Ouyang, Pin
 ##### • Dual Grid Net: hand mesh vertex regression from single depth maps. [\[PDF\]](https://arxiv.org/pdf/1907.10695.pdf)
 _Chengde Wan, Thomas Probst, Luc Van Gool, Angela Yao_
 
-##### • Hand-Transformer: Non-Autoregressive Structured Modeling for 3D Hand Pose Estimation. [\[PDF\]](https://cse.buffalo.edu/~jsyuan/papers/2020/4836.pdf)
+##### • Hand-Transformer: Non-Autoregressive Structured Modeling for 3D Hand Pose Estimation. [\[PDF\]](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123700018.pdf)
 _Lin Huang, Jianchao Tan, Ji Liu, and Junsong Yuan_
 
-##### • ContactPose: A Dataset of Grasps with Object Contact and Hand Pose. [\[PDF\]](https://www.dropbox.com/s/swk5j6j3xic9upo/contactpose_eccv2020.pdf?dl=0)  [\[Project\]](https://contactpose.cc.gatech.edu/) [\[Code\]](https://github.com/facebookresearch/ContactPose)
+##### • ContactPose: A Dataset of Grasps with Object Contact and Hand Pose. [\[PDF\]](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123580358.pdf)  [\[Project\]](https://contactpose.cc.gatech.edu/) [\[Code\]](https://github.com/facebookresearch/ContactPose)
 _Samarth Brahmbhatt, Chengcheng Tang, Chris Twigg, Charles C. Kemp, and James Hays_
 
 ##### • SeqHAND: RGB-Sequence-Based 3D Hand Pose and Shape Estimation. [\[PDF\]](http://arxiv.org/pdf/2007.05168)
 _John Yang, Hyung Jin Chang, Seungeui Lee, Nojun Kwak_
 
-##### • HTML: A Parametric Hand Texture Model for 3D Hand Reconstruction and Personalizationm. [\[PDF\]](https://handtracker.mpi-inf.mpg.de/projects/HandTextureModel/content/HandTextureModel_ECCV2020.pdf) [\[Project\]](https://handtracker.mpi-inf.mpg.de/projects/HandTextureModel/)
+##### • HTML: A Parametric Hand Texture Model for 3D Hand Reconstruction and Personalizationm. [\[PDF\]](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123560052.pdf) [\[Project\]](https://handtracker.mpi-inf.mpg.de/projects/HandTextureModel/)
 _Neng Qian, Jiayi Wang, Franziska Mueller, Florian Bernard, Vladislav Golyanik, Christian Theobalt_
 
 ##### • JGR-P2O: Joint Graph Reasoning based Pixel-to-Offset Prediction Network for 3D Hand Pose Estimation from a Single Depth Image. [\[PDF\]](https://arxiv.org/pdf/2007.04646)  [\[Code\]](https://github.com/fanglinpu/JGR-P2O) *(Spotlight)*
@@ -231,10 +231,10 @@ _Zhipeng Fan, Jun Liu, Yao Wang_
 ##### • Collaborative Learning of Gesture Recognition and 3D Hand Pose Estimation with Multi-Order Feature Analysis.  [\[PDF\]](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123480766.pdf) *(Spotlight)*
 _Siyuan Yang, Jun Liu, Shijian Lu, Meng Hwa Er, Alex C. Kot_
 
-##### • DeepHandMesh: Weakly-supervised Deep Encoder-Decoder Framework for High-fidelity Hand Mesh Modeling from a Single RGB Image. \[PDF\] [\[Project\]](https://mks0601.github.io/DeepHandMesh/) *(Oral)*
+##### • DeepHandMesh: Weakly-supervised Deep Encoder-Decoder Framework for High-fidelity Hand Mesh Modeling from a Single RGB Image. [\[PDF\]](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123470426.pdf) [\[Project\]](https://mks0601.github.io/DeepHandMesh/) *(Oral)*
 _Gyeongsik Moon, Takaaki Shiratori, Kyoung Mu Lee_
 
-##### • InterHand2.6M: A New Large-scale Dataset and Baseline for 3D Single and Interacting Hand Pose Estimation from a Single RGB Image. [\[PDF\]](https://research.fb.com/wp-content/uploads/2020/08/InterHand2.6M-A-Dataset-and-Baseline-for-3D-Interacting-Hand-Pose-Estimation-from-a-Single-RGB-Image.pdf) [\[Project\]](https://mks0601.github.io/InterHand2.6M/)
+##### • InterHand2.6M: A New Large-scale Dataset and Baseline for 3D Single and Interacting Hand Pose Estimation from a Single RGB Image. [\[PDF\]](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123650545.pdf) [\[Project\]](https://mks0601.github.io/InterHand2.6M/) \[[Code\]](https://github.com/facebookresearch/InterHand2.6M)
 _Gyeongsik Moon, Shoou-i Yu, He Wen, Takaaki Shiratori, Kyoung Mu Lee_
 
 ##### • I2L-MeshNet: Image-to-Lixel Prediction Network for Accurate 3D Human Pose and Mesh Estimation from a Single RGB Image. [\[PDF\]](https://arxiv.org/abs/2008.03713) \[[Code\]](https://github.com/mks0601/I2L-MeshNet_RELEASE)
@@ -243,7 +243,7 @@ _Gyeongsik Moon, Kyoung Mu Lee_
 ##### • Weakly-Supervised 3D Hand Pose Estimation via Biomechanical Constraints. [\[PDF\]](https://arxiv.org/pdf/2003.09282.pdf)
 _Adrian Spurr, Umar Iqbal, Pavlo Molchanov, Otmar Hilliges, Jan Kautz_
 
-##### • Measuring Generalisation to Unseen Viewpoints, Articulations, Shapes and Objects for 3D Hand Pose Estimation under Hand-Object Interaction. [\[PDF\]](https://arxiv.org/pdf/2003.13764.pdf)
+##### • Measuring Generalisation to Unseen Viewpoints, Articulations, Shapes and Objects for 3D Hand Pose Estimation under Hand-Object Interaction. [\[PDF\]](https://arxiv.org/pdf/2003.13764.pdf) \[[Code\]](https://github.com/anilarmagan/HANDS19-Challenge-Toolbox)
 _Anil Armagan, Guillermo Garcia-Hernando, Seungryul Baek, Shreyas Hampali, Mahdi Rad, Zhaohui Zhang, Shipeng Xie, MingXiu Chen, Boshen Zhang, Fu Xiong, Yang Xiao, Zhiguo Cao, Junsong Yuan, Pengfei Ren, Weiting Huang, Haifeng Sun, Marek Hrúz, Jakub Kanis, Zdeněk Krňoul, Qingfu Wan, Shile Li, Linlin Yang, Dongheui Lee, Angela Yao, Weiguo Zhou, Sijia Mei, Yunhui Liu, Adrian Spurr, Umar Iqbal, Pavlo Molchanov, Philippe Weinzaepfel, Romain Brégier, Gregory Rogez, Vincent Lepetit, Tae-Kyun Kim_
 
 [\[back to top\]](#contents)
@@ -289,6 +289,18 @@ _Shreyas Hampali, Mahdi Rad, Markus Oberweger, Vincent Lepetit_
 [\[back to top\]](#contents)
 
 ### 2020 Others
+
+##### • [2020 BMVC] BiHand: Recovering Hand Mesh with Multi-stage Bisected Hourglass Networks. [\[PDF\]](https://arxiv.org/pdf/2008.05079.pdf) [\[Code\]](https://github.com/lixiny/bihand)
+_Lixin Yang, Jiasen Li, Wenqiang Xu, Yiqun Diao, Cewu Lu_
+
+##### • [2020 Ubicomp] FingerTrak: Continuous 3D Hand Pose Tracking by Deep Learning Hand Silhouettes Captured by Miniature Thermal Cameras on Wrist. [\[PDF\]](https://dl.acm.org/doi/10.1145/3397306) (*ECCV 2020 Demo Award Nominee*)
+_Fang Hu, Peng He, Songlin Xu, Yin Li, Cheng Zhang_
+
+##### • [2020 FG] Hand tracking from monocular RGB with dense semantic labels. [\[PDF\]](https://www.computer.org/csdl/pds/api/csdl/proceedings/download-article/1kecISCOYgw/pdf)
+_Peter Thompson, Aphrodite Galata_
+
+##### • [2020 FG] Generative Model-Based Loss to the Rescue: A Method to Overcome Annotation Errors for Depth-Based Hand Pose Estimation. [\[PDF\]](https://arxiv.org/pdf/2007.03073.pdf)
+_Jiayi Wang, Franziska Mueller, Florian Bernard, Christian Theobalt_
 
 ##### • [2020 IROS] Physics-Based Dexterous Manipulations with Estimated Hand Poses and Residual Reinforcement Learning. [\[PDF\]](https://arxiv.org/pdf/2008.03285)
 _Guillermo Garcia-Hernando, Edward Johns, Tae-Kyun Kim_
@@ -870,6 +882,7 @@ _Ayan Sinha\*, Chiho Choi\*, Karthik Ramani_
 |[ICVL](https://labicvl.github.io/hand.html) | 2014 | R |❌|❌|  16 | 3rd  |  10 | 331k/1.5k | CVPR 2014 [\[PDF\]](https://labicvl.github.io/docs/pubs/Danny_CVPR_2014.pdf)|
 |[MSRA15](https://github.com/geliuhao/CVPR2016_HandPoseEstimation/issues/4) | 2015 | R |❌|❌|  21 | 3rd  |  9 | 76,375 | CVPR 2015 [\[PDF\]](http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Sun_Cascaded_Hand_Pose_2015_CVPR_paper.pdf)|
 |[BigHand2.2M](http://icvl.ee.ic.ac.uk/hands17/challenge/) | 2017 | R |❌|❌|  21 | 3rd  |  10 | 2.2M | CVPR 2017 [\[PDF\]](https://labicvl.github.io/docs/pubs/Shanxin_CVPR_2017.pdf)|
+|[SynHandEgo](https://bit.ly/2WMWM5u) | 2019 | R |✅|❌| - | ego | - | - | Computers & Graphics 2019 [\[PDF\]](https://www.dfki.de/fileadmin/user_upload/import/10684_CAG_Jameel.pdf)|
 |[FHAD](https://guiggh.github.io/publications/first-person-hands/) | 2018 | R |❌| ✅ |  21 | ego  |  6 | 100k | CVPR 2018 [\[PDF\]](https://arxiv.org/pdf/1704.02463)|
 |[SynHand5M](https://cloud.dfki.de/owncloud/index.php/s/iCMRF7a5FkXrdpn) | 2018 | S | - |❌|  M | 3rd  |  - | 5M | 3DV 2018 [\[PDF\]](https://arxiv.org/pdf/1808.09208.pdf)|
 |[MSRC (FingerPaint)](https://www.microsoft.com/en-us/download/details.aspx?id=52288)  | 2015| S |❌|❌|  21 | both  |  1 | 100k | CHI 2015 [\[PDF\]](http://www.cs.toronto.edu/~jtaylor/papers/CHI2015-HandTracking.pdf)|
@@ -883,6 +896,7 @@ _Ayan Sinha\*, Chiho Choi\*, Karthik Ramani_
 
 |Dataset|Year|S/R|Mesh|Obj|#J|V|#S|#F|Paper|
 |------|------|------|------|------|------|------|------|------|----------------|
+|[ContactPose](https://contactpose.cc.gatech.edu/) | 2020 | - | - |✅| 21 | - | 1 | 2.9M | ECCV 2020 [\[PDF\]](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123580358.pdf)|
 |[Ego3DHands](https://github.com/AlextheEngineer/Ego3DHands) | 2020 | S | - |❌| 21 | ego | 1 | 50k/5k | arXiv 2020 [\[PDF\]](https://arxiv.org/pdf/2006.01320.pdf)|
 |[ObMan](https://www.di.ens.fr/willow/research/obman/data/) | 2019 | S | ✅ |✅| - | - | - | 150k | CVPR 2019 [\[PDF\]](https://openaccess.thecvf.com/content_CVPR_2019/papers/Hasson_Learning_Joint_Reconstruction_of_Hands_and_Manipulated_Objects_CVPR_2019_paper.pdf)|
 |[EgoDexter](http://handtracker.mpi-inf.mpg.de/projects/OccludedHands/EgoDexter.htm) | 2017 | R | - | ✅ |  5 | ego  |  4 | 1485 | ICCV 2017 [\[PDF\]](http://handtracker.mpi-inf.mpg.de/projects/OccludedHands/content/OccludedHands_ICCV2017.pdf)|
@@ -897,6 +911,7 @@ _Ayan Sinha\*, Chiho Choi\*, Karthik Ramani_
 
 |Dataset|Year|S/R|Mesh|Obj|#J|V|#S|#F|Paper|
 |------|------|------|------|------|------|------|------|------|----------------|
+|[InterHand2.6M](https://mks0601.github.io/InterHand2.6M/) | 2020 | R | ❌ | ❌ | 21 | 3rd | 27 | 2.6M | ECCV 2020 [\[PDF\]](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123650545.pdf)|
 |[YouTube 3D Hands](https://github.com/arielai/youtube_3d_hands) | 2020 | R | ✅ | ✅ | - | 3rd | - | 47,125/1525/1525 | CVPR 2020 [\[PDF\]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Kulon_Weakly-Supervised_Mesh-Convolutional_Hand_Reconstruction_in_the_Wild_CVPR_2020_paper.pdf)|
 |[OneHand10K](https://yangangwang.com/papers/WANG-MCC-2018-10.html) | 2019 | R | - |❌| 21 | 3rd | 1 | 10k/1.3k | TCSVT 2019 [\[PDF\]](https://yangangwang.com/papers/WANG-MCC-2018-10.pdf)|
 |[FreiHAND](https://lmb.informatik.uni-freiburg.de/resources/datasets/FreihandDataset.en.html) | 2019 | R | - | ✅ |  21 | 3rd  |  - | 130k/3960  | ICCV 2019 [\[PDF\]](https://arxiv.org/pdf/1909.04349.pdf)|
