@@ -65,9 +65,6 @@ _Yiming He, Wei Hu, Siyuan Yang, Xiaochao Qu, Pengfei Wan, Zongming Guo_
 ##### • [\[arXiv:1911.07424\]](https://arxiv.org/abs/1911.07424) Capturing Hand Articulations using Recurrent Neural Network for 3D Hand Pose Estimation. [\[PDF\]](https://arxiv.org/pdf/1911.07424.pdf)
 _Cheol-hwan Yoo, Seung-wook Kim, Seo-won Ji, Yong-goo Shin, Sung-jea Ko_
 
-##### • [\[arXiv:1909.05666\]](https://arxiv.org/abs/1909.05666) Adaptive Wasserstein Hourglass for Weakly Supervised Hand Pose Estimation from Monocular RGB. [\[PDF\]](https://arxiv.org/pdf/1909.05666.pdf)
-_Yumeng Zhang, Li Chen, Yufeng Liu, Junhai Yong, Wen Zheng_
-
 ##### • [\[arXiv:1905.02085\]](https://arxiv.org/abs/1905.02085) Pixel-wise Regression: 3D Hand Pose Estimation via Spatial-form Representation and Differentiable Decoder. [\[PDF\]](https://arxiv.org/pdf/1905.02085.pdf)
 _Xingyuan Zhang, Fuhai Zhang_
 
@@ -201,6 +198,9 @@ _Guijin Wang, Xinghao Chen\*, Hengkai Guo\*, Cairong Zhang_
 
 ### 2020 ECCV
 
+##### • Monocular Expressive Body Regression through Body-Driven Attention. [\[PDF\]](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123550018.pdf) [\[Project\]](https://expose.is.tue.mpg.de/en) [\[Code\]](https://github.com/vchoutas/expose)
+_Vasileios Choutas, Georgios Pavlakos, Timo Bolkart, Dimitrios Tzionas , Michael J. Black_
+
 ##### • The Phong Surface: Efficient 3D Model Fitting using Lifted Optimization. [\[PDF\]](https://arxiv.org/pdf/2007.04940) *(Oral)*
 _Jingjing Shen, Thomas J. Cashman, Qi Ye, Tim Hutton, Toby Sharp, Federica Bogo, Andrew William Fitzgibbon, Jamie Shotton_
 
@@ -289,6 +289,24 @@ _Shreyas Hampali, Mahdi Rad, Markus Oberweger, Vincent Lepetit_
 [\[back to top\]](#contents)
 
 ### 2020 Others
+
+##### • [2020 MM] MM-Hand: 3D-Aware Multi-Modal Guided Hand Generation for 3D Hand Pose Synthesis. \[PDF\]
+_Zhenyu Wu, Duc Hoang, Shih-Yao Lin, Yusheng Xie, Liangjian Chen, Yen-Yu Lin, Zhangyang Wang, Wei Fan_
+
+##### • [2020 MM] Adaptive Wasserstein Hourglass for Weakly Supervised Hand Pose Estimation from Monocular RGB. [\[PDF\]](https://arxiv.org/pdf/1909.05666.pdf)
+_Yumeng Zhang, Li Chen, Yufeng Liu, Junhai Yong, Wen Zheng_
+
+##### • [2020 MM] HOT-Net: Non-Autoregressive Transformer for 3D Hand-Object Pose Estimation. [\[PDF\]](https://cse.buffalo.edu/~jsyuan/papers/2020/lin_mm20.pdf)
+_Lin Huang, Jianchao Tan, Jingjing Meng, Ji Liu, and Junsong Yuan_
+
+##### • [2020 BMVC] PMD-Net: Privileged Modality Distillation Network for 3D Hand Pose Estimation from a Single RGB Image. \[PDF\]
+_Kewen Wang and Xilin Chen_
+
+##### • [2020 BMVC] SIA-GCN: A Spatial Information Aware Graph Neural Network with 2D Convolutions for Hand Pose Estimation. \[PDF\]
+_Deying Kong, Haoyu Ma and Xiaohui Xie_
+
+##### • [2020 BMVC] Explicit Knowledge Distillation for 3D Hand Pose Estimation from Monocular RGB. \[PDF\]
+_Yumeng Zhang, Li Chen, Yufeng Liu, Wen Zheng and JunHai Yong_
 
 ##### • [2020 BMVC] BiHand: Recovering Hand Mesh with Multi-stage Bisected Hourglass Networks. [\[PDF\]](https://arxiv.org/pdf/2008.05079.pdf) [\[Code\]](https://github.com/lixiny/bihand)
 _Lixin Yang, Jiasen Li, Wenqiang Xu, Yiqun Diao, Cewu Lu_
