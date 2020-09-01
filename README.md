@@ -290,6 +290,9 @@ _Shreyas Hampali, Mahdi Rad, Markus Oberweger, Vincent Lepetit_
 
 ### 2020 Others
 
+##### • [2020 SIGGRAPH] MEgATrack: Monochrome Egocentric Articulated Hand-Tracking for Virtual Reality. [\[PDF\]](https://dl.acm.org/doi/abs/10.1145/3386569.3392452)
+_Shangchen Han, Beibei Liu, Randi Cabezas, Christopher D. Twigg, Peizhao Zhang, Jeff Petkau, Tsz-Ho Yu, Chun-Jung Tai, Muzaffer Akbay, Zheng Wang, Asaf Nitzan, Gang Dong, Yuting Ye, Lingling Tao, Chengde Wan, Robert Wang_
+
 ##### • [2020 MM] MM-Hand: 3D-Aware Multi-Modal Guided Hand Generation for 3D Hand Pose Synthesis. \[PDF\]
 _Zhenyu Wu, Duc Hoang, Shih-Yao Lin, Yusheng Xie, Liangjian Chen, Yen-Yu Lin, Zhangyang Wang, Wei Fan_
 
