@@ -296,7 +296,7 @@ _Shreyas Hampali, Mahdi Rad, Markus Oberweger, Vincent Lepetit_
 ##### • [2020 SIGGRAPH] MEgATrack: Monochrome Egocentric Articulated Hand-Tracking for Virtual Reality. [\[PDF\]](https://dl.acm.org/doi/abs/10.1145/3386569.3392452)
 _Shangchen Han, Beibei Liu, Randi Cabezas, Christopher D. Twigg, Peizhao Zhang, Jeff Petkau, Tsz-Ho Yu, Chun-Jung Tai, Muzaffer Akbay, Zheng Wang, Asaf Nitzan, Gang Dong, Yuting Ye, Lingling Tao, Chengde Wan, Robert Wang_
 
-##### • [2020 MM] MM-Hand: 3D-Aware Multi-Modal Guided Hand Generation for 3D Hand Pose Synthesis. \[PDF\]
+##### • [2020 MM] MM-Hand: 3D-Aware Multi-Modal Guided Hand Generation for 3D Hand Pose Synthesis. [\[PDF\]](http://vllab.cs.nctu.edu.tw/images/paper/mm-wu20.pdf) [\[Code\]](https://github.com/ScottHoang/mm-hand)
 _Zhenyu Wu, Duc Hoang, Shih-Yao Lin, Yusheng Xie, Liangjian Chen, Yen-Yu Lin, Zhangyang Wang, Wei Fan_
 
 ##### • [2020 MM] Adaptive Wasserstein Hourglass for Weakly Supervised Hand Pose Estimation from Monocular RGB. [\[PDF\]](https://arxiv.org/pdf/1909.05666.pdf)
@@ -305,13 +305,13 @@ _Yumeng Zhang, Li Chen, Yufeng Liu, Junhai Yong, Wen Zheng_
 ##### • [2020 MM] HOT-Net: Non-Autoregressive Transformer for 3D Hand-Object Pose Estimation. [\[PDF\]](https://cse.buffalo.edu/~jsyuan/papers/2020/lin_mm20.pdf)
 _Lin Huang, Jianchao Tan, Jingjing Meng, Ji Liu, and Junsong Yuan_
 
-##### • [2020 BMVC] PMD-Net: Privileged Modality Distillation Network for 3D Hand Pose Estimation from a Single RGB Image. \[PDF\]
+##### • [2020 BMVC] PMD-Net: Privileged Modality Distillation Network for 3D Hand Pose Estimation from a Single RGB Image. [\[PDF\]](https://www.bmvc2020-conference.com/assets/papers/0413.pdf)
 _Kewen Wang and Xilin Chen_
 
-##### • [2020 BMVC] SIA-GCN: A Spatial Information Aware Graph Neural Network with 2D Convolutions for Hand Pose Estimation. \[PDF\]
+##### • [2020 BMVC] SIA-GCN: A Spatial Information Aware Graph Neural Network with 2D Convolutions for Hand Pose Estimation. [\[PDF\]](https://www.bmvc2020-conference.com/assets/papers/0066.pdf)
 _Deying Kong, Haoyu Ma and Xiaohui Xie_
 
-##### • [2020 BMVC] Explicit Knowledge Distillation for 3D Hand Pose Estimation from Monocular RGB. \[PDF\]
+##### • [2020 BMVC] Explicit Knowledge Distillation for 3D Hand Pose Estimation from Monocular RGB. [\[PDF\]](https://www.bmvc2020-conference.com/assets/papers/0242.pdf)
 _Yumeng Zhang, Li Chen, Yufeng Liu, Wen Zheng and JunHai Yong_
 
 ##### • [2020 BMVC] BiHand: Recovering Hand Mesh with Multi-stage Bisected Hourglass Networks. [\[PDF\]](https://arxiv.org/pdf/2008.05079.pdf) [\[Code\]](https://github.com/lixiny/bihand)
