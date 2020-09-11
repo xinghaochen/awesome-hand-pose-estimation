@@ -198,6 +198,9 @@ _Guijin Wang, Xinghao Chen\*, Hengkai Guo\*, Cairong Zhang_
 
 ### 2020 ECCV
 
+##### • GRAB: A Dataset of Whole-Body Human Grasping of Objects. [\[PDF\]](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123490562.pdf) [\[Project\]](https://grab.is.tue.mpg.de/) [\[Code\]](https://github.com/otaheri/GrabNet)
+_Omid Taheri, Nima Ghorbani, Michael J. Black, Dimitrios Tzionas_
+
 ##### • Monocular Expressive Body Regression through Body-Driven Attention. [\[PDF\]](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123550018.pdf) [\[Project\]](https://expose.is.tue.mpg.de/en) [\[Code\]](https://github.com/vchoutas/expose)
 _Vasileios Choutas, Georgios Pavlakos, Timo Bolkart, Dimitrios Tzionas , Michael J. Black_
 
@@ -987,6 +990,9 @@ _Ayan Sinha\*, Chiho Choi\*, Karthik Ramani_
 [\[back to top\]](#contents)
 
 ## Other Related Papers
+
+##### • \[2020 IJCV\] Learning Multi-Human Optical Flow. [\[PDF\]](https://link.springer.com/content/pdf/10.1007/s11263-019-01279-w.pdf) [\[Project\]](https://humanflow.is.tue.mpg.de/) [\[Code\]](https://github.com/anuragranj/humanflow2)
+_Anurag Ranjan, David T. Hoffmann, Dimitrios Tzionas, Siyu Tang, Javier Romero, and Michael J. Black_
 
 ##### • \[2019 ICCV\] Contextual Attention for Hand Detection in the Wild. [\[PDF\]](https://arxiv.org/pdf/1904.04882.pdf) [\[Project\]](http://vision.cs.stonybrook.edu/~supreeth/) [\[Code\]](https://github.com/SupreethN/Hand-CNN)
 _Supreeth Narasimhaswamy\*, Zhengwei Wei\*, Yang Wang, Justin Zhang, Minh Hoai_
