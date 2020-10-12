@@ -32,6 +32,9 @@ See folder [``evaluation``](./evaluation) to get more details about performance 
 
 ## arXiv Papers
 
+##### • [\[arXiv:2010.00694\]](https://arxiv.org/abs/2008.08324) Active Learning for Bayesian 3D Hand Pose Estimation. [\[PDF\]](https://arxiv.org/abs/2010.00694)  [\[Code\]](https://github.com/razvancaramalau/al_bhpe)
+_Razvan Caramalau, Binod Bhattarai, Tae-Kyun Kim_
+
 ##### • [\[arXiv:2008.08324\]](https://arxiv.org/abs/2008.08324) FrankMocap: Fast Monocular 3D Hand and Body Motion Capture by Regression and Integration. [\[PDF\]](https://arxiv.org/pdf/2008.08324.pdf)  [\[Project\]](https://penincillin.github.io/frank_mocap)
 _Yu Rong, Takaaki Shiratori, Hanbyul Joo_
 
