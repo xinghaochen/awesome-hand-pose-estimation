@@ -123,6 +123,13 @@ _Liuhao Ge, Hui Liang, Junsong Yuan and Daniel Thalmann_
 
 ### Other Journals
 
+##### • \[2020 Symmetry\] 3D Capsule Hand Pose Estimation Network Based on Structural Relationship Information. [\[PDF\]](https://www.mdpi.com/2073-8994/12/10/1636)
+_Yiqi Wu ,Shichao Ma, Dejun Zhang, Jun Sun_
+
+
+##### • \[2020 Signal Process Image Commun\] Accurate 3D Hand Pose Estimation Network Utilizing Joints Information. [\[PDF\]](https://www.sciencedirect.com/science/article/pii/S0923596520301831)
+_Xiongquan Zhang; Shiliang Huang; Zhongfu Ye_
+
 ##### • \[2020 TCSVT\] Improve Regression Network on Depth Hand Pose Estimation with Auxiliary Variable. [\[PDF\]](https://ieeexplore.ieee.org/abstract/document/9085372)
 _Lu Xu, Chen Hu, Ji’an Tao, Jianru Xue, Kuizhi Mei_
 
