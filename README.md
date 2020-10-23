@@ -303,6 +303,9 @@ _Shreyas Hampali, Mahdi Rad, Markus Oberweger, Vincent Lepetit_
 
 ### 2020 Others
 
+##### • [2020 SIGGRAPH Asia] RGB2Hands: Real-Time Tracking of 3D Hand Interactions from Monocular RGB Video. [\[PDF\]](https://handtracker.mpi-inf.mpg.de/projects/RGB2Hands/content/RGB2Hands_author_version.pdf)  [\[Project\]](https://handtracker.mpi-inf.mpg.de/projects/RGB2Hands/)
+_Jiayi Wang, Franziska Mueller, Florian Bernard, Suzanne Sorli, Oleksandr Sotnychenko, Neng Qian, Miguel A. Otaduy, Dan Casas, and Christian Theobalt_
+
 ##### • [2020 SIGGRAPH] MEgATrack: Monochrome Egocentric Articulated Hand-Tracking for Virtual Reality. [\[PDF\]](https://dl.acm.org/doi/abs/10.1145/3386569.3392452)
 _Shangchen Han, Beibei Liu, Randi Cabezas, Christopher D. Twigg, Peizhao Zhang, Jeff Petkau, Tsz-Ho Yu, Chun-Jung Tai, Muzaffer Akbay, Zheng Wang, Asaf Nitzan, Gang Dong, Yuting Ye, Lingling Tao, Chengde Wan, Robert Wang_
 
