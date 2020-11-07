@@ -303,6 +303,12 @@ _Shreyas Hampali, Mahdi Rad, Markus Oberweger, Vincent Lepetit_
 
 ### 2020 Others
 
+##### • [2020 UIST] DeepFisheye: Near-Surface Multi-Finger Tracking Technology Using Fisheye Camera. [\[PDF\]](https://dl.acm.org/doi/abs/10.1145/3379337.3415818)  [\[Project\]](http://kwpark.io/deepfisheye) [\[Code\]](https://github.com/KAIST-HCIL/DeepFisheyeNet) 
+_Keunwoo Park, Sunbum Kim, Youngwoo Yoon, Tae-Kyun Kim, Geehyuk Lee_
+
+##### • [2020 SIGGRAPH Asia] Constraining Dense Hand Surface Tracking With Elasticity. [\[PDF\]](https://research.fb.com/wp-content/uploads/2020/11/Constraining-Dense-Hand-Surface-Tracking-with-Elasticity.pdf)  [\[Project\]](https://research.fb.com/publications/constraining-dense-hand-surface-tracking-with-elasticity/)
+_Breannan Smith, Chenglei Wu, He Wen, Patrick Peluse, Yaser Sheikh, Jessica Hodgins, Takaaki Shiratori_
+
 ##### • [2020 SIGGRAPH Asia] RGB2Hands: Real-Time Tracking of 3D Hand Interactions from Monocular RGB Video. [\[PDF\]](https://handtracker.mpi-inf.mpg.de/projects/RGB2Hands/content/RGB2Hands_author_version.pdf)  [\[Project\]](https://handtracker.mpi-inf.mpg.de/projects/RGB2Hands/)
 _Jiayi Wang, Franziska Mueller, Florian Bernard, Suzanne Sorli, Oleksandr Sotnychenko, Neng Qian, Miguel A. Otaduy, Dan Casas, and Christian Theobalt_
 
