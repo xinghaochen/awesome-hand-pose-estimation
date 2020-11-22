@@ -123,6 +123,9 @@ _Liuhao Ge, Hui Liang, Junsong Yuan and Daniel Thalmann_
 
 ### Other Journals
 
+##### • \[2020 TIP\] Weakly-supervised Learning for Single Depth based Hand Shape Recovery. [\[PDF\]](https://ieeexplore.ieee.org/document/9262071)
+_Xiaoming Deng, Yuying Zhu, Yinda Zhang, Zhaopeng Cui, Ping Tan, Wentian Qu, Cuixia Ma, Hongan Wang_
+
 ##### • \[2020 Symmetry\] 3D Capsule Hand Pose Estimation Network Based on Structural Relationship Information. [\[PDF\]](https://www.mdpi.com/2073-8994/12/10/1636)
 _Yiqi Wu ,Shichao Ma, Dejun Zhang, Jun Sun_
 
@@ -855,6 +858,9 @@ _Ayan Sinha\*, Chiho Choi\*, Karthik Ramani_
 [\[back to top\]](#contents)
 
 ## Theses
+
+##### • \[2020\] Learning without Labeling for 3D Hand Pose Estimation. [\[PDF\]](https://diglib.tugraz.at/learning-without-labeling-for-3d-hand-pose-estimation-2020)
+*[Georg Poier](https://poier.github.io/), Graz University of Technology*
 
 ##### • \[2018\] Computational Learning for Hand Pose Estimation. [\[PDF\]](https://docs.lib.purdue.edu/dissertations/AAI10743663/)
 *[Chiho Choi](http://www.chihochoi.me/), Purdue University*
