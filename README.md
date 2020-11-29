@@ -9,6 +9,7 @@ A curated list of related resources for hand pose estimation. Feel free to [cont
    - [TPAMI / IJCV](#tpami--ijcv)
    - [Others](#other-journals)
  - [Conference Papers](#conference-papers)
+   - 2021: [Others](#2021-others)
    - 2020: [CVPR](#2020-cvpr), [ECCV](#2020-eccv), [Others](#2020-others)
    - 2019: [CVPR](#2019-cvpr), [ICCV](#2019-iccv), [Others](#2019-others)
    - 2018: [CVPR](#2018-cvpr), [ECCV](#2018-eccv), [Others](#2018-others)
@@ -32,9 +33,6 @@ See folder [``evaluation``](./evaluation) to get more details about performance 
 
 ## arXiv Papers
 
-##### • [\[arXiv:2010.00694\]](https://arxiv.org/abs/2008.08324) Active Learning for Bayesian 3D Hand Pose Estimation. [\[PDF\]](https://arxiv.org/abs/2010.00694)  [\[Code\]](https://github.com/razvancaramalau/al_bhpe)
-_Razvan Caramalau, Binod Bhattarai, Tae-Kyun Kim_
-
 ##### • [\[arXiv:2008.08324\]](https://arxiv.org/abs/2008.08324) FrankMocap: Fast Monocular 3D Hand and Body Motion Capture by Regression and Integration. [\[PDF\]](https://arxiv.org/pdf/2008.08324.pdf)  [\[Project\]](https://penincillin.github.io/frank_mocap)
 _Yu Rong, Takaaki Shiratori, Hanbyul Joo_
 
@@ -46,9 +44,6 @@ _Yujin Chen, Zhigang Tu, Di Kang, Ruizhi Chen, Linchao Bao, Zhengyou Zhang, Juns
 
 ##### • [\[arXiv:2006.05927\]](https://arxiv.org/abs/2006.05927) Recent Advances in 3D Object and Hand Pose Estimation. [\[PDF\]](https://arxiv.org/pdf/2006.05927.pdf)
 _Vincent Lepetit_
-
-##### • [\[arXiv:2003.09282\]](https://arxiv.org/abs/2006.01320) Two-hand Global 3D Pose Estimation Using Monocular RGB. [\[PDF\]](https://arxiv.org/pdf/2006.01320.pdf)  [\[Project\]](https://github.com/AlextheEngineer/Ego3DHands)
-_Fanqing Lin, Connor Wilhelm, Tony Martinez_
 
 ##### • [\[arXiv:2001.08047\]](https://arxiv.org/abs/2001.08047) Attention! A Lightweight 2D Hand Pose Estimation Approach. [\[PDF\]](https://arxiv.org/pdf/2001.08047.pdf)
 _Nicholas Santavas, Ioannis Kansizoglou, Loukas Bampis, Evangelos Karakasis, Antonios Gasteratos_
@@ -208,6 +203,15 @@ _Guijin Wang, Xinghao Chen\*, Hengkai Guo\*, Cairong Zhang_
 [\[back to top\]](#contents)
 
 ## Conference Papers
+
+### 2021 Others
+
+##### • [2021 WACV] Active Learning for Bayesian 3D Hand Pose Estimation. [\[PDF\]](https://arxiv.org/abs/2010.00694)  [\[Code\]](https://github.com/razvancaramalau/al_bhpe)
+_Razvan Caramalau, Binod Bhattarai, Tae-Kyun Kim_
+
+##### • [2021 WACV] Two-hand Global 3D Pose Estimation Using Monocular RGB. [\[PDF\]](https://arxiv.org/pdf/2006.01320.pdf)  [\[Code\]](https://github.com/AlextheEngineer/Ego3DHands)
+_Fanqing Lin, Connor Wilhelm, Tony Martinez_
+
 
 ### 2020 ECCV
 
@@ -1015,6 +1019,9 @@ _Ayan Sinha\*, Chiho Choi\*, Karthik Ramani_
 [\[back to top\]](#contents)
 
 ## Other Related Papers
+
+##### • [\[arXiv 2011.07252\]](https://arxiv.org/abs/2011.07252) Ego2Hands: A Dataset for Egocentric Two-hand Segmentation and Detection. [\[PDF\]](https://arxiv.org/pdf/2011.07252.pdf) [\[Code\]](https://github.com/AlextheEngineer/Ego2Hands)
+_Fanqing Lin, Tony Martinez_
 
 ##### • \[2020 IJCV\] Learning Multi-Human Optical Flow. [\[PDF\]](https://link.springer.com/content/pdf/10.1007/s11263-019-01279-w.pdf) [\[Project\]](https://humanflow.is.tue.mpg.de/) [\[Code\]](https://github.com/anuragranj/humanflow2)
 _Anurag Ranjan, David T. Hoffmann, Dimitrios Tzionas, Siyu Tang, Javier Romero, and Michael J. Black_
