@@ -310,6 +310,9 @@ _Shreyas Hampali, Mahdi Rad, Markus Oberweger, Vincent Lepetit_
 
 ### 2020 Others
 
+##### • [2020 3DV] Grasping Field: Learning Implicit Representations for Human Grasps. [\[PDF\]](https://arxiv.org/pdf/2008.04451.pdf) [\[Code\]](https://github.com/korrawe/grasping_field) *(Best Paper Award)*
+_Korrawe Karunratanakul, Jinlong Yang, Yan Zhang, Michael Black, Krikamol Muandet, Siyu Tang_
+
 ##### • [2020 UIST] DeepFisheye: Near-Surface Multi-Finger Tracking Technology Using Fisheye Camera. [\[PDF\]](https://dl.acm.org/doi/abs/10.1145/3379337.3415818)  [\[Project\]](http://kwpark.io/deepfisheye) [\[Code\]](https://github.com/KAIST-HCIL/DeepFisheyeNet) 
 _Keunwoo Park, Sunbum Kim, Youngwoo Yoon, Tae-Kyun Kim, Geehyuk Lee_
 
