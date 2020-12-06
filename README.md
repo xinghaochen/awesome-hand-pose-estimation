@@ -33,6 +33,9 @@ See folder [``evaluation``](./evaluation) to get more details about performance 
 
 ## arXiv Papers
 
+##### • [\[arXiv:2012.00924\]](https://arxiv.org/abs/2012.00924) CPF: Learning a Contact Potential Field to Model the Hand-object Interaction. [\[PDF\]](https://arxiv.org/pdf/2012.00924.pdf)  [\[Code\]](https://github.com/lixiny/CPF)
+_Lixin Yang, Xinyu Zhan, Kailin Li, Wenqiang Xu, Jiefeng Li, Cewu Lu_
+
 ##### • [\[arXiv:2008.08324\]](https://arxiv.org/abs/2008.08324) FrankMocap: Fast Monocular 3D Hand and Body Motion Capture by Regression and Integration. [\[PDF\]](https://arxiv.org/pdf/2008.08324.pdf)  [\[Project\]](https://penincillin.github.io/frank_mocap)
 _Yu Rong, Takaaki Shiratori, Hanbyul Joo_
 
