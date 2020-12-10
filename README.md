@@ -215,6 +215,11 @@ _Razvan Caramalau, Binod Bhattarai, Tae-Kyun Kim_
 ##### • [2021 WACV] Two-hand Global 3D Pose Estimation Using Monocular RGB. [\[PDF\]](https://arxiv.org/pdf/2006.01320.pdf)  [\[Code\]](https://github.com/AlextheEngineer/Ego3DHands)
 _Fanqing Lin, Connor Wilhelm, Tony Martinez_
 
+##### • [2021 WACV] MVHM: A Large-Scale Multi-View Hand Mesh Benchmark for Accurate 3D Hand Pose Estimation. [\[PDF\]](https://arxiv.org/abs/2012.03206)
+_Liangjian Chen, Shih-Yao Lin, Yusheng Xie, Yen-Yu Lin, Xiaohui Xie_
+
+##### • [2021 WACV] Temporal-Aware Self-Supervised Learning for 3D Hand Pose and Mesh Estimation in Videos. [\[PDF\]](https://arxiv.org/abs/2012.03205)
+_Liangjian Chen, Shih-Yao Lin, Yusheng Xie, Yen-Yu Lin, Xiaohui Xie_
 
 ### 2020 ECCV
 
