@@ -33,6 +33,12 @@ See folder [``evaluation``](./evaluation) to get more details about performance 
 
 ## arXiv Papers
 
+##### • [\[arXiv:2012.09856\]](https://arxiv.org/abs/2012.09856) Reconstructing Hand-Object Interactions in the Wild. [\[PDF\]](https://arxiv.org/pdf/2012.09856.pdf)  [\[Project\]](https://people.eecs.berkeley.edu/~zhecao/rhoi/)
+_Zhe Cao, Ilija Radosavovic, Angjoo Kanazawa, Jitendra Malik_
+
+##### • [\[arXiv:2012.09760\]](https://arxiv.org/abs/2012.09760) End-to-End Human Pose and Mesh Reconstruction with Transformers. [\[PDF\]](https://arxiv.org/pdf/2012.09760.pdf)
+_Kevin Lin, Lijuan Wang, Zicheng Liu_
+
 ##### • [\[arXiv:2012.00924\]](https://arxiv.org/abs/2012.00924) CPF: Learning a Contact Potential Field to Model the Hand-object Interaction. [\[PDF\]](https://arxiv.org/pdf/2012.00924.pdf)  [\[Code\]](https://github.com/lixiny/CPF)
 _Lixin Yang, Xinyu Zhan, Kailin Li, Wenqiang Xu, Jiefeng Li, Cewu Lu_
 
@@ -208,6 +214,9 @@ _Guijin Wang, Xinghao Chen\*, Hengkai Guo\*, Cairong Zhang_
 ## Conference Papers
 
 ### 2021 Others
+
+##### • [2021 AAAI] Exploiting Learnable Joint Groups for Hand Pose Estimation. [\[PDF\]](https://arxiv.org/abs/2012.09496)  [\[Code\]](https://github.com/moranli-aca/LearnableGroups-Hand)
+_Moran Li, Yuan Gao, Nong Sang_
 
 ##### • [2021 WACV] Active Learning for Bayesian 3D Hand Pose Estimation. [\[PDF\]](https://arxiv.org/abs/2010.00694)  [\[Code\]](https://github.com/razvancaramalau/al_bhpe)
 _Razvan Caramalau, Binod Bhattarai, Tae-Kyun Kim_
