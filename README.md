@@ -33,6 +33,9 @@ See folder [``evaluation``](./evaluation) to get more details about performance 
 
 ## arXiv Papers
 
+##### • [\[arXiv:2012.06475\]](https://arxiv.org/abs/2012.06475) EventHands: Real-Time Neural 3D Hand Reconstruction from an Event Stream. [\[PDF\]](https://arxiv.org/pdf/2012.06475.pdf)  [\[Project\]](https://gvv.mpi-inf.mpg.de/projects/EventHands/)
+_Viktor Rudnev, Vladislav Golyanik, Jiayi Wang, Hans-Peter Seidel, Franziska Mueller, Mohamed Elgharib, Christian Theobalt_
+
 ##### • [\[arXiv:2012.09856\]](https://arxiv.org/abs/2012.09856) Reconstructing Hand-Object Interactions in the Wild. [\[PDF\]](https://arxiv.org/pdf/2012.09856.pdf)  [\[Project\]](https://people.eecs.berkeley.edu/~zhecao/rhoi/)
 _Zhe Cao, Ilija Radosavovic, Angjoo Kanazawa, Jitendra Malik_
 
