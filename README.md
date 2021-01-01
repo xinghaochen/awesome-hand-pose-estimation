@@ -972,7 +972,7 @@ _Ayan Sinha\*, Chiho Choi\*, Karthik Ramani_
 
 |Dataset|Year|S/R|Mesh|Obj|#J|V|#S|#F|Paper|
 |------|------|------|------|------|------|------|------|------|----------------|
-|[ContactPose](https://contactpose.cc.gatech.edu/) | 2020 | - | - |✅| 21 | - | 1 | 2.9M | ECCV 2020 [\[PDF\]](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123580358.pdf)|
+|[ContactPose](https://contactpose.cc.gatech.edu/) | 2020 | R | ✅ | ✅ | 21 | 3rd | 50 | 2.9M | ECCV 2020 [\[PDF\]](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123580358.pdf)|
 |[Ego3DHands](https://github.com/AlextheEngineer/Ego3DHands) | 2020 | S | - |❌| 21 | ego | 1 | 50k/5k | arXiv 2020 [\[PDF\]](https://arxiv.org/pdf/2006.01320.pdf)|
 |[ObMan](https://www.di.ens.fr/willow/research/obman/data/) | 2019 | S | ✅ |✅| - | - | - | 150k | CVPR 2019 [\[PDF\]](https://openaccess.thecvf.com/content_CVPR_2019/papers/Hasson_Learning_Joint_Reconstruction_of_Hands_and_Manipulated_Objects_CVPR_2019_paper.pdf)|
 |[EgoDexter](http://handtracker.mpi-inf.mpg.de/projects/OccludedHands/EgoDexter.htm) | 2017 | R | - | ✅ |  5 | ego  |  4 | 1485 | ICCV 2017 [\[PDF\]](http://handtracker.mpi-inf.mpg.de/projects/OccludedHands/content/OccludedHands_ICCV2017.pdf)|
