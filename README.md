@@ -333,6 +333,12 @@ _Shreyas Hampali, Mahdi Rad, Markus Oberweger, Vincent Lepetit_
 
 ### 2020 Others
 
+##### • [2020 ISMAR] 3D Hand Pose Estimation with a Single Infrared Camera via Domain Transfer Learning. [\[PDF\]](https://drive.google.com/file/d/1rBmsblA2YY4qDUxY4GRgrLQ0EyA3wbFs/view)
+_Gabyong Park, Tae-Kyun Kim, Woontack Woo_
+
+##### • [2020 ISMAR] Bare-hand Depth Inpainting for 3D Tracking of Hand Interacting with Object. [\[PDF\]](https://drive.google.com/file/d/1hwOATe-2Sr5CdQD98SlIYlpCAGRQ109N/view)
+_Woojin Cho, Gabyong Park, Woontack Woo_
+
 ##### • [2020 3DV] Grasping Field: Learning Implicit Representations for Human Grasps. [\[PDF\]](https://arxiv.org/pdf/2008.04451.pdf) [\[Code\]](https://github.com/korrawe/grasping_field) *(Best Paper Award)*
 _Korrawe Karunratanakul, Jinlong Yang, Yan Zhang, Michael Black, Krikamol Muandet, Siyu Tang_
 
