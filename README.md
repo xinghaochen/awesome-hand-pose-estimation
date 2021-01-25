@@ -130,7 +130,12 @@ _Liuhao Ge, Hui Liang, Junsong Yuan and Daniel Thalmann_
 
 ### Other Journals
 
-##### • [2021 TMM] Differentiable Spatial Regression: A Novel Method for 3D Hand Pose Estimation. [\[PDF\]](https://arxiv.org/pdf/1905.02085.pdf)[\[Code\]](https://github.com/IcarusWizard/PixelwiseRegression)
+
+##### • \[2021 Neurocomputing\] Spatial-aware Stacked Regression Network for Real-time 3D Hand Pose Estimation. [\[PDF\]](https://www.sciencedirect.com/science/article/abs/pii/S0925231221000667)
+_Pengfei Ren, Haifeng Sun, Weiting Huang, Jiachang hao, Daixuan Cheng, Qi Qi, Jingyu Wang, Jianxin Liao_
+
+
+##### • \[2021 TMM\] Differentiable Spatial Regression: A Novel Method for 3D Hand Pose Estimation. [\[PDF\]](https://arxiv.org/pdf/1905.02085.pdf) [\[Code\]](https://github.com/IcarusWizard/PixelwiseRegression)
 _Xingyuan Zhang, Fuhai Zhang_
 
 ##### • \[2020 TIP\] Weakly-supervised Learning for Single Depth based Hand Shape Recovery. [\[PDF\]](https://ieeexplore.ieee.org/document/9262071)
