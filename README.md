@@ -33,6 +33,12 @@ See folder [``evaluation``](./evaluation) to get more details about performance 
 
 ## arXiv Papers
 
+##### • [\[arXiv:2102.09244\]](https://arxiv.org/abs/2102.09244) HandTailor: Towards High-Precision Monocular 3D Hand Recovery. [\[PDF\]](https://arxiv.org/abs/2102.09244)
+_Jun Lv, Wenqiang Xu, Lixin Yang, Sucheng Qian, Chongzhao Mao, Cewu Lu_
+
+##### • [\[arXiv:2102.07067\]](https://arxiv.org/abs/2102.07067) FastHand: Fast Hand Pose Estimation From A Monocular Camera. [\[PDF\]](https://arxiv.org/abs/2102.07067)
+_Shan An, Xiajie Zhang, Dong Wei, Haogang Zhu, Jianyu Yang, Konstantinos A. Tsintotas_
+
 ##### • [\[arXiv:2012.11260\]](https://arxiv.org/abs/2012.11260) Unsupervised Domain Adaptation with Temporal-Consistent Self-Training for 3D Hand-Object Joint Reconstruction. [\[PDF\]](https://arxiv.org/pdf/2012.11260.pdf)
 _Mengshi Qi, Edoardo Remelli, Mathieu Salzmann, Pascal Fua_
 
