@@ -232,6 +232,9 @@ _Guijin Wang, Xinghao Chen\*, Hengkai Guo\*, Cairong Zhang_
 
 ### 2021 CVPR
 
+##### • Camera-Space Hand Mesh Recovery via Semantic Aggregation and Adaptive 2D-1D Registration. [\[PDF\]](https://arxiv.org/pdf/2103.02845.pdf)
+_Xingyu Chen, Yufeng Liu, Chongyang Ma, Jianlong Chang, Huayan Wang, Tian Chen, Xiaoyan Guo, Pengfei Wan, Wen Zheng_
+
 ##### • Model-based 3D Hand Reconstruction via Self-Supervised Learning. \[PDF\]
 _Yujin Chen, Zhigang Tu, Di Kang, Linchao Bao, Ying Zhang, Xuefei Zhe, Ruizhi Chen, Junsong Yuan_
 
