@@ -57,9 +57,6 @@ _Lixin Yang, Xinyu Zhan, Kailin Li, Wenqiang Xu, Jiefeng Li, Cewu Lu_
 ##### • [\[arXiv:2008.08324\]](https://arxiv.org/abs/2008.08324) FrankMocap: Fast Monocular 3D Hand and Body Motion Capture by Regression and Integration. [\[PDF\]](https://arxiv.org/pdf/2008.08324.pdf)  [\[Project\]](https://penincillin.github.io/frank_mocap)
 _Yu Rong, Takaaki Shiratori, Hanbyul Joo_
 
-##### • [\[arXiv:2006.15561\]](https://arxiv.org/abs/2006.15561) Joint Hand-object 3D Reconstruction from a Single Image with Cross-branch Feature Fusion. [\[PDF\]](https://arxiv.org/pdf/2006.15561.pdf)
-_Yujin Chen, Zhigang Tu, Di Kang, Ruizhi Chen, Linchao Bao, Zhengyou Zhang, Junsong Yuan_
-
 ##### • [\[arXiv:2006.05927\]](https://arxiv.org/abs/2006.05927) Recent Advances in 3D Object and Hand Pose Estimation. [\[PDF\]](https://arxiv.org/pdf/2006.05927.pdf)
 _Vincent Lepetit_
 
@@ -133,6 +130,8 @@ _Liuhao Ge, Hui Liang, Junsong Yuan and Daniel Thalmann_
 
 ### Other Journals
 
+##### • \[2021 TIP\] Joint Hand-object 3D Reconstruction from a Single Image with Cross-branch Feature Fusion. [\[PDF\]](https://arxiv.org/pdf/2006.15561.pdf)
+_Yujin Chen, Zhigang Tu, Di Kang, Ruizhi Chen, Linchao Bao, Zhengyou Zhang, Junsong Yuan_
 
 ##### • \[2021 Neurocomputing\] Spatial-aware Stacked Regression Network for Real-time 3D Hand Pose Estimation. [\[PDF\]](https://www.sciencedirect.com/science/article/abs/pii/S0925231221000667)
 _Pengfei Ren, Haifeng Sun, Weiting Huang, Jiachang hao, Daixuan Cheng, Qi Qi, Jingyu Wang, Jianxin Liao_
@@ -143,10 +142,6 @@ _Xingyuan Zhang, Fuhai Zhang_
 
 ##### • \[2020 TIP\] Weakly-supervised Learning for Single Depth based Hand Shape Recovery. [\[PDF\]](https://ieeexplore.ieee.org/document/9262071)
 _Xiaoming Deng, Yuying Zhu, Yinda Zhang, Zhaopeng Cui, Ping Tan, Wentian Qu, Cuixia Ma, Hongan Wang_
-
-##### • \[2020 Symmetry\] 3D Capsule Hand Pose Estimation Network Based on Structural Relationship Information. [\[PDF\]](https://www.mdpi.com/2073-8994/12/10/1636)
-_Yiqi Wu ,Shichao Ma, Dejun Zhang, Jun Sun_
-
 
 ##### • \[2020 Signal Process Image Commun\] Accurate 3D Hand Pose Estimation Network Utilizing Joints Information. [\[PDF\]](https://www.sciencedirect.com/science/article/pii/S0923596520301831)
 _Xiongquan Zhang; Shiliang Huang; Zhongfu Ye_
@@ -235,7 +230,7 @@ _Evonne Ng, Hanbyul Joo, Shiry Ginosar, Trevor Darrell_
 ##### • Camera-Space Hand Mesh Recovery via Semantic Aggregation and Adaptive 2D-1D Registration. [\[PDF\]](https://arxiv.org/pdf/2103.02845.pdf)
 _Xingyu Chen, Yufeng Liu, Chongyang Ma, Jianlong Chang, Huayan Wang, Tian Chen, Xiaoyan Guo, Pengfei Wan, Wen Zheng_
 
-##### • Model-based 3D Hand Reconstruction via Self-Supervised Learning. \[PDF\]
+##### • Model-based 3D Hand Reconstruction via Self-Supervised Learning. [\[PDF\]](https://arxiv.org/pdf/2103.11703)
 _Yujin Chen, Zhigang Tu, Di Kang, Linchao Bao, Ying Zhang, Xuefei Zhe, Ruizhi Chen, Junsong Yuan_
 
 ##### • Semi-Supervised 3D Hand-Object Poses Estimation with Interactions in Time. \[PDF\]
@@ -244,6 +239,9 @@ _Shaowei Liu*, Hanwen Jiang*, Jiarui Xu, Sifei Liu, Xiaolong Wang_
 [\[back to top\]](#contents)
 
 ### 2021 Others
+
+##### • [2021 SIGGRAPH] Single Depth View-Based Real-time Reconstruction of Hand-object Interactions. [\[PDF\]](http://xufeng.site/publications/2021/Single%20Depth%20View%20Based%20Real-time%20Reconstruction%20of%20Hand-objectInteractions.pdf)
+_Hao Zhang, Yuxiao Zhou, Yifei Tian, Jun-Hai Yong, Feng Xu_
 
 ##### • [2021 AAAI] Exploiting Learnable Joint Groups for Hand Pose Estimation. [\[PDF\]](https://arxiv.org/abs/2012.09496)  [\[Code\]](https://github.com/moranli-aca/LearnableGroups-Hand)
 _Moran Li, Yuan Gao, Nong Sang_
