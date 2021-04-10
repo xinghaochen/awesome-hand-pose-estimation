@@ -33,6 +33,9 @@ See folder [``evaluation``](./evaluation) to get more details about performance 
 
 ## arXiv Papers
 
+##### • [\[arXiv:2104.03304\]](https://arxiv.org/abs/2104.03304) Hand-Object Contact Consistency Reasoning for Human Grasps Generation. [\[PDF\]](https://arxiv.org/abs/2104.03304) [\[Project\]](https://hwjiang1510.github.io/GraspTTA/)
+_Hanwen Jiang, Shaowei Liu, Jiashun Wang, Xiaolong Wang_
+
 ##### • [\[arXiv:2102.09244\]](https://arxiv.org/abs/2102.09244) HandTailor: Towards High-Precision Monocular 3D Hand Recovery. [\[PDF\]](https://arxiv.org/abs/2102.09244) [\[Code\]](https://github.com/LyuJ1998/HandTailor)
 _Jun Lv, Wenqiang Xu, Lixin Yang, Sucheng Qian, Chongzhao Mao, Cewu Lu_
 
@@ -129,6 +132,9 @@ _Liuhao Ge, Hui Liang, Junsong Yuan and Daniel Thalmann_
 [\[back to top\]](#contents)
 
 ### Other Journals
+
+##### • \[2021 TIP\] Hand Pose Understanding with Large-Scale Photo-Realistic Rendering Dataset. [\[PDF\]](https://ieeexplore.ieee.org/document/9398571)
+_Xiaoming Deng, Yinda Zhang, Jian Shi, Yuying Zhu, Dachuan Cheng, Dexin Zuo, Zhaopeng Cui, Ping Tan, Liang Chang, Hongan Wang_
 
 ##### • \[2021 TIP\] Joint Hand-object 3D Reconstruction from a Single Image with Cross-branch Feature Fusion. [\[PDF\]](https://arxiv.org/pdf/2006.15561.pdf)
 _Yujin Chen, Zhigang Tu, Di Kang, Ruizhi Chen, Linchao Bao, Zhengyou Zhang, Junsong Yuan_
