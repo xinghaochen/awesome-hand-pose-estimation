@@ -230,6 +230,9 @@ _Guijin Wang, Xinghao Chen\*, Hengkai Guo\*, Cairong Zhang_
 
 ### 2021 CVPR
 
+##### • DexYCB: A Benchmark for Capturing Hand Grasping of Objects. [\[PDF\]](https://arxiv.org/pdf/2104.04631.pdf) [\[Project\]](https://dex-ycb.github.io/) [\[Code\]](https://github.com/NVlabs/dex-ycb-toolkit) 
+_Yu-Wei Chao, Wei Yang, Yu Xiang, Pavlo Molchanov, Ankur Handa, Jonathan Tremblay, Yashraj S. Narang, Karl Van Wyk, Umar Iqbal, Stan Birchfield, Jan Kautz, Dieter Fox_
+
 ##### • Body2Hands: Learning to Infer 3D Hands from Conversational Gesture Body Dynamics. [\[PDF\]](https://arxiv.org/pdf/2007.12287.pdf) [\[Project\]](http://people.eecs.berkeley.edu/~evonne_ng/projects/body2hands/) 
 _Evonne Ng, Hanbyul Joo, Shiry Ginosar, Trevor Darrell_
 
