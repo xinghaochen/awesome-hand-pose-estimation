@@ -36,9 +36,6 @@ See folder [``evaluation``](./evaluation) to get more details about performance 
 ##### • [\[arXiv:2104.11181\]](https://arxiv.org/abs/2104.11181) H2O: Two Hands Manipulating Objects for First Person Interaction Recognition. [\[PDF\]](https://arxiv.org/abs/2104.11181)
 _Taein Kwon, Bugra Tekin, Jan Stuhmer, Federica Bogo, Marc Pollefeys_
 
-##### • [\[arXiv:2104.04631\]](https://arxiv.org/abs/2104.04631) DexYCB: A Benchmark for Capturing Hand Grasping of Objects. [\[PDF\]](https://arxiv.org/abs/2104.04631)
-_Yu-Wei Chao, Wei Yang, Yu Xiang, Pavlo Molchanov, Ankur Handa, Jonathan Tremblay, Yashraj S. Narang, Karl Van Wyk, Umar Iqbal, Stan Birchfield, Jan Kautz, Dieter Fox_
-
 ##### • [\[arXiv:2104.03304\]](https://arxiv.org/abs/2104.03304) Hand-Object Contact Consistency Reasoning for Human Grasps Generation. [\[PDF\]](https://arxiv.org/abs/2104.03304) [\[Project\]](https://hwjiang1510.github.io/GraspTTA/)
 _Hanwen Jiang, Shaowei Liu, Jiashun Wang, Xiaolong Wang_
 
