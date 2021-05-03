@@ -33,6 +33,9 @@ See folder [``evaluation``](./evaluation) to get more details about performance 
 
 ## arXiv Papers
 
+##### • [\[arXiv:2104.14639\]](https://arxiv.org/abs/2104.14639) HandsFormer: Keypoint Transformer for Monocular 3D Pose Estimation ofHands and Object in Interaction. [\[PDF\]](https://arxiv.org/abs/2104.14639)
+_Shreyas Hampali, Sayan Deb Sarkar, Mahdi Rad, Vincent Lepetit_
+
 ##### • [\[arXiv:2104.11181\]](https://arxiv.org/abs/2104.11181) H2O: Two Hands Manipulating Objects for First Person Interaction Recognition. [\[PDF\]](https://arxiv.org/abs/2104.11181)
 _Taein Kwon, Bugra Tekin, Jan Stuhmer, Federica Bogo, Marc Pollefeys_
 
