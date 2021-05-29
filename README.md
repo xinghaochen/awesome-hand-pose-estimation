@@ -236,6 +236,9 @@ _Guijin Wang, Xinghao Chen\*, Hengkai Guo\*, Cairong Zhang_
 
 ### 2021 CVPR
 
+##### • End-to-End Human Pose and Mesh Reconstruction with Transformers. [\[PDF\]](https://arxiv.org/pdf/2012.09760.pdf) [\[Code\]](https://github.com/microsoft/MeshTransformer) 
+_Kevin Lin, Lijuan Wang, Zicheng Liu_
+
 ##### • DexYCB: A Benchmark for Capturing Hand Grasping of Objects. [\[PDF\]](https://arxiv.org/pdf/2104.04631.pdf) [\[Project\]](https://dex-ycb.github.io/) [\[Code\]](https://github.com/NVlabs/dex-ycb-toolkit) 
 _Yu-Wei Chao, Wei Yang, Yu Xiang, Pavlo Molchanov, Ankur Handa, Jonathan Tremblay, Yashraj S. Narang, Karl Van Wyk, Umar Iqbal, Stan Birchfield, Jan Kautz, Dieter Fox_
 
