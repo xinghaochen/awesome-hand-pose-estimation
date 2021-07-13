@@ -291,6 +291,9 @@ _Liangjian Chen, Shih-Yao Lin, Yusheng Xie, Yen-Yu Lin, Xiaohui Xie_
 ##### • [2021 WACV] Temporal-Aware Self-Supervised Learning for 3D Hand Pose and Mesh Estimation in Videos. [\[PDF\]](https://arxiv.org/abs/2012.03205)
 _Liangjian Chen, Shih-Yao Lin, Yusheng Xie, Yen-Yu Lin, Xiaohui Xie_
 
+##### • [2021 PETRA] Weakly-supervised hand part segmentation from depth images. [\[PDF\]](https://dl.acm.org/doi/10.1145/3453892.3453902)
+_Mohammad Rezaei, Farnaz Farahanipad, Alex Dillhoff, Ramez Elmasri, Vassilis Athitsos
+
 [\[back to top\]](#contents)
 
 ### 2020 ECCV
