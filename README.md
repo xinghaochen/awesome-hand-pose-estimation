@@ -33,6 +33,12 @@ See folder [``evaluation``](./evaluation) to get more details about performance 
 
 ## arXiv Papers
 
+##### • [\[arXiv:2107.01205\]](https://arxiv.org/abs/2107.01205) HandVoxNet++: 3D Hand Shape and Pose Estimation using Voxel-Based Neural Networks. [\[PDF\]](https://arxiv.org/abs/2107.01205)
+_Jameel Malik, Soshi Shimada, Ahmed Elhayek, Sk Aziz Ali, Christian Theobalt, Vladislav Golyanik, Didier Stricker_
+
+##### • [\[arXiv:2107.00887\]](https://arxiv.org/abs/2107.00887) HO-3D_v3: Improving the Accuracy of Hand-Object Annotations of the HO-3D Dataset. [\[PDF\]](https://arxiv.org/abs/2107.00887)
+_Shreyas Hampali, Sayan Deb Sarkar, Vincent Lepetit_
+
 ##### • [\[arXiv:2107.00434\]](https://arxiv.org/abs/2107.00434) Learning to Disambiguate Strongly Interacting Hands via Probabilistic Per-pixel Part Segmentation. [\[PDF\]](https://arxiv.org/abs/2107.00434)
 _Zicong Fan, Adrian Spurr, Muhammed Kocabas, Siyu Tang, Michael J. Black, Otmar Hilliges_
 
@@ -292,7 +298,7 @@ _Liangjian Chen, Shih-Yao Lin, Yusheng Xie, Yen-Yu Lin, Xiaohui Xie_
 _Liangjian Chen, Shih-Yao Lin, Yusheng Xie, Yen-Yu Lin, Xiaohui Xie_
 
 ##### • [2021 PETRA] Weakly-supervised hand part segmentation from depth images. [\[PDF\]](https://dl.acm.org/doi/10.1145/3453892.3453902)
-_Mohammad Rezaei, Farnaz Farahanipad, Alex Dillhoff, Ramez Elmasri, Vassilis Athitsos
+_Mohammad Rezaei, Farnaz Farahanipad, Alex Dillhoff, Ramez Elmasri, Vassilis Athitsos_
 
 [\[back to top\]](#contents)
 
