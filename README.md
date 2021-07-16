@@ -33,6 +33,9 @@ See folder [``evaluation``](./evaluation) to get more details about performance 
 
 ## arXiv Papers
 
+##### • [\[arXiv:2006.10214\]](https://arxiv.org/pdf/2006.10214.pdf) MediaPipe Hands: On-device Real-time Hand Tracking. [\[PDF\]](https://arxiv.org/pdf/2006.10214.pdf)
+_Fan Zhang, Valentin Bazarevsky, Andrey Vakunov, Andrei Tkachenka, George Sung, Chuo-Ling Chang, Matthias Grundmann_
+
 ##### • [\[arXiv:2107.01205\]](https://arxiv.org/abs/2107.01205) HandVoxNet++: 3D Hand Shape and Pose Estimation using Voxel-Based Neural Networks. [\[PDF\]](https://arxiv.org/abs/2107.01205)
 _Jameel Malik, Soshi Shimada, Ahmed Elhayek, Sk Aziz Ali, Christian Theobalt, Vladislav Golyanik, Didier Stricker_
 
