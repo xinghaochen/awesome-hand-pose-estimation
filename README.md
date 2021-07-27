@@ -9,7 +9,7 @@ A curated list of related resources for hand pose estimation. Feel free to [cont
    - [TPAMI / IJCV](#tpami--ijcv)
    - [Others](#other-journals)
  - [Conference Papers](#conference-papers)
-   - 2021: [CVPR](#2021-cvpr), [Others](#2021-others)
+   - 2021: [CVPR](#2021-cvpr), [ICCV](#2021-iccv), [Others](#2021-others)
    - 2020: [CVPR](#2020-cvpr), [ECCV](#2020-eccv), [Others](#2020-others)
    - 2019: [CVPR](#2019-cvpr), [ICCV](#2019-iccv), [Others](#2019-others)
    - 2018: [CVPR](#2018-cvpr), [ECCV](#2018-eccv), [Others](#2018-others)
@@ -56,9 +56,6 @@ _Shreyas Hampali, Sayan Deb Sarkar, Mahdi Rad, Vincent Lepetit_
 
 ##### • [\[arXiv:2104.11181\]](https://arxiv.org/abs/2104.11181) H2O: Two Hands Manipulating Objects for First Person Interaction Recognition. [\[PDF\]](https://arxiv.org/pdf/2104.11181)
 _Taein Kwon, Bugra Tekin, Jan Stuhmer, Federica Bogo, Marc Pollefeys_
-
-##### • [\[arXiv:2104.03304\]](https://arxiv.org/abs/2104.03304) Hand-Object Contact Consistency Reasoning for Human Grasps Generation. [\[PDF\]](https://arxiv.org/pdf/2104.03304) [\[Project\]](https://hwjiang1510.github.io/GraspTTA/)
-_Hanwen Jiang, Shaowei Liu, Jiashun Wang, Xiaolong Wang_
 
 ##### • [\[arXiv:2102.09244\]](https://arxiv.org/abs/2102.09244) HandTailor: Towards High-Precision Monocular 3D Hand Recovery. [\[PDF\]](https://arxiv.org/pdf/2102.09244) [\[Code\]](https://github.com/LyuJ1998/HandTailor)
 _Jun Lv, Wenqiang Xu, Lixin Yang, Sucheng Qian, Chongzhao Mao, Cewu Lu_
@@ -251,6 +248,20 @@ _Guijin Wang, Xinghao Chen\*, Hengkai Guo\*, Cairong Zhang_
 [\[back to top\]](#contents)
 
 ## Conference Papers
+
+### 2021 ICCV
+
+##### • Hand-Object Contact Consistency Reasoning for Human Grasps Generation. [\[PDF\]](https://arxiv.org/pdf/2104.03304) [\[Project\]](https://hwjiang1510.github.io/GraspTTA/) *(Oral)*
+_Hanwen Jiang, Shaowei Liu, Jiashun Wang, Xiaolong Wang_
+
+##### • Hand Image Understanding via Deep Multi-Task Learning. [\[PDF\]](https://arxiv.org/pdf/2107.11646)
+_Zhang Xiong, Huang Hongsheng, Tan Jianchao, Xu Hongmin, Yang Cheng, Peng Guozhu, Wang Lei, Liu Ji_
+
+##### • TravelNet: Self-supervised Physically Plausible Hand Motion Learning from Monocular Color Images. \[PDF\]
+
+##### • Interacting Two-Hand 3D Pose and Shape Reconstruction from Single Color Image. \[PDF\]
+
+[\[back to top\]](#contents)
 
 ### 2021 CVPR
 
