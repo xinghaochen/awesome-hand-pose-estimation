@@ -72,12 +72,6 @@ _Viktor Rudnev, Vladislav Golyanik, Jiayi Wang, Hans-Peter Seidel, Franziska Mue
 ##### • [\[arXiv:2012.09856\]](https://arxiv.org/abs/2012.09856) Reconstructing Hand-Object Interactions in the Wild. [\[PDF\]](https://arxiv.org/pdf/2012.09856.pdf)  [\[Project\]](https://people.eecs.berkeley.edu/~zhecao/rhoi/)
 _Zhe Cao, Ilija Radosavovic, Angjoo Kanazawa, Jitendra Malik_
 
-##### • [\[arXiv:2012.09760\]](https://arxiv.org/abs/2012.09760) End-to-End Human Pose and Mesh Reconstruction with Transformers. [\[PDF\]](https://arxiv.org/pdf/2012.09760.pdf)
-_Kevin Lin, Lijuan Wang, Zicheng Liu_
-
-##### • [\[arXiv:2012.00924\]](https://arxiv.org/abs/2012.00924) CPF: Learning a Contact Potential Field to Model the Hand-object Interaction. [\[PDF\]](https://arxiv.org/pdf/2012.00924.pdf)  [\[Code\]](https://github.com/lixiny/CPF)
-_Lixin Yang, Xinyu Zhan, Kailin Li, Wenqiang Xu, Jiefeng Li, Cewu Lu_
-
 ##### • [\[arXiv:2008.08324\]](https://arxiv.org/abs/2008.08324) FrankMocap: Fast Monocular 3D Hand and Body Motion Capture by Regression and Integration. [\[PDF\]](https://arxiv.org/pdf/2008.08324.pdf)  [\[Project\]](https://penincillin.github.io/frank_mocap)
 _Yu Rong, Takaaki Shiratori, Hanbyul Joo_
 
@@ -256,6 +250,10 @@ _Hanwen Jiang, Shaowei Liu, Jiashun Wang, Xiaolong Wang_
 
 ##### • Hand Image Understanding via Deep Multi-Task Learning. [\[PDF\]](https://arxiv.org/pdf/2107.11646)
 _Zhang Xiong, Huang Hongsheng, Tan Jianchao, Xu Hongmin, Yang Cheng, Peng Guozhu, Wang Lei, Liu Ji_
+
+
+##### • CPF: Learning a Contact Potential Field to Model the Hand-object Interaction. [\[PDF\]](https://arxiv.org/pdf/2012.00924.pdf)  [\[Code\]](https://github.com/lixiny/CPF)
+_Lixin Yang, Xinyu Zhan, Kailin Li, Wenqiang Xu, Jiefeng Li, Cewu Lu_
 
 ##### • TravelNet: Self-supervised Physically Plausible Hand Motion Learning from Monocular Color Images. \[PDF\]
 
