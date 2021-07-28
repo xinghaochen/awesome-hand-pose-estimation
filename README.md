@@ -248,12 +248,14 @@ _Guijin Wang, Xinghao Chen\*, Hengkai Guo\*, Cairong Zhang_
 
 ### 2021 ICCV
 
+##### • SemiHand: Semi-supervised Hand Pose Estimation with Consistency. \[PDF\]
+_Linlin Yang, Shicheng Chen, Angela Yao_
+
 ##### • Hand-Object Contact Consistency Reasoning for Human Grasps Generation. [\[PDF\]](https://arxiv.org/pdf/2104.03304) [\[Project\]](https://hwjiang1510.github.io/GraspTTA/) *(Oral)*
 _Hanwen Jiang, Shaowei Liu, Jiashun Wang, Xiaolong Wang_
 
 ##### • Hand Image Understanding via Deep Multi-Task Learning. [\[PDF\]](https://arxiv.org/pdf/2107.11646)
 _Zhang Xiong, Huang Hongsheng, Tan Jianchao, Xu Hongmin, Yang Cheng, Peng Guozhu, Wang Lei, Liu Ji_
-
 
 ##### • CPF: Learning a Contact Potential Field to Model the Hand-object Interaction. [\[PDF\]](https://arxiv.org/pdf/2012.00924.pdf)  [\[Code\]](https://github.com/lixiny/CPF)
 _Lixin Yang, Xinyu Zhan, Kailin Li, Wenqiang Xu, Jiefeng Li, Cewu Lu_
