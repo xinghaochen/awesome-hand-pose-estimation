@@ -251,6 +251,9 @@ _Guijin Wang, Xinghao Chen\*, Hengkai Guo\*, Cairong Zhang_
 ##### • SemiHand: Semi-supervised Hand Pose Estimation with Consistency. \[PDF\]
 _Linlin Yang, Shicheng Chen, Angela Yao_
 
+##### • End-to-End Detection and Pose Estimation of Two Interacting Hands. \[PDF\]
+_Donguk Kim, Kwang In Kim, Seungryul Baek_
+
 ##### • Hand-Object Contact Consistency Reasoning for Human Grasps Generation. [\[PDF\]](https://arxiv.org/pdf/2104.03304) [\[Project\]](https://hwjiang1510.github.io/GraspTTA/) *(Oral)*
 _Hanwen Jiang, Shaowei Liu, Jiashun Wang, Xiaolong Wang_
 
