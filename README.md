@@ -248,6 +248,9 @@ _Guijin Wang, Xinghao Chen\*, Hengkai Guo\*, Cairong Zhang_
 
 ### 2021 ICCV
 
+##### • I2UV-HandNet: Image-to-UV Prediction Network for Accurate and High-fidelity 3D Hand Mesh Modeling. [\[PDF\]](https://arxiv.org/pdf/2102.03725) 
+_Ping Chen, Yujin Chen, Dong Yang, Fangyin Wu, Qin Li, Qingpei Xia, Yong Tan_
+
 ##### • SemiHand: Semi-supervised Hand Pose Estimation with Consistency. \[PDF\]
 _Linlin Yang, Shicheng Chen, Angela Yao_
 
