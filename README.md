@@ -57,9 +57,6 @@ _Christian Zimmermann, Max Argus, Thomas Brox_
 ##### • [\[arXiv:2104.14639\]](https://arxiv.org/abs/2104.14639) HandsFormer: Keypoint Transformer for Monocular 3D Pose Estimation ofHands and Object in Interaction. [\[PDF\]](https://arxiv.org/pdf/2104.14639)
 _Shreyas Hampali, Sayan Deb Sarkar, Mahdi Rad, Vincent Lepetit_
 
-##### • [\[arXiv:2104.11181\]](https://arxiv.org/abs/2104.11181) H2O: Two Hands Manipulating Objects for First Person Interaction Recognition. [\[PDF\]](https://arxiv.org/pdf/2104.11181)
-_Taein Kwon, Bugra Tekin, Jan Stuhmer, Federica Bogo, Marc Pollefeys_
-
 ##### • [\[arXiv:2102.09244\]](https://arxiv.org/abs/2102.09244) HandTailor: Towards High-Precision Monocular 3D Hand Recovery. [\[PDF\]](https://arxiv.org/pdf/2102.09244) [\[Code\]](https://github.com/LyuJ1998/HandTailor)
 _Jun Lv, Wenqiang Xu, Lixin Yang, Sucheng Qian, Chongzhao Mao, Cewu Lu_
 
@@ -247,6 +244,9 @@ _Guijin Wang, Xinghao Chen\*, Hengkai Guo\*, Cairong Zhang_
 ## Conference Papers
 
 ### 2021 ICCV
+
+##### • H2O: Two Hands Manipulating Objects for First Person Interaction Recognition. [\[PDF\]](https://arxiv.org/pdf/2104.11181)  [\[Project\]](https://www.taeinkwon.com/projects/h2o)  [\[Code\]](https://github.com/taeinkwon/h2odataset)
+_Taein Kwon, Bugra Tekin, Jan Stuhmer, Federica Bogo, Marc Pollefeys_
 
 ##### • I2UV-HandNet: Image-to-UV Prediction Network for Accurate and High-fidelity 3D Hand Mesh Modeling. [\[PDF\]](https://arxiv.org/pdf/2102.03725) 
 _Ping Chen, Yujin Chen, Dong Yang, Fangyin Wu, Qin Li, Qingpei Xia, Yong Tan_
