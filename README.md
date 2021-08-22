@@ -269,9 +269,11 @@ _Zhang Xiong, Huang Hongsheng, Tan Jianchao, Xu Hongmin, Yang Cheng, Peng Guozhu
 ##### • CPF: Learning a Contact Potential Field to Model the Hand-object Interaction. [\[PDF\]](https://arxiv.org/pdf/2012.00924.pdf)  [\[Code\]](https://github.com/lixiny/CPF)
 _Lixin Yang, Xinyu Zhan, Kailin Li, Wenqiang Xu, Jiefeng Li, Cewu Lu_
 
-##### • TravelNet: Self-supervised Physically Plausible Hand Motion Learning from Monocular Color Images. \[PDF\]
+##### • TravelNet: Self-supervised Physically Plausible Hand Motion Learning from Monocular Color Images.  [\[PDF\]](https://www.yangangwang.com/papers/ZHAO-TRAVEL-2021-08.pdf)
+_Zimeng Zhao, Xi Zhao and Yangang Wang_
 
-##### • Interacting Two-Hand 3D Pose and Shape Reconstruction from Single Color Image. \[PDF\]
+##### • Interacting Two-Hand 3D Pose and Shape Reconstruction from Single Color Image.  [\[PDF\]](https://www.yangangwang.com/papers/ZHANG-ITH-2021-08.pdf) [\[Project\]](https://baowenz.github.io/Intershape/) [\[Code\]](https://github.com/BaowenZ/Intershape)
+_Baowen Zhang, Yangang Wang, Xiaoming Deng, Yinda Zhang, Ping Tan, Cuixia Ma and Hongan Wang_
 
 [\[back to top\]](#contents)
 
