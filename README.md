@@ -33,8 +33,8 @@ See folder [``evaluation``](./evaluation) to get more details about performance 
 
 ## arXiv Papers
 
-##### • [\[arXiv:2006.10214\]](https://arxiv.org/pdf/2006.10214.pdf) MediaPipe Hands: On-device Real-time Hand Tracking. [\[PDF\]](https://arxiv.org/pdf/2006.10214.pdf)
-_Fan Zhang, Valentin Bazarevsky, Andrey Vakunov, Andrei Tkachenka, George Sung, Chuo-Ling Chang, Matthias Grundmann_
+##### • [\[arXiv:2108.07044\]](https://arxiv.org/abs/2108.07044) Towards unconstrained joint hand-object reconstruction from RGB videos. [\[PDF\]](https://arxiv.org/pdf/2108.07044) [\[Project\]](https://hassony2.github.io/homan.html)  [\[Code\]](https://github.com/hassony2/homan)
+_Yana Hasson, Gül Varol, Ivan Laptev, Cordelia Schmid_
 
 ##### • [\[arXiv:2107.01205\]](https://arxiv.org/abs/2107.01205) HandVoxNet++: 3D Hand Shape and Pose Estimation using Voxel-Based Neural Networks. [\[PDF\]](https://arxiv.org/abs/2107.01205)
 _Jameel Malik, Soshi Shimada, Ahmed Elhayek, Sk Aziz Ali, Christian Theobalt, Vladislav Golyanik, Didier Stricker_
@@ -65,12 +65,6 @@ _Shan An, Xiajie Zhang, Dong Wei, Haogang Zhu, Jianyu Yang, Konstantinos A. Tsin
 
 ##### • [\[arXiv:2012.11260\]](https://arxiv.org/abs/2012.11260) Unsupervised Domain Adaptation with Temporal-Consistent Self-Training for 3D Hand-Object Joint Reconstruction. [\[PDF\]](https://arxiv.org/pdf/2012.11260.pdf)
 _Mengshi Qi, Edoardo Remelli, Mathieu Salzmann, Pascal Fua_
-
-##### • [\[arXiv:2012.06475\]](https://arxiv.org/abs/2012.06475) EventHands: Real-Time Neural 3D Hand Reconstruction from an Event Stream. [\[PDF\]](https://arxiv.org/pdf/2012.06475.pdf)  [\[Project\]](https://gvv.mpi-inf.mpg.de/projects/EventHands/)
-_Viktor Rudnev, Vladislav Golyanik, Jiayi Wang, Hans-Peter Seidel, Franziska Mueller, Mohamed Elgharib, Christian Theobalt_
-
-##### • [\[arXiv:2012.09856\]](https://arxiv.org/abs/2012.09856) Reconstructing Hand-Object Interactions in the Wild. [\[PDF\]](https://arxiv.org/pdf/2012.09856.pdf)  [\[Project\]](https://people.eecs.berkeley.edu/~zhecao/rhoi/)
-_Zhe Cao, Ilija Radosavovic, Angjoo Kanazawa, Jitendra Malik_
 
 ##### • [\[arXiv:2008.08324\]](https://arxiv.org/abs/2008.08324) FrankMocap: Fast Monocular 3D Hand and Body Motion Capture by Regression and Integration. [\[PDF\]](https://arxiv.org/pdf/2008.08324.pdf)  [\[Project\]](https://penincillin.github.io/frank_mocap)
 _Yu Rong, Takaaki Shiratori, Hanbyul Joo_
@@ -245,6 +239,15 @@ _Guijin Wang, Xinghao Chen\*, Hengkai Guo\*, Cairong Zhang_
 
 ### 2021 ICCV
 
+##### • EventHands: Real-Time Neural 3D Hand Reconstruction from an Event Stream. [\[PDF\]](https://arxiv.org/pdf/2012.06475.pdf)  [\[Project\]](https://gvv.mpi-inf.mpg.de/projects/EventHands/)
+_Viktor Rudnev, Vladislav Golyanik, Jiayi Wang, Hans-Peter Seidel, Franziska Mueller, Mohamed Elgharib, Christian Theobalt_
+
+##### • Reconstructing Hand-Object Interactions in the Wild. [\[PDF\]](https://arxiv.org/pdf/2012.09856.pdf)  [\[Project\]](https://people.eecs.berkeley.edu/~zhecao/rhoi/)
+_Zhe Cao*, Ilija Radosavovic*, Angjoo Kanazawa, Jitendra Malik_
+
+##### • HandFoldingNet: A 3D Hand Pose Estimation Network Using Multiscale-Feature Guided Folding of a 2D Hand Skeleton. [\[PDF\]](https://arxiv.org/pdf/2108.05545) [\[Code\]](https://github.com/cwc1260/HandFold)
+_Wencan Cheng, Jae Hyun Park, Jong Hwan Ko_
+
 ##### • H2O: Two Hands Manipulating Objects for First Person Interaction Recognition. [\[PDF\]](https://arxiv.org/pdf/2104.11181)  [\[Project\]](https://www.taeinkwon.com/projects/h2o)  [\[Code\]](https://github.com/taeinkwon/h2odataset)
 _Taein Kwon, Bugra Tekin, Jan Stuhmer, Federica Bogo, Marc Pollefeys_
 
@@ -418,6 +421,9 @@ _Shreyas Hampali, Mahdi Rad, Markus Oberweger, Vincent Lepetit_
 [\[back to top\]](#contents)
 
 ### 2020 Others
+
+##### • [2020 CVPRW] MediaPipe Hands: On-device Real-time Hand Tracking. [\[PDF\]](https://arxiv.org/pdf/2006.10214.pdf)
+_Fan Zhang, Valentin Bazarevsky, Andrey Vakunov, Andrei Tkachenka, George Sung, Chuo-Ling Chang, Matthias Grundmann_
 
 ##### • [2020 ISMAR] 3D Hand Pose Estimation with a Single Infrared Camera via Domain Transfer Learning. [\[PDF\]](https://drive.google.com/file/d/1rBmsblA2YY4qDUxY4GRgrLQ0EyA3wbFs/view)
 _Gabyong Park, Tae-Kyun Kim, Woontack Woo_
