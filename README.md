@@ -325,6 +325,10 @@ _Liangjian Chen, Shih-Yao Lin, Yusheng Xie, Yen-Yu Lin, Xiaohui Xie_
 ##### • [2021 PETRA] Weakly-supervised hand part segmentation from depth images. [\[PDF\]](https://dl.acm.org/doi/10.1145/3453892.3453902)
 _Mohammad Rezaei, Farnaz Farahanipad, Alex Dillhoff, Ramez Elmasri, Vassilis Athitsos_
 
+##### • [2021 PETRA] A Pipeline for Hand 2-D Keypoint Localization Using Unpaired Image to Image Translation. [\[PDF\]](https://dl.acm.org/doi/10.1145/3453892.3453904)
+_Farnaz Farahanipad, Mohammad Rezaei, Alex Dillhoff, Farhad Kamangar, Vassilis Athitsos_
+
+
 [\[back to top\]](#contents)
 
 ### 2020 ECCV
