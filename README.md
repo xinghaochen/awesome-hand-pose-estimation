@@ -33,6 +33,9 @@ See folder [``evaluation``](./evaluation) to get more details about performance 
 
 ## arXiv Papers
 
+##### • [\[arXiv:2108.13995\]](https://arxiv.org/abs/2108.13995) Realistic Hands: A Hybrid Model for 3D Hand Reconstruction. [\[PDF\]](https://arxiv.org/pdf/2108.13995) [\[Project\]](https://hassony2.github.io/homan.html)
+_Michael Seeber, Martin R. Oswald, Roi Poranne_
+
 ##### • [\[arXiv:2108.07044\]](https://arxiv.org/abs/2108.07044) Towards unconstrained joint hand-object reconstruction from RGB videos. [\[PDF\]](https://arxiv.org/pdf/2108.07044) [\[Project\]](https://hassony2.github.io/homan.html)  [\[Code\]](https://github.com/hassony2/homan)
 _Yana Hasson, Gül Varol, Ivan Laptev, Cordelia Schmid_
 
@@ -239,6 +242,9 @@ _Guijin Wang, Xinghao Chen\*, Hengkai Guo\*, Cairong Zhang_
 
 ### 2021 ICCV
 
+##### • Towards Accurate Alignment in Real-time 3D Hand-Mesh Reconstruction. [\[PDF\]](https://arxiv.org/pdf/2109.01723.pdf)  [\[Code\]](https://github.com/wbstx/handAR)
+_Xiao Tang, Tianyu Wang, Chi-Wing Fu_
+
 ##### • EventHands: Real-Time Neural 3D Hand Reconstruction from an Event Stream. [\[PDF\]](https://arxiv.org/pdf/2012.06475.pdf)  [\[Project\]](https://gvv.mpi-inf.mpg.de/projects/EventHands/)
 _Viktor Rudnev, Vladislav Golyanik, Jiayi Wang, Hans-Peter Seidel, Franziska Mueller, Mohamed Elgharib, Christian Theobalt_
 
@@ -254,7 +260,7 @@ _Taein Kwon, Bugra Tekin, Jan Stuhmer, Federica Bogo, Marc Pollefeys_
 ##### • I2UV-HandNet: Image-to-UV Prediction Network for Accurate and High-fidelity 3D Hand Mesh Modeling. [\[PDF\]](https://arxiv.org/pdf/2102.03725) 
 _Ping Chen, Yujin Chen, Dong Yang, Fangyin Wu, Qin Li, Qingpei Xia, Yong Tan_
 
-##### • SemiHand: Semi-supervised Hand Pose Estimation with Consistency. \[PDF\]
+##### • SemiHand: Semi-supervised Hand Pose Estimation with Consistency. [\[PDF\]](https://www.mu4yang.com/files/project/semihand/semihand.pdf)
 _Linlin Yang, Shicheng Chen, Angela Yao_
 
 ##### • End-to-End Detection and Pose Estimation of Two Interacting Hands. \[PDF\]
@@ -304,13 +310,19 @@ _Shaowei Liu*, Hanwen Jiang*, Jiarui Xu, Sifei Liu, Xiaolong Wang_
 
 ### 2021 Others
 
+##### • [2021 SIGGRAPH] ManipNet: Neural Manipulation Synthesis with a Hand-Object Spatial Representation. [\[PDF\]](http://www.ipab.inf.ed.ac.uk/cgvu/zhang2021.pdf)  [\[Code\]](https://github.com/cghezhang/ManipNet)
+_He Zhang, Yuting Ye, Takaaki Shiratori, Taku Komura_
+
 ##### • [2021 SIGGRAPH] Single Depth View-Based Real-time Reconstruction of Hand-object Interactions. [\[PDF\]](http://xufeng.site/publications/2021/Single%20Depth%20View%20Based%20Real-time%20Reconstruction%20of%20Hand-objectInteractions.pdf)
 _Hao Zhang, Yuxiao Zhou, Yifei Tian, Jun-Hai Yong, Feng Xu_
 
-##### • [2021 AAAI] Exploiting Learnable Joint Groups for Hand Pose Estimation. [\[PDF\]](https://arxiv.org/abs/2012.09496)  [\[Code\]](https://github.com/moranli-aca/LearnableGroups-Hand)
+##### • [2021 IROS] Dynamic Modeling of Hand-Object Interactions via Tactile Sensing. [\[PDF\]](https://arxiv.org/pdf/2109.04378)  [\[Project\]](http://phystouch.csail.mit.edu/)
+_Qiang Zhang, Yunzhu Li, Yiyue Luo, Wan Shou, Michael Foshey, Junchi Yan, Joshua B. Tenenbaum, Wojciech Matusik, Antonio Torralba_
+
+##### • [2021 AAAI] Exploiting Learnable Joint Groups for Hand Pose Estimation. [\[PDF\]](https://arxiv.org/pdf/2012.09496)  [\[Code\]](https://github.com/moranli-aca/LearnableGroups-Hand)
 _Moran Li, Yuan Gao, Nong Sang_
 
-##### • [2021 WACV] Active Learning for Bayesian 3D Hand Pose Estimation. [\[PDF\]](https://arxiv.org/abs/2010.00694)  [\[Code\]](https://github.com/razvancaramalau/al_bhpe)
+##### • [2021 WACV] Active Learning for Bayesian 3D Hand Pose Estimation. [\[PDF\]](https://arxiv.org/pdf/2010.00694)  [\[Code\]](https://github.com/razvancaramalau/al_bhpe)
 _Razvan Caramalau, Binod Bhattarai, Tae-Kyun Kim_
 
 ##### • [2021 WACV] Two-hand Global 3D Pose Estimation Using Monocular RGB. [\[PDF\]](https://arxiv.org/pdf/2006.01320.pdf)  [\[Code\]](https://github.com/AlextheEngineer/Ego3DHands)
