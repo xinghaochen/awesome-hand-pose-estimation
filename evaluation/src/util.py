@@ -8,7 +8,7 @@ import numpy as np
 def get_positions(in_file):
     with open(in_file) as f:
         positions = [list(map(float, line.strip().split())) for line in f]
-    return np.reshape(np.array(positions), (-1, len(positions[0]) / 3, 3))
+    return np.reshape(np.array(positions), (-1, int(len(positions[0]) / 3), 3))
 
 
 def check_dataset(dataset):
