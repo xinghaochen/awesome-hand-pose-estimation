@@ -31,7 +31,7 @@ def draw_error_bar(dataset, errs, eval_names, fig):
         names = ['Palm', 'Thumb.R', 'Thumb.M', 'Thumb.T', 'Index.R', 'Index.M', 'Index.T', 'Mid.R', 'Mid.M', 'Mid.T', 'Ring.R', 'Ring.M', 'Ring.T', 'Pinky.R', 'Pinky.M', 'Pinky.T', 'Mean']
         max_range = 25
     elif dataset == 'nyu':
-        joint_idx = range(13, -1, -1)+[14]
+        joint_idx = list(range(14,-1,-1))#range(13, -1, -1)+[14]
         names = ['Palm', 'Wrist1', 'Wrist2', 'Thumb.R1', 'Thumb.R2', 'Thumb.T', 'Index.R', 'Index.T', 'Mid.R', 'Mid.T', 'Ring.R', 'Ring.T', 'Pinky.R', 'Pinky.T', 'Mean']
         max_range = 30
     elif dataset == 'msra':
@@ -50,7 +50,7 @@ def draw_error_bar(dataset, errs, eval_names, fig):
     cNorm  = colors.Normalize(vmin=0, vmax=values[-1])
     scalarMap = cm.ScalarMappable(norm=cNorm, cmap=jet)
     
-    for eval_idx in xrange(eval_num):
+    for eval_idx in range(eval_num):
         x = np.arange(eval_idx, bar_range*len(joint_idx), bar_range)
         mean_errs = np.mean(errs[eval_idx], axis=0)
         mean_errs = np.append(mean_errs, np.mean(mean_errs))
@@ -96,7 +96,7 @@ def draw_error_curve(errs, eval_names, metric_type, fig):
     scalarMap = cm.ScalarMappable(norm=cNorm, cmap=jet)
     
     l_styles = ['-','--']
-    for eval_idx in xrange(eval_num):
+    for eval_idx in range(eval_num):
         if metric_type == 'mean-frame':
             err = np.mean(errs[eval_idx], axis=1)
         elif  metric_type == 'max-frame':
@@ -157,7 +157,7 @@ def draw_viewpoint_error_curve(dataset, errs, eval_names, viewpoint, yp_idx, fig
     ylabel = 'Mean error distance (mm)'
 
     l_styles = ['-','--']
-    for eval_idx in xrange(eval_num):
+    for eval_idx in range(eval_num):
         # calculate error for each frame
         err = np.mean(errs[eval_idx], axis=1)
         if yp_idx == 0:
@@ -165,7 +165,7 @@ def draw_viewpoint_error_curve(dataset, errs, eval_names, viewpoint, yp_idx, fig
         else:
             x = np.arange(-10, 91, 2)   # pitch
         x_error = np.zeros_like(x, dtype=np.float32)
-        for idx in xrange(len(x)):
+        for idx in range(len(x)):
             x_idx = np.round(viewpoint[:,yp_idx]*0.5)*2 == x[idx]
             x_error[idx] = np.mean(err[x_idx])
             # print idx, np.mean(err[x_idx])
@@ -218,7 +218,7 @@ def main():
     eval_files = []
     eval_errs = []
 
-    for idx in xrange(3, len(sys.argv), 2):
+    for idx in range(3, len(sys.argv), 2):
         in_name = sys.argv[idx]
         in_file = sys.argv[idx+1]
         eval_names.append(in_name)
