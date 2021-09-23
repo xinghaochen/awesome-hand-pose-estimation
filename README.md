@@ -281,6 +281,10 @@ _Zimeng Zhao, Xi Zhao and Yangang Wang_
 ##### • Interacting Two-Hand 3D Pose and Shape Reconstruction from Single Color Image.  [\[PDF\]](https://www.yangangwang.com/papers/ZHANG-ITH-2021-08.pdf) [\[Project\]](https://baowenz.github.io/Intershape/) [\[Code\]](https://github.com/BaowenZ/Intershape)
 _Baowen Zhang, Yangang Wang, Xiaoming Deng, Yinda Zhang, Ping Tan, Cuixia Ma and Hongan Wang_
 
+
+##### • Removing the Bias of Integral Pose Regression. [\[PDF\]](https://www.mu4yang.com/files/papers/Removing%20the%20Bias%20of%20Integral%20Pose%20Regression.pdf)
+_Kerui Gu, Linlin Yang, Angela Yao_
+
 [\[back to top\]](#contents)
 
 ### 2021 CVPR
