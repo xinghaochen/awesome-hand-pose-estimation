@@ -33,8 +33,10 @@ See folder [``evaluation``](./evaluation) to get more details about performance 
 
 ## arXiv Papers
 
-##### • [\[arXiv:2109.05488\]](https://arxiv.org/abs/2109.05488) ArtiBoost: Boosting Articulated 3D Hand-Object Pose Estimation via Online Exploration and Synthesis [\[PDF\]](https://arxiv.org/pdf/2109.05488) [\[Code\]](https://github.com/MVIG-SJTU/ArtiBoost)
+##### • [\[arXiv:2109.11399\]](https://arxiv.org/abs/2109.11399) A Skeleton-Driven Neural Occupancy Representation for Articulated Hands. [\[PDF\]](https://arxiv.org/pdf/2109.11399)
+_Korrawe Karunratanakul, Adrian Spurr, Zicong Fan, Otmar Hilliges, Siyu Tang_
 
+##### • [\[arXiv:2109.05488\]](https://arxiv.org/abs/2109.05488) ArtiBoost: Boosting Articulated 3D Hand-Object Pose Estimation via Online Exploration and Synthesis [\[PDF\]](https://arxiv.org/pdf/2109.05488) [\[Code\]](https://github.com/MVIG-SJTU/ArtiBoost)
 _Kailin Li, Lixin Yang, Xinyu Zhan, Jun Lv, Wenqiang Xu, Jiefeng Li, Cewu Lu_
 
 ##### • [\[arXiv:2108.13995\]](https://arxiv.org/abs/2108.13995) Realistic Hands: A Hybrid Model for 3D Hand Reconstruction. [\[PDF\]](https://arxiv.org/pdf/2108.13995) [\[Project\]](https://hassony2.github.io/homan.html)
@@ -54,9 +56,6 @@ _Zicong Fan, Adrian Spurr, Muhammed Kocabas, Siyu Tang, Michael J. Black, Otmar 
 
 ##### • [\[arXiv:2106.05954\]](https://arxiv.org/abs/2106.05954) Adversarial Motion Modelling helps Semi-supervised Hand Pose Estimation. [\[PDF\]](https://arxiv.org/pdf/2106.05954)
 _Adrian Spurr, Pavlo Molchanov, Umar Iqbal, Jan Kautz, Otmar Hilliges_
-
-##### • [\[arXiv:2106.05953\]](https://arxiv.org/abs/2106.05953) Self-Supervised 3D Hand Pose Estimation from monocular RGB via Contrastive Learning. [\[PDF\]](https://arxiv.org/pdf/2106.05953)
-_Adrian Spurr, Aneesh Dahiya, Xucong Zhang, Xi Wang, Otmar Hilliges_
 
 ##### • [\[arXiv:2106.04324\]](https://arxiv.org/abs/2106.04324) Contrastive Representation Learning for Hand Shape Estimation. [\[PDF\]](https://arxiv.org/pdf/2106.04324)  [\[Project\]](https://lmb.informatik.uni-freiburg.de/projects/contra-hand/)  [\[Code\]](https://github.com/lmb-freiburg/contra-hand)  [\[Data\]](https://lmb.informatik.uni-freiburg.de/resources/datasets/HanCo.en.html)
 _Christian Zimmermann, Max Argus, Thomas Brox_
@@ -245,6 +244,15 @@ _Guijin Wang, Xinghao Chen\*, Hengkai Guo\*, Cairong Zhang_
 ## Conference Papers
 
 ### 2021 ICCV
+
+##### • Toward Human-Like Grasp: Dexterous Grasping via Semantic Representation of Object-Hand. \[PDF\]
+_Tianqiang Zhu, Rina Wu, Xiangbo Lin, Yi Sun_
+
+##### • Self-Supervised Transfer Learning for Hand Mesh Recovery From Binocular Images. \[PDF\]
+_Zheng Chen, Sihan Wang, Yi Sun, Xiaohong Ma_
+
+##### • Self-Supervised 3D Hand Pose Estimation from monocular RGB via Contrastive Learning. [\[PDF\]](https://arxiv.org/pdf/2106.05953)
+_Adrian Spurr, Aneesh Dahiya, Xucong Zhang, Xi Wang, Otmar Hilliges_
 
 ##### • Towards Accurate Alignment in Real-time 3D Hand-Mesh Reconstruction. [\[PDF\]](https://arxiv.org/pdf/2109.01723.pdf)  [\[Code\]](https://github.com/wbstx/handAR)
 _Xiao Tang, Tianyu Wang, Chi-Wing Fu_
