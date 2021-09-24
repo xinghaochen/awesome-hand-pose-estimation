@@ -33,6 +33,10 @@ See folder [``evaluation``](./evaluation) to get more details about performance 
 
 ## arXiv Papers
 
+##### • [\[arXiv:2109.05488\]](https://arxiv.org/abs/2109.05488) ArtiBoost: Boosting Articulated 3D Hand-Object Pose Estimation via Online Exploration and Synthesis [\[PDF\]](https://arxiv.org/pdf/2109.05488) [\[Code\]](https://github.com/MVIG-SJTU/ArtiBoost)
+
+_Kailin Li, Lixin Yang, Xinyu Zhan, Jun Lv, Wenqiang Xu, Jiefeng Li, Cewu Lu_
+
 ##### • [\[arXiv:2108.13995\]](https://arxiv.org/abs/2108.13995) Realistic Hands: A Hybrid Model for 3D Hand Reconstruction. [\[PDF\]](https://arxiv.org/pdf/2108.13995) [\[Project\]](https://hassony2.github.io/homan.html)
 _Michael Seeber, Martin R. Oswald, Roi Poranne_
 
