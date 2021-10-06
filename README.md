@@ -33,6 +33,15 @@ See folder [``evaluation``](./evaluation) to get more details about performance 
 
 ## arXiv Papers
 
+##### • [\[arXiv:2109.14744\]](https://arxiv.org/abs/2109.14744) The Object at Hand: Automated Editing for Mixed Reality Video Guidance from Hand-Object Interactions. [\[PDF\]](https://arxiv.org/pdf/2109.14744)
+_Yao Lu, Walterio W. Mayol-Cuevas_
+
+##### • [\[arXiv:2109.14657\]](https://arxiv.org/abs/2109.14657) Understanding Egocentric Hand-Object Interactions from Hand Pose Estimation. [\[PDF\]](https://arxiv.org/pdf/2109.14657)
+_Yao Lu, Walterio W. Mayol-Cuevas_
+
+##### • [\[arXiv:2109.11747\]](https://arxiv.org/abs/2109.11747) A Multi-View Video-Based 3D Hand Pose Estimation. [\[PDF\]](https://arxiv.org/pdf/2109.11747)
+_Leyla Khaleghi, Alireza Sepas Moghaddam, Joshua Marshall, Ali Etemad_
+
 ##### • [\[arXiv:2109.11399\]](https://arxiv.org/abs/2109.11399) A Skeleton-Driven Neural Occupancy Representation for Articulated Hands. [\[PDF\]](https://arxiv.org/pdf/2109.11399)
 _Korrawe Karunratanakul, Adrian Spurr, Zicong Fan, Otmar Hilliges, Siyu Tang_
 
