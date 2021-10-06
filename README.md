@@ -278,7 +278,7 @@ _Wencan Cheng, Jae Hyun Park, Jong Hwan Ko_
 ##### • H2O: Two Hands Manipulating Objects for First Person Interaction Recognition. [\[PDF\]](https://arxiv.org/pdf/2104.11181)  [\[Project\]](https://www.taeinkwon.com/projects/h2o)  [\[Code\]](https://github.com/taeinkwon/h2odataset)
 _Taein Kwon, Bugra Tekin, Jan Stuhmer, Federica Bogo, Marc Pollefeys_
 
-##### • I2UV-HandNet: Image-to-UV Prediction Network for Accurate and High-fidelity 3D Hand Mesh Modeling. [\[PDF\]](https://arxiv.org/pdf/2102.03725) 
+##### • I2UV-HandNet: Image-to-UV Prediction Network for Accurate and High-fidelity 3D Hand Mesh Modeling. [\[PDF\]](https://arxiv.org/pdf/2102.03725)
 _Ping Chen, Yujin Chen, Dong Yang, Fangyin Wu, Qin Li, Qingpei Xia, Yong Tan_
 
 ##### • SemiHand: Semi-supervised Hand Pose Estimation with Consistency. [\[PDF\]](https://www.mu4yang.com/files/project/semihand/semihand.pdf)
@@ -313,13 +313,13 @@ _Kerui Gu, Linlin Yang, Angela Yao_
 ##### • Monocular Real-time Full Body Capture with Inter-part Correlations. [\[PDF\]](https://arxiv.org/pdf/2012.06087)
 _Yuxiao Zhou, Marc Habermann, Ikhsanul Habibie, Ayush Tewari, Christian Theobalt, Feng Xu_
 
-##### • End-to-End Human Pose and Mesh Reconstruction with Transformers. [\[PDF\]](https://arxiv.org/pdf/2012.09760.pdf) [\[Code\]](https://github.com/microsoft/MeshTransformer) 
+##### • End-to-End Human Pose and Mesh Reconstruction with Transformers. [\[PDF\]](https://arxiv.org/pdf/2012.09760.pdf) [\[Code\]](https://github.com/microsoft/MeshTransformer)
 _Kevin Lin, Lijuan Wang, Zicheng Liu_
 
-##### • DexYCB: A Benchmark for Capturing Hand Grasping of Objects. [\[PDF\]](https://arxiv.org/pdf/2104.04631.pdf) [\[Project\]](https://dex-ycb.github.io/) [\[Code\]](https://github.com/NVlabs/dex-ycb-toolkit) 
+##### • DexYCB: A Benchmark for Capturing Hand Grasping of Objects. [\[PDF\]](https://arxiv.org/pdf/2104.04631.pdf) [\[Project\]](https://dex-ycb.github.io/) [\[Code\]](https://github.com/NVlabs/dex-ycb-toolkit)
 _Yu-Wei Chao, Wei Yang, Yu Xiang, Pavlo Molchanov, Ankur Handa, Jonathan Tremblay, Yashraj S. Narang, Karl Van Wyk, Umar Iqbal, Stan Birchfield, Jan Kautz, Dieter Fox_
 
-##### • Body2Hands: Learning to Infer 3D Hands from Conversational Gesture Body Dynamics. [\[PDF\]](https://arxiv.org/pdf/2007.12287.pdf) [\[Project\]](http://people.eecs.berkeley.edu/~evonne_ng/projects/body2hands/) 
+##### • Body2Hands: Learning to Infer 3D Hands from Conversational Gesture Body Dynamics. [\[PDF\]](https://arxiv.org/pdf/2007.12287.pdf) [\[Project\]](http://people.eecs.berkeley.edu/~evonne_ng/projects/body2hands/)
 _Evonne Ng, Hanbyul Joo, Shiry Ginosar, Trevor Darrell_
 
 ##### • Camera-Space Hand Mesh Recovery via Semantic Aggregation and Adaptive 2D-1D Registration. [\[PDF\]](https://arxiv.org/pdf/2103.02845.pdf)
@@ -328,7 +328,7 @@ _Xingyu Chen, Yufeng Liu, Chongyang Ma, Jianlong Chang, Huayan Wang, Tian Chen, 
 ##### • Model-based 3D Hand Reconstruction via Self-Supervised Learning. [\[PDF\]](https://arxiv.org/pdf/2103.11703)
 _Yujin Chen, Zhigang Tu, Di Kang, Linchao Bao, Ying Zhang, Xuefei Zhe, Ruizhi Chen, Junsong Yuan_
 
-##### • Semi-Supervised 3D Hand-Object Poses Estimation with Interactions in Time. [\[PDF\]](https://arxiv.org/pdf/2106.05266.pdf) [\[Project\]](https://stevenlsw.github.io/Semi-Hand-Object/) [\[Code\]](https://github.com/stevenlsw/Semi-Hand-Object) 
+##### • Semi-Supervised 3D Hand-Object Poses Estimation with Interactions in Time. [\[PDF\]](https://arxiv.org/pdf/2106.05266.pdf) [\[Project\]](https://stevenlsw.github.io/Semi-Hand-Object/) [\[Code\]](https://github.com/stevenlsw/Semi-Hand-Object)
 _Shaowei Liu*, Hanwen Jiang*, Jiarui Xu, Sifei Liu, Xiaolong Wang_
 
 [\[back to top\]](#contents)
@@ -465,6 +465,9 @@ _Shreyas Hampali, Mahdi Rad, Markus Oberweger, Vincent Lepetit_
 
 ### 2020 Others
 
+##### • [2020 ICRA] Robust, Occlusion-aware Pose Estimation for Objects Grasped by Adaptive Hands . [\[PDF\]](https://arxiv.org/pdf/2003.03518.pdf) [\[Code\]](https://github.com/wenbowen123/icra20-hand-object-pose)
+_Bowen Wen, Chaitanya Mitash, Sruthi Soorian, Andrew Kimmel, Avishai Sintov, Kostas E. Bekris_
+
 ##### • [2020 CVPRW] MediaPipe Hands: On-device Real-time Hand Tracking. [\[PDF\]](https://arxiv.org/pdf/2006.10214.pdf)
 _Fan Zhang, Valentin Bazarevsky, Andrey Vakunov, Andrei Tkachenka, George Sung, Chuo-Ling Chang, Matthias Grundmann_
 
@@ -477,7 +480,7 @@ _Woojin Cho, Gabyong Park, Woontack Woo_
 ##### • [2020 3DV] Grasping Field: Learning Implicit Representations for Human Grasps. [\[PDF\]](https://arxiv.org/pdf/2008.04451.pdf) [\[Code\]](https://github.com/korrawe/grasping_field) *(Best Paper Award)*
 _Korrawe Karunratanakul, Jinlong Yang, Yan Zhang, Michael Black, Krikamol Muandet, Siyu Tang_
 
-##### • [2020 UIST] DeepFisheye: Near-Surface Multi-Finger Tracking Technology Using Fisheye Camera. [\[PDF\]](https://dl.acm.org/doi/abs/10.1145/3379337.3415818)  [\[Project\]](http://kwpark.io/deepfisheye) [\[Code\]](https://github.com/KAIST-HCIL/DeepFisheyeNet) 
+##### • [2020 UIST] DeepFisheye: Near-Surface Multi-Finger Tracking Technology Using Fisheye Camera. [\[PDF\]](https://dl.acm.org/doi/abs/10.1145/3379337.3415818)  [\[Project\]](http://kwpark.io/deepfisheye) [\[Code\]](https://github.com/KAIST-HCIL/DeepFisheyeNet)
 _Keunwoo Park, Sunbum Kim, Youngwoo Yoon, Tae-Kyun Kim, Geehyuk Lee_
 
 ##### • [2020 SIGGRAPH Asia] Constraining Dense Hand Surface Tracking With Elasticity. [\[PDF\]](https://research.fb.com/wp-content/uploads/2020/11/Constraining-Dense-Hand-Surface-Tracking-with-Elasticity.pdf)  [\[Project\]](https://research.fb.com/publications/constraining-dense-hand-surface-tracking-with-elasticity/)
