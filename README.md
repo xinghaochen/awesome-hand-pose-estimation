@@ -33,6 +33,9 @@ See folder [``evaluation``](./evaluation) to get more details about performance 
 
 ## arXiv Papers
 
+##### • [\[arXiv:2111.06500\]](https://arxiv.org/abs/2111.06500) Dynamic Iterative Refinement for Efficient 3D Hand Pose Estimation. [\[PDF\]](https://arxiv.org/pdf/2111.06500)
+_John Yang, Yash Bhalgat, Simyung Chang, Fatih Porikli, Nojun Kwak_
+
 ##### • [\[arXiv:2109.14744\]](https://arxiv.org/abs/2109.14744) The Object at Hand: Automated Editing for Mixed Reality Video Guidance from Hand-Object Interactions. [\[PDF\]](https://arxiv.org/pdf/2109.14744)
 _Yao Lu, Walterio W. Mayol-Cuevas_
 
@@ -54,9 +57,6 @@ _Michael Seeber, Martin R. Oswald, Roi Poranne_
 ##### • [\[arXiv:2108.07044\]](https://arxiv.org/abs/2108.07044) Towards unconstrained joint hand-object reconstruction from RGB videos. [\[PDF\]](https://arxiv.org/pdf/2108.07044) [\[Project\]](https://hassony2.github.io/homan.html)  [\[Code\]](https://github.com/hassony2/homan)
 _Yana Hasson, Gül Varol, Ivan Laptev, Cordelia Schmid_
 
-##### • [\[arXiv:2107.01205\]](https://arxiv.org/abs/2107.01205) HandVoxNet++: 3D Hand Shape and Pose Estimation using Voxel-Based Neural Networks. [\[PDF\]](https://arxiv.org/abs/2107.01205)
-_Jameel Malik, Soshi Shimada, Ahmed Elhayek, Sk Aziz Ali, Christian Theobalt, Vladislav Golyanik, Didier Stricker_
-
 ##### • [\[arXiv:2107.00887\]](https://arxiv.org/abs/2107.00887) HO-3D_v3: Improving the Accuracy of Hand-Object Annotations of the HO-3D Dataset. [\[PDF\]](https://arxiv.org/abs/2107.00887)
 _Shreyas Hampali, Sayan Deb Sarkar, Vincent Lepetit_
 
@@ -71,9 +71,6 @@ _Christian Zimmermann, Max Argus, Thomas Brox_
 
 ##### • [\[arXiv:2104.14639\]](https://arxiv.org/abs/2104.14639) HandsFormer: Keypoint Transformer for Monocular 3D Pose Estimation ofHands and Object in Interaction. [\[PDF\]](https://arxiv.org/pdf/2104.14639)
 _Shreyas Hampali, Sayan Deb Sarkar, Mahdi Rad, Vincent Lepetit_
-
-##### • [\[arXiv:2102.09244\]](https://arxiv.org/abs/2102.09244) HandTailor: Towards High-Precision Monocular 3D Hand Recovery. [\[PDF\]](https://arxiv.org/pdf/2102.09244) [\[Code\]](https://github.com/LyuJ1998/HandTailor)
-_Jun Lv, Wenqiang Xu, Lixin Yang, Sucheng Qian, Chongzhao Mao, Cewu Lu_
 
 ##### • [\[arXiv:2102.07067\]](https://arxiv.org/abs/2102.07067) FastHand: Fast Hand Pose Estimation From A Monocular Camera. [\[PDF\]](https://arxiv.org/pdf/2102.07067)
 _Shan An, Xiajie Zhang, Dong Wei, Haogang Zhu, Jianyu Yang, Konstantinos A. Tsintotas_
@@ -122,6 +119,9 @@ _Xiaoming Deng\*, Shuo Yang\*, Yinda Zhang\*, Ping Tan, Liang Chang, Hongan Wang
 ## Journal Papers
 
 ### TPAMI / IJCV
+
+##### • \[2021 TPAMI\] HandVoxNet++: 3D Hand Shape and Pose Estimation using Voxel-Based Neural Networks. [\[PDF\]](https://arxiv.org/abs/2107.01205)
+_Jameel Malik, Soshi Shimada, Ahmed Elhayek, Sk Aziz Ali, Christian Theobalt, Vladislav Golyanik, Didier Stricker_
 
 ##### • \[2020 TPAMI\] 3D Hand Pose Estimation Using Synthetic Data and Weakly Labeled RGB Images. [\[PDF\]](https://ieeexplore.ieee.org/document/9091090)
 _Yujun Cai, Liuhao Ge, Jianfei Cai, Nadia Magnenat-Thalmann, Junsong Yuan_
@@ -254,10 +254,10 @@ _Guijin Wang, Xinghao Chen\*, Hengkai Guo\*, Cairong Zhang_
 
 ### 2021 ICCV
 
-##### • Toward Human-Like Grasp: Dexterous Grasping via Semantic Representation of Object-Hand. \[PDF\]
+##### • Toward Human-Like Grasp: Dexterous Grasping via Semantic Representation of Object-Hand. [\[PDF\]](https://openaccess.thecvf.com/content/ICCV2021/papers/Zhu_Toward_Human-Like_Grasp_Dexterous_Grasping_via_Semantic_Representation_of_Object-Hand_ICCV_2021_paper.pdf)
 _Tianqiang Zhu, Rina Wu, Xiangbo Lin, Yi Sun_
 
-##### • Self-Supervised Transfer Learning for Hand Mesh Recovery From Binocular Images. \[PDF\]
+##### • Self-Supervised Transfer Learning for Hand Mesh Recovery From Binocular Images. [\[PDF\]](https://openaccess.thecvf.com/content/ICCV2021/papers/Chen_Self-Supervised_Transfer_Learning_for_Hand_Mesh_Recovery_From_Binocular_Images_ICCV_2021_paper.pdf)
 _Zheng Chen, Sihan Wang, Yi Sun, Xiaohong Ma_
 
 ##### • Self-Supervised 3D Hand Pose Estimation from monocular RGB via Contrastive Learning. [\[PDF\]](https://arxiv.org/pdf/2106.05953)
@@ -284,7 +284,7 @@ _Ping Chen, Yujin Chen, Dong Yang, Fangyin Wu, Qin Li, Qingpei Xia, Yong Tan_
 ##### • SemiHand: Semi-supervised Hand Pose Estimation with Consistency. [\[PDF\]](https://www.mu4yang.com/files/project/semihand/semihand.pdf)
 _Linlin Yang, Shicheng Chen, Angela Yao_
 
-##### • End-to-End Detection and Pose Estimation of Two Interacting Hands. \[PDF\]
+##### • End-to-End Detection and Pose Estimation of Two Interacting Hands. [\[PDF\]](https://openaccess.thecvf.com/content/ICCV2021/papers/Kim_End-to-End_Detection_and_Pose_Estimation_of_Two_Interacting_Hands_ICCV_2021_paper.pdf)
 _Donguk Kim, Kwang In Kim, Seungryul Baek_
 
 ##### • Hand-Object Contact Consistency Reasoning for Human Grasps Generation. [\[PDF\]](https://arxiv.org/pdf/2104.03304) [\[Project\]](https://hwjiang1510.github.io/GraspTTA/) *(Oral)*
@@ -334,6 +334,18 @@ _Shaowei Liu*, Hanwen Jiang*, Jiarui Xu, Sifei Liu, Xiaolong Wang_
 [\[back to top\]](#contents)
 
 ### 2021 Others
+
+##### • [2021 BMVC] Joint-Aware Regression: Rethinking Regression-Based Method for 3D Hand Pose Estimation. \[PDF\]
+_Xiaozheng Zheng, Pengfei Ren, Haifeng Sun, Jingyu Wang, Qi Qi and Jianxin Liao_
+
+##### • [2021 BMVC] Local and Global Point Cloud Reconstruction for 3D Hand Pose Estimation. \[PDF\]
+_Ziwei Yu, Linlin Yang, Shicheng Chen and Angela Yao_
+
+##### • [2021 BMVC] HandTailor: Towards High-Precision Monocular 3D Hand Recovery. [\[PDF\]](https://arxiv.org/pdf/2102.09244) [\[Code\]](https://github.com/LyuJ1998/HandTailor)
+_Jun Lv, Wenqiang Xu, Lixin Yang, Sucheng Qian, Chongzhao Mao, Cewu Lu_
+
+##### • [2021 BMVC] Multi-view Image-based Hand Geometry Refinement using Differentiable Monte Carlo Ray Tracing. [\[PDF\]](https://arxiv.org/pdf/2107.05509)
+_Giorgos Karvounas, Nikolaos Kyriazis, Iason Oikonomidis, Aggeliki Tsoli, Antonis A. Argyros_
 
 ##### • [2021 SIGGRAPH] ManipNet: Neural Manipulation Synthesis with a Hand-Object Spatial Representation. [\[PDF\]](http://www.ipab.inf.ed.ac.uk/cgvu/zhang2021.pdf)  [\[Code\]](https://github.com/cghezhang/ManipNet)
 _He Zhang, Yuting Ye, Takaaki Shiratori, Taku Komura_
