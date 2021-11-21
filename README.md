@@ -299,7 +299,7 @@ _Lixin Yang, Xinyu Zhan, Kailin Li, Wenqiang Xu, Jiefeng Li, Cewu Lu_
 ##### • TravelNet: Self-supervised Physically Plausible Hand Motion Learning from Monocular Color Images.  [\[PDF\]](https://www.yangangwang.com/papers/ZHAO-TRAVEL-2021-08.pdf)
 _Zimeng Zhao, Xi Zhao and Yangang Wang_
 
-##### • Interacting Two-Hand 3D Pose and Shape Reconstruction from Single Color Image.  [\[PDF\]](https://www.yangangwang.com/papers/ZHANG-ITH-2021-08.pdf) [\[Project\]](https://baowenz.github.io/Intershape/) [\[Code\]](https://github.com/BaowenZ/Intershape)
+##### • Interacting Two-Hand 3D Pose and Shape Reconstruction from Single Color Image.  [\[PDF\]](https://openaccess.thecvf.com/content/ICCV2021/papers/Zhang_Interacting_Two-Hand_3D_Pose_and_Shape_Reconstruction_From_Single_Color_ICCV_2021_paper.pdf) [\[Project\]](https://baowenz.github.io/Intershape/) [\[Code\]](https://github.com/BaowenZ/Two-Hand-Shape-Pose)
 _Baowen Zhang, Yangang Wang, Xiaoming Deng, Yinda Zhang, Ping Tan, Cuixia Ma and Hongan Wang_
 
 
