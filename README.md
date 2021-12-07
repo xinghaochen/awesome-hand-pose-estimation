@@ -335,6 +335,9 @@ _Shaowei Liu*, Hanwen Jiang*, Jiarui Xu, Sifei Liu, Xiaolong Wang_
 
 ### 2021 Others
 
+##### • [2021 DICTA] Semi-Supervised 3D Hand Shape and Pose Estimation with Label Propagation. [\[PDF\]](https://arxiv.org/pdf/2111.15199)
+_Samira Kaviani, Amir Rahimi, Richard Hartley_
+
 ##### • [2021 BMVC] Joint-Aware Regression: Rethinking Regression-Based Method for 3D Hand Pose Estimation. \[PDF\]
 _Xiaozheng Zheng, Pengfei Ren, Haifeng Sun, Jingyu Wang, Qi Qi and Jianxin Liao_
 
