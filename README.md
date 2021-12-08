@@ -32,6 +32,8 @@ A curated list of related resources for hand pose estimation. Feel free to [cont
 See folder [``evaluation``](./evaluation) to get more details about performance evaluation for hand pose estimation.
 
 ## arXiv Papers
+##### • [\[arXiv:2112.02753\]](https://arxiv.org/abs/2112.02753) MobRecon: Mobile-Friendly Hand Mesh Reconstruction from Monocular Image.  [\[PDF\]](https://arxiv.org/pdf/2112.02753) [\[Code\]](https://github.com/SeanChenxy/HandMesh)
+_Xingyu Chen, Yufeng Liu, Yajiao Dong, Xiong Zhang, Chongyang Ma, Yanmin Xiong, Yuan Zhang, Xiaoyan Guo_
 
 ##### • [\[arXiv:2111.06500\]](https://arxiv.org/abs/2111.06500) Dynamic Iterative Refinement for Efficient 3D Hand Pose Estimation. [\[PDF\]](https://arxiv.org/pdf/2111.06500)
 _John Yang, Yash Bhalgat, Simyung Chang, Fatih Porikli, Nojun Kwak_
@@ -290,8 +292,8 @@ _Donguk Kim, Kwang In Kim, Seungryul Baek_
 ##### • Hand-Object Contact Consistency Reasoning for Human Grasps Generation. [\[PDF\]](https://arxiv.org/pdf/2104.03304) [\[Project\]](https://hwjiang1510.github.io/GraspTTA/) *(Oral)*
 _Hanwen Jiang, Shaowei Liu, Jiashun Wang, Xiaolong Wang_
 
-##### • Hand Image Understanding via Deep Multi-Task Learning. [\[PDF\]](https://arxiv.org/pdf/2107.11646)
-_Zhang Xiong, Huang Hongsheng, Tan Jianchao, Xu Hongmin, Yang Cheng, Peng Guozhu, Wang Lei, Liu Ji_
+##### • Hand Image Understanding via Deep Multi-Task Learning. [\[PDF\]](https://arxiv.org/pdf/2107.11646) [\[Code\]](https://github.com/MandyMo/HIU-DMTL)
+_Xiong Zhang, Hongsheng Huang, Jianchao Tan, Hongmin Xu, Cheng Yang, Guozhu Peng, Lei Wang, Ji Liu_
 
 ##### • CPF: Learning a Contact Potential Field to Model the Hand-object Interaction. [\[PDF\]](https://arxiv.org/pdf/2012.00924.pdf)  [\[Code\]](https://github.com/lixiny/CPF)
 _Lixin Yang, Xinyu Zhan, Kailin Li, Wenqiang Xu, Jiefeng Li, Cewu Lu_
@@ -1149,6 +1151,7 @@ _Ayan Sinha\*, Chiho Choi\*, Karthik Ramani_
 
 |Dataset|Year|S/R|Mesh|Obj|#J|V|#S|#F|Paper|
 |------|------|------|------|------|------|------|------|------|----------------|
+|[HIU-DMTL-Data](https://github.com/MandyMo/HIU-DMTL/) | 2021 | R | ❌ | ❌ | 21 | 3rd/ego | 200 | 40,000 | ICCV 2021 [\[PDF\]](https://openaccess.thecvf.com/content/ICCV2021/papers/Zhang_Hand_Image_Understanding_via_Deep_Multi-Task_Learning_ICCV_2021_paper.pdf)|
 |[InterHand2.6M](https://mks0601.github.io/InterHand2.6M/) | 2020 | R | ❌ | ❌ | 21 | 3rd | 27 | 2.6M | ECCV 2020 [\[PDF\]](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123650545.pdf)|
 |[YouTube 3D Hands](https://github.com/arielai/youtube_3d_hands) | 2020 | R | ✅ | ✅ | - | 3rd | - | 47,125/1525/1525 | CVPR 2020 [\[PDF\]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Kulon_Weakly-Supervised_Mesh-Convolutional_Hand_Reconstruction_in_the_Wild_CVPR_2020_paper.pdf)|
 |[OneHand10K](https://yangangwang.com/papers/WANG-MCC-2018-10.html) | 2019 | R | - |❌| 21 | 3rd | 1 | 10k/1.3k | TCSVT 2019 [\[PDF\]](https://yangangwang.com/papers/WANG-MCC-2018-10.pdf)|
