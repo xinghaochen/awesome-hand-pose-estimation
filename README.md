@@ -47,9 +47,6 @@ _Yao Lu, Walterio W. Mayol-Cuevas_
 ##### • [\[arXiv:2109.11747\]](https://arxiv.org/abs/2109.11747) A Multi-View Video-Based 3D Hand Pose Estimation. [\[PDF\]](https://arxiv.org/pdf/2109.11747)
 _Leyla Khaleghi, Alireza Sepas Moghaddam, Joshua Marshall, Ali Etemad_
 
-##### • [\[arXiv:2109.11399\]](https://arxiv.org/abs/2109.11399) A Skeleton-Driven Neural Occupancy Representation for Articulated Hands. [\[PDF\]](https://arxiv.org/pdf/2109.11399)
-_Korrawe Karunratanakul, Adrian Spurr, Zicong Fan, Otmar Hilliges, Siyu Tang_
-
 ##### • [\[arXiv:2109.05488\]](https://arxiv.org/abs/2109.05488) ArtiBoost: Boosting Articulated 3D Hand-Object Pose Estimation via Online Exploration and Synthesis [\[PDF\]](https://arxiv.org/pdf/2109.05488) [\[Code\]](https://github.com/MVIG-SJTU/ArtiBoost)
 _Kailin Li, Lixin Yang, Xinyu Zhan, Jun Lv, Wenqiang Xu, Jiefeng Li, Cewu Lu_
 
@@ -61,9 +58,6 @@ _Yana Hasson, Gül Varol, Ivan Laptev, Cordelia Schmid_
 
 ##### • [\[arXiv:2107.00887\]](https://arxiv.org/abs/2107.00887) HO-3D_v3: Improving the Accuracy of Hand-Object Annotations of the HO-3D Dataset. [\[PDF\]](https://arxiv.org/abs/2107.00887)
 _Shreyas Hampali, Sayan Deb Sarkar, Vincent Lepetit_
-
-##### • [\[arXiv:2107.00434\]](https://arxiv.org/abs/2107.00434) Learning to Disambiguate Strongly Interacting Hands via Probabilistic Per-pixel Part Segmentation. [\[PDF\]](https://arxiv.org/abs/2107.00434)
-_Zicong Fan, Adrian Spurr, Muhammed Kocabas, Siyu Tang, Michael J. Black, Otmar Hilliges_
 
 ##### • [\[arXiv:2106.05954\]](https://arxiv.org/abs/2106.05954) Adversarial Motion Modelling helps Semi-supervised Hand Pose Estimation. [\[PDF\]](https://arxiv.org/pdf/2106.05954)
 _Adrian Spurr, Pavlo Molchanov, Umar Iqbal, Jan Kautz, Otmar Hilliges_
@@ -336,6 +330,12 @@ _Shaowei Liu*, Hanwen Jiang*, Jiarui Xu, Sifei Liu, Xiaolong Wang_
 [\[back to top\]](#contents)
 
 ### 2021 Others
+
+##### • [2021 3DV] A Skeleton-Driven Neural Occupancy Representation for Articulated Hands. [\[PDF\]](https://arxiv.org/pdf/2109.11399) [\[Project\]](https://korrawe.github.io/HALO/HALO.html) [\[Code\]](https://github.com/korrawe/halo) *(Oral)*
+_Korrawe Karunratanakul, Adrian Spurr, Zicong Fan, Otmar Hilliges, Siyu Tang_
+
+##### • [2021 3DV] Learning to Disambiguate Strongly Interacting Hands via Probabilistic Per-pixel Part Segmentation. [\[PDF\]](https://arxiv.org/abs/2107.00434) [\[Project\]](https://zc-alexfan.github.io/digit) [\[Code\]](https://github.com/zc-alexfan/digit-interacting) *(Oral)*
+_Zicong Fan, Adrian Spurr, Muhammed Kocabas, Siyu Tang, Michael J. Black, Otmar Hilliges_
 
 ##### • [2021 DICTA] Semi-Supervised 3D Hand Shape and Pose Estimation with Label Propagation. [\[PDF\]](https://arxiv.org/pdf/2111.15199)
 _Samira Kaviani, Amir Rahimi, Richard Hartley_
