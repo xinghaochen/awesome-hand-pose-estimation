@@ -256,7 +256,7 @@ _Tianqiang Zhu, Rina Wu, Xiangbo Lin, Yi Sun_
 ##### • Self-Supervised Transfer Learning for Hand Mesh Recovery From Binocular Images. [\[PDF\]](https://openaccess.thecvf.com/content/ICCV2021/papers/Chen_Self-Supervised_Transfer_Learning_for_Hand_Mesh_Recovery_From_Binocular_Images_ICCV_2021_paper.pdf)
 _Zheng Chen, Sihan Wang, Yi Sun, Xiaohong Ma_
 
-##### • Self-Supervised 3D Hand Pose Estimation from monocular RGB via Contrastive Learning. [\[PDF\]](https://arxiv.org/pdf/2106.05953) (Oral)
+##### • PeCLR: Self-Supervised 3D Hand Pose Estimation from monocular RGB viaContrastive Learning. [\[PDF\]](https://arxiv.org/pdf/2106.05953) (Oral)
 _Adrian Spurr, Aneesh Dahiya, Xucong Zhang, Xi Wang, Otmar Hilliges_
 
 ##### • Towards Accurate Alignment in Real-time 3D Hand-Mesh Reconstruction. [\[PDF\]](https://arxiv.org/pdf/2109.01723.pdf)  [\[Code\]](https://github.com/wbstx/handAR)
