@@ -9,6 +9,7 @@ A curated list of related resources for hand pose estimation. Feel free to [cont
    - [TPAMI / IJCV](#tpami--ijcv)
    - [Others](#other-journals)
  - [Conference Papers](#conference-papers)
+   - 2022: [CVPR](#2022-cvpr), [ECCV](#2022-eccv), [Others](#2022-others)
    - 2021: [CVPR](#2021-cvpr), [ICCV](#2021-iccv), [Others](#2021-others)
    - 2020: [CVPR](#2020-cvpr), [ECCV](#2020-eccv), [Others](#2020-others)
    - 2019: [CVPR](#2019-cvpr), [ICCV](#2019-iccv), [Others](#2019-others)
@@ -32,6 +33,13 @@ A curated list of related resources for hand pose estimation. Feel free to [cont
 See folder [``evaluation``](./evaluation) to get more details about performance evaluation for hand pose estimation.
 
 ## arXiv Papers
+
+##### • [\[arXiv:2202.04533\]](https://arxiv.org/abs/2202.04533) NIMBLE: A Non-rigid Hand Model with Bones and Muscles.  [\[PDF\]](https://arxiv.org/pdf/2202.04533)
+_Yuwei Li, Longwen Zhang, Zesong Qiu, Yingwenqi Jiang, Yuyao Zhang, Nianyi Li, Yuexin Ma, Lan Xu, Jingyi Yu_
+
+##### • [\[arXiv:2201.09548\]](https://arxiv.org/abs/2201.09548) Consistent 3D Hand Reconstruction in Video via self-supervised Learning.  [\[PDF\]](https://arxiv.org/pdf/2201.09548)
+_Zhigang Tu, Zhisheng Huang, Yujin Chen, Di Kang, Linchao Bao, Bisheng Yang, Junsong Yuan_
+
 ##### • [\[arXiv:2112.02753\]](https://arxiv.org/abs/2112.02753) MobRecon: Mobile-Friendly Hand Mesh Reconstruction from Monocular Image.  [\[PDF\]](https://arxiv.org/pdf/2112.02753) [\[Code\]](https://github.com/SeanChenxy/HandMesh)
 _Xingyu Chen, Yufeng Liu, Yajiao Dong, Xiong Zhang, Chongyang Ma, Yanmin Xiong, Yuan Zhang, Xiaoyan Guo_
 
@@ -153,6 +161,9 @@ _Liuhao Ge, Hui Liang, Junsong Yuan and Daniel Thalmann_
 
 ### Other Journals
 
+##### • \[2022 TCSVT\] 3D Hand Pose Estimation from Monocular RGB with Feature Interaction Module. [\[PDF\]](https://ieeexplore.ieee.org/document/9680673/)
+_Shaoxiang Guo, Eric Rigall, Yakun Ju, Junyu Dong_
+
 ##### • \[2021 TIP\] Hand Pose Understanding with Large-Scale Photo-Realistic Rendering Dataset. [\[PDF\]](https://ieeexplore.ieee.org/document/9398571)
 _Xiaoming Deng, Yinda Zhang, Jian Shi, Yuying Zhu, Dachuan Cheng, Dexin Zuo, Zhaopeng Cui, Ping Tan, Liang Chang, Hongan Wang_
 
@@ -248,6 +259,11 @@ _Guijin Wang, Xinghao Chen\*, Hengkai Guo\*, Cairong Zhang_
 
 ## Conference Papers
 
+### 2022 Others
+
+##### • [2022 AAAI] Efficient Virtual View Selection for 3D Hand Pose Estimation. [\[PDF\]](https://me495.github.io/handpose-virtualview/resources/paper.pdf) [\[Project\]](https://me495.github.io/handpose-virtualview/) [\[Code\]](https://github.com/iscas3dv/handpose-virtualview) 
+_Jian Cheng, Yanguang Wan, Dexin Zuo, Cuixia Ma, Jian Gu, Ping Tan, Hongan Wang, Xiaoming Deng, Yinda Zhang_
+
 ### 2021 ICCV
 
 ##### • Toward Human-Like Grasp: Dexterous Grasping via Semantic Representation of Object-Hand. [\[PDF\]](https://openaccess.thecvf.com/content/ICCV2021/papers/Zhu_Toward_Human-Like_Grasp_Dexterous_Grasping_via_Semantic_Representation_of_Object-Hand_ICCV_2021_paper.pdf)
@@ -256,7 +272,7 @@ _Tianqiang Zhu, Rina Wu, Xiangbo Lin, Yi Sun_
 ##### • Self-Supervised Transfer Learning for Hand Mesh Recovery From Binocular Images. [\[PDF\]](https://openaccess.thecvf.com/content/ICCV2021/papers/Chen_Self-Supervised_Transfer_Learning_for_Hand_Mesh_Recovery_From_Binocular_Images_ICCV_2021_paper.pdf)
 _Zheng Chen, Sihan Wang, Yi Sun, Xiaohong Ma_
 
-##### • PeCLR: Self-Supervised 3D Hand Pose Estimation from monocular RGB viaContrastive Learning. [\[PDF\]](https://arxiv.org/pdf/2106.05953) (Oral)
+##### • PeCLR: Self-Supervised 3D Hand Pose Estimation from monocular RGB via Contrastive Learning. [\[PDF\]](https://arxiv.org/pdf/2106.05953) (Oral)
 _Adrian Spurr, Aneesh Dahiya, Xucong Zhang, Xi Wang, Otmar Hilliges_
 
 ##### • Towards Accurate Alignment in Real-time 3D Hand-Mesh Reconstruction. [\[PDF\]](https://arxiv.org/pdf/2109.01723.pdf)  [\[Code\]](https://github.com/wbstx/handAR)
@@ -343,7 +359,7 @@ _Samira Kaviani, Amir Rahimi, Richard Hartley_
 ##### • [2021 BMVC] Joint-Aware Regression: Rethinking Regression-Based Method for 3D Hand Pose Estimation. \[PDF\]
 _Xiaozheng Zheng, Pengfei Ren, Haifeng Sun, Jingyu Wang, Qi Qi and Jianxin Liao_
 
-##### • [2021 BMVC] Local and Global Point Cloud Reconstruction for 3D Hand Pose Estimation. \[PDF\]
+##### • [2021 BMVC] Local and Global Point Cloud Reconstruction for 3D Hand Pose Estimation. [\[PDF\]](https://arxiv.org/pdf/2112.06389.pdf) [\[Data\]](https://github.com/ShichengChen/multiviewDataset)
 _Ziwei Yu, Linlin Yang, Shicheng Chen and Angela Yao_
 
 ##### • [2021 BMVC] HandTailor: Towards High-Precision Monocular 3D Hand Recovery. [\[PDF\]](https://arxiv.org/pdf/2102.09244) [\[Code\]](https://github.com/LyuJ1998/HandTailor)
