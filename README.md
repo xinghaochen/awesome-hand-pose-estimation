@@ -55,9 +55,6 @@ _Yao Lu, Walterio W. Mayol-Cuevas_
 ##### • [\[arXiv:2109.11747\]](https://arxiv.org/abs/2109.11747) A Multi-View Video-Based 3D Hand Pose Estimation. [\[PDF\]](https://arxiv.org/pdf/2109.11747)
 _Leyla Khaleghi, Alireza Sepas Moghaddam, Joshua Marshall, Ali Etemad_
 
-##### • [\[arXiv:2109.05488\]](https://arxiv.org/abs/2109.05488) ArtiBoost: Boosting Articulated 3D Hand-Object Pose Estimation via Online Exploration and Synthesis [\[PDF\]](https://arxiv.org/pdf/2109.05488) [\[Code\]](https://github.com/MVIG-SJTU/ArtiBoost)
-_Kailin Li, Lixin Yang, Xinyu Zhan, Jun Lv, Wenqiang Xu, Jiefeng Li, Cewu Lu_
-
 ##### • [\[arXiv:2108.13995\]](https://arxiv.org/abs/2108.13995) Realistic Hands: A Hybrid Model for 3D Hand Reconstruction. [\[PDF\]](https://arxiv.org/pdf/2108.13995) [\[Project\]](https://hassony2.github.io/homan.html)
 _Michael Seeber, Martin R. Oswald, Roi Poranne_
 
@@ -263,6 +260,12 @@ _Guijin Wang, Xinghao Chen\*, Hengkai Guo\*, Cairong Zhang_
 ## Conference Papers
 
 ### 2022 CVPR
+
+##### • OakInk: A Large-scale Knowledge Repository for Understanding Hand-Object Interaction. \[PDF\]
+_Lixin Yang, Kailin Li Xinyu Zhan, Fei Wu, Anran Xu, Liu Liu, Cewu Lu_
+
+##### • ArtiBoost: Boosting Articulated 3D Hand-Object Pose Estimation via Online Exploration and Synthesis. [\[PDF\]](https://arxiv.org/pdf/2109.05488) [\[Code\]](https://github.com/MVIG-SJTU/ArtiBoost)
+_Kailin Li, Lixin Yang, Xinyu Zhan, Jun Lv, Wenqiang Xu, Jiefeng Li, Cewu Lu_
 
 ##### • Interacting Attention Graph for Single Image Two-Hand Reconstruction. \[PDF\]
 _Mengcheng Li，Liang An, Hongwen Zhang, Lianpeng Wu, Feng Chen, Tao Yu, Yebin Liu_
