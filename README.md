@@ -40,9 +40,6 @@ _Yuwei Li, Longwen Zhang, Zesong Qiu, Yingwenqi Jiang, Yuyao Zhang, Nianyi Li, Y
 ##### • [\[arXiv:2201.09548\]](https://arxiv.org/abs/2201.09548) Consistent 3D Hand Reconstruction in Video via self-supervised Learning.  [\[PDF\]](https://arxiv.org/pdf/2201.09548)
 _Zhigang Tu, Zhisheng Huang, Yujin Chen, Di Kang, Linchao Bao, Bisheng Yang, Junsong Yuan_
 
-##### • [\[arXiv:2112.02753\]](https://arxiv.org/abs/2112.02753) MobRecon: Mobile-Friendly Hand Mesh Reconstruction from Monocular Image.  [\[PDF\]](https://arxiv.org/pdf/2112.02753) [\[Code\]](https://github.com/SeanChenxy/HandMesh)
-_Xingyu Chen, Yufeng Liu, Yajiao Dong, Xiong Zhang, Chongyang Ma, Yanmin Xiong, Yuan Zhang, Xiaoyan Guo_
-
 ##### • [\[arXiv:2111.06500\]](https://arxiv.org/abs/2111.06500) Dynamic Iterative Refinement for Efficient 3D Hand Pose Estimation. [\[PDF\]](https://arxiv.org/pdf/2111.06500)
 _John Yang, Yash Bhalgat, Simyung Chang, Fatih Porikli, Nojun Kwak_
 
@@ -269,6 +266,9 @@ _Kailin Li, Lixin Yang, Xinyu Zhan, Jun Lv, Wenqiang Xu, Jiefeng Li, Cewu Lu_
 
 ##### • Interacting Attention Graph for Single Image Two-Hand Reconstruction. \[PDF\]
 _Mengcheng Li，Liang An, Hongwen Zhang, Lianpeng Wu, Feng Chen, Tao Yu, Yebin Liu_
+
+##### • MobRecon: Mobile-Friendly Hand Mesh Reconstruction from Monocular Image.  [\[PDF\]](https://arxiv.org/pdf/2112.02753) [\[Code\]](https://github.com/SeanChenxy/HandMesh)
+_Xingyu Chen, Yufeng Liu, Yajiao Dong, Xiong Zhang, Chongyang Ma, Yanmin Xiong, Yuan Zhang, Xiaoyan Guo_
 
 ### 2022 Others
 
