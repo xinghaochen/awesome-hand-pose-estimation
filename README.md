@@ -261,7 +261,7 @@ _Guijin Wang, Xinghao Chen\*, Hengkai Guo\*, Cairong Zhang_
 ##### • OakInk: A Large-scale Knowledge Repository for Understanding Hand-Object Interaction. \[PDF\]
 _Lixin Yang, Kailin Li Xinyu Zhan, Fei Wu, Anran Xu, Liu Liu, Cewu Lu_
 
-##### • ArtiBoost: Boosting Articulated 3D Hand-Object Pose Estimation via Online Exploration and Synthesis. [\[PDF\]](https://arxiv.org/abs/2204.01695) [\[Code\]](https://github.com/MVIG-SJTU/ArtiBoost)
+##### • ArtiBoost: Boosting Articulated 3D Hand-Object Pose Estimation via Online Exploration and Synthesis. [\[PDF\]](https://arxiv.org/pdf/2109.05488) [\[Code\]](https://github.com/MVIG-SJTU/ArtiBoost)
 _Kailin Li, Lixin Yang, Xinyu Zhan, Jun Lv, Wenqiang Xu, Jiefeng Li, Cewu Lu_
 
 ##### • Interacting Attention Graph for Single Image Two-Hand Reconstruction. \[PDF\]
@@ -270,7 +270,7 @@ _Mengcheng Li，Liang An, Hongwen Zhang, Lianpeng Wu, Feng Chen, Tao Yu, Yebin L
 ##### • MobRecon: Mobile-Friendly Hand Mesh Reconstruction from Monocular Image.  [\[PDF\]](https://arxiv.org/pdf/2112.02753) [\[Code\]](https://github.com/SeanChenxy/HandMesh)
 _Xingyu Chen, Yufeng Liu, Yajiao Dong, Xiong Zhang, Chongyang Ma, Yanmin Xiong, Yuan Zhang, Xiaoyan Guo_
 
-##### • LISA: Learning Implicit Shape and Appearance of Hands.  [\[PDF\]](https://arxiv.org/pdf/2112.02753) [\[Project\]](http://www.iri.upc.edu/people/ecorona/lisa/)
+##### • LISA: Learning Implicit Shape and Appearance of Hands.  [\[PDF\]](https://arxiv.org/pdf/2204.01695) [\[Project\]](http://www.iri.upc.edu/people/ecorona/lisa/)
 _Enric Corona, Tomas Hodan, Minh Vo, Francesc Moreno-Noguer, Chris Sweeney, Richard Newcombe, Lingni Ma_
 
 ### 2022 Others
