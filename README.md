@@ -258,13 +258,34 @@ _Guijin Wang, Xinghao Chen\*, Hengkai Guo\*, Cairong Zhang_
 
 ### 2022 CVPR
 
-##### • OakInk: A Large-scale Knowledge Repository for Understanding Hand-Object Interaction. \[PDF\]
+##### • Mining Multi-View Information: A Strong Self-Supervised Framework for Depth-based 3D Hand Pose and Mesh Estimation. \[PDF\]
+_Pengfei Ren, Haifeng Sun, Jiachang Hao, Jingyu Wang, Qi Qi,Jianxin Liao_
+
+##### • HandOccNet: Occlusion-Robust 3D Hand Mesh Estimation Network. [\[PDF\]](https://arxiv.org/pdf/2203.14564) [\[Code\]](https://github.com/namepllet/HandOccNet)
+_JoonKyu Park, Yeonguk Oh, Gyeongsik Moon, Hongsuk Choi, Kyoung Mu Lee_
+
+##### • Keypoint Transformer: Solving Joint Identification in Challenging Hands and Object Interactions for Accurate 3D Pose Estimation. \[PDF\]
+_Shreyas Hampali, Sayan Deb Sarkar, Mahdi Rad, Vincent Lepetit_
+
+##### • Collaborative Learning for Hand and Object Reconstruction with Attention-guided Graph Convolution. \[PDF\] [\[Project\]](https://eldentse.github.io/collab-hand-object/)
+_Tze Ho Elden Tse, Kwang In Kim, Ales Leonardis, and Hyung Jin Chang_
+
+##### • Spatial-Temporal Parallel Transformer for Arm-Hand Dynamic Estimation. [\[PDF\]](https://arxiv.org/pdf/2203.16202.pdf)
+_Shuying Liu, Wenbin Wu, Jiaxian Wu, Yue Lin_
+
+##### • D-Grasp: Physically Plausible Dynamic Grasp Synthesis for Hand-Object Interactions. [\[PDF\]](https://arxiv.org/pdf/2112.03028.pdf) [\[Project\]](https://eth-ait.github.io/d-grasp/)
+_Sammy Christen, Muhammed Kocabas, Emre Aksan, Jemin Hwangbo, Jie Song, Otmar Hilliges_
+
+##### • GOAL: Generating 4D Whole-Body Motion for Hand-Object Grasping. [\[PDF\]](https://arxiv.org/pdf/2112.11454.pdf) [\[Project\]](https://goal.is.tuebingen.mpg.de/)
+_Omid Taheri, Vasileios Choutas, Michael J. Black, Dimitrios Tzionas_
+
+##### • OakInk: A Large-scale Knowledge Repository for Understanding Hand-Object Interaction. [\[PDF\]](https://arxiv.org/pdf/2203.15709) [\[Code\]](https://github.com/lixiny/OakInk)
 _Lixin Yang, Kailin Li Xinyu Zhan, Fei Wu, Anran Xu, Liu Liu, Cewu Lu_
 
 ##### • ArtiBoost: Boosting Articulated 3D Hand-Object Pose Estimation via Online Exploration and Synthesis. [\[PDF\]](https://arxiv.org/pdf/2109.05488) [\[Code\]](https://github.com/MVIG-SJTU/ArtiBoost)
 _Kailin Li, Lixin Yang, Xinyu Zhan, Jun Lv, Wenqiang Xu, Jiefeng Li, Cewu Lu_
 
-##### • Interacting Attention Graph for Single Image Two-Hand Reconstruction. \[PDF\]
+##### • Interacting Attention Graph for Single Image Two-Hand Reconstruction. [\[PDF\]](https://arxiv.org/pdf/2203.09364)  [\[Project\]](http://www.liuyebin.com/IntagHand/Intaghand.html)  [\[Code\]](https://github.com/Dw1010/IntagHand)
 _Mengcheng Li，Liang An, Hongwen Zhang, Lianpeng Wu, Feng Chen, Tao Yu, Yebin Liu_
 
 ##### • MobRecon: Mobile-Friendly Hand Mesh Reconstruction from Monocular Image.  [\[PDF\]](https://arxiv.org/pdf/2112.02753) [\[Code\]](https://github.com/SeanChenxy/HandMesh)
