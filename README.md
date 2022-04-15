@@ -1,4 +1,4 @@
-# Awesome Hand Pose Estimation [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
+# Awesome Hand Pose Estimation
 
 A curated list of related resources for hand pose estimation. Feel free to [contribute](#Contribute)!
 
