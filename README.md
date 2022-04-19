@@ -294,6 +294,9 @@ _Xingyu Chen, Yufeng Liu, Yajiao Dong, Xiong Zhang, Chongyang Ma, Yanmin Xiong, 
 ##### • LISA: Learning Implicit Shape and Appearance of Hands.  [\[PDF\]](https://arxiv.org/pdf/2204.01695) [\[Project\]](http://www.iri.upc.edu/people/ecorona/lisa/)
 _Enric Corona, Tomas Hodan, Minh Vo, Francesc Moreno-Noguer, Chris Sweeney, Richard Newcombe, Lingni Ma_
 
+##### • Ray3D: ray-based 3D human pose estimation for monocular absolute 3D localization. [\[PDF\]](https://arxiv.org/abs/2203.11471)
+_Yu Zhan, Fenghai Li, Renliang Weng, Wongun Choi_
+
 ### 2022 Others
 
 ##### • [2022 AAAI] Efficient Virtual View Selection for 3D Hand Pose Estimation. [\[PDF\]](https://me495.github.io/handpose-virtualview/resources/paper.pdf) [\[Project\]](https://me495.github.io/handpose-virtualview/) [\[Code\]](https://github.com/iscas3dv/handpose-virtualview) 
