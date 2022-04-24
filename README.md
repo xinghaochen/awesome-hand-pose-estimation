@@ -258,6 +258,9 @@ _Guijin Wang, Xinghao Chen\*, Hengkai Guo\*, Cairong Zhang_
 
 ### 2022 CVPR
 
+##### • What's in your hands? 3D Reconstruction of Generic Objects in Hands. [\[PDF\]](https://arxiv.org/pdf/2204.07153.pdf) [\[Project\]](https://judyye.github.io/ihoi/) [\[Code\]](https://github.com/JudyYe/ihoi)
+_Yufei Ye, Abhinav Gupta, Shubham Tulsiani_
+
 ##### • Mining Multi-View Information: A Strong Self-Supervised Framework for Depth-based 3D Hand Pose and Mesh Estimation. \[PDF\]
 _Pengfei Ren, Haifeng Sun, Jiachang Hao, Jingyu Wang, Qi Qi,Jianxin Liao_
 
@@ -294,8 +297,6 @@ _Xingyu Chen, Yufeng Liu, Yajiao Dong, Xiong Zhang, Chongyang Ma, Yanmin Xiong, 
 ##### • LISA: Learning Implicit Shape and Appearance of Hands.  [\[PDF\]](https://arxiv.org/pdf/2204.01695) [\[Project\]](http://www.iri.upc.edu/people/ecorona/lisa/)
 _Enric Corona, Tomas Hodan, Minh Vo, Francesc Moreno-Noguer, Chris Sweeney, Richard Newcombe, Lingni Ma_
 
-##### • Ray3D: ray-based 3D human pose estimation for monocular absolute 3D localization. [\[PDF\]](https://arxiv.org/abs/2203.11471)
-_Yu Zhan, Fenghai Li, Renliang Weng, Wongun Choi_
 
 ### 2022 Others
 
