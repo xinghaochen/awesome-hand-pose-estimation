@@ -303,6 +303,9 @@ _Enric Corona, Tomas Hodan, Minh Vo, Francesc Moreno-Noguer, Chris Sweeney, Rich
 ##### • [2022 AAAI] Efficient Virtual View Selection for 3D Hand Pose Estimation. [\[PDF\]](https://me495.github.io/handpose-virtualview/resources/paper.pdf) [\[Project\]](https://me495.github.io/handpose-virtualview/) [\[Code\]](https://github.com/iscas3dv/handpose-virtualview) 
 _Jian Cheng, Yanguang Wan, Dexin Zuo, Cuixia Ma, Jian Gu, Ping Tan, Hongan Wang, Xiaoming Deng, Yinda Zhang_
 
+##### • [2022 Technologies] A Survey on GAN-Based Data Augmentation for Hand Pose Estimation Problem. [\[PDF\]](https://www.mdpi.com/2227-7080/10/2/43/pdf?version=1647826385)
+_Farnaz Farahanipad, Mohammad Rezaei, Mohammad Sadegh Nasr, Farhad Kamangar, Vassilis Athitsos_
+
 ### 2021 ICCV
 
 ##### • Toward Human-Like Grasp: Dexterous Grasping via Semantic Representation of Object-Hand. [\[PDF\]](https://openaccess.thecvf.com/content/ICCV2021/papers/Zhu_Toward_Human-Like_Grasp_Dexterous_Grasping_via_Semantic_Representation_of_Object-Hand_ICCV_2021_paper.pdf)
