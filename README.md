@@ -158,6 +158,9 @@ _Liuhao Ge, Hui Liang, Junsong Yuan and Daniel Thalmann_
 
 ### Other Journals
 
+##### • \[2022 Technologies\] A Survey on GAN-Based Data Augmentation for Hand Pose Estimation Problem. [\[PDF\]](https://www.mdpi.com/2227-7080/10/2/43/pdf?version=1647826385)
+_Farnaz Farahanipad, Mohammad Rezaei, Mohammad Sadegh Nasr, Farhad Kamangar, Vassilis Athitsos_
+
 ##### • \[2022 TCSVT\] 3D Hand Pose Estimation from Monocular RGB with Feature Interaction Module. [\[PDF\]](https://ieeexplore.ieee.org/document/9680673/)
 _Shaoxiang Guo, Eric Rigall, Yakun Ju, Junyu Dong_
 
