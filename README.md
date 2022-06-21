@@ -34,6 +34,9 @@ See folder [``evaluation``](./evaluation) to get more details about performance 
 
 ## arXiv Papers
 
+##### • [\[arXiv:2206.07117\]](https://arxiv.org/abs/2206.07117) TriHorn-Net: A Model for Accurate Depth-Based 3D Hand Pose Estimation.  [\[PDF\]](https://arxiv.org/abs/2206.07117)  [\[Code\]](https://github.com/mrezaei92/TriHorn-Net)
+_Mohammad Rezaei, Razieh Rastgoo, Vassilis Athitsos_
+
 ##### • [\[arXiv:2202.04533\]](https://arxiv.org/abs/2202.04533) NIMBLE: A Non-rigid Hand Model with Bones and Muscles.  [\[PDF\]](https://arxiv.org/pdf/2202.04533)
 _Yuwei Li, Longwen Zhang, Zesong Qiu, Yingwenqi Jiang, Yuyao Zhang, Nianyi Li, Yuexin Ma, Lan Xu, Jingyi Yu_
 
