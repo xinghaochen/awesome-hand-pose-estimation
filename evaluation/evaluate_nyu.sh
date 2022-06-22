@@ -21,4 +21,5 @@ python src/compute_error.py nyu max-frame\
 	MURAUER	results/nyu/WACV19_NYU_murauer_n72757_uvd.txt\
 	Generalized-Feedback	results/nyu/TPAMI19_NYU_Generalized_Feedback.txt\
 	CrossInfoNet	results/nyu/CVPR19_NYU_CrossInfoNet.txt\
+	TriHorn-Net		results/nyu/ArXiv_NYU_TriHorn_Net.txt\
 	WHSP-Net	results/nyu/Sensors19_NYU_WHSP-Net.txt
