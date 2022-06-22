@@ -27,6 +27,8 @@ There are two types of evaluation metrics that are widely used for hand pose est
 - HandPointNet \[15\]: CVPR'18, [Predicted labels](https://drive.google.com/file/d/1hYsgLvpuKpWpBkVzrIdCetJPWzGCtooB/view)
 - Point-to-Point \[16\]: ECCV'18, [Predicted labels](https://drive.google.com/file/d/1hvAf7iee7bysDi26639qP9LfvucXBcTM/view)
 - CrossInfoNet \[19\]: CVPR'19, [Predicted labels](https://github.com/dumyy/handpose/blob/master/results/CVPR19_ICVL_CrossInfoNet.txt)
+- TriHorn-Net \[22\]: ArXiv'22, [Predicted labels](https://drive.google.com/file/d/1QqZbQS8wqxxahbmOgQHBWK59lGl7zXnU/view?usp=sharing)
+
 
 ### NYU
 - DeepPrior \[4\]: CVWW'15, [Predicted labels](https://www.tugraz.at/fileadmin/user_upload/Institute/ICG/Downloads/team_lepetit/3d_hand_pose/CVWW15_NYU_Prior.txt)
@@ -52,6 +54,8 @@ There are two types of evaluation metrics that are widely used for hand pose est
 - CrossInfoNet \[19\]: CVPR'19, [Predicted labels](https://github.com/dumyy/handpose/blob/master/results/CVPR19_NYU_CrossInfoNet.txt)
 - DeepHPS \[20\]: 3DV'18, [Predicted labels](https://cloud.dfki.de/owncloud/index.php/s/5RZomRooZBxgAox)
 - WHSP-Net \[21\]: Sensors'19, [Predicted labels](https://cloud.dfki.de/owncloud/index.php/s/5QeDcAECCMGj3gB?path=%2FNYUPose)
+- TriHorn-Net \[22\]: ArXiv'22, [Predicted labels](https://drive.google.com/file/d/11wLja_Xvu6knqdIctd_fpM3aYeeLtuSc/view?usp=sharing)
+
 
 ### MSRA
 - REN-9x6x6 \[7\]: JVCI'18, [Predicted labels](https://github.com/guohengkai/region-ensemble-network/blob/master/results/msra_ren_9x6x6.txt)
@@ -62,6 +66,8 @@ There are two types of evaluation metrics that are widely used for hand pose est
 - HandPointNet \[15\]: CVPR'18, [Predicted labels](https://drive.google.com/file/d/1hYsgLvpuKpWpBkVzrIdCetJPWzGCtooB/view)
 - Point-to-Point \[16\]: ECCV'18, [Predicted labels](https://drive.google.com/file/d/1hvAf7iee7bysDi26639qP9LfvucXBcTM/view)
 - CrossInfoNet \[19\]: CVPR'19, [Predicted labels](https://github.com/dumyy/handpose/blob/master/results/CVPR19_MSRA_CrossInfoNet.txt)
+- TriHorn-Net \[22\]: ArXiv'22, [Predicted labels](https://drive.google.com/file/d/1T5nN_CK9qD5y1iSCapt2oyuMugLi4buQ/view?usp=sharing)
+
 
 [\[back to top\]](#evaluations-on-hand-pose-estimation)
 
@@ -126,6 +132,7 @@ sh evaluate_{dataset}.sh
 |  SHPR-Net (three views) [14] | 9.371 |
 |  Point-to-Point [16] | 9.045  |
 |  V2V-PoseNet [12] |8.419  |
+|  TriHorn-Net [22] |7.68  |
 |  FeatureMapping [13] | 7.441  |
 
 [\[back to top\]](#evaluations-on-hand-pose-estimation)
@@ -147,6 +154,8 @@ sh evaluate_{dataset}.sh
 |  CrossInfoNet [19] | 6.732 |
 |  Point-to-Point [16] | 6.328  |
 |  V2V-PoseNet [12] | 6.284  |
+|  TriHorn-Net [22] |5.73  |
+
 
 [\[back to top\]](#evaluations-on-hand-pose-estimation)
 
@@ -163,6 +172,8 @@ sh evaluate_{dataset}.sh
 |  SHPR-Net [14] | 7.756 |
 |  Point-to-Point [16] | 7.707  |
 |  DenseReg [10] | 7.234 |
+|  TriHorn-Net [22] |7.13  |
+
 
 [\[back to top\]](#evaluations-on-hand-pose-estimation)
 
@@ -196,5 +207,7 @@ See leaderboard [here](https://competitions.codalab.org/competitions/17452#resul
 - \[19\] [CrossInfoNet: Multi-Task Information Sharing Based Hand Pose Estimation](#), Kuo Du, Xiangbo Lin, Yi Sun, Xiaohong Ma, **CVPR** 2019.
 - \[20\] [DeepHPS: End-to-end Estimation of 3D Hand Pose and Shape by Learning from Synthetic Depth](https://arxiv.org/pdf/1808.09208.pdf), Jameel Malik, Ahmed Elhayek, Fabrizio Nunnari, Kiran Varanasi, Kiarash Tamaddon, Alexis Heloir, Didier Stricker, **3DV** 2018.
 - \[21\] [WHSP-Net: A Weakly-Supervised Approach for 3D Hand Shape and Pose Recovery from a Single Depth Image](https://www.mdpi.com/1424-8220/19/17/3784), Jameel Malik, Ahmed Elhayek, Didier Stricker, **Sensors** 2019.
+- \[22\] [TriHorn-Net: A Model for Accurate Depth-Based 3D Hand Pose Estimation](https://arxiv.org/abs/2206.07117), Mohammad Rezaei, Razieh Rastgoo and Vassilis Athitsos, arXiv 2022.
 
 [\[back to top\]](#evaluations-on-hand-pose-estimation)
+
