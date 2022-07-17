@@ -262,6 +262,11 @@ _Guijin Wang, Xinghao Chen\*, Hengkai Guo\*, Cairong Zhang_
 
 ## Conference Papers
 
+### 2022 ECCV
+
+##### • Domain Adaptive Hand Keypoint and Pixel Localization in the Wild. [\[PDF\]](https://arxiv.org/pdf/2203.08344.pdf) [\[Project\]](https://tkhkaeio.github.io/projects/22-hand-ps-da/)
+_Takehiko Ohkawa, Yu-Jhe Li, Qichen Fu, Ryosuke Furuta, Kris M. Kitani, and Yoichi Sato_
+
 ### 2022 CVPR
 
 ##### • What's in your hands? 3D Reconstruction of Generic Objects in Hands. [\[PDF\]](https://arxiv.org/pdf/2204.07153.pdf) [\[Project\]](https://judyye.github.io/ihoi/) [\[Code\]](https://github.com/JudyYe/ihoi)
