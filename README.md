@@ -267,6 +267,9 @@ _Guijin Wang, Xinghao Chen\*, Hengkai Guo\*, Cairong Zhang_
 ##### • Domain Adaptive Hand Keypoint and Pixel Localization in the Wild. [\[PDF\]](https://arxiv.org/pdf/2203.08344.pdf) [\[Project\]](https://tkhkaeio.github.io/projects/22-hand-ps-da/)
 _Takehiko Ohkawa, Yu-Jhe Li, Qichen Fu, Ryosuke Furuta, Kris M. Kitani, and Yoichi Sato_
 
+##### • 3D Interacting Hand Pose Estimation by Hand De-occlusion and Removal. [\[PDF\]](https://arxiv.org/abs/2207.11061) [\[Project\]](https://menghao666.github.io/HDR/)[\[Dataset\]](https://connecthkuhk-my.sharepoint.com/personal/js20_connect_hku_hk/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fjs20%5Fconnect%5Fhku%5Fhk%2FDocuments%2FAIH%5Fdataset&ga=1)
+Hao Meng, Sheng Jin, Wentao Liu, Chen Qian, Mengxiang Lin, Wanli Ouyang, Ping Luo
+
 ### 2022 CVPR
 
 ##### • What's in your hands? 3D Reconstruction of Generic Objects in Hands. [\[PDF\]](https://arxiv.org/pdf/2204.07153.pdf) [\[Project\]](https://judyye.github.io/ihoi/) [\[Code\]](https://github.com/JudyYe/ihoi)
