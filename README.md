@@ -34,6 +34,9 @@ See folder [``evaluation``](./evaluation) to get more details about performance 
 
 ## arXiv Papers
 
+##### • [\[arXiv:2206.04927\]](https://arxiv.org/abs/2206.04927) Ego2HandsPose: A Dataset for Egocentric Two-hand 3D Global Pose Estimation.  [\[PDF\]](https://arxiv.org/abs/2206.04927)
+_Fanqing Lin, Tony Martinez_
+
 ##### • [\[arXiv:2206.07117\]](https://arxiv.org/abs/2206.07117) TriHorn-Net: A Model for Accurate Depth-Based 3D Hand Pose Estimation.  [\[PDF\]](https://arxiv.org/abs/2206.07117)  [\[Code\]](https://github.com/mrezaei92/TriHorn-Net)
 _Mohammad Rezaei, Razieh Rastgoo, Vassilis Athitsos_
 
@@ -263,6 +266,12 @@ _Guijin Wang, Xinghao Chen\*, Hengkai Guo\*, Cairong Zhang_
 ## Conference Papers
 
 ### 2022 ECCV
+
+##### • AlignSDF: Pose-Aligned Signed Distance Fields for Hand-Object Reconstruction. [\[PDF\]](https://arxiv.org/pdf/2207.12909.pdf) [\[Project\]](https://zerchen.github.io/projects/alignsdf.html) [\[Code\]](https://github.com/zerchen/alignsdf)
+_Zerui Chen, Yana Hasson, Cordelia Schmid, Ivan Laptev_
+
+##### • S<sup>2</sup>Contact: Graph-based Network for 3D Hand-Object Contact Estimation with Semi-Supervised Learning. [\[PDF\]](https://arxiv.org/pdf/2208.00874.pdf) [\[Project\]](https://eldentse.github.io/s2contact/)  [\[Code\]](https://github.com/eldentse/s2contact)
+_Tze Ho Elden Tse, Zhongqun Zhang, Kwang In Kim, Ales Leonardis, Feng Zheng, Hyung Jin Chang_
 
 ##### • Domain Adaptive Hand Keypoint and Pixel Localization in the Wild. [\[PDF\]](https://arxiv.org/pdf/2203.08344.pdf) [\[Project\]](https://tkhkaeio.github.io/projects/22-hand-ps-da/)
 _Takehiko Ohkawa, Yu-Jhe Li, Qichen Fu, Ryosuke Furuta, Kris M. Kitani, and Yoichi Sato_
