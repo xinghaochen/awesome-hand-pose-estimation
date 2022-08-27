@@ -164,6 +164,9 @@ _Liuhao Ge, Hui Liang, Junsong Yuan and Daniel Thalmann_
 
 ### Other Journals
 
+##### • \[2022 TIP\] A Dual-Branch Self-Boosting Framework for Self-Supervised 3D Hand Pose Estimation. [\[PDF\]](https://ieeexplore.ieee.org/document/9841448) [\[Code\]](https://github.com/RenFeiTemp/DSF)
+_Pengfei Ren, Haifeng Sun, Jiachang Hao, Qi Qi, Jingyu Wang, Jianxin Liao_
+
 ##### • \[2022 Technologies\] A Survey on GAN-Based Data Augmentation for Hand Pose Estimation Problem. [\[PDF\]](https://www.mdpi.com/2227-7080/10/2/43/pdf?version=1647826385)
 _Farnaz Farahanipad, Mohammad Rezaei, Mohammad Sadegh Nasr, Farhad Kamangar, Vassilis Athitsos_
 
@@ -284,7 +287,7 @@ Hao Meng, Sheng Jin, Wentao Liu, Chen Qian, Mengxiang Lin, Wanli Ouyang, Ping Lu
 ##### • What's in your hands? 3D Reconstruction of Generic Objects in Hands. [\[PDF\]](https://arxiv.org/pdf/2204.07153.pdf) [\[Project\]](https://judyye.github.io/ihoi/) [\[Code\]](https://github.com/JudyYe/ihoi)
 _Yufei Ye, Abhinav Gupta, Shubham Tulsiani_
 
-##### • Mining Multi-View Information: A Strong Self-Supervised Framework for Depth-based 3D Hand Pose and Mesh Estimation. \[PDF\]
+##### • Mining Multi-View Information: A Strong Self-Supervised Framework for Depth-based 3D Hand Pose and Mesh Estimation. [\[PDF\]](https://openaccess.thecvf.com/content/CVPR2022/papers/Ren_Mining_Multi-View_Information_A_Strong_Self-Supervised_Framework_for_Depth-Based_3D_CVPR_2022_paper.pdf) \[Code\]
 _Pengfei Ren, Haifeng Sun, Jiachang Hao, Jingyu Wang, Qi Qi,Jianxin Liao_
 
 ##### • HandOccNet: Occlusion-Robust 3D Hand Mesh Estimation Network. [\[PDF\]](https://arxiv.org/pdf/2203.14564) [\[Code\]](https://github.com/namepllet/HandOccNet)
