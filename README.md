@@ -270,6 +270,9 @@ _Guijin Wang, Xinghao Chen\*, Hengkai Guo\*, Cairong Zhang_
 
 ### 2022 ECCV
 
+##### • Identity-aware Hand Mesh Estimation and Personalization from RGB Images	. [\[PDF\]] [\[Code\]](https://github.com/deyingk/PersonalizedHandMeshEstimation)
+_Deying Kong, Linguang Zhang, Liangjian Chen, Haoyu Ma, Xiangyi Yan, Shanlin Sun, Xingwei Liu, Kun Han, Xiaohui Xie_
+
 ##### • AlignSDF: Pose-Aligned Signed Distance Fields for Hand-Object Reconstruction. [\[PDF\]](https://arxiv.org/pdf/2207.12909.pdf) [\[Project\]](https://zerchen.github.io/projects/alignsdf.html) [\[Code\]](https://github.com/zerchen/alignsdf)
 _Zerui Chen, Yana Hasson, Cordelia Schmid, Ivan Laptev_
 
