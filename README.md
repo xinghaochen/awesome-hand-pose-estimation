@@ -9,6 +9,7 @@ A curated list of related resources for hand pose estimation. Feel free to [cont
    - [TPAMI / IJCV](#tpami--ijcv)
    - [Others](#other-journals)
  - [Conference Papers](#conference-papers)
+   - 2023: [CVPR](#2023-cvpr), [ICCV](#2023-iccv), [Others](#2023-others)
    - 2022: [CVPR](#2022-cvpr), [ECCV](#2022-eccv), [Others](#2022-others)
    - 2021: [CVPR](#2021-cvpr), [ICCV](#2021-iccv), [Others](#2021-others)
    - 2020: [CVPR](#2020-cvpr), [ECCV](#2020-eccv), [Others](#2020-others)
@@ -123,6 +124,10 @@ _Xiaoming Deng\*, Shuo Yang\*, Yinda Zhang\*, Ping Tan, Liang Chang, Hongan Wang
 ## Journal Papers
 
 ### TPAMI / IJCV
+
+##### • \[2023 TPAMI\] Consistent 3D Hand Reconstruction in Video via self-supervised Learning. [\[PDF\]](https://arxiv.org/pdf/2201.09548)
+_Zhigang Tu, Zhisheng Huang, Yujin Chen, Di Kang, Linchao Bao, Bisheng Yang, Junsong Yuan_
+
 
 ##### • \[2022 TPAMI\] Recurrent 3D Hand Pose Estimation Using Cascaded Pose-guided 3D Alignments. [\[PDF\]](https://ieeexplore.ieee.org/document/9736619/)
 _Xiaoming Deng, Dexin Zuo, Yinda Zhang, Zhaopeng Cui, Jian Cheng, Ping Tan, Liang Chang, Marc Pollefeys, Sean Fanello, Hongan Wang_
@@ -267,6 +272,18 @@ _Guijin Wang, Xinghao Chen\*, Hengkai Guo\*, Cairong Zhang_
 [\[back to top\]](#contents)
 
 ## Conference Papers
+
+### 2023 CVPR
+
+
+
+### 2023 Others
+
+##### • [2023 AAAI] Two Heads are Better than One: Image-Point Cloud Network for Depth-Based 3D Hand Pose Estimation. [\[PDF\]]  *(AAAI-23 Distinguished Papers)*
+_Pengfei Ren, Yuchen Chen, Jiachang Hao, Haifeng Sun, Qi Qi, Jingyu Wang, Jianxin Liao_
+
+##### • [2023 AAAI] Tracking and Reconstructing Hand Object Interactions from Point Cloud Sequences in the Wild. [\[PDF\]](https://arxiv.org/pdf/2209.12009)
+_Jiayi Chen, Mi Yan, Jiazhao Zhang, Yinzhen Xu, Xiaolong Li, Yijia Weng, Li Yi, Shuran Song, He Wang_
 
 ### 2022 ECCV
 
