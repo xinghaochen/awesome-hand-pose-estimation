@@ -275,6 +275,12 @@ _Guijin Wang, Xinghao Chen\*, Hengkai Guo\*, Cairong Zhang_
 
 ### 2023 CVPR
 
+##### • Cross-domain 3D Hand Pose Estimation with Dual Modalities. \[PDF\]
+_Qiuxia Lin, Linlin Yang, Angela Yao_
+
+##### • Overcoming the Tradeoff in Accuracy and Plausibility for 3D Hand Shape Reconstruction. \[PDF\]
+_Ziwei Yu, Chen Li, Linlin Yang, Xiaoxu Zheng, Michael Bi Mi, Gim Hee Lee, Angela Yao_
+
 ##### • Hierarchical Temporal Transformer for 3D Hand Pose Estimation and Action Recognition from Egocentric RGB Videos. [\[PDF\]](https://arxiv.org/pdf/2209.09484)  [\[Project\]](https://fylwen.github.io/htt.html) [\[Code\]](https://github.com/fylwen/HTT)
 _Yilin Wen, Hao Pan, Lei Yang, Jia Pan, Taku Komura, Wenping Wang_
 
