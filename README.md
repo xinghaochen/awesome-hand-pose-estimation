@@ -275,6 +275,9 @@ _Guijin Wang, Xinghao Chen\*, Hengkai Guo\*, Cairong Zhang_
 
 ### 2023 CVPR
 
+##### • Hand Avatar: Free-Pose Hand Animation and Rendering from Monocular Video. [\[PDF\]](https://arxiv.org/pdf/2211.12782.pdf) [\[Project\]](https://seanchenxy.github.io/HandAvatarWeb/)
+_Xingyu Chen, Baoyuan Wang Heung-Yeung, Shum_
+
 ##### • Cross-domain 3D Hand Pose Estimation with Dual Modalities. \[PDF\]
 _Qiuxia Lin, Linlin Yang, Angela Yao_
 
