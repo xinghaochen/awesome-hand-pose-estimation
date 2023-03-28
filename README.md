@@ -35,6 +35,9 @@ See folder [``evaluation``](./evaluation) to get more details about performance 
 
 ## arXiv Papers
 
+##### • [\[arXiv:2206.04927\]](https://arxiv.org/abs/2303.15147) Pushing the Envelope for Depth-Based Semi-Supervised 3D Hand Pose Estimation with Consistency Training.  [\[PDF\]](https://arxiv.org/abs/2303.15147)
+_Mohammad Rezaei, Farnaz Farahanipad, Alex Dillhoff, Vassilis Athitsos_
+
 ##### • [\[arXiv:2206.04927\]](https://arxiv.org/abs/2206.04927) Ego2HandsPose: A Dataset for Egocentric Two-hand 3D Global Pose Estimation.  [\[PDF\]](https://arxiv.org/abs/2206.04927)
 _Fanqing Lin, Tony Martinez_
 
@@ -124,6 +127,10 @@ _Xiaoming Deng\*, Shuo Yang\*, Yinda Zhang\*, Ping Tan, Liang Chang, Hongan Wang
 ## Journal Papers
 
 ### TPAMI / IJCV
+
+##### • \[2023 ESWA\] TriHorn-Net: A Model for Accurate Depth-Based 3D Hand Pose Estimation.  [\[PDF\]](https://www.sciencedirect.com/science/article/pii/S0957417423004232)  [\[Code\]](https://github.com/mrezaei92/TriHorn-Net)
+_Mohammad Rezaei, Razieh Rastgoo, Vassilis Athitsos_
+
 
 ##### • \[2023 TPAMI\] Consistent 3D Hand Reconstruction in Video via self-supervised Learning. [\[PDF\]](https://arxiv.org/pdf/2201.09548)
 _Zhigang Tu, Zhisheng Huang, Yujin Chen, Di Kang, Linchao Bao, Bisheng Yang, Junsong Yuan_
