@@ -128,9 +128,6 @@ _Xiaoming Deng\*, Shuo Yang\*, Yinda Zhang\*, Ping Tan, Liang Chang, Hongan Wang
 
 ### TPAMI / IJCV
 
-##### • \[2023 ESWA\] TriHorn-Net: A Model for Accurate Depth-Based 3D Hand Pose Estimation.  [\[PDF\]](https://www.sciencedirect.com/science/article/pii/S0957417423004232)  [\[Code\]](https://github.com/mrezaei92/TriHorn-Net)
-_Mohammad Rezaei, Razieh Rastgoo, Vassilis Athitsos_
-
 
 ##### • \[2023 TPAMI\] Consistent 3D Hand Reconstruction in Video via self-supervised Learning. [\[PDF\]](https://arxiv.org/pdf/2201.09548)
 _Zhigang Tu, Zhisheng Huang, Yujin Chen, Di Kang, Linchao Bao, Bisheng Yang, Junsong Yuan_
@@ -175,6 +172,11 @@ _Liuhao Ge, Hui Liang, Junsong Yuan and Daniel Thalmann_
 [\[back to top\]](#contents)
 
 ### Other Journals
+
+
+##### • \[2023 ESWA\] TriHorn-Net: A Model for Accurate Depth-Based 3D Hand Pose Estimation.  [\[PDF\]](https://www.sciencedirect.com/science/article/pii/S0957417423004232)  [\[Code\]](https://github.com/mrezaei92/TriHorn-Net)
+_Mohammad Rezaei, Razieh Rastgoo, Vassilis Athitsos_
+
 
 ##### • \[2022 TIP\] A Dual-Branch Self-Boosting Framework for Self-Supervised 3D Hand Pose Estimation. [\[PDF\]](https://ieeexplore.ieee.org/document/9841448) [\[Code\]](https://github.com/RenFeiTemp/DSF)
 _Pengfei Ren, Haifeng Sun, Jiachang Hao, Qi Qi, Jingyu Wang, Jianxin Liao_
@@ -281,6 +283,51 @@ _Guijin Wang, Xinghao Chen\*, Hengkai Guo\*, Cairong Zhang_
 ## Conference Papers
 
 ### 2023 CVPR
+
+##### • A Probabilistic Attention Model with Occlusion-aware Texture Regression for 3D Hand Reconstruction from a Single RGB Image
+_Zheheng Jiang, Hossein Rahmani, Sue Black, Bryan M. Williams_
+
+##### • A2J-Transformer: Anchor-to-Joint Transformer Network for 3D Interacting Hand Pose Estimation from a Single RGB Image. [\[PDF\]](https://arxiv.org/pdf/2304.03635.pdf)  [\[Code\]](https://github.com/ChanglongJiangGit/A2J-Transformer)
+_Changlong Jiang, Yang Xiao, Cunlin Wu, Mingyang Zhang, Jinghong Zheng, Zhiguo Cao, Joey Tianyi Zhou_
+
+##### • MeMaHand: Exploiting Mesh-Mano Interaction for Single Image Two-Hand Reconstruction. [\[PDF\]](https://arxiv.org/pdf/2303.15718.pdf) 
+_Congyi Wang, Feida Zhu, Shilei Wen_
+
+##### • ARCTIC: A Dataset for Dexterous Bimanual Hand-Object Manipulation. [\[Project\]](https://arctic.is.tue.mpg.de/)
+_Zicong Fan, Omid Taheri, Dimitrios Tzionas, Muhammed Kocabas, Manuel Kaufmann, Michael J. Black, Otmar Hilliges_
+
+##### • AssemblyHands: Towards Egocentric Activity Understanding via 3D Hand Pose Estimation. [\[Project\]](https://assemblyhands.github.io/)
+_Takehiko Ohkawa, Kun He, Fadime Sener, Tomas Hodan, Luan Tran, and Cem Keskin_
+
+##### • High Fidelity 3D Hand Shape Reconstruction via Scalable Graph Frequency Decomposition.
+_Tianyu Luan, Yuanhao Zhai, Jingjing Meng, Zhong Li, Zhang Chen, Yi Xu, and Junsong Yuan._
+
+##### • HandNeRF: Neural Radiance Fields for Animatable Interacting Hands. [\[PDF\]](https://arxiv.org/pdf/2303.13825.pdf)
+_Zhiyang Guo, Wengang Zhou, Min Wang, Li Li, Houqiang Li_
+
+##### • POEM: Reconstructing Hand in a Point Embedded Multi-view Stereo. [\[PDF\]](https://arxiv.org/pdf/2304.04038.pdf) [\[Code\]](https://github.com/lixiny/POEM)
+_Lixin Yang, Jian Xu, Licheng Zhong, Xinyu Zhan, Zhicheng Wang, Kejian Wu, Cewu Lu_
+
+##### • HARP: Personalized Hand Reconstruction from a Monocular RGB Video. [\[PDF\]](https://arxiv.org/pdf/2212.09530.pdf) [\[Project\]](https://korrawe.github.io/harp-project/)
+_Korrawe Karunratanakul, Sergey Prokudin, Otmar Hilliges, Siyu Tang_
+
+##### • RelightableHands: Efficient Neural Relighting of Articulated Hand Models. [\[PDF\]](https://arxiv.org/pdf/2303.04866.pdf) [\[Project\]](https://sh8.io/#/relightable_hands)
+_Shun Iwase, Shunsuke Saito, Tomas Simon, Stephen Lombardi, Timur Bagautdinov, Rohan Joshi, Fabian Prada, Takaaki Shiratori, Yaser Sheikh, Jason Saragih_
+
+##### • H2ONet: Hand-Occlusion-and-Orientation-aware Network for Real-time 3D Hand Mesh Reconstruction.
+_Hao Xu, Tianyu Wang, Xiao Tang, Chi-Wing Fu_
+
+##### • Affordance Diffusion: Synthesizing Hand-Object Interactions. [\[PDF\]](https://arxiv.org/pdf/2303.12538.pdf) [\[Project\]](https://judyye.github.io/affordiffusion-www/)
+_Yufei Ye, Xueting Li, Abhinav Gupta, Shalini De Mello, Stan Birchfield, Jiaming Song, Shubham Tulsiani, Sifei Liu_
+
+##### • gSDF: Geometry-Driven Signed Distance Functions for 3D Hand-Object Reconstruction. [\[PDF\]](https://zerchen.github.io/contents/CVPR_gSDF_Paper.pdf) [\[Project\]](https://zerchen.github.io/projects/gsdf.html)
+_Zerui Chen, Shizhe Chen, Cordelia Schmid, Ivan Laptev_
+
+##### • Harmonious Feature Learning for Interactive Hand-Object Pose Estimation.
+_Zhifeng Lin, Changxing Ding, Huan Yao, Zengsheng Kuang, Shaoli Huang_
+
+##### • Handy: Towards a high fidelity 3D hand shape and appearance model.
+_Rolandos Potamias Potamias, Stylianos Ploumpis, Stylianos Moschoglou, Vasileios Triantafyllou, Stefanos Zafeiriou_
 
 ##### • Hand Avatar: Free-Pose Hand Animation and Rendering from Monocular Video. [\[PDF\]](https://arxiv.org/pdf/2211.12782.pdf) [\[Project\]](https://seanchenxy.github.io/HandAvatarWeb/)
 _Xingyu Chen, Baoyuan Wang Heung-Yeung, Shum_
