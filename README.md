@@ -370,6 +370,9 @@ _Pengfei Ren, Yuchen Chen, Jiachang Hao, Haifeng Sun, Qi Qi, Jingyu Wang, Jianxi
 ##### • [2023 AAAI] Tracking and Reconstructing Hand Object Interactions from Point Cloud Sequences in the Wild. [\[PDF\]](https://arxiv.org/pdf/2209.12009)
 _Jiayi Chen, Mi Yan, Jiazhao Zhang, Yinzhen Xu, Xiaolong Li, Yijia Weng, Li Yi, Shuran Song, He Wang_
 
+##### • [2023 WACV] THOR-Net: End-to-End Graformer-Based Realistic Two Hands and Object Reconstruction With Self-Supervision. [\[PDF\]](https://openaccess.thecvf.com/content/WACV2023/papers/Aboukhadra_THOR-Net_End-to-End_Graformer-Based_Realistic_Two_Hands_and_Object_Reconstruction_With_WACV_2023_paper.pdf) [\[Code\]](https://github.com/ATAboukhadra/THOR-Net)
+_Ahmed Tawfik Aboukhadra, Jameel Malik, Ahmed Elhayek, Nadia Robertini, Didier Stricker_
+
 ### 2022 ECCV
 
 ##### • Identity-aware Hand Mesh Estimation and Personalization from RGB Images	. [\[PDF\]] [\[Code\]](https://github.com/deyingk/PersonalizedHandMeshEstimation)
