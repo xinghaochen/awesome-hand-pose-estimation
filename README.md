@@ -362,6 +362,11 @@ _Hoseong Cho, Chanwoo Kim, Jihyeon Kim, Seongyeong Lee, Elkhan Ismayilzada, Seun
 ##### • ACR: Attention Collaboration-based Regressor for Arbitrary Two-Hand Reconstruction. [\[PDF\]](https://arxiv.org/pdf/2303.05938)  [\[Project\]](https://zhengdiyu.github.io/ACR-page/) [\[Code\]](https://github.com/ZhengdiYu/Arbitrary-Hands-3D-Reconstruction)
 _Zhengdi Yu, Shaoli Huang, Chen Fang, Toby P. Breckon, Jue Wang_
 
+### 2023 ICCV
+
+##### • LiveHand: Real-time and Photorealistic Neural Hand Rendering [\[PDF\]](https://arxiv.org/abs/2302.07672) [\[Project\]](https://vcai.mpi-inf.mpg.de/projects/LiveHand/) [\[Code\]](https://github.com/amundra15/livehand)
+_Akshay Mundra, Mallikarjun B R, Jiayi Wang, Marc Habermann, Christian Theobalt, Mohamed Elgharib_
+
 ### 2023 Others
 
 ##### • [2023 AAAI] Two Heads are Better than One: Image-Point Cloud Network for Depth-Based 3D Hand Pose Estimation. [\[PDF\]]  *(AAAI-23 Distinguished Papers)*
