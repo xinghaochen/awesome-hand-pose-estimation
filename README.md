@@ -364,6 +364,9 @@ _Zhengdi Yu, Shaoli Huang, Chen Fang, Toby P. Breckon, Jue Wang_
 
 ### 2023 Others
 
+##### • [2023 ICCV] Source-free Domain Adaptive Human Pose Estimation. [\[PDF\]](https://arxiv.org/abs/2308.03202)
+_Qucheng Peng, Ce Zheng, Chen Chen_
+
 ##### • [2023 AAAI] Two Heads are Better than One: Image-Point Cloud Network for Depth-Based 3D Hand Pose Estimation. [\[PDF\]]  *(AAAI-23 Distinguished Papers)*
 _Pengfei Ren, Yuchen Chen, Jiachang Hao, Haifeng Sun, Qi Qi, Jingyu Wang, Jianxin Liao_
 
