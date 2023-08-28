@@ -370,6 +370,12 @@ _Akshay Mundra, Mallikarjun B R, Jiayi Wang, Marc Habermann, Christian Theobalt,
 ##### • Spectral Graphormer: Spectral Graph-based Transformer for Egocentric Two-Hand Reconstruction using Multi-View Color Images [\[PDF\]](https://arxiv.org/pdf/2308.11015.pdf) [\[Project\]](https://eldentse.github.io/Spectral-Graphormer/) [\[Code\]](https://github.com/google-research/google-research/spectral_graphormer)
 _Tze Ho Elden Tse, Franziska Mueller, Zhengyang Shen, Danhang Tang, Thabo Beeler, Mingsong Dou, Yinda Zhang, Sasa Petrovic, Hyung Jin Chang, Jonathan Taylor, Bardia Doosti_
 
+##### • Decoupled Iterative Refinement Framework for Interacting Hands Reconstruction from a Single RGB Image [\[PDF\]](https://arxiv.org/pdf/2302.02410.pdf) [\[Project\]](https://pengfeiren96.github.io/DIR/) [\[Code\]](https://github.com/PengfeiRen96/DIR)
+_Pengfei Ren, Chao Wen, Xiaozheng Zheng, Zhou Xue, Haifeng Sun, Qi Qi, Jingyu Wang, Jianxin Liao_
+
+##### • HaMuCo: Hand Pose Estimation via Multiview Collaborative Self-Supervised Learning [\[PDF\]](https://arxiv.org/pdf/2302.00988.pdf) [\[Project\]](https://zxz267.github.io/HaMuCo/) [\[Code\]](https://github.com/zxz267/HaMuCo)
+_Xiaozheng Zheng, Chao Wen, Zhou Xue, Pengfei Ren, Jingyu Wang_
+
 ### 2023 Others
 
 ##### • [2023 AAAI] Two Heads are Better than One: Image-Point Cloud Network for Depth-Based 3D Hand Pose Estimation. [\[PDF\]]  *(AAAI-23 Distinguished Papers)*
