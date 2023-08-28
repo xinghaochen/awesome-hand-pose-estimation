@@ -197,7 +197,7 @@ _Yujin Chen, Zhigang Tu, Di Kang, Ruizhi Chen, Linchao Bao, Zhengyou Zhang, Juns
 _Pengfei Ren, Haifeng Sun, Weiting Huang, Jiachang hao, Daixuan Cheng, Qi Qi, Jingyu Wang, Jianxin Liao_
 
 
-##### • \[2021 TMM\] Differentiable Spatial Regression: A Novel Method for 3D Hand Pose Estimation. [\[PDF\]](https://arxiv.org/pdf/1905.02085.pdf) [\[Code\]](https://github.com/IcarusWizard/PixelwiseRegression)
+##### • \[2021 TMM\] Differentiable Spatial Regression: A Novel Method for 3D Hand Pose Estimation. [\[PDF\]](https://drive.google.com/file/d/1kuhBSA4nzmJnIPeiTOTqC4w1YKQgjPBR/view?usp=share_link) [\[Code\]](https://github.com/IcarusWizard/PixelwiseRegression)
 _Xingyuan Zhang, Fuhai Zhang_
 
 ##### • \[2020 TIP\] Weakly-supervised Learning for Single Depth based Hand Shape Recovery. [\[PDF\]](https://ieeexplore.ieee.org/document/9262071)
@@ -361,6 +361,11 @@ _Hoseong Cho, Chanwoo Kim, Jihyeon Kim, Seongyeong Lee, Elkhan Ismayilzada, Seun
 
 ##### • ACR: Attention Collaboration-based Regressor for Arbitrary Two-Hand Reconstruction. [\[PDF\]](https://arxiv.org/pdf/2303.05938)  [\[Project\]](https://zhengdiyu.github.io/ACR-page/) [\[Code\]](https://github.com/ZhengdiYu/Arbitrary-Hands-3D-Reconstruction)
 _Zhengdi Yu, Shaoli Huang, Chen Fang, Toby P. Breckon, Jue Wang_
+
+### 2023 ICCV
+
+##### • LiveHand: Real-time and Photorealistic Neural Hand Rendering [\[PDF\]](https://arxiv.org/abs/2302.07672) [\[Project\]](https://vcai.mpi-inf.mpg.de/projects/LiveHand/) [\[Code\]](https://github.com/amundra15/livehand)
+_Akshay Mundra, Mallikarjun B R, Jiayi Wang, Marc Habermann, Christian Theobalt, Mohamed Elgharib_
 
 ### 2023 Others
 

@@ -7,5 +7,6 @@ python src/compute_error.py msra max-frame\
 	HandPointNet	results/msra/CVPR18_MSRA_HandPointNet.txt\
 	Point-to-Point	results/msra/ECCV18_MSRA_Point-to-Point.txt\
 	CrossInfoNet	results/msra/CVPR19_MSRA_CrossInfoNet.txt\
+	SRNet           results/msra/TMM21_MSRA_SRNet.txt\
 	TriHorn-Net		results/msra/ArXiv_MSRA_TriHorn_Net.txt\
 
