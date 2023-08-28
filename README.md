@@ -412,7 +412,7 @@ _JoonKyu Park, Yeonguk Oh, Gyeongsik Moon, Hongsuk Choi, Kyoung Mu Lee_
 ##### • Keypoint Transformer: Solving Joint Identification in Challenging Hands and Object Interactions for Accurate 3D Pose Estimation. \[PDF\]
 _Shreyas Hampali, Sayan Deb Sarkar, Mahdi Rad, Vincent Lepetit_
 
-##### • Collaborative Learning for Hand and Object Reconstruction with Attention-guided Graph Convolution. \[PDF\] [\[Project\]](https://eldentse.github.io/collab-hand-object/)
+##### • Collaborative Learning for Hand and Object Reconstruction with Attention-guided Graph Convolution. [\[PDF\]](https://openaccess.thecvf.com/content/CVPR2022/papers/Tse_Collaborative_Learning_for_Hand_and_Object_Reconstruction_With_Attention-Guided_Graph_CVPR_2022_paper.pdf) [\[Project\]](https://eldentse.github.io/collab-hand-object/)
 _Tze Ho Elden Tse, Kwang In Kim, Ales Leonardis, and Hyung Jin Chang_
 
 ##### • Spatial-Temporal Parallel Transformer for Arm-Hand Dynamic Estimation. [\[PDF\]](https://arxiv.org/pdf/2203.16202.pdf)
