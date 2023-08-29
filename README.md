@@ -1325,8 +1325,8 @@ _Ayan Sinha\*, Chiho Choi\*, Karthik Ramani_
 
 ### Depth
 
-|Dataset|Year|S/R|Mesh|Obj|#J|V|#S|#F|Paper|
-|------|------|------|------|------|------|------|------|------|----------------|
+|Dataset|Year|S/R|Mesh|Obj|#J|V|#S|#F|Paper|License
+|------|------|------|------|------|------|------|------|------|----------------|----------------|
 |[NYU](http://cims.nyu.edu/~tompson/NYU_Hand_Pose_Dataset.htm) | 2014 | R |❌|❌| 36 | 3rd | 2 | 72k/8k | SIGGRAPH 2014 [\[PDF\]](http://cims.nyu.edu/~tompson/others/TOG_2014_paper_PREPRINT.pdf)|
 |[ICVL](https://labicvl.github.io/hand.html) | 2014 | R |❌|❌|  16 | 3rd  |  10 | 331k/1.5k | CVPR 2014 [\[PDF\]](https://labicvl.github.io/docs/pubs/Danny_CVPR_2014.pdf)|
 |[MSRA15](https://github.com/geliuhao/CVPR2016_HandPoseEstimation/issues/4) | 2015 | R |❌|❌|  21 | 3rd  |  9 | 76,375 | CVPR 2015 [\[PDF\]](http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Sun_Cascaded_Hand_Pose_2015_CVPR_paper.pdf)|
@@ -1343,12 +1343,12 @@ _Ayan Sinha\*, Chiho Choi\*, Karthik Ramani_
 
 ### RGB+Depth
 
-|Dataset|Year|S/R|Mesh|Obj|#J|V|#S|#F|Paper|
-|------|------|------|------|------|------|------|------|------|----------------|
-|[MVHand](https://github.com/ShichengChen/multiviewDataset) | 2021 | R | ✅ | ❌ | 21 | 3rd | 4 | 83k | BMVC 2021 [\[PDF\]](https://arxiv.org/pdf/2112.06389.pdf)|
-|[ContactPose](https://contactpose.cc.gatech.edu/) | 2020 | R | ✅ | ✅ | 21 | 3rd | 50 | 2.9M | ECCV 2020 [\[PDF\]](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123580358.pdf)|
-|[Ego3DHands](https://github.com/AlextheEngineer/Ego3DHands) | 2020 | S | - |❌| 21 | ego | 1 | 50k/5k | arXiv 2020 [\[PDF\]](https://arxiv.org/pdf/2006.01320.pdf)|
-|[ObMan](https://www.di.ens.fr/willow/research/obman/data/) | 2019 | S | ✅ |✅| - | - | - | 150k | CVPR 2019 [\[PDF\]](https://openaccess.thecvf.com/content_CVPR_2019/papers/Hasson_Learning_Joint_Reconstruction_of_Hands_and_Manipulated_Objects_CVPR_2019_paper.pdf)|
+|Dataset|Year|S/R|Mesh|Obj|#J|V|#S|#F|Paper|License|
+|------|------|------|------|------|------|------|------|------|----------------|----------------|
+|[MVHand](https://github.com/ShichengChen/multiviewDataset) | 2021 | R | ✅ | ❌ | 21 | 3rd | 4 | 83k | BMVC 2021 [\[PDF\]](https://arxiv.org/pdf/2112.06389.pdf)| [MIT](https://github.com/ShichengChen/multiviewDataset/blob/main/LICENSE)|
+|[ContactPose](https://contactpose.cc.gatech.edu/) | 2020 | R | ✅ | ✅ | 21 | 3rd | 50 | 2.9M | ECCV 2020 [\[PDF\]](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123580358.pdf)| [MIT](https://github.com/facebookresearch/ContactPose/blob/main/LICENSE.txt)|
+|[Ego3DHands](https://github.com/AlextheEngineer/Ego3DHands) | 2020 | S | - |❌| 21 | ego | 1 | 50k/5k | arXiv 2020 [\[PDF\]](https://arxiv.org/pdf/2006.01320.pdf)| [Non-Commercial / Scientific only](https://github.com/AlextheEngineer/Ego3DHands#license)|
+|[ObMan](https://www.di.ens.fr/willow/research/obman/data/) | 2019 | S | ✅ |✅| - | - | - | 150k | CVPR 2019 [\[PDF\]](https://openaccess.thecvf.com/content_CVPR_2019/papers/Hasson_Learning_Joint_Reconstruction_of_Hands_and_Manipulated_Objects_CVPR_2019_paper.pdf)| [Non-Commercial / Scientific](https://www.di.ens.fr/willow/research/obman/data/requestaccess.php) |
 |[EgoDexter](http://handtracker.mpi-inf.mpg.de/projects/OccludedHands/EgoDexter.htm) | 2017 | R | - | ✅ |  5 | ego  |  4 | 1485 | ICCV 2017 [\[PDF\]](http://handtracker.mpi-inf.mpg.de/projects/OccludedHands/content/OccludedHands_ICCV2017.pdf)|
 |[SynthHands](http://handtracker.mpi-inf.mpg.de/projects/OccludedHands/SynthHands.htm) | 2017 | S | - | Both |  21 | ego  |  2 | 63,530  | ICCV 2017 [\[PDF\]](http://handtracker.mpi-inf.mpg.de/projects/OccludedHands/content/OccludedHands_ICCV2017.pdf)|
 |[RHD](https://lmb.informatik.uni-freiburg.de/resources/datasets/RenderedHandposeDataset.en.html) | 2017 | S | - |❌|  21 | 3rd  |  20 | 41k/2.7k  |ICCV 2017 [\[PDF\]](https://arxiv.org/pdf/1705.01389.pdf)|
@@ -1359,8 +1359,8 @@ _Ayan Sinha\*, Chiho Choi\*, Karthik Ramani_
 
 ### RGB
 
-|Dataset|Year|S/R|Mesh|Obj|#J|V|#S|#F|Paper|
-|------|------|------|------|------|------|------|------|------|----------------|
+|Dataset|Year|S/R|Mesh|Obj|#J|V|#S|#F|Paper|License
+|------|------|------|------|------|------|------|------|------|----------------|----------------|
 |[HIU-DMTL-Data](https://github.com/MandyMo/HIU-DMTL/) | 2021 | R | ❌ | ❌ | 21 | 3rd/ego | 200 | 40,000 | ICCV 2021 [\[PDF\]](https://openaccess.thecvf.com/content/ICCV2021/papers/Zhang_Hand_Image_Understanding_via_Deep_Multi-Task_Learning_ICCV_2021_paper.pdf)|
 |[InterHand2.6M](https://mks0601.github.io/InterHand2.6M/) | 2020 | R | ❌ | ❌ | 21 | 3rd | 27 | 2.6M | ECCV 2020 [\[PDF\]](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123650545.pdf)|
 |[YouTube 3D Hands](https://github.com/arielai/youtube_3d_hands) | 2020 | R | ✅ | ✅ | - | 3rd | - | 47,125/1525/1525 | CVPR 2020 [\[PDF\]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Kulon_Weakly-Supervised_Mesh-Convolutional_Hand_Reconstruction_in_the_Wild_CVPR_2020_paper.pdf)|
