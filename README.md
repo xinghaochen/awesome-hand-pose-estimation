@@ -364,6 +364,9 @@ _Zhengdi Yu, Shaoli Huang, Chen Fang, Toby P. Breckon, Jue Wang_
 
 ### 2023 ICCV
 
+##### • Source-free Domain Adaptive Human Pose Estimation [\[PDF\]](https://arxiv.org/abs/2308.03202) [\[Project\]](https://github.com/davidpengucf/SFDAHPE) [\[Code\]](https://github.com/davidpengucf/SFDAHPE)
+_Qucheng Peng, Ce Zheng, Chen Chen_
+
 ##### • LiveHand: Real-time and Photorealistic Neural Hand Rendering [\[PDF\]](https://arxiv.org/abs/2302.07672) [\[Project\]](https://vcai.mpi-inf.mpg.de/projects/LiveHand/) [\[Code\]](https://github.com/amundra15/livehand)
 _Akshay Mundra, Mallikarjun B R, Jiayi Wang, Marc Habermann, Christian Theobalt, Mohamed Elgharib_
 
