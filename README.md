@@ -463,6 +463,10 @@ _Zhengdi Yu, Shaoli Huang, Chen Fang, Toby P. Breckon, Jue Wang_
 
 ### 2023 ICCV
 
+##### • RenderIH: A Large-scale Synthetic Dataset for 3D Interacting Hand Pose Estimation [\[PDF\]](https://arxiv.org/pdf/2309.09301.pdf) [\[Project\]](https://github.com/adwardlee/RenderIH/tree/main) [\[Code\]](https://github.com/adwardlee/RenderIH/tree/main)
+
+_Lijun Li, Linrui Tian, Xindi Zhang, Qi Wang, Bang Zhang, Liefeng Bo, Mengyuan Liu, Chen Chen_
+
 ##### • Source-free Domain Adaptive Human Pose Estimation [\[PDF\]](https://arxiv.org/abs/2308.03202) [\[Project\]](https://github.com/davidpengucf/SFDAHPE) [\[Code\]](https://github.com/davidpengucf/SFDAHPE)
 
 _Qucheng Peng, Ce Zheng, Chen Chen_
