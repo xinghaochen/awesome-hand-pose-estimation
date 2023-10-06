@@ -466,6 +466,9 @@ _Zhengdi Yu, Shaoli Huang, Chen Fang, Toby P. Breckon, Jue Wang_
 
 ### 2023 ICCV
 
+##### • ContactGen: Generative Contact Modeling for Grasp Generation [\[PDF\]](https://arxiv.org/pdf/2310.03740.pdf) [\[Project\]](https://stevenlsw.github.io/contactgen/) [\[Code\]](https://github.com/stevenlsw/contactgen)
+_Shaowei Liu, Yang Zhou, Jimei Yang, Saurabh Gupta, Shenlong Wang_
+
 ##### • Diffusion-Guided Reconstruction of Everyday Hand-Object Interaction Clips. [\[PDF\]](https://openaccess.thecvf.com/content/ICCV2023/papers/Ye_Diffusion-Guided_Reconstruction_of_Everyday_Hand-Object_Interaction_Clips_ICCV_2023_paper.pdf)
 _Yufei Ye, Poorvi Hebbar, Abhinav Gupta, Shubham Tulsiani_
 
