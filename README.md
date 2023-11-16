@@ -466,6 +466,9 @@ _Zhengdi Yu, Shaoli Huang, Chen Fang, Toby P. Breckon, Jue Wang_
 
 ### 2023 ICCV
 
+##### • Novel-view Synthesis and Pose Estimation for Hand-Object Interaction from Sparse Views. [\[PDF\]](https://openaccess.thecvf.com/content/ICCV2023/papers/Qu_Novel-View_Synthesis_and_Pose_Estimation_for_Hand-Object_Interaction_from_Sparse_ICCV_2023_paper.pdf) [Project\]](https://iscas3dv.github.io/HO-NeRF/index.html) [\[Code\]](https://github.com/iscas3dv/HO-NeRF) [\[Data\]](https://pan.baidu.com/s/1t7oRCtJe0qBYazbC7CZoiA?pwd=8rc4)
+_Wentian  Qu, Zhaopeng Cui, Yinda Zhang, Chenyu Meng, Cuixia Ma, Xiaoming Deng, Hongan Wang_
+
 ##### • ContactGen: Generative Contact Modeling for Grasp Generation [\[PDF\]](https://arxiv.org/pdf/2310.03740.pdf) [\[Project\]](https://stevenlsw.github.io/contactgen/) [\[Code\]](https://github.com/stevenlsw/contactgen)
 _Shaowei Liu, Yang Zhou, Jimei Yang, Saurabh Gupta, Shenlong Wang_
 
