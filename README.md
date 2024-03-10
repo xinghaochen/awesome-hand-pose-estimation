@@ -10,6 +10,7 @@ A curated list of related resources for hand pose estimation. Feel free to [cont
   - [TPAMI / IJCV](#tpami--ijcv)
   - [Others](#other-journals)
 - [Conference Papers](#conference-papers)
+  - 2024: [CVPR](#2024-cvpr), [ECCV](#2024-eccv), [Others](#2024-others)
   - 2023: [CVPR](#2023-cvpr), [ICCV](#2023-iccv), [Others](#2023-others)
   - 2022: [CVPR](#2022-cvpr), [ECCV](#2022-eccv), [Others](#2022-others)
   - 2021: [CVPR](#2021-cvpr), [ICCV](#2021-iccv), [Others](#2021-others)
@@ -350,6 +351,81 @@ _Guijin Wang, Xinghao Chen\*, Hengkai Guo\*, Cairong Zhang_
 ##### • \[2014 TMM\] Parsing the Hand in Depth Images. [\[PDF\]](https://ieeexplore.ieee.org/document/6740010) [\[Project\]](https://sites.google.com/site/seraphlh/projects)  [\[Code\]](https://github.com/shrekei/RandomDecisionForest)
 
 *Hui Liang, Junsong Yuan, Daniel Thalmann*
+
+[\[back to top\]](#contents)
+
+## Conference Papers
+
+### 2024 CVPR
+
+##### • Physics-aware Hand-object Interaction Denoising
+_Haowen Luo, Yunze Liu, Li Yi_
+
+##### • HOIDiffusion: Generating Realistic 3D Hand-Object Interaction Data
+_Mengqi Zhang, Yang Fu, Zheng Ding, Sifei Liu, Zhuowen Tu, Xiaolong Wang_
+
+##### • URHand: Universal Relightable Hands. [\[PDF\]](https://arxiv.org/pdf/2401.05334)
+_Zhaoxi Chen, Gyeongsik Moon, Kaiwen Guo, Chen Cao, Stanislav Pidhorskyi, Tomas Simon, Rohan Joshi, Yuan Dong, Yichen Xu, Bernardo Pires, He Wen, Lucas Evans, Bo Peng, Julia Buffalini, Autumn Trimble, Kevyn McPhail, Melissa Schoeller, Shoou-I Yu, Javier Romero, Michael Zollhöfer, Yaser Sheikh, Ziwei Liu, Shunsuke Saito_
+
+##### • OakInk2: A Dataset of Embodied Hands-Object Manipulation in Long-Horizon Complex Task Completion
+_Xinyu Zhan, Lixin Yang, Yifei Zhao, Kangrui Mao, Hanlin Xu, Zenan Lin, Kailin Li, Cewu Lu_
+
+##### • MOHO: Learning Single-view Hand-held Object Reconstruction with Multi-view Occlusion-Aware Supervision. [\[PDF\]](https://arxiv.org/pdf/2310.11696)
+_Chenyangguang Zhang, Guanlong Jiao, Yan Di, Ziqin Huang, Gu Wang, Ruida Zhang, Bowen Fu, Federico Tombari, Xiangyang Ji_
+
+##### • OHTA: One-shot Hand Avatar via Data-driven Implicit Priors. [\[PDF\]](https://arxiv.org/pdf/2402.18969)
+_Xiaozheng Zheng, Chao Wen, Zhuo Su, Zeran Xu, Zhaohu Li, Yang Zhao, Zhou Xue_
+
+##### • HandBooster: Boosting 3D Hand-Mesh Reconstruction by Conditional Synthesis and Sampling of Hand-Object Interactions. 
+_Hao Xu, Haipeng Li, Yinqiao Wang, Shuaicheng Liu, Chi-Wing Fu_
+
+##### • HandDiff: 3D Hand Pose Estimation with Diffusion on Image-Point Cloud.
+_Wencan Cheng, Hao Tang, Luc Van Gool, Jong Hwan Ko_ 
+
+##### • Text2HOI: Text-guided 3D Motion Generation for Hand-Object Interaction.
+_Junuk Cha, Jihyeon Kim, Jae Shin Yoon, Seungryul Baek_
+
+##### • BOTH2Hands: Inferring 3D Hands from Both Text Prompts and Body Dynamics. [\[PDF\]](https://arxiv.org/pdf/2312.07937)
+_Wenqian Zhang, Molin Huang, Yuxuan Zhou, Juze Zhang, Jingyi Yu, Jingya Wang, Lan Xu_
+
+##### • GEARS: Local Geometry-aware Hand-object Interaction Synthesis.
+_Keyang Zhou, Bharat Bhatnagar, Jan Eric Lenssen, Gerard Pons-Moll_
+
+##### • A Simple Baseline for Efficient Hand Mesh Reconstruction. [\[PDF\]](https://arxiv.org/pdf/2403.01813)
+_Zhishan Zhou, Shihao.zhou, Zhi Lv, Minqiang Zou, Yao Tang, Jiajun Liang_
+
+##### • HOLD: Category-agnostic 3D Reconstruction of Interacting Hands and Objects from Video. [\[PDF\]](https://arxiv.org/pdf/2311.18448)
+_Zicong Fan, Maria Parelli, Maria Eleni Kadoglou, Muhammed Kocabas, Xu Chen, Michael J. Black, Otmar Hilliges_
+
+##### • MS-MANO: Enabling Hand Pose Tracking with Biomechanical Constraints.
+_Pengfei Xie, Wenqiang Xu, Tutian Tang, Zhenjun Yu, Cewu Lu_
+
+##### • HOIST-Former: Hand-held Objects Identification, Segmentation, and Tracking in the Wild.
+_Supreeth Narasimhaswamy, Huy Nguyen, Lihan Huang, Minh Hoai_
+
+##### • BiTT: Bi-directional Texture Reconstruction of Interacting Two Hands from a Single Image.
+_Minje Kim, Tae-Kyun Kim_
+
+##### • Authentic Hand Avatar from a Phone Scan via Universal Hand Model.
+_Gyeongsik Moon, Weipeng Xu, Rohan Joshi, Chenglei Wu, Takaaki Shiratori_
+
+##### • Reconstructing Hands in 3D with Transformers. [\[PDF\]](https://arxiv.org/pdf/2312.05251)
+_Georgios Pavlakos, Dandan Shan, Ilija Radosavovic, Angjoo Kanazawa, David Fouhey, Jitendra Malik_
+
+##### • Complementing Event Streams and RGB Frames for Hand Mesh Reconstruction.
+_Jianping Jiang, Xinyu Zhou, Bingxuan Wang, Xiaoming Deng, Chao Xu, Boxin Shi_
+
+##### • Single-to-Dual-View Adaptation for Egocentric 3D Hand Pose Estimation. [\[PDF\]](https://arxiv.org/pdf/2403.04381)
+_Ruicong Liu, Takehiko Ohkawa, Mingfang Zhang, Yoichi Sato_
+
+##### • HOISDF: Constraining 3D Hand Object Pose Estimation with Global Signed Distance Fields. [\[PDF\]](https://arxiv.org/pdf/2402.17062)
+_Haozhe Qi, Chen Zhao, Mathieu Salzmann, Alexander Mathis_
+
+##### • G-HOP: Generative Hand-Object Prior for Interaction Reconstruction and Grasp Synthesis.
+_Yufei Ye, Abhinav Gupta, Kris Kitani, Shubham Tulsiani_
+
+##### • HHMR: Holistic Hand Mesh Recovery by Enhancing the Multimodal Controllability of Graph Diffusion Models.
+_Mengcheng Li, Hongwen Zhang, Yuxiang Zhang, Ruizhi Shao, Tao Yu, Yebin Liu_
 
 [\[back to top\]](#contents)
 
