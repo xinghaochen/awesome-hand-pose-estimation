@@ -370,6 +370,9 @@ _Zhaoxi Chen, Gyeongsik Moon, Kaiwen Guo, Chen Cao, Stanislav Pidhorskyi, Tomas 
 ##### • OakInk2: A Dataset of Embodied Hands-Object Manipulation in Long-Horizon Complex Task Completion
 _Xinyu Zhan, Lixin Yang, Yifei Zhao, Kangrui Mao, Hanlin Xu, Zenan Lin, Kailin Li, Cewu Lu_
 
+##### • InterHandGen: Two-Hand Interaction Generation via Cascaded Reverse Diffusion
+_Jihyun Lee, Shunsuke Saito, Giljoo Nam, Minhyuk Sung, Tae-Kyun (T-K) Kim_
+
 ##### • MOHO: Learning Single-view Hand-held Object Reconstruction with Multi-view Occlusion-Aware Supervision. [\[PDF\]](https://arxiv.org/pdf/2310.11696)
 _Chenyangguang Zhang, Guanlong Jiao, Yan Di, Ziqin Huang, Gu Wang, Ruida Zhang, Bowen Fu, Federico Tombari, Xiangyang Ji_
 
@@ -606,6 +609,9 @@ _Akshay Mundra, Mallikarjun B R, Jiayi Wang, Marc Habermann, Christian Theobalt,
 
 
 ### 2023 Others
+
+##### • [2023 NeurIPS] FourierHandFlow: Neural 4D Hand Representation Using Fourier Query Flow. [\[PDF\]](https://arxiv.org/pdf/2307.08100.pdf)  [\[Project\]](https://jyunlee.github.io/projects/fourier-hand-flow/)
+_Jihyun Lee, Junbong Jang, Donghwan Kim, Minhyuk Sung, Tae-Kyun (T-K) Kim_
 
 ##### • [2023 ICCVW] SHOWMe: Benchmarking Object-agnostic Hand-Object 3D Reconstruction. [\[PDF\]](https://arxiv.org/pdf/2309.10748.pdf)  [\[Project\]](https://europe.naverlabs.com/research/showme) [\[Code\]](https://github.com/naver/showme/tree/main) [\[Data\]](https://download.europe.naverlabs.com/showme/)
 _Anilkumar Swamy, Vincent Leroy, Philippe Weinzaepfel, Fabien Baradel, Salma Galaaoui, Romain Bregier, Matthieu Armando, Jean-Sebastien Franco, Gregory Rogez_
