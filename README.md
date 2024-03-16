@@ -358,6 +358,9 @@ _Guijin Wang, Xinghao Chen\*, Hengkai Guo\*, Cairong Zhang_
 
 ### 2024 CVPR
 
+##### • HOISDF: Constraining 3D Hand-Object Pose Estimation with Global Signed Distance Fields [\[PDF\]](https://arxiv.org/abs/2402.17062) [\[Project\]](https://amathislab.github.io/HOISDF/) [[Code]](https://github.com/amathislab/HOISDF)
+_Haozhe Qi, Chen Zhao, Mathieu Salzmann, Alexander Mathis_
+
 ##### • Physics-aware Hand-object Interaction Denoising
 _Haowen Luo, Yunze Liu, Li Yi_
 
