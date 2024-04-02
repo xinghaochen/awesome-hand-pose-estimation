@@ -160,6 +160,14 @@ _Xiaoming Deng\*, Shuo Yang\*, Yinda Zhang\*, Ping Tan, Liang Chang, Hongan Wang
 
 ### TPAMI / IJCV
 
+##### • \[2024 TPAMI\] EvHandPose: Event-Based 3D Hand Pose Estimation With Sparse Supervision. [\[PDF\]](https://ieeexplore.ieee.org/document/10478195/)
+
+_Jianping Jiang, Jiahe Li, Baowen Zhang, Xiaoming Deng, Boxin Shi_
+
+##### • \[2024 TPAMI\] Learning a Contact Potential Field for Modeling the Hand-Object Interaction. [\[PDF\]](https://ieeexplore.ieee.org/document/10478277/)
+
+_Lixin Yang, Xinyu Zhan, Kailin Li, Wenqiang Xu, Junming Zhang, Jiefeng Li, Cewu Lu_
+
 ##### • \[2023 TPAMI\] Consistent 3D Hand Reconstruction in Video via self-supervised Learning. [\[PDF\]](https://arxiv.org/pdf/2201.09548)
 
 _Zhigang Tu, Zhisheng Huang, Yujin Chen, Di Kang, Linchao Bao, Bisheng Yang, Junsong Yuan_
