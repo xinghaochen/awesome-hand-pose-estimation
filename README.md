@@ -405,7 +405,7 @@ _Keyang Zhou, Bharat Bhatnagar, Jan Eric Lenssen, Gerard Pons-Moll_
 ##### • A Simple Baseline for Efficient Hand Mesh Reconstruction. [\[PDF\]](https://arxiv.org/pdf/2403.01813)
 _Zhishan Zhou, Shihao.zhou, Zhi Lv, Minqiang Zou, Yao Tang, Jiajun Liang_
 
-##### • HOLD: Category-agnostic 3D Reconstruction of Interacting Hands and Objects from Video. [\[PDF\]](https://arxiv.org/pdf/2311.18448)
+##### • HOLD: Category-agnostic 3D Reconstruction of Interacting Hands and Objects from Video. [\[PDF\]](https://arxiv.org/pdf/2311.18448) [\[Code\]](https://github.com/zc-alexfan/hold) 
 _Zicong Fan, Maria Parelli, Maria Eleni Kadoglou, Muhammed Kocabas, Xu Chen, Michael J. Black, Otmar Hilliges_
 
 ##### • MS-MANO: Enabling Hand Pose Tracking with Biomechanical Constraints.
