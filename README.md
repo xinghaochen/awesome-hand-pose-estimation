@@ -440,6 +440,12 @@ _Mengcheng Li, Hongwen Zhang, Yuxiang Zhang, Ruizhi Shao, Tao Yu, Yebin Liu_
 
 [\[back to top\]](#contents)
 
+### 2024 ECCV
+
+##### • AttentionHand: Text-driven Controllable Hand Image Generation for 3D Hand Reconstruction in the Wild [\[PDF\]](https://arxiv.org/abs/2407.18034) [\[Project\]](https://redorangeyellowy.github.io/AttentionHand/) [\[Code\]](https://github.com/redorangeyellowy/AttentionHand)
+
+[\[back to top\]](#contents)
+
 ## Conference Papers
 
 ### 2023 CVPR
