@@ -364,6 +364,61 @@ _Guijin Wang, Xinghao Chen\*, Hengkai Guo\*, Cairong Zhang_
 
 ## Conference Papers
 
+### 2024 ECCV
+
+##### • HandDAGT: A Denoising Adaptive Graph Transformer for 3D Hand Pose Estimation. [\[PDF\]](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/12018.pdf)
+_Wencan Cheng, Eunji Kim, Jong Hwan Ko_
+
+##### • Dense Hand-Object(HO) GraspNet with Full Grasping Taxonomy and Dynamics. [\[PDF\]](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/10784.pdf)
+_Woojin Cho, Jihyun Lee, Minjae Yi, Minje Kim, Taeyun Woo, Donghwan Kim, Taewook Ha, Hyokeun Lee, Je-Hwan Ryu, Woontack Woo, Tae-Kyun (T-K) Kim_
+
+##### • 3D Hand Pose Estimation in Everyday Egocentric Images. [\[PDF\]](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/10034.pdf)
+_Aditya Prakash, Ruisen Tu, Matthew Chang, Saurabh Gupta_
+
+##### • 3D Reconstruction of Objects in Hands without Real World 3D Supervision. [\[PDF\]](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/10029.pdf)
+_Aditya Prakash, Matthew Chang, Matthew Jin, Ruisen Tu, Saurabh Gupta_
+
+##### • Weakly-Supervised 3D Hand Reconstruction with Knowledge Prior and Uncertainty Guidance. [\[PDF\]](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/10017.pdf)
+_Yufei Zhang, Jeffrey Kephart, Qiang Ji_
+
+##### • MLPHand: Real Time Multi-View 3D Hand Reconstruction via MLP Modeling. [\[PDF\]](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/09503.pdf)
+_Jian Yang, Jiakun Li, Guoming Li, Huaiyu Wu, Zhen Shen, Zhaoxin Fan_
+
+##### • Are Synthetic Data Useful for Egocentric Hand-Object Interaction Detection? [\[PDF\]](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/08953.pdf)
+_Rosario Leonardi, Antonino Furnari, Francesco Ragusa, Giovanni Maria Farinella_
+
+##### • 3D Hand Sequence Recovery from Real Blurry Images and Event Stream. [\[PDF\]](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/07674.pdf)
+_JoonKyu Park, Gyeongsik Moon, Weipeng Xu, Evan Kaseman, Takaaki Shiratori, Kyoung Mu Lee_
+
+##### • Coarse-to-Fine Implicit Representation Learning for 3D Hand-Object Reconstruction from a Single RGB-D Image. [\[PDF\]](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/06748.pdf)
+_Xingyu Liu, Pengfei Ren, Jingyu Wang, Qi Qi, Haifeng Sun, Zirui Zhuang, Jianxin Liao_
+
+##### • HandDGP: Camera-Space Hand Mesh Prediction with Differentiable Global Positioning. [\[PDF\]](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/05563.pdf)
+_Eugene Valassakis, Guillermo Garcia-Hernando_
+
+##### • Controlling the World by Sleight of Hand. [\[PDF\]](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/04442.pdf)
+_Sruthi Sudhakar, Ruoshi Liu, Basile Van Hoorick, Carl Vondrick, Richard Zemel_
+
+##### • Learning Cross-hand Policies of High-DOF Reaching and Grasping. [\[PDF\]](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/04377.pdf)
+_Qijin She, Shishun Zhang, Yunfan Ye, Ruizhen Hu, Kai Xu_
+
+##### • D-SCo: Dual-Stream Conditional Diffusion for Monocular Hand-Held Object Reconstruction. [\[PDF\]](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/04261.pdf)
+_Bowen Fu, Gu Wang, Chenyangguang Zhang, Yan Di, Ziqin Huang, Zhiying Leng, Fabian Manhardt, Xiangyang Ji, Federico Tombari_
+
+##### • NL2Contact: Natural Language Guided 3D Hand-Object Contact Modeling with Diffusion Model. [\[PDF\]](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/04090.pdf)
+_Zhongqun Zhang, Hengfei Wang, Ziwei Yu, Yihua Cheng, Angela Yao, Hyung Jin Chang_
+
+##### • Benchmarks and Challenges in Pose Estimation for Egocentric Hand Interactions with Objects. [\[PDF\]](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/03682.pdf)
+_Zicong Fan, Takehiko Ohkawa, Linlin Yang, Nie Lin, Zhishan Zhou, Shihao Zhou, Jiajun Liang, Zhong Gao, Xuanyang Zhang, Xue Zhang, Fei Li, Liu Zheng, Feng Lu, Karim Abou Zeid, Bastian Leibe, Jeongwan On, Seungryul Baek, Aditya Prakash, Saurabh Gupta, Kun He, Yoichi Sato, Otmar Hilliges, Hyung Jin Chang, Angela Yao_
+
+##### • On the Utility of 3D Hand Poses for Action Recognition. [\[PDF\]](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/01025.pdf)
+_Md Salman Shamil, Dibyadip Chatterjee, Fadime Sener, Shugao Ma, Angela Yao_
+
+##### • AttentionHand: Text-driven Controllable Hand Image Generation for 3D Hand Reconstruction in the Wild. [\[PDF\]](https://arxiv.org/abs/2407.18034) [\[Project\]](https://redorangeyellowy.github.io/AttentionHand/) [\[Code\]](https://github.com/redorangeyellowy/AttentionHand) *(Oral)*
+_Junho Park, Kyeongbo Kong, Suk-Ju Kang_
+
+[\[back to top\]](#contents)
+
 ### 2024 CVPR
 
 ##### • Physics-aware Hand-object Interaction Denoising
@@ -437,13 +492,6 @@ _Yufei Ye, Abhinav Gupta, Kris Kitani, Shubham Tulsiani_
 
 ##### • HHMR: Holistic Hand Mesh Recovery by Enhancing the Multimodal Controllability of Graph Diffusion Models.
 _Mengcheng Li, Hongwen Zhang, Yuxiang Zhang, Ruizhi Shao, Tao Yu, Yebin Liu_
-
-[\[back to top\]](#contents)
-
-### 2024 ECCV
-
-##### • AttentionHand: Text-driven Controllable Hand Image Generation for 3D Hand Reconstruction in the Wild [\[PDF\]](https://arxiv.org/abs/2407.18034) [\[Project\]](https://redorangeyellowy.github.io/AttentionHand/) [\[Code\]](https://github.com/redorangeyellowy/AttentionHand) *(Oral)*
-_Junho Park, Kyeongbo Kong, Suk-Ju Kang_
 
 [\[back to top\]](#contents)
 
