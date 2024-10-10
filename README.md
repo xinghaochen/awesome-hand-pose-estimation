@@ -393,7 +393,7 @@ _JoonKyu Park, Gyeongsik Moon, Weipeng Xu, Evan Kaseman, Takaaki Shiratori, Kyou
 ##### • Coarse-to-Fine Implicit Representation Learning for 3D Hand-Object Reconstruction from a Single RGB-D Image. [\[PDF\]](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/06748.pdf)
 _Xingyu Liu, Pengfei Ren, Jingyu Wang, Qi Qi, Haifeng Sun, Zirui Zhuang, Jianxin Liao_
 
-##### • HandDGP: Camera-Space Hand Mesh Prediction with Differentiable Global Positioning. [\[PDF\]](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/05563.pdf)
+##### • HandDGP: Camera-Space Hand Mesh Prediction with Differentiable Global Positioning. [\[PDF\]](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/05563.pdf) [\[Project\]](https://nianticlabs.github.io/handdgp/) [\[Code\]](https://github.com/nianticlabs/HandDGP)
 _Eugene Valassakis, Guillermo Garcia-Hernando_
 
 ##### • Controlling the World by Sleight of Hand. [\[PDF\]](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/04442.pdf)
