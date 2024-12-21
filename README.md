@@ -1830,6 +1830,10 @@ _Ayan Sinha\*, Chiho Choi\*, Karthik Ramani_
 
 ## Theses
 
+##### • \[2022\] Hhand Analysis From Depth Images. [\[PDF\]](https://drive.google.com/file/d/12YtLEQAMK0rvt6YC9c4T-UxTBmgpd921/view?usp=drive_link)
+
+*[Mohammad Rezaei](https://scholar.google.com/citations?user=TYT7P9oAAAAJ&hl=en), The University of Texas at Arlington*
+
 ##### • \[2020\] Learning without Labeling for 3D Hand Pose Estimation. [\[PDF\]](https://diglib.tugraz.at/learning-without-labeling-for-3d-hand-pose-estimation-2020)
 
 *[Georg Poier](https://poier.github.io/), Graz University of Technology*
