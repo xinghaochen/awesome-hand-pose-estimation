@@ -1830,7 +1830,7 @@ _Ayan Sinha\*, Chiho Choi\*, Karthik Ramani_
 
 ## Theses
 
-##### • \[2022\] Hhand Analysis From Depth Images. [\[PDF\]](https://drive.google.com/file/d/12YtLEQAMK0rvt6YC9c4T-UxTBmgpd921/view?usp=drive_link)
+##### • \[2022\] Hand Analysis From Depth Images. [\[PDF\]](https://drive.google.com/file/d/12YtLEQAMK0rvt6YC9c4T-UxTBmgpd921/view?usp=drive_link)
 
 *[Mohammad Rezaei](https://scholar.google.com/citations?user=TYT7P9oAAAAJ&hl=en), The University of Texas at Arlington*
 
