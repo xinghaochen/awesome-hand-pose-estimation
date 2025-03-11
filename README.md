@@ -10,6 +10,7 @@ A curated list of related resources for hand pose estimation. Feel free to [cont
   - [TPAMI / IJCV](#tpami--ijcv)
   - [Others](#other-journals)
 - [Conference Papers](#conference-papers)
+  - 2025: [Others](#2025-others)
   - 2024: [CVPR](#2024-cvpr), [ECCV](#2024-eccv), [Others](#2024-others)
   - 2023: [CVPR](#2023-cvpr), [ICCV](#2023-iccv), [Others](#2023-others)
   - 2022: [CVPR](#2022-cvpr), [ECCV](#2022-eccv), [Others](#2022-others)
@@ -363,6 +364,10 @@ _Guijin Wang, Xinghao Chen\*, Hengkai Guo\*, Cairong Zhang_
 [\[back to top\]](#contents)
 
 ## Conference Papers
+
+### 2025 Others
+##### • [2025 ICLR] SiMHand: Mining Similar Hands for Large-Scale 3D Hand Pose Pre-training. [\[PDF\]](https://openreview.net/pdf?id=96jZFqM5E0) [\[Project\]](https://lin-nie.github.io/projects/simhand/index.html)  [\[Code\]](https://github.com/ut-vision/SiMHand)
+_[Nie Lin*](https://lin-nie.github.io/), [Takehiko Ohkawa*](https://tkhkaeio.github.io/), [Yifei Huang](https://hyf015.github.io/), [Mingfang Zhang](https://mf-zhang.github.io/), [Minjie Cai](https://cai-mj.github.io/), [Ming Li](), [Ryosuke Furuta](https://rfuruta.github.io/), [Yoichi Sato](https://sites.google.com/ut-vision.org/ysato/) (*equal contribution)._
 
 ### 2024 ECCV
 
