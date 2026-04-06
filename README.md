@@ -2,6 +2,7 @@
 
 A curated list of related resources for hand pose estimation. Feel free to [contribute](#Contribute)!
 
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts for pose estimation workflow orchestration, automated gesture recognition management, and multi-agent coordination. MIT licensed.
 ## Contents
 
 - [Evaluation](#evaluation)
