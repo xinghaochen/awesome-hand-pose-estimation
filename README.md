@@ -504,6 +504,14 @@ _Mengcheng Li, Hongwen Zhang, Yuxiang Zhang, Ruizhi Shao, Tao Yu, Yebin Liu_
 
 [\[back to top\]](#contents)
 
+### 2024 Others
+
+##### • [2024 NeurIPS] Hamba: Single-view 3D Hand Reconstruction with Graph-guided Bi-Scanning Mamba [\[PDF\]](https://arxiv.org/pdf/2407.09646) [\[Project\]](https://humansensinglab.github.io/Hamba/) [\[Code\]](https://github.com/humansensinglab/Hamba)
+
+_Haoye Dong*, Aviral Chharia*, Wenbo Gou*, Francisco Vicente Carrasco, Fernando De la Torre_
+
+[\[back to top\]](#contents)
+
 ## Conference Papers
 
 ### 2023 CVPR
